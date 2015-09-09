@@ -1,5 +1,5 @@
 @echo off
-cd "c:\software\github\casadecambio"
+cd "c:\software\github\someone"
 set GIT_PATH="C:\software\github\PortableGit\bin\git.exe"
 
   %GIT_PATH% add -A
