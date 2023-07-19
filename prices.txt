@@ -6,8 +6,8 @@
   "sell": 17.3,
   "buy": 15.6,
   "date": "2022-05-02 17:10:09",
-  "prev_buy": 15.7,
-  "prev_sell": 17.4
+  "prev_buy": 15.6,
+  "prev_sell": 17.3
 }
 ]
 }
