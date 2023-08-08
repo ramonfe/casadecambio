@@ -3,8 +3,8 @@
 {
   "bank_id": 3,
   "bank_name": "SANTANDER",
-  "sell": 17.6,
-  "buy": 15.9,
+  "sell": 17.75,
+  "buy": 16.05,
   "date": "2022-05-02 17:10:09",
   "prev_buy": 15.55,
   "prev_sell": 17.25
