@@ -2,8 +2,8 @@
 	"banks": [{
 			"bank_id": 3,
 			"bank_name": "SANTANDER",
-			"buy": 15.7,
-			"sell": 17.4,			
+			"buy": 15.65,
+			"sell": 17.35,			
 			"date": "2022-05-02 17:10:09",
 			"prev_sell": 17.65,
 			"prev_buy": 15.95
@@ -20,8 +20,8 @@
 		{
 			"bank_id": 2,
 			"bank_name": "BANAMEX",
-			"buy": 16.29,
-			"sell": 17.18,
+			"buy": 16.23,
+			"sell": 17.2,
 			"date": "2023-08-04 10:50:08",
 			"prev_sell": 16.51,
 			"prev_buy": 17.47
@@ -38,8 +38,8 @@
 		{
 			"bank_id": 11,
 			"bank_name": "BXMAS",
-			"buy": 16.1599,
-			"sell": 17.3749,
+			"buy": 16.13,
+			"sell": 17.3459,
 			"date": "2022-05-02 17:10:09",
 			"prev_sell": 17.65,
 			"prev_buy": 15.95
