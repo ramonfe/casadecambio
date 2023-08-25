@@ -29,8 +29,8 @@
 		{
 			"bank_id": 4,
 			"bank_name": "HSBC",
-			"buy": 16.64,
-			"sell": 17.38,
+			"buy": 16.34,
+			"sell": 17.17,
 			"date": "2022-05-02 17:10:09",
 			"prev_sell": 17.65,
 			"prev_buy": 15.95
