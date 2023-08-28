@@ -5,6 +5,45 @@
   "Articles": [
     {
       "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Top US Crypto Exchange Coinbase Adds PayPal’s Dollar-Backed Stablecoin PYUSD to Listing Roadmap",
+      "Description": "Coinbase has placed PayPal’s new stablecoin on its listing roadmap, meaning the exchange’s users could soon trade the digital asset. The stablecoin, called PayPal USD (PYUSD), aims to maintain a 1:1 peg with the US dollar and is built on Ethereum (ETH). PayPa…",
+      "Url": "https://dailyhodl.com/2023/08/26/top-us-crypto-exchange-coinbase-adds-paypals-dollar-backed-stablecoin-pyusd-to-listing-roadmap/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/08/top-adds-pyusd.jpg",
+      "PublishedAt": "2023-08-27T00:00:37Z",
+      "Content": "Coinbase has placed PayPal’s new stablecoin on its listing roadmap, meaning the exchange’s users could soon trade the digital asset.\r\nThe stablecoin, called PayPal USD (PYUSD), aims to maintain a 1:1… [+1429 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Straits Times"
+      },
+      "Author": "Joyce Lim",
+      "Title": "Billion-dollar money laundering case: CEA investigating agents over property transactions",
+      "Description": "At least two real estate agencies have reported transactions or activities to the CAD since the Aug 15 blitz. Read more at straitstimes.com.",
+      "Url": "https://www.straitstimes.com/singapore/billion-dollar-money-laundering-case-cea-investigating-agents-over-property-transactions",
+      "UrlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/25/2020111268658759fc6128ca-43d9-47ec-a8d9-02f51cf0e9d3.jpg",
+      "PublishedAt": "2023-08-25T13:40:00Z",
+      "Content": "SINGAPORE - The Council for Estate Agencies (CEA) is investigating property agents who might have facilitated property transactions relating to the recent money laundering case that involved about $1… [+1970 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Will Jackson",
+      "Title": "Why did the suspects in a Singapore billion-dollar money laundering case have so many passports?",
+      "Description": "The 10 foreigners Singapore police arrested last week in a massive anti-money laundering operation were citizens of countries including China, Vanuatu, Cyprus, Türkiye and Cambodia. But it's since emerged they were all originally from the same place.",
+      "Url": "https://www.abc.net.au/news/2023-08-25/singapore-money-laundering-case-citizenships-passports/102767474",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/a557d2853e664092cc818968c4e737d0?impolicy=wcms_crop_resize&cropH=528&cropW=939&xPos=0&yPos=48&width=862&height=485",
+      "PublishedAt": "2023-08-24T20:24:56Z",
+      "Content": "The 10 foreigners Singapore police arrested last week in a billion-dollar money laundering case were reported at the time to be citizens from a range of countries including China, Vanuatu, Cyprus, Tü… [+5767 chars]"
+    },
+    {
+      "Source": {
         "Id": "business-insider",
         "Name": "Business Insider"
       },
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
       "PublishedAt": "2023-08-03T05:06:18Z",
       "Content": "The Central Bank of Nigeria CBN, says it has little or no control over the price of either Premium Motor Spirit (PMS) or the dollar.\r\nA Principal Manager with the apex bank, Mr Osagie Clement, disclo… [+2155 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Billion-Dollar Bank Facing US Government Investigation For Allegedly Dodging Rules on Record Keeping",
-      "Description": "European lending giant BNP Paribas is currently in talks with US regulators to settle probes over its employees’ use of messaging applications that may have violated rules on record keeping. According to the bank’s latest earnings report, BNP Paribas Securiti…",
-      "Url": "https://dailyhodl.com/2023/08/02/billion-dollar-bank-facing-us-government-investigation-for-allegedly-dodging-rules-on-record-keeping/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/08/bank-vault-investigation.jpg",
-      "PublishedAt": "2023-08-03T00:04:43Z",
-      "Content": "European lending giant BNP Paribas is currently in talks with US regulators to settle probes over its employees’ use of messaging applications that may have violated rules on record keeping.\r\nAccordi… [+1741 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Finbold.com"
-      },
-      "Author": "Ana Nicenko",
-      "Title": "‘Rich Dad’ R. Kiyosaki warns US dollar ‘is toast,’ says BTC is ‘hedge against criminal money’",
-      "Description": "As the next summit of the BRICS (Brazil, Russia, India, China, and South Africa) nations approaches, Robert Kiyosaki, the author … Continued\nThe post ‘Rich Dad’ R. Kiyosaki warns US dollar ‘is toast,’ says BTC is ‘hedge against criminal money’ appeared first …",
-      "Url": "https://finbold.com/rich-dad-r-kiyosaki-warns-us-dollar-is-toast-says-btc-is-hedge-against-criminal-money/",
-      "UrlToImage": "https://finbold.com/app/uploads/2023/08/Rich-Dad-R.-Kiyosaki-warns-US-dollar-is-toast-says-BTC-is-‘hedge-against-criminal-money.jpg",
-      "PublishedAt": "2023-08-02T14:35:33Z",
-      "Content": "As the next summit of the BRICS (Brazil, Russia, India, China, and South Africa) nations approaches, Robert Kiyosaki, the author of the best-selling personal finance bookRich Dad Poor Dad, has reiter… [+2859 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Dawn Allcot",
-      "Title": "Here Are 9 Ways Dollar Tree PLUS Can Save You Even More Money",
-      "Description": "This summer, Dollar Tree rolled out a new program enabling the discount retail chain to sell items costing as much as $5. Dollar Tree Plus, as it is called, ...",
-      "Url": "https://finance.yahoo.com/news/9-ways-dollar-tree-plus-161906858.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/V4pYPoUQtP0QV6fsX06ufQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/e99748b23dac02dcd0c94ba8cb3f852a",
-      "PublishedAt": "2023-08-01T16:19:06Z",
-      "Content": "This summer, Dollar Tree rolled out a new program enabling the discount retail chain to sell items costing as much as $5. Dollar Tree Plus, as it is called, follows an across-the-board price increase… [+3935 chars]"
     }
   ]
 }

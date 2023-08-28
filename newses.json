@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Logra peso mayor apreciación en 6 semanas: dólar, en $17.18",
+      "Description": "El dólar cedió ante el peso, lo que ayudó a que entre el 18 y 25 de agosto, la moneda nacional tuviera su mejor resultado en seis semanas.",
+      "Url": "https://www.reforma.com/logra-peso-mayor-apreciacion-en-6-semanas-dolar-en-17-18/ar2664076",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/531/5530587.jpg&ang=0",
+      "PublishedAt": "2023-08-25T23:02:54Z",
+      "Content": "El tipo de cambio se vendió a 17.18 unidades en ventanillas de Citibanamex. Crédito: AFP"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 25 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 25 de agosto",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-25-de-agosto-nid25082023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/svPjpq5OM0jNynSBp2QdubH4QUI=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YHX2UUOB5BG3DJLQDANKPFTKQU.jpg",
+      "PublishedAt": "2023-08-25T14:01:05Z",
+      "Content": "Este viernes 25 de agosto, el precio del dólar en México es de $16,8077, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un p… [+2100 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/eCEvZMYS1ivkcObAl04IkupydNE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HE2HONNERNHOPJCUSHAXSPC4A4.jpg",
       "PublishedAt": "2023-08-15T08:03:17Z",
       "Content": "La moneda rusa, el rublo, una de los principales víctimas colaterales de la guerra en Ucrania, rebasó hoy la barrera psicológica de los 100 unidades por dólar, una caída en picado que el Kremlin aún … [+4337 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "El peso argentino se hunde tras el inesperado triunfo de Milei: por qué en Argentina hay más de 6 tipos de dólar (y cómo reflejan la grave crisis económica que vive el país)",
-      "Description": "Devaluación, cepo, incertidumbre financiera y la inflación anual más alta del mundo; la interminable crisis económica en Argentina",
-      "Url": "https://www.lanacion.com.ar/economia/el-peso-argentino-se-hunde-tras-el-inesperado-triunfo-de-milei-por-que-en-argentina-hay-mas-de-6-nid14082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-varias-cotizaciones-de-dolar-que-tiene-JFMAEFJCWRFS5ITDFYCNLPHVIQ.jpg?auth=7a867f752546465fc051bfb15e8e0dafd2c695d9c819bcf0ad7e50094b18e579&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-08-14T21:21:32Z",
-      "Content": "Por Veronica Smink\r\nEn medio de la incertidumbre generada por el inesperado triunfo del candidato libertario Javier Milei en las elecciones primarias del domingo, el Banco Central de Argentina (BCRA)… [+6554 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BBC News"
-      },
-      "Author": "https://www.facebook.com/bbcnews",
-      "Title": "El peso argentino se hunde tras el inesperado triunfo de Milei: por qué en Argentina hay más de 6 tipos de dólar (y cómo reflejan la grave crisis económica que vive el país)",
-      "Description": "El Banco Central devaluó el tipo de cambio oficial un 22% y los diversos dólares financieros también pegaron un salto tras el sorpresivo triunfo de Milei en las primarias de Argentina.",
-      "Url": "https://www.bbc.com/mundo/articles/cqq4qqyd30no",
-      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c19b/live/635f3b40-3ad3-11ee-bde6-7ffba94c56ae.jpg",
-      "PublishedAt": "2023-08-14T20:14:23Z",
-      "Content": "Fuente de la imagen, Getty Images\r\nPie de foto, Las varias cotizaciones de dólar que tiene Argentina pegaron un salto tras los inesperados resultados de las primarias del domingo.\r\nArticle informatio… [+7404 chars]"
     }
   ]
 }
