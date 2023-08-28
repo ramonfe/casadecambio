@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Redacción",
+      "Title": "AMLO presume el fortalecimiento del peso frente al dólar",
+      "Description": "El presidente Andrés Manuel López Obrador destacó la fortaleza que ha tenido el peso mexicano frente al dólar, al señalar que es la única moneda en el mundo que más se ha fortalecido en ese rubro.\"Les presumo para orgullo de todos. La economía está creciendo.…",
+      "Url": "https://www.milenio.com/politica/amlo-presume-fortalecimiento-peso-frente-dolar",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/27/presidente-lanzo-spot-previo-quinto.jpg",
+      "PublishedAt": "2023-08-27T19:40:17Z",
+      "Content": "El presidente Andrés Manuel López Obrador destacó la fortaleza que ha tenido el peso mexicano frente al dólar, al señalar que es la única moneda en el mundo que más se ha fortalecido en ese rubro.\r\n\"… [+1021 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230815145048_1200.jpg",
       "PublishedAt": "2023-08-15T12:50:48Z",
       "Content": "MADRID, 15 Ago. (EUROPA PRESS) - \r\n La cotización del rublo ha mejorado en torno al 0,68% frente al dólar y al 0,51% frente al euro a las 14.34 horas de este martes tras el anuncio por parte del Banc… [+917 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "EFE",
-      "Title": "¿Cuánto vale un rublo? Así se ha depreciado la moneda rusa frente al dólar a año y medio de guerra",
-      "Description": "La moneda rusa está cerca de sus niveles más bajos desde que comenzó la guerra contra Ucrania, además de que el alza de precios ha influido en el gasto de la ciudadanía.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2023/08/15/rublo-ruso-cuanto-vale-frente-al-dolar-agosto-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/eCEvZMYS1ivkcObAl04IkupydNE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HE2HONNERNHOPJCUSHAXSPC4A4.jpg",
-      "PublishedAt": "2023-08-15T08:03:17Z",
-      "Content": "La moneda rusa, el rublo, una de los principales víctimas colaterales de la guerra en Ucrania, rebasó hoy la barrera psicológica de los 100 unidades por dólar, una caída en picado que el Kremlin aún … [+4337 chars]"
     }
   ]
 }
