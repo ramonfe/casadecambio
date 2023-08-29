@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 28 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 28 de agosto",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-28-de-agosto-nid28082023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/zsuGQbpiWErVIpHwGuGVhOjZkBY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JMRLISQGVJGX7EP3JM2UX2JIRE.jpg",
+      "PublishedAt": "2023-08-28T14:15:44Z",
+      "Content": "Este lunes 28 de agosto, el precio del dólar en México es de $16,7718, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+2129 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/08/15/2023081512524123720.jpg",
       "PublishedAt": "2023-08-15T12:52:45Z",
       "Content": "MADRID, 15 (EUROPA PRESS)\r\n La cotización del rublo ha mejorado en torno al 0,68% frente al dólar y al 0,51% frente al euro a las 14.34 horas de este martes tras el anuncio por parte del Banco Centra… [+909 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "El rublo mejora su cotización frente al dólar y el euro tras la intervención del Banco Central de Rusia",
-      "Description": "La cotización del rublo ha mejorado en torno al 0,68% frente al dólar y al 0,51% frente al euro a las 14.34 horas de este martes tras el anuncio por parte del Banco Central de Rusia de aumentar el tipo de interés oficial en 350 puntos básicos, desde el 8,5% h…",
-      "Url": "https://www.europapress.es/economia/finanzas-00340/noticia-rublo-mejora-cotizacion-frente-dolar-euro-intervencion-banco-central-rusia-20230815145048.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230815145048_1200.jpg",
-      "PublishedAt": "2023-08-15T12:50:48Z",
-      "Content": "MADRID, 15 Ago. (EUROPA PRESS) - \r\n La cotización del rublo ha mejorado en torno al 0,68% frente al dólar y al 0,51% frente al euro a las 14.34 horas de este martes tras el anuncio por parte del Banc… [+917 chars]"
     }
   ]
 }
