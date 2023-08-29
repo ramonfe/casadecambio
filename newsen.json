@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Probe expands to precious stone and metal traders; 24 more suspects named",
+      "Description": "SINGAPORE: A S$1 billion money laundering case has expanded to include precious stones and metal traders, with 24 more suspects being named, according to",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-probe-expands-precious-stone-and-metal-traders-24-more-suspects-named-3730566",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--RhdCw3MB--/c_crop,h_581,w_1034,x_0,y_62/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/29/capture.png?itok=q_dJuIHn",
+      "PublishedAt": "2023-08-28T22:27:49Z",
+      "Content": "SINGAPORE: A S$1 billion money laundering case has expanded to include precious stones and metal traders, with 24 more suspects being named, according to a notice sent on Sunday (Aug 27) by the Minis… [+1409 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-08-image-5.jpg",
       "PublishedAt": "2023-08-08T12:37:00Z",
       "Content": "What just happened? PayPal has launched its own U.S. dollar-denominated stablecoin called PayPal USD (PYUSD) which the company believes could boost the use of digital tokens in the country. Over the … [+2621 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "Ghana extends deadline to exchange domestic dollar bonds",
-      "Description": "(marketscreener.com) Ghana's finance ministry has\nextended to Aug. 18 the deadline to exchange $809.9 million in\ndomestic U.S. dollar bonds for a package of new bonds with lower\nrates and longer maturities, it said on Monday.\n The previous deadline was Aug. 4…",
-      "Url": "https://www.marketscreener.com/quote/commodity/NEW-YORK-COCOA-16214/news/Ghana-extends-deadline-to-exchange-domestic-dollar-bonds-44539298/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2023-08-07T17:32:21Z",
-      "Content": "ACCRA, Aug 7 (Reuters) - Ghana's finance ministry has\r\nextended to Aug. 18 the deadline to exchange $809.9 million in\r\ndomestic U.S. dollar bonds for a package of new bonds with lower\r\nrates and long… [+811 chars]"
     }
   ]
 }
