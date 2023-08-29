@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stcloudlive.com"
+      },
+      "Author": "Trent Abrego",
+      "Title": "Emerging Leaders: Marshall Grams thinks about finance in more than a 'dollar and cents way'",
+      "Description": "Emerging Leaders: Marshall Grams thinks about finance in more than a 'dollar and cents way'stcloudlive.com",
+      "Url": "https://www.stcloudlive.com/business/emerging-leaders-marshall-grams-thinks-about-finance-in-more-than-a-dollar-and-cents-way",
+      "UrlToImage": "https://cdn.forumcomm.com/dims4/default/8705dde/2147483647/strip/true/crop/5416x3611+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe9%2F60%2Fdfc55df548e0890efaf2b16d0047%2Fmarshall-grams-3.jpg",
+      "PublishedAt": "2023-08-28T18:50:00Z",
+      "Content": "This profile and Q&amp;A is a part of St. Cloud LIVE's Emerging Leaders series, highlighting young, local business leaders who received a nomination for their work.\r\nAge: 33Hometown: Little FallsComp… [+4379 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2023-08-07T17:32:21Z",
       "Content": "ACCRA, Aug 7 (Reuters) - Ghana's finance ministry has\r\nextended to Aug. 18 the deadline to exchange $809.9 million in\r\ndomestic U.S. dollar bonds for a package of new bonds with lower\r\nrates and long… [+811 chars]"
-    },
-    {
-      "Source": {
-        "Id": "google-news",
-        "Name": "Google News"
-      },
-      "Author": null,
-      "Title": "Dollar Hegemony Lives On as Traders Look Past Fitch Downgrade - Yahoo Finance",
-      "Description": "<ol><li>Dollar Hegemony Lives On as Traders Look Past Fitch Downgrade  Yahoo Finance\r\n</li><li>'Vindicating': An Analyst Who Lowered the U.S.'s Credit Rating in 2011 on Fitch's Downgrade  The New York Times\r\n</li><li>Red lights are flashing in America's econo…",
-      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kb2xsYXItaGVnZW1vbnktbGl2ZXMtdHJhZGVycy1sb29rLTEzMDAwMDkzMi5odG1s0gFYaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvZG9sbGFyLWhlZ2Vtb255LWxpdmVzLXRyYWRlcnMtbG9vay0xMzAwMDA5MzIuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "UrlToImage": null,
-      "PublishedAt": "2023-08-05T13:00:00Z",
-      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
     }
   ]
 }
