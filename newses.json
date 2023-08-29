@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso va ‘a la escuela’ con ganancias frente al dólar: Se cotiza en las 16.71 unidades",
+      "Description": "Gabriela Siller, directora de análisis económico en Banco Base, señaló que es posible que el peso alcance un nuevo mínimo durante esta semana.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/28/peso-dolar-precio-hoy-28-de-agosto-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/CL71xf-z0foirGubmCc3KUgfXjg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FT6YQKETA5BKJHT2L7MPQRG6JM.jpg",
+      "PublishedAt": "2023-08-28T16:02:55Z",
+      "Content": "El peso mexicano abre este lunes con ganancias frente al dólar debido al optimismo en los mercados, esto después de que China impulsó más medidas para apoyar la economía, lo que mantiene el apetito p… [+1443 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/hWs-tf3d1ELaWt4AXMBw5Y3pkfY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/FOI3DCMBT5HWNEL4O2B6ZAUZQM.jpg",
       "PublishedAt": "2023-08-15T13:55:37Z",
       "Content": "Este martes 15 de agosto, el precio del dólar en México es de $17,0672, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+2042 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencialdigital.com"
-      },
-      "Author": "Agencias",
-      "Title": "El rublo mejora su cotización frente al dólar y el euro tras la intervención del Banco Central de Rusia",
-      "Description": "MADRID, 15 (EUROPA PRESS) La cotización del rublo ha mejorado en torno al 0,68% frente al dólar y al 0,51% frente al euro a las 14.34 horas de este martes tras el anuncio por parte del Banco Central de Rusia de aumentar el tipo de interés...",
-      "Url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/rublo-mejora-cotizacion-frente-dolar-euro-intervencion-banco-central-rusia/20230815145245622965.html",
-      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/08/15/2023081512524123720.jpg",
-      "PublishedAt": "2023-08-15T12:52:45Z",
-      "Content": "MADRID, 15 (EUROPA PRESS)\r\n La cotización del rublo ha mejorado en torno al 0,68% frente al dólar y al 0,51% frente al euro a las 14.34 horas de este martes tras el anuncio por parte del Banco Centra… [+909 chars]"
     }
   ]
 }
