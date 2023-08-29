@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "AllAfrica - Top Africa News"
+      },
+      "Author": null,
+      "Title": "South Africa: Unseating the Mighty Dollar Is a Non-Starter - Finance Minister",
+      "Description": "[Daily Maverick] South Africa's finance minister, who also leads his counterparts in Brazil, Russia, India and China, believes that the mooted development of a BRICS common currency is a non-starter. The US dollar still has a firm place in the global economy.",
+      "Url": "https://allafrica.com/stories/202308280063.html",
+      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "PublishedAt": "2023-08-28T06:41:11Z",
+      "Content": "South Africa's finance minister, who also leads his counterparts in Brazil, Russia, India and China, believes that the mooted development of a BRICS common currency is a non-starter. The US dollar st… [+1272 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-05T13:00:00Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "AllAfrica - Top Africa News"
-      },
-      "Author": null,
-      "Title": "Subsidy - We Do Not Have Control Over Price of PMs or Dollar - Central Bank",
-      "Description": "[Vanguard] The Central Bank of Nigeria CBN, says it has little or no control over the price of either Premium Motor Spirit (PMS) or the dollar.",
-      "Url": "https://allafrica.com/stories/202308030023.html",
-      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "PublishedAt": "2023-08-03T05:06:18Z",
-      "Content": "The Central Bank of Nigeria CBN, says it has little or no control over the price of either Premium Motor Spirit (PMS) or the dollar.\r\nA Principal Manager with the apex bank, Mr Osagie Clement, disclo… [+2155 chars]"
     }
   ]
 }
