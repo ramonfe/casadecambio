@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Adam Hancock)",
+      "Title": "Singapore busts multi-million-dollar money laundering scheme",
+      "Description": "A huge money laundering case has riveted attention in Singapore.\n\n\nIn a series of raids across the city-state in mid-August, authorities seized close to three quarters of a billion U.S. dollars in assets including more than 100 luxury condos and dozens of fla…",
+      "Url": "https://www.voanews.com/a/singapore-busts-multi-million-dollar-money-laundering-scheme/7245389.html",
+      "UrlToImage": "https://gdb.voanews.com/DE6ACC24-EEED-418B-8582-03B34DE83AE4.jpg",
+      "PublishedAt": "2023-08-29T08:58:44Z",
+      "Content": "SINGAPORE  A huge money laundering case has riveted attention in Singapore.\r\nIn a series of raids across the city-state in mid-August, authorities seized close to three quarters of a billion U.S. dol… [+5098 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -32,15 +45,15 @@
     {
       "Source": {
         "Id": null,
-        "Name": "AllAfrica - Top Africa News"
+        "Name": null
       },
       "Author": null,
-      "Title": "South Africa: Unseating the Mighty Dollar Is a Non-Starter - Finance Minister",
-      "Description": "[Daily Maverick] South Africa's finance minister, who also leads his counterparts in Brazil, Russia, India and China, believes that the mooted development of a BRICS common currency is a non-starter. The US dollar still has a firm place in the global economy.",
-      "Url": "https://allafrica.com/stories/202308280063.html",
-      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "PublishedAt": "2023-08-28T06:41:11Z",
-      "Content": "South Africa's finance minister, who also leads his counterparts in Brazil, Russia, India and China, believes that the mooted development of a BRICS common currency is a non-starter. The US dollar st… [+1272 chars]"
+      "Title": null,
+      "Description": null,
+      "Url": null,
+      "UrlToImage": null,
+      "PublishedAt": null,
+      "Content": null
     },
     {
       "Source": {
@@ -97,15 +110,15 @@
     {
       "Source": {
         "Id": null,
-        "Name": "AllAfrica - Top Africa News"
+        "Name": null
       },
       "Author": null,
-      "Title": "Nigerian Exchange Proposes Dollar Securities for Companies Battling Forex Crunch",
-      "Description": "[Premium Times] Part of a bigger push to help assuage the pain of sourcing the greenback, which is in limited supply in Nigeria, the drive is focusing on firms earning foreign exchange and those based within Nigeria's special economic zones.",
-      "Url": "https://allafrica.com/stories/202308240018.html",
-      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "PublishedAt": "2023-08-24T04:51:03Z",
-      "Content": "Part of a bigger push to help assuage the pain of sourcing the greenback, which is in limited supply in Nigeria, the drive is focusing on firms earning foreign exchange and those based within Nigeria… [+2785 chars]"
+      "Title": null,
+      "Description": null,
+      "Url": null,
+      "UrlToImage": null,
+      "PublishedAt": null,
+      "Content": null
     },
     {
       "Source": {
@@ -370,28 +383,15 @@
     {
       "Source": {
         "Id": null,
-        "Name": "This is Money"
+        "Name": null
       },
-      "Author": "Calum Muirhead",
-      "Title": "Pound hits five-month low against the dollar as traders bet Bank of England will cut rates in 2024",
-      "Description": "Traders are pricing in two more rate hikes for 2023 as the Old Lady looks to tame inflation. But this could be followed by cuts for next year.",
-      "Url": "https://www.thisismoney.co.uk/money/markets/article-12386797/Pound-hits-five-month-low-against-dollar-traders-bet-Bank-England-cut-rates-2024.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/08/08/22/74101941-0-image-a-21_1691530520883.jpg",
-      "PublishedAt": "2023-08-08T22:16:13Z",
-      "Content": "The pound slipped to its lowest level in five months as traders bet the Bank of England will start cutting rates in 2024.\r\nTraders are pricing in two more rate hikes for 2023 as the Old Lady looks to… [+1735 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TechSpot"
-      },
-      "Author": "Kishalaya Kundu",
-      "Title": "PayPal launches dollar-backed stablecoin for payments and money transfer",
-      "Description": "In a press release, PayPal said that its users in the U.S. will be able to transfer the new digital token between its own platform and compatible external wallets. They will also be able to use it to make person-to-person payments at no extra cost and pay for…",
-      "Url": "https://www.techspot.com/news/99703-paypal-launches-dollar-backed-stablecoin-payments-money-transfer.html",
-      "UrlToImage": "https://www.techspot.com/images2/news/bigimage/2023/08/2023-08-08-image-5.jpg",
-      "PublishedAt": "2023-08-08T12:37:00Z",
-      "Content": "What just happened? PayPal has launched its own U.S. dollar-denominated stablecoin called PayPal USD (PYUSD) which the company believes could boost the use of digital tokens in the country. Over the … [+2621 chars]"
+      "Author": null,
+      "Title": null,
+      "Description": null,
+      "Url": null,
+      "UrlToImage": null,
+      "PublishedAt": null,
+      "Content": null
     }
   ]
 }

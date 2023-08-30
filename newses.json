@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY martes 29 de agosto de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de agosto el tipo de cambio interbancario, se ubica en16.77pesos por unidad, con una pérdida de0.08por ciento, según datos de Bloomberg.El peso mexicano mostraba movimientos…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-agosto-2023-cual-es-tipo-cambio-mexico",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2023-08-29T11:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de agosto el tipo de cambiointerbancario, se ubica en 16.77 pesos por unidad, con una pérdida de 0.08 por ciento,… [+813 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/8DcuG6V0pxf27Naxj9Tvd1chM2E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/VGUR3EVI7NAATK4JIFZWJ2T73Q.jpg",
       "PublishedAt": "2023-08-15T14:35:14Z",
       "Content": "El peso mexicano se sigue alejando del piso de las 17 unidades frente al dólar mientras el mercado se ve afectado por la incertidumbre creada por las noticias más reciente de la economía de China.\r\nD… [+1970 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 15 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 15 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-15-de-agosto-nid15082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/hWs-tf3d1ELaWt4AXMBw5Y3pkfY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/FOI3DCMBT5HWNEL4O2B6ZAUZQM.jpg",
-      "PublishedAt": "2023-08-15T13:55:37Z",
-      "Content": "Este martes 15 de agosto, el precio del dólar en México es de $17,0672, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+2042 chars]"
     }
   ]
 }
