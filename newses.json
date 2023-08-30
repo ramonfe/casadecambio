@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso amanece con el ‘pie izquierdo’ frente al dólar: Se cotiza en las 16.83 unidades",
+      "Description": "En ventanillas bancarias el precio del billete verde es de 17.26 pesos cada uno, según información de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/29/peso-dolar-precio-hoy-29-de-agosto-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/4z4hIqr4v1ZWt0gm6fbX-pp-90k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DE4IXEE7SFAH7PHEA2OZ3EFA5M.jpg",
+      "PublishedAt": "2023-08-29T15:26:10Z",
+      "Content": "El peso se mantiene marcando retrocesos, después de una revisión a la baja del PIB de México del segundo trimestre, ya que a tasa anual el crecimiento pasó de 3.57 a 3.56 por ciento. Además, los inve… [+1719 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-recomprar-hoy-reservas-tras-5VLKH7KES5HD7ESATNMQZK7TG4.JPG?auth=d068fdc92d943c2ae6b48fded79e5128a2f407c7ea5fc288b6a4cbe01cec9fbb&width=768&quality=70&smart=false",
       "PublishedAt": "2023-08-15T19:43:06Z",
       "Content": "El Banco Central (BCRA) volvió a sacar provecho hoy del salto cambiario que validó ayer, al cerrar sus intervenciones sobre el mercado de cambios recomprando US$125 millones, cifra que eleva a US$345… [+2857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cointelegraph"
-      },
-      "Author": "Pedro Q. Justicia",
-      "Title": "Ejecutivo de CryptoMarket afirma que va a continuar la depreciación del peso argentino frente al dólar",
-      "Description": "La Argentina está acostumbrada a ver saltos extremos en el valor del dólar frente a nuevas situaciones políticas internas\n \nLa cotización del dólar en el mercado paralelo en Argentina se ha disparado.Cointelegraph en Español conversó con Guillermo Escudero, g…",
-      "Url": "https://es.cointelegraph.com/news/cryptomarket-executive-affirms-that-the-argentine-peso-will-continue-to-depreciate-against-the-dollar",
-      "UrlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jZDg0ZTY3YWUyYTg4MTk1ZWJhMzNlOWQ2ZGIyMWI2ZS5qcGc=.jpg",
-      "PublishedAt": "2023-08-15T19:01:00Z",
-      "Content": "La cotización del dólar en el mercado paralelo en Argentina se ha disparado.Cointelegraph en Español conversó con Guillermo Escudero, gerente regional y de Alianzas Estratégicas de CryptoMarket, para… [+3583 chars]"
     }
   ]
 }
