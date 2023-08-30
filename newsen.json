@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Techmeme.com"
+      },
+      "Author": null,
+      "Title": "Sources: Tether has added Britannia Bank & Trust, a privately held bank operating in the Bahamas, to process dollar transfers (Bloomberg)",
+      "Description": "Bloomberg:\nSources: Tether has added Britannia Bank & Trust, a privately held bank operating in the Bahamas, to process dollar transfers  —  - Britannia Bank & Trust processes dollar transfers for Tether  — Stablecoin issuer faces long-standing questions on r…",
+      "Url": "https://www.techmeme.com/230829/p39",
+      "UrlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in1sImsBE8cc/v1/1200x800.jpg",
+      "PublishedAt": "2023-08-29T22:40:06Z",
+      "Content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 6:40 PM ET, August 29, 2023.\r\nThe most current version of the site as always is available at our home page.\r\nTo vi… [+321 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-29-at-9.59.21-AM-e1648562439130-gID_7.png",
       "PublishedAt": "2023-08-11T20:50:18Z",
       "Content": "Crypto-friendly bank Custodia announced Friday its now accepting dollar depositsand will soon custody Bitcoinfor customers in select U.S. states. The financial institution is now also providing custo… [+2331 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Finextra"
-      },
-      "Author": "Editorial Team",
-      "Title": "Nigerian Exchange preps dollar settlement platform for fintechs",
-      "Description": "The Nigerian Exchange has enlisted the Central Securities Clearing System (CSCS) and Euroclear to help build a dollar settlement platform that will enable tech startups to raise in dollars.",
-      "Url": "https://www.finextra.com/newsarticle/42772/nigerian-exchange-preps-dollar-settlement-platform-for-fintechs",
-      "UrlToImage": "https://www.finextra.com/finextra-images/top_pics/xl/emmanuel-ikwuegbu-t4q6zppyjog-unsplash.jpg",
-      "PublishedAt": "2023-08-10T23:06:12Z",
-      "Content": "The Nigerian Exchange has enlisted the Central Securities Clearing System (CSCS) and Euroclear to help build a dollar settlement platform that will enable tech startups to raise in dollars.\r\n Explain… [+1115 chars]"
     }
   ]
 }
