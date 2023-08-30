@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 29 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 29 de agosto",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-29-de-agosto-nid29082023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-29-de-ANBGMTZRW5DYFM5V5N767HZENU.jpg?auth=24bf0d887095b456e11269083ad1585ba8a76974d0ba500823e88c90dca14864&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-08-29T14:33:18Z",
+      "Content": "Este martes 29 de agosto, el precio del dólar en México es de $16,7432, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+1951 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jZDg0ZTY3YWUyYTg4MTk1ZWJhMzNlOWQ2ZGIyMWI2ZS5qcGc=.jpg",
       "PublishedAt": "2023-08-15T19:01:00Z",
       "Content": "La cotización del dólar en el mercado paralelo en Argentina se ha disparado.Cointelegraph en Español conversó con Guillermo Escudero, gerente regional y de Alianzas Estratégicas de CryptoMarket, para… [+3583 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se aleja del piso de las 17 unidades: Se cotiza en las 17.15 frente al dólar",
-      "Description": "El mercado se ve afectado por las noticias que llegan desde China, cuya economía tuvo un comportamiento decepcionante durante julio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/15/peso-dolar-precio-hoy-15-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/8DcuG6V0pxf27Naxj9Tvd1chM2E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/VGUR3EVI7NAATK4JIFZWJ2T73Q.jpg",
-      "PublishedAt": "2023-08-15T14:35:14Z",
-      "Content": "El peso mexicano se sigue alejando del piso de las 17 unidades frente al dólar mientras el mercado se ve afectado por la incertidumbre creada por las noticias más reciente de la economía de China.\r\nD… [+1970 chars]"
     }
   ]
 }
