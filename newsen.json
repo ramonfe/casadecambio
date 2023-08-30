@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "Reuters",
+      "Title": "GHANA FINANCE MINISTRY SAYS DOLLAR-DENOMINATED BONDS EXCHANGE CL…",
+      "Description": "(marketscreener.com) \n GHANA FINANCE MINISTRY SAYS DOLLAR-DENOMINATED BONDS EXCHANGE CLOSED WITH APPROXIMATELY 92% PARTICIPATION RATE\n https://www.marketscreener.com/news/latest/GHANA-FINANCE-MINISTRY-SAYS-DOLLAR-DENOMINATED-BONDS-EXCHANGE-CL-8230--44724780/?…",
+      "Url": "https://www.marketscreener.com/news/latest/GHANA-FINANCE-MINISTRY-SAYS-DOLLAR-DENOMINATED-BONDS-EXCHANGE-CL-8230--44724780/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "PublishedAt": "2023-08-29T20:59:07Z",
+      "Content": "ANALYST RECOMMENDATIONS : AT&amp;T, Celanese, M&amp;S, Snap, Verizon..."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.finextra.com/finextra-images/top_pics/xl/emmanuel-ikwuegbu-t4q6zppyjog-unsplash.jpg",
       "PublishedAt": "2023-08-10T23:06:12Z",
       "Content": "The Nigerian Exchange has enlisted the Central Securities Clearing System (CSCS) and Euroclear to help build a dollar settlement platform that will enable tech startups to raise in dollars.\r\n Explain… [+1115 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": null
-      },
-      "Author": null,
-      "Title": null,
-      "Description": null,
-      "Url": null,
-      "UrlToImage": null,
-      "PublishedAt": null,
-      "Content": null
     }
   ]
 }
