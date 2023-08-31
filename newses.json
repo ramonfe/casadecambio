@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY miércoles 30 de agosto de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 de agosto el tipo de cambio interbancario, se ubica en 16.77 pesos por unidad, con una pérdida de 0.12 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba an…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-agosto-2023-cual-es-tipo-cambio-mexico",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2023-08-30T11:00:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 de agosto el tipo de cambiointerbancario, se ubica en 16.77 pesos por unidad, con una pérdida de 0.12 por ciento,… [+767 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso cede terreno: cierra en 16.7936 unidades por dólar",
+      "Description": "Pese a que el dólar se depreció a nivel internacional, el peso no logró reponerse de su arranque negativo y terminó con una depreciación de 0.13 por ciento, para cerrar en 16.7936 unidades por dólar spot.",
+      "Url": "https://www.jornada.com.mx/2023/08/30/economia/017n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2023-08-30T09:42:56Z",
+      "Content": "Periódico La JornadaMiércoles 30 de agosto de 2023, p. 17\r\nPese a que el dólar se depreció a nivel internacional, el peso no logró reponerse de su arranque negativo y terminó con una depreciación de … [+2506 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/utbYx1xp5u8qITnZZs5N4mjLE2I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2GXGXXHSXNGMHJHUEU3WCQ5L3Y.jpg",
       "PublishedAt": "2023-08-16T15:24:14Z",
       "Content": "El peso mexicano se vuelve a acercar este miércoles al piso de las 17 unidades frente al dólar, mientras los inversionistas están a la espera de que se publiquen las minutas de la última reunión de l… [+1334 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 16 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 16 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-16-de-agosto-nid16082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/4m9Q5TDrgxahNqQVx5qrgVnH7Os=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/H4ZCNT6FTJEPLIP2D244QLIAB4.jpg",
-      "PublishedAt": "2023-08-16T14:20:19Z",
-      "Content": "Este miércoles 16 de agosto, el precio del dólar en México es de $17,1388, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2030 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central recompró otros US$125 millones y confirmó que buscará dejar “anclado” al dólar oficial",
-      "Description": "Lleva readquiridos unos US$345 millones tras la devaluación; hoy dejó subir el dólar mayorista sólo 0,014%",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-recompro-otros-us125-millones-y-confirmo-que-buscara-dejar-anclado-al-nid15082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-recomprar-hoy-reservas-tras-5VLKH7KES5HD7ESATNMQZK7TG4.JPG?auth=d068fdc92d943c2ae6b48fded79e5128a2f407c7ea5fc288b6a4cbe01cec9fbb&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-08-15T19:43:06Z",
-      "Content": "El Banco Central (BCRA) volvió a sacar provecho hoy del salto cambiario que validó ayer, al cerrar sus intervenciones sobre el mercado de cambios recomprando US$125 millones, cifra que eleva a US$345… [+2857 chars]"
     }
   ]
 }

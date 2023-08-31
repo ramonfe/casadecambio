@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 44,
+  "TotalResults": 46,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: What charges do the 10 suspects face and how much assets have been seized?",
+      "Description": "CNA breaks down what the 10 people in the case are accused of, what assets have been seized and other details known about their cases.",
+      "Url": "https://www.channelnewsasia.com/singapore/s1-billion-dollar-money-laundering-accused-suspects-charges-what-assets-seized-3734531",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--8yRtorrF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/30/Moneylaundering suspects 10 suspects illustration.png?itok=eD3HvV-D",
+      "PublishedAt": "2023-08-30T11:01:00Z",
+      "Content": "Vang Shuiming Age: 42Nationality: TurkRepresentation: Mr Wendell Wong, Mr Andrew Chua from Drew &amp; NapierAssets seized: Over S$200 million seizedCharges tendered: One count of using a forged docum… [+3422 chars]"
+    },
+    {
+      "Source": {
+        "Id": "time",
+        "Name": "Time"
+      },
+      "Author": "Low De Wei, Chanyaporn Chanjaroen, and Alfred Cang / Bloomberg",
+      "Title": "Billion-Dollar Money Laundering Case Embroils Some of Singapore’s Banking Giants",
+      "Description": "A list of financial institutions have been linked to suspects in the alleged money laundering ring, raising questions about guardrails against illicit money flowing into the financial hub.",
+      "Url": "https://time.com/6309579/singapore-money-laundering-banks/",
+      "UrlToImage": "https://api.time.com/wp-content/uploads/2023/08/Singapore-Banks-Money-Laundering.jpg?quality=85",
+      "PublishedAt": "2023-08-30T07:15:00Z",
+      "Content": "Some of the biggest local and international banks in Singapore are becoming embroiled in one of the city-states largest money laundering cases.\r\nDBS Group Holdings Ltd, the countrys largest bank, and… [+3712 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2021-09/2021-09-09T085822Z_1_LYNXMPEH880C8_RTROPTP_3_CHINA-TRADE-EXPO.JPG",
       "PublishedAt": "2023-08-17T06:09:05Z",
       "Content": "SHANGHAI/SINGAPORE, Aug 17 (Reuters) - China Development\r\nBank said late Wednesday it plans to raise overseas dollar debt\r\nto increase onshore dollar liquidity after the country's central\r\nbank relax… [+1250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Iraq set in 'battle' against dollar smugglers, central bank governor says",
-      "Description": "Iraq set in 'battle' against dollar smugglers, central bank governor says",
-      "Url": "https://www.investing.com/news/economy/iraq-set-in-battle-against-dollar-smugglers-central-bank-governor-says-3155333",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
-      "PublishedAt": "2023-08-16T11:10:29Z",
-      "Content": "By Timour Azhari\r\nBAGHDAD (Reuters) - Iraq has made strides implementing U.S. dollar supply restrictions targeting Iran but faces an uphill battle with a banking system unaccustomed to strict oversig… [+3782 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Nikki Main",
-      "Title": "Fake Claim That OpenAI Has a New Billion Dollar Investor Mysteriously Appears on Stock Exchange Website",
-      "Description": "A fake press release claiming that investment firm Ripplewood is putting $1 billion into OpenAI appeared on the website of the London Stock Exchange on Monday. The false press release claimed the 28-year-old New York-based company would benefit from investing…",
-      "Url": "https://gizmodo.com/open-ai-fake-claim-london-stock-exchange-1850736730",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0cfe5cf61f37cf55fc7246505484dee8.jpg",
-      "PublishedAt": "2023-08-14T21:20:00Z",
-      "Content": "A fake press release claiming that investment firm Ripplewood is putting $1 billion into OpenAI appeared on the website of the London Stock Exchange on Monday. The false press release claimed the 28-… [+2278 chars]"
     }
   ]
 }
