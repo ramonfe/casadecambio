@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 46,
+  "TotalResults": 47,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "pymnts.com"
+      },
+      "Author": "PYMNTS",
+      "Title": "Tether Taps Britannia Bank to Process Dollar Transfers",
+      "Description": "Tether has reportedly begun working with Bahamas-based Britannia Bank & Trust to process dollar transfers. A report Tuesday (Aug. 29) by Bloomberg News — citing sources familiar with the matter — said the stablecoin issuer had instructed customers to send fun…",
+      "Url": "https://www.pymnts.com/cryptocurrency/2023/tether-taps-britannia-bank-to-process-dollar-transfers/",
+      "UrlToImage": "https://content.pymnts.com/wp-content/uploads/2023/08/Tether-Britannia-Bank-1000x600.jpg",
+      "PublishedAt": "2023-08-30T14:31:14Z",
+      "Content": "Tether has reportedly begun working with Bahamas-based Britannia Bank &amp; Trust to process dollar transfers.\r\nA report Tuesday (Aug. 29) by Bloomberg News citing sources familiar with the matter sa… [+2618 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TTf6Wxhj--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-17t062533z_1_lynxmpej7g076_rtroptp_3_china-trade-expo.jpg?itok=XDSWtoW8",
       "PublishedAt": "2023-08-17T06:25:33Z",
       "Content": "SHANGHAI/SINGAPORE : China Development Bank said late Wednesday it plans to raise overseas dollar debt to increase onshore dollar liquidity after the country's central bank relaxed rules last month t… [+1139 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "China Development Bank plans to raise overseas dollar debt to fund onshore liquidity",
-      "Description": "(marketscreener.com) China Development\nBank said late Wednesday it plans to raise overseas dollar debt\nto increase onshore dollar liquidity after the country's central\nbank relaxed rules last month to allow firms and financial\ninstitutions to borrow more from…",
-      "Url": "https://www.marketscreener.com/news/latest/China-Development-Bank-plans-to-raise-overseas-dollar-debt-to-fund-onshore-liquidity--44634281/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2021-09/2021-09-09T085822Z_1_LYNXMPEH880C8_RTROPTP_3_CHINA-TRADE-EXPO.JPG",
-      "PublishedAt": "2023-08-17T06:09:05Z",
-      "Content": "SHANGHAI/SINGAPORE, Aug 17 (Reuters) - China Development\r\nBank said late Wednesday it plans to raise overseas dollar debt\r\nto increase onshore dollar liquidity after the country's central\r\nbank relax… [+1250 chars]"
     }
   ]
 }

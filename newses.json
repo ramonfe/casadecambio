@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 30 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 30 de agosto",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-30-de-agosto-nid30082023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-30-de-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-08-30T14:27:43Z",
+      "Content": "Este miércoles 30 de agosto, el precio del dólar en México es de $16,8402, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2058 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/zsuGQbpiWErVIpHwGuGVhOjZkBY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JMRLISQGVJGX7EP3JM2UX2JIRE.jpg",
       "PublishedAt": "2023-08-17T14:13:30Z",
       "Content": "Este jueves 17 de agosto, el precio del dólar en México es de $17,0768, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+2123 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Cautela en mercados; el peso cerró a 17.1420 por dólar spot",
-      "Description": "El mercado cambiario mexicano mantuvo la cautela con un dólar fortalecido debido a que la inflación de Estados Unidos, principal socio comercial de México, sigue siendo elevada, lo que podría requerir más aumentos de tasas de interés, según minutas de la Rese…",
-      "Url": "https://www.jornada.com.mx/2023/08/17/economia/021n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-08-17T10:05:50Z",
-      "Content": "Periódico La JornadaJueves 17 de agosto de 2023, p. 21\r\nEl mercado cambiario mexicano mantuvo la cautela con un dólar fortalecido debido a que la inflación de Estados Unidos, principal socio comercia… [+2615 chars]"
     }
   ]
 }
