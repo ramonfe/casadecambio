@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Globalsecurity.org"
+      },
+      "Author": "John Pike",
+      "Title": "Singapore Busts Multimillion-Dollar Money Laundering Scheme",
+      "Description": "A huge money laundering case has riveted attention in Singapore.",
+      "Url": "https://www.globalsecurity.org/security/library/news/2023/08/sec-230829-voa02.htm",
+      "UrlToImage": null,
+      "PublishedAt": "2023-08-30T05:29:52Z",
+      "Content": "By Adam Hancock August 29, 2023\r\nA huge money laundering case has riveted attention in Singapore.\r\nIn a series of raids across the city-state in mid-August, authorities seized close to three quarters… [+5232 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0cfe5cf61f37cf55fc7246505484dee8.jpg",
       "PublishedAt": "2023-08-14T21:20:00Z",
       "Content": "A fake press release claiming that investment firm Ripplewood is putting $1 billion into OpenAI appeared on the website of the London Stock Exchange on Monday. The false press release claimed the 28-… [+2278 chars]"
-    },
-    {
-      "Source": {
-        "Id": "google-news",
-        "Name": "Google News"
-      },
-      "Author": null,
-      "Title": "I Turned My Stimulus Check Into a Multimillion-Dollar Business: Here’s How I Did It - Yahoo Finance",
-      "Description": "I Turned My Stimulus Check Into a Multimillion-Dollar Business: Here’s How I Did It  Yahoo Finance",
-      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90dXJuZWQtc3RpbXVsdXMtY2hlY2stbXVsdGltaWxsaW9uLWRvbGxhci0xMTAwMTYxNTIuaHRtbNIBX2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3R1cm5lZC1zdGltdWx1cy1jaGVjay1tdWx0aW1pbGxpb24tZG9sbGFyLTExMDAxNjE1Mi5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "UrlToImage": null,
-      "PublishedAt": "2023-08-14T11:00:16Z",
-      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
     }
   ]
 }
