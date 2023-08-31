@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Chosun.com"
+      },
+      "Author": null,
+      "Title": "Singapore Busts Multimillion-Dollar Money Laundering Scheme",
+      "Description": "A huge money laundering case has riveted attention in Singapore. In a series of raids across the city-state in mid-August, authorities seized close to three quarters of a billion U.S. dollars in assets including more than 100 luxury condos and dozens of flash…",
+      "Url": "https://english.chosun.com/site/data/html_dir/2023/08/30/2023083000503.html",
+      "UrlToImage": "https://english.chosun.com/site/data/img_dir/2023/08/30/2023083000502_0.jpg",
+      "PublishedAt": "2023-08-29T23:16:00Z",
+      "Content": "A huge money laundering case has riveted attention in Singapore. In a series of raids across the city-state in mid-August, authorities seized close to three quarters of a billion U.S. dollars in asse… [+5083 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-14T11:00:16Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decrypt"
-      },
-      "Author": "Pedro Solimano",
-      "Title": "Custodia Bank Now Accepting US Dollar Deposits, Adding Bitcoin Custody",
-      "Description": "“The bar is very high for banks to launch, and we cleared it,\" Custodia Bank CEO Caitlin Long told Decrypt.",
-      "Url": "https://decrypt.co/152245/custodia-bank-now-accepting-us-dollar-deposits-adding-bitcoin-custody",
-      "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-29-at-9.59.21-AM-e1648562439130-gID_7.png",
-      "PublishedAt": "2023-08-11T20:50:18Z",
-      "Content": "Crypto-friendly bank Custodia announced Friday its now accepting dollar depositsand will soon custody Bitcoinfor customers in select U.S. states. The financial institution is now also providing custo… [+2331 chars]"
     }
   ]
 }
