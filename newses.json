@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Anyi Ospino Ríos",
+      "Title": "Tipo de cambio del dólar: miércoles 30 de agosto",
+      "Description": "Tipo de cambio de referencia del Banco Central de Costa Rica, y precios de compra y venta por ventanilla anunciados por los intermediarios financieros",
+      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-miercoles-30-de-agosto/PXD4E7KMCFFHVP2L4ULJYU5Y6I/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/kQIdd21dhzTwQVCP7ib_Y0WNnHA=/1440x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/YVFTSGLPZNGRRMP2WYT566LKNY.png",
+      "PublishedAt": "2023-08-30T13:54:27Z",
+      "Content": "En beneficio de la transparencia y para evitar distorsiones del debate público por medios informáticos o aprovechando el anonimato, la sección de comentarios está reservada para nuestros suscriptores… [+170 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2023-08-17T10:05:50Z",
       "Content": "Periódico La JornadaJueves 17 de agosto de 2023, p. 21\r\nEl mercado cambiario mexicano mantuvo la cautela con un dólar fortalecido debido a que la inflación de Estados Unidos, principal socio comercia… [+2615 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "El ‘sube y baja’ del peso contra el dólar: Avanza y se cotiza en las 17.06 unidades",
-      "Description": "En ventanilla bancaria, el dólar se cotiza en 17.49 pesos por billete verde, de acuerdo con Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/16/peso-dolar-precio-hoy-16-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/utbYx1xp5u8qITnZZs5N4mjLE2I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2GXGXXHSXNGMHJHUEU3WCQ5L3Y.jpg",
-      "PublishedAt": "2023-08-16T15:24:14Z",
-      "Content": "El peso mexicano se vuelve a acercar este miércoles al piso de las 17 unidades frente al dólar, mientras los inversionistas están a la espera de que se publiquen las minutas de la última reunión de l… [+1334 chars]"
     }
   ]
 }
