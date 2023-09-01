@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 31 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 31 de agosto",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-31-de-agosto-nid31082023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-31-de-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-08-31T14:36:16Z",
+      "Content": "Este jueves 31 de agosto, el precio del dólar en México es de $16,7477 de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+1994 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/UX2xKpUTDG2tU0A3mOCszJwc5zY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/2YLO54XIFFA2RAFQ4A2ISF363E.jpg",
       "PublishedAt": "2023-08-18T14:00:20Z",
       "Content": "Este viernes 18 de agosto, el precio del dólar en México es de $17,1225, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un p… [+2060 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso amanece ‘fuerte’ frente al dólar: Cotiza en 17.13 unidades este jueves",
-      "Description": "A pesar de la apreciación del peso, analistas apuntan que se ha incrementado la aversión al riesgo sobre México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/17/peso-dolar-precio-hoy-17-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/9TgayXGUjiCbC_AM8_S1pdpzfws=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MAGPXCVZLNCQBMFMLQQLMFG66M.jpg",
-      "PublishedAt": "2023-08-17T15:23:47Z",
-      "Content": "El peso mexicano inició la jornada de este jueves 17 de agosto con ganancias, ante la debilidad que presenta el dólar, como parte de una corrección después de haber avanzado durante cinco jornadas co… [+1544 chars]"
     }
   ]
 }
