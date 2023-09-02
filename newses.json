@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY viernes 1 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de septiembre el tipo de cambio interbancario, se ubica en17.07pesos por unidad, con un alza de0.21por ciento, según datos de Bloomberg.El peso mexicano retrocedía ayer despu…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-septiembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
+      "PublishedAt": "2023-09-01T11:11:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de septiembre el tipo de cambiointerbancario, se ubica en 17.07 pesos por unidad, con un alza de 0.21 por ciento, … [+844 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Reforma.com"
       },
       "Author": "Ernesto Sarabia",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/yU4EytwffXHirvO1MT0W9OBM0TU=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/7O6XQSCGJNEQNN3WMXCZBGW6LQ.jpg",
       "PublishedAt": "2023-08-21T14:21:39Z",
       "Content": "Este lunes 21 de agosto, el precio del dólar en México es de $17,0477, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+2058 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘pisa fuerte’ frente al dólar: Cotiza en 17.06 unidades este viernes",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.49 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/18/peso-pisa-fuerte-frente-al-dolar-cotiza-en-1706-unidades-este-viernes/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/WjkxnlOKRMg4aen1d-D3Zdbh0Bk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/T5P2HBWPLRGYBPT4VOMJLSMPMU.jpg",
-      "PublishedAt": "2023-08-18T15:54:03Z",
-      "Content": "En el inicio de la última jornada de la semana, la divisa estadounidense reporta pérdidas, dando paso a que el peso mexicano continúe ganando terreno, a pesar de un menor apetito por riesgo dentro de… [+1770 chars]"
     }
   ]
 }
