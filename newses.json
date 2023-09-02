@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 1º de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 1º de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-1-de-septiembre-nid01092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-1o-de-OV4SUQQFUVGGRG2RF7AFKGIK5E.jpg?auth=d884823094e8048798ff3f53817735b57855593114e6fb5f9c00542781e94a46&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-01T14:29:37Z",
+      "Content": "Este viernes 1º de septiembre, el precio del dólar en México es de $16,917 de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2390 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/2GqYyPf-s84H4xGgcEIQKDjbIQI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PVSGZJIYZBBQFPX6B3JXTCAOBM.jpg",
       "PublishedAt": "2023-08-21T15:34:01Z",
       "Content": "El peso mexicano inicia la semana con pocos cambios, operando de manera lateral frente al dólar dado que no se espera la publicación de información económica relevante en el mercado mexicano. \r\nDe ac… [+1444 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 21 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 21 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-21-de-agosto-nid21082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/yU4EytwffXHirvO1MT0W9OBM0TU=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/7O6XQSCGJNEQNN3WMXCZBGW6LQ.jpg",
-      "PublishedAt": "2023-08-21T14:21:39Z",
-      "Content": "Este lunes 21 de agosto, el precio del dólar en México es de $17,0477, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+2058 chars]"
     }
   ]
 }
