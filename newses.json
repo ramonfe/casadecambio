@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Sube dólar a $17.47; tiene peso peor desempeño en 14 meses",
+      "Description": "Luego de siete meses con apreciación, al menudeo, en agosto, el peso sufrió su peor resultado en 14 meses.",
+      "Url": "https://www.reforma.com/sube-dolar-a-17-47-tiene-peso-peor-desempeno-en-14-meses/ar2667540",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/542/5541821.jpg&ang=0",
+      "PublishedAt": "2023-08-31T23:55:28Z",
+      "Content": "En ventanillas de Citibanamex, el tipo de cambio subió 27 centavos a 17.47 pesos en la venta, y a 16.47 en la compra. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/WjkxnlOKRMg4aen1d-D3Zdbh0Bk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/T5P2HBWPLRGYBPT4VOMJLSMPMU.jpg",
       "PublishedAt": "2023-08-18T15:54:03Z",
       "Content": "En el inicio de la última jornada de la semana, la divisa estadounidense reporta pérdidas, dando paso a que el peso mexicano continúe ganando terreno, a pesar de un menor apetito por riesgo dentro de… [+1770 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 18 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 18 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-18-de-agosto-nid18082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/UX2xKpUTDG2tU0A3mOCszJwc5zY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/2YLO54XIFFA2RAFQ4A2ISF363E.jpg",
-      "PublishedAt": "2023-08-18T14:00:20Z",
-      "Content": "Este viernes 18 de agosto, el precio del dólar en México es de $17,1225, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un p… [+2060 chars]"
     }
   ]
 }
