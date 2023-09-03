@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso pierde en la semana y supera las 17 unidades por dólar",
+      "Description": "El peso mexicano retrocedió este viernes, por lo que extendió su movimiento de la jornada anterior, mientras la Bolsa Mexicana de Valores (BMV) repuntó tras la divulgación de un informe del mercado laboral en Estados Unidos que reforzó las expectativas de que…",
+      "Url": "https://www.jornada.com.mx/2023/09/02/economia/020n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2023-09-02T09:40:33Z",
+      "Content": "Periódico La JornadaSábado 2 de septiembre de 2023, p. 20\r\nEl peso mexicano retrocedió este viernes, por lo que extendió su movimiento de la jornada anterior, mientras la Bolsa Mexicana de Valores (B… [+2832 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1142918074.jpg?11419019221692709982",
       "PublishedAt": "2023-08-22T13:13:00Z",
       "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "El banco del BRICS ampliará las medidas para reducir la dependencia del dólar",
-      "Description": "La jefa de la entidad informó que están estudiando las solicitudes de adhesión de unos 15 países.",
-      "Url": "https://actualidad.rt.com/actualidad/477301-banco-brics-ampliara-medidas-reducir",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.08/article/64e4685be9ff71631338cf42.jpg",
-      "PublishedAt": "2023-08-22T09:25:31Z",
-      "Content": "El Nuevo Banco de Desarrollo (NBD) creado por el grupo BRICS está considerando el ingreso de nuevos miembros y tiene la intención de ampliar la concesión de préstamos en las monedas nacionales de los… [+2840 chars]"
     }
   ]
 }
