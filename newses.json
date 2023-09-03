@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Sube dólar a $17.52; peso con peor revés en 4 semanas",
+      "Description": "La jornada fue desfavorable para la moneda nacional, al aumentar el dólar por segundo día al hilo, y el peso tuviera su mayor minusvalía.",
+      "Url": "https://www.reforma.com/sube-dolar-a-17-52-peso-con-peor-reves-en-4-semanas/ar2668219",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/457/5456647.jpg&ang=0",
+      "PublishedAt": "2023-09-01T23:29:29Z",
+      "Content": "Este viernes, en ventanillas de Citibanamex, el dólar aumentó su valor cinco centavos a 17.52 unidades a la venta (ligó dos incrementos) y a 16.59 pesos a la compra. Crédito: AP"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/alejandro-werner-exdirector-del-fmi-para-el-TSAJWDMGM5BAHP5W2GJ72WX2LU.jpg?auth=df74084b4a4fde84cbef6b4329b858c292868a066f2cd19370e4ea7304e32206&width=768&quality=70&smart=false",
       "PublishedAt": "2023-08-22T06:49:07Z",
       "Content": "Alejandro Werner,exdirector del Fondo Monetario Internacional para el hemisferio occidental, analizó la propuesta de Javier Milei de implementar una dolarización en el país y la desaconsejó. El dólar… [+7676 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Ni fu ni fa’ con el peso frente al dólar: Se cotiza en las 17.03 unidades",
-      "Description": "Analistas de CI Banco pronostican que el tipo de cambio fluctuará entre los 16.98 y 17.11 pesos por dólar durante este lunes.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/21/peso-dolar-precio-hoy-21-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/2GqYyPf-s84H4xGgcEIQKDjbIQI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PVSGZJIYZBBQFPX6B3JXTCAOBM.jpg",
-      "PublishedAt": "2023-08-21T15:34:01Z",
-      "Content": "El peso mexicano inicia la semana con pocos cambios, operando de manera lateral frente al dólar dado que no se espera la publicación de información económica relevante en el mercado mexicano. \r\nDe ac… [+1444 chars]"
     }
   ]
 }
