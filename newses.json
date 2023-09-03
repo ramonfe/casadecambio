@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso pierde fuerza, pero apuestas a futuro ven apreciación ante el dólar",
+      "Description": "Forbes México.\n Peso pierde fuerza, pero apuestas a futuro ven apreciación ante el dólar\n\nEn el Chicago Mercantile Exchange aumentaron las apuestas especulativas que anticipan una apreciación del peso respecto al dólar.\nPeso pierde fuerza, pero apuestas a fut…",
+      "Url": "https://www.forbes.com.mx/peso-pierde-fuerza-pero-apuestas-a-futuro-ven-apreciacion-ante-el-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2021/01/dolar6.jpg",
+      "PublishedAt": "2023-09-02T00:55:20Z",
+      "Content": "El peso retrocedió este viernes respecto al dólar, extendiendo el movimiento de la jornada anterior, mientras que la Bolsa Mexicana de Valores (BMV) repuntó tras la divulgación de un informe del merc… [+2234 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.08/article/64e4685be9ff71631338cf42.jpg",
       "PublishedAt": "2023-08-22T09:25:31Z",
       "Content": "El Nuevo Banco de Desarrollo (NBD) creado por el grupo BRICS está considerando el ingreso de nuevos miembros y tiene la intención de ampliar la concesión de préstamos en las monedas nacionales de los… [+2840 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "La advertencia de un exdirector del FMI sobre el plan de Milei: “El dólar no es la moneda óptima para la Argentina”",
-      "Description": "Alejandro Werner cuestionó la idea de que el país abandone el peso a raíz de la propuesta que promueve Javier Milei en caso de llegar a la presidencia; su análisis del crédito que el país le pidió al Fondo en 2018",
-      "Url": "https://www.lanacion.com.ar/economia/la-advertencia-de-un-exdirector-del-fmi-sobre-el-plan-de-milei-el-dolar-no-es-la-moneda-optima-para-nid22082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/alejandro-werner-exdirector-del-fmi-para-el-TSAJWDMGM5BAHP5W2GJ72WX2LU.jpg?auth=df74084b4a4fde84cbef6b4329b858c292868a066f2cd19370e4ea7304e32206&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-08-22T06:49:07Z",
-      "Content": "Alejandro Werner,exdirector del Fondo Monetario Internacional para el hemisferio occidental, analizó la propuesta de Javier Milei de implementar una dolarización en el país y la desaconsejó. El dólar… [+7676 chars]"
     }
   ]
 }
