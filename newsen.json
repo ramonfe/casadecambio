@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 44,
+  "TotalResults": 41,
   "Articles": [
     {
       "Source": {
@@ -156,7 +156,7 @@
       "Description": "[Removed]",
       "Url": "https://removed.com",
       "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00",
+      "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
     },
     {
@@ -221,7 +221,7 @@
       "Description": "[Removed]",
       "Url": "https://removed.com",
       "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00",
+      "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
     },
     {
