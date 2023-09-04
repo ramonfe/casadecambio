@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Billion-Dollar Bank Says It May Freeze, Terminate Accounts Sending ‘Unacceptable’ Transactions – Here’s What It Means",
+      "Description": "One of the largest banks in Australia says it may freeze and terminate customer accounts that engage in certain types of “unacceptable account conduct.” National Australia Bank says a new policy launching in November is designed to protect people from harm by…",
+      "Url": "https://dailyhodl.com/2023/08/30/billion-dollar-bank-says-it-may-freeze-terminate-accounts-sending-unacceptable-transactions-heres-what-it-means/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/cash-account-bank.jpg",
+      "PublishedAt": "2023-09-03T00:04:11Z",
+      "Content": "One of the largest banks in Australia says it may freeze and terminate customer accounts that engage in certain types of “unacceptable account conduct.”\r\nNational Australia Bank says a new policy lau… [+1708 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2023-08/2023-08-17T031359Z_1_LYNXMPEJ7G03F_RTROPTP_3_SINGAPORE-CRIME.JPG",
       "PublishedAt": "2023-08-17T08:45:36Z",
       "Content": "SINGAPORE (Reuters) - Singapore's police said they have seized S$1 billion ($734.32 million) in assets from a gang of foreigners laundering proceeds from organised crime, including plush bungalows in… [+2577 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "China Development Bank plans to raise overseas dollar debt to fund onshore liquidity",
-      "Description": "SHANGHAI/SINGAPORE : China Development Bank said late Wednesday it plans to raise overseas dollar debt to increase onshore dollar liquidity after the country's central bank relaxed rules last month to allow firms and financial institutions to borrow more from…",
-      "Url": "https://www.channelnewsasia.com/business/china-development-bank-plans-raise-overseas-dollar-debt-fund-onshore-liquidity-3705091",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TTf6Wxhj--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-17t062533z_1_lynxmpej7g076_rtroptp_3_china-trade-expo.jpg?itok=XDSWtoW8",
-      "PublishedAt": "2023-08-17T06:25:33Z",
-      "Content": "SHANGHAI/SINGAPORE : China Development Bank said late Wednesday it plans to raise overseas dollar debt to increase onshore dollar liquidity after the country's central bank relaxed rules last month t… [+1139 chars]"
     }
   ]
 }
