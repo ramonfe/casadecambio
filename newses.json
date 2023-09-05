@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 4 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 4 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-4-de-septiembre-nid04092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-4-de-7HEZJDXOIZDHZNGHL7W3T5EX6A.jpg?auth=0bd005904a0dfe28ed05d4a75e48e1a7184ed076fb9f09f33ec78c0fb880f63d&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-04T14:55:12Z",
+      "Content": "Este lunes 4 de septiembre, el precio del dólar en México es de $17, 1113, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2053 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20230822/imag/foto_0000000320230822111129/Santander_RTRS.jpg",
       "PublishedAt": "2023-08-22T15:07:00Z",
       "Content": "A pesar de la \"tormenta perfecta\" en el mercado cambiaro chileno que ha llevado al dólar a niveles de $870, el Banco Central seguirá bajando con rapidez la Tasa de Política Monetaria (TPM) en lo que … [+3063 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 22 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 22 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-22-de-agosto-nid22082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/470JeRkatL6HuK4PVE6DWOOMn5U=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/7NKE7MIPVBEK5NG6ECJMMIVQ5A.jpg",
-      "PublishedAt": "2023-08-22T14:25:47Z",
-      "Content": "Este martes 22 de agosto, el precio del dólar en México es de $17,0202, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+2013 chars]"
     }
   ]
 }
