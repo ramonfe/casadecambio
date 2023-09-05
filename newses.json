@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso sigue retrocediendo ante dólar; cotiza en 17.16 por billete verde",
+      "Description": "El peso mexicano cotizó en 17.16 unidades por dólar estadunidense al cierre de mercados, este lunes 4 de septiembre 2023,con depreciación de 0.53 por ciento frente al precio de referencia del viernes, hilando su tercera sesión seguida de pérdidas.La divisa na…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-lunes-4-de-septiembre-2023-peso-cierra-en-17-16",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/04/26/dolar-estadunidense-monedas-socorridas-usadas.jpg",
+      "PublishedAt": "2023-09-04T21:07:00Z",
+      "Content": "El peso mexicano cotizó en 17.16 unidades por dólar estadunidense al cierre de mercados, este lunes 4 de septiembre 2023, con depreciación de 0.53 por ciento frente al precio de referencia del vierne… [+754 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2023-08-23T11:09:37Z",
       "Content": "Periódico La JornadaMiércoles 23 de agosto de 2023, p. 21\r\nLos resultados mixtos de la venta de viviendas en Estados Unidos, el índice de manufactura y el descenso de los rendimientos de los bonos de… [+2645 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Rodrigo Martínez",
-      "Title": "Santander: A pesar de la depreciación del peso chileno frente al dólar, el Banco Central seguirá con rápidas bajas de tasa",
-      "Description": "\"Hay evidencia de que parte de la depreciación reciente de la moneda responde a una sobrerreacción de los mercados\", señaló en su Panorama Económico Mensual.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/santander-a-pesar-de-la-depreciacion-del-peso-chileno-frente-al-dolar",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230822/imag/foto_0000000320230822111129/Santander_RTRS.jpg",
-      "PublishedAt": "2023-08-22T15:07:00Z",
-      "Content": "A pesar de la \"tormenta perfecta\" en el mercado cambiaro chileno que ha llevado al dólar a niveles de $870, el Banco Central seguirá bajando con rapidez la Tasa de Política Monetaria (TPM) en lo que … [+3063 chars]"
     }
   ]
 }
