@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre con leve caída en semana de anuncio de tasas de interés del Banco Central",
+      "Description": "Los mercados de bonos y acciones de EEUU se encuentran en receso por el feriado del Día del Trabajo.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoyjnl",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230904/imag/foto_0000001420230904083000/pexels-tima-miroshnichenko-6266445.jpg",
+      "PublishedAt": "2023-09-04T11:48:00Z",
+      "Content": "El dólar abrió con un ligero retroceso este lunes -en una sesión de actividad reducida por el receso de los mercados estadounidenses-, atento a próximos datos en China y especialmente a la decisión d… [+1522 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY lunes 4 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 4 de septiembre el tipo de cambio interbancario, se ubica en17.06pesos por unidad, con una pérdida de0.13por ciento, según datos de Bloomberg.El peso mexicano se depreciaba el …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-septiembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2023-09-04T11:09:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 4 de septiembre el tipo de cambiointerbancario, se ubica en 17.06 pesos por unidad, con una pérdida de 0.13 por cien… [+835 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/470JeRkatL6HuK4PVE6DWOOMn5U=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/7NKE7MIPVBEK5NG6ECJMMIVQ5A.jpg",
       "PublishedAt": "2023-08-22T14:25:47Z",
       "Content": "Este martes 22 de agosto, el precio del dólar en México es de $17,0202, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+2013 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘arranca con todo’ vs. el dólar: Rompe piso de las 17 unidades; se cotiza en las 16.90",
-      "Description": "En ventanilla bancaria, el dólar se cotiza en 17.42 pesos por billete verde, de acuerdo con Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/nacional/2023/08/22/peso-dolar-precio-hoy-22-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/4FdiZgUWOoJkv73icWTQloLCxzc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TSWO3JWYSNFGBGHIUGWW63I2UU.jpg",
-      "PublishedAt": "2023-08-22T13:41:52Z",
-      "Content": "El peso mexicano regresó este martes al terreno de las 16 unidades frente al dólar, mientras en Asia, el Banco Central de China trata de frenar las pérdidas del yuan. \r\nDe acuerdo con datos de Bloomb… [+1034 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sputniknews.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "Rousseff: el banco del BRICS apuesta por monedas nacionales para reducir la dependencia del dólar",
-      "Description": "El Nuevo Banco de Desarrollo (NBD) creado por los países BRICS prevé conceder préstamos en las divisas de Sudáfrica y Brasil como parte de un plan para aminorar la dependencia de la moneda estadounidense y promover un sistema financiero internacional multipol…",
-      "Url": "https://sputniknews.lat/20230822/rousseff-el-banco-del-brics-apuesta-por-monedas-nacionales-para-reducir-la-dependencia-del-dolar-1142918074.html",
-      "UrlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1142918074.jpg?11419019221692709982",
-      "PublishedAt": "2023-08-22T13:13:00Z",
-      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
     }
   ]
 }
