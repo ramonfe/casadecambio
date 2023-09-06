@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "EFE",
+      "Title": "El rublo se ha devaluado 4,1 rublos por dólar desde la intervención del Banco Central",
+      "Description": "La moneda rusa se ha devaluado 4,1 rublos por cada dólar desde mediados de agosto, cuando el Banco Central de Rusia (BCR) decidió subir los intereses en 350 puntos para frenar el desplome de la divisa nacional. Según informó el BCR, el rublo se cotizará el mi…",
+      "Url": "https://www.elperiodico.com/es/economia/20230905/rublo-devaluado-4-1-rublos-91743533",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/07ac13a0-0473-41d6-845b-2e43911ecfc1_16-9-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-09-05T17:23:19Z",
+      "Content": "La moneda rusa se ha devaluado 4,1 rublos por cada dólar desde mediados de agosto, cuando el Banco Central de Rusia (BCR) decidió subir los intereses en 350 puntos para frenar el desplome de la divis… [+1793 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/rCNOCrsJ4wjIt84qoIBVWZPYpAo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QSOIKUYW5JAXBBZZH2GPNYBOUQ.jpg",
       "PublishedAt": "2023-08-24T15:54:07Z",
       "Content": "Con las miradas de los inversionistas puestas en el simposio de Jackson Hole, así como las señales que pueda dar el presidente de la Reserva Federal, Jerome Powell, la moneda mexicana se aprecia por … [+1779 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 24 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 24 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-24-de-agosto-nid24082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/9BwaKOMFTnAihKsmoKP22Prhnss=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/B5HALFFZ4FB6TKIPMH4CT3S7UQ.jpg",
-      "PublishedAt": "2023-08-24T13:39:23Z",
-      "Content": "Este jueves 24 de agosto, el precio del dólar en México es de $16,8077, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+2141 chars]"
     }
   ]
 }
