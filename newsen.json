@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Wired.co.uk"
+      },
+      "Author": "Matt Reynolds",
+      "Title": "A Billion-Dollar Plan to Fix Farm Emissions Might Make Things Worse",
+      "Description": "Agriculture is a huge source of greenhouse gas emissions, so the US is getting serious about reform. But some scientists say current efforts are misguided.",
+      "Url": "https://www.wired.co.uk/article/usda-climate-smart-agriculture",
+      "UrlToImage": "https://media.wired.co.uk/photos/64f0db2669c30eb2b2a09297/16:9/w_1280,c_limit/wheat-field-science-GettyImages-184589603.jpg",
+      "PublishedAt": "2023-09-05T07:00:00Z",
+      "Content": "Blaustein-Rejto and West both worry that the PCSC prioritizes sequestering carbon rather than stopping emissions from being released in the first place. One way to think about this is the difference … [+3172 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-17T11:54:03Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "Bungalows, cars seized in Singapore's billion-dollar swoop on money laundering",
-      "Description": "(marketscreener.com) Singapore's police said they have seized S$1 billion in assets from a gang of foreigners laundering proceeds from organised crime, including plush bungalows in the most sought-after addresses, bundles of cash, luxury cars, jewellery, hand…",
-      "Url": "https://www.marketscreener.com/news/latest/Bungalows-cars-seized-in-Singapore-s-billion-dollar-swoop-on-money-laundering--44637379/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2023-08/2023-08-17T031359Z_1_LYNXMPEJ7G03F_RTROPTP_3_SINGAPORE-CRIME.JPG",
-      "PublishedAt": "2023-08-17T08:45:36Z",
-      "Content": "SINGAPORE (Reuters) - Singapore's police said they have seized S$1 billion ($734.32 million) in assets from a gang of foreigners laundering proceeds from organised crime, including plush bungalows in… [+2577 chars]"
     }
   ]
 }
