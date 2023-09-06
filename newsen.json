@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": "wired",
+        "Name": "Wired"
+      },
+      "Author": "Matt Reynolds",
+      "Title": "A Billion-Dollar Plan to Fix Farm Emissions Might Make Things Worse",
+      "Description": "Agriculture is a huge source of greenhouse gas emissions, so the US is getting serious about reform. But some scientists say current efforts are misguided.",
+      "Url": "https://www.wired.com/story/usda-climate-smart-agriculture/",
+      "UrlToImage": "https://media.wired.com/photos/64f256cbf448350e82119af5/191:100/w_1280,c_limit/wheat-field-science-GettyImages-184589603.jpg",
+      "PublishedAt": "2023-09-05T11:00:00Z",
+      "Content": "Agriculture is a big source of emissions. In the US, about 10 percent of greenhouse gases come from livestock or cropsand for a long time, agriculture has lagged behind other sectors when it comes to… [+3597 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/lti5FKITIGKQSuFPBRT73Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/south_china_morning_post_us_228/d821a542de3c6ce5cd1a3014a01da991",
       "PublishedAt": "2023-08-20T09:30:00Z",
       "Content": "The Chinese yuan has weakened this year to near the lowest level since October, and many mainland citizens are rushing to Hong Kong for safety in higher-yielding bank deposits, insurance and investme… [+6727 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Bungalows, cars seized in Singapore's billion-dollar swoop on money laundering - Reuters",
-      "Description": "Bungalows, cars seized in Singapore's billion-dollar swoop on money launderingReuters S$1 billion in assets seized in one of Singapore's largest money laundering probesCNA Cash, cars and homes seized in $735m Singapore anti-money laundering raidsBBC Singapore…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171637944",
-      "UrlToImage": null,
-      "PublishedAt": "2023-08-17T11:54:03Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
