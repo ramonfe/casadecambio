@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 45,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: High Court rejects lawyers' bid for man to be released",
+      "Description": "Vang Shuiming, who is implicated in a case which has since ballooned to S$1.8 billion, had failed in previous attempts in the State Courts to get his remand revoked.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-laundering-case-vang-shuiming-high-court-reject-lawyer-release-3747486",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--PxQgrJ2m--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/05/vang_shuiming.png?itok=GoKveaC9",
+      "PublishedAt": "2023-09-05T11:20:01Z",
+      "Content": "The investigating officer also wrote in his affidavit that Singapore police had acted on intelligence provided by \"a foreign authority\", that allowed them to uncover US$30 million in assets they did … [+2036 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "A Billion-Dollar Plan to Fix Farm Emissions Might Make Things Worse",
+      "Description": "Agriculture is a huge source of greenhouse gas emissions, so the US is getting serious about reform. But some scientists say current efforts are misguided.",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171765814",
+      "UrlToImage": null,
+      "PublishedAt": "2023-09-05T11:12:04Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": "wired",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/digital-dollar-cbdcs-3-key-things-e1692643175982.jpg?resize=1200,600",
       "PublishedAt": "2023-08-22T09:30:00Z",
       "Content": "The 15th BRICS summit is set to begin Tuesday in South Africa. According to reports, Brazil, Russia, India, China, and South Africa, and possibly more participants, are exploring a new joint currency… [+6356 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DailyFX"
-      },
-      "Author": "Daniel Dubrovsky",
-      "Title": "Australian Dollar Price Action Setups: AUD/USD Downtrend Pauses at Key Support",
-      "Description": "The Australian Dollar is on course for the worst month since February. While AUD/USD maintains a bearish technical bias, key support levels have been reinforced.",
-      "Url": "https://www.dailyfx.com/analysis/australian-dollar-price-action-setups-aud-usd-downtrend-pauses-at-key-support-20230821.html",
-      "UrlToImage": "https://a.c-dn.net/b/2aDsbS/AUSTRALIAN_DOLLAR_1.JPG",
-      "PublishedAt": "2023-08-21T23:00:01Z",
-      "Content": "<ul><li>Australian Dollar on course for worst month since February</li><li>AUD/USD trend remains bearish, but key support reinforced</li><li>What are key levels to watch in the coming 24 48 hours?</l… [+1850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "South China Morning Post",
-      "Title": "Yuan slump turns Hong Kong into haven as mainland Chinese rush for higher bank rates, insurance policies and US dollar",
-      "Description": "The Chinese yuan has weakened this year to near the lowest level since October, and many mainland citizens are rushing to Hong Kong for safety in higher...",
-      "Url": "https://finance.yahoo.com/news/yuan-slump-turns-hong-kong-093000105.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/lti5FKITIGKQSuFPBRT73Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/south_china_morning_post_us_228/d821a542de3c6ce5cd1a3014a01da991",
-      "PublishedAt": "2023-08-20T09:30:00Z",
-      "Content": "The Chinese yuan has weakened this year to near the lowest level since October, and many mainland citizens are rushing to Hong Kong for safety in higher-yielding bank deposits, insurance and investme… [+6727 chars]"
     }
   ]
 }

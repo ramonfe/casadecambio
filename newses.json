@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre al alza tras decepcionante cifra de servicios en China y atento al anuncio de tasa del Banco Central",
+      "Description": "El cobre perdía terreno y un indicador del precio del dólar global alcanzaba su nivel más alto desde marzo.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoykjb8",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230905/imag/foto_0000000420230905083801/364093269.jpg",
+      "PublishedAt": "2023-09-05T11:44:00Z",
+      "Content": "El dólar abrió al alza este martes, presionado por el debilitamiento de la confianza en las empresas chinas del sector servicios y atento a la decisión de tasas del Banco Central de Chile, que tendrá… [+1372 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/eqz3fEIzD5OEI_QU99Y9ZzlznS4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZMD35HORLRAL5FLJSVDELNMFPU.jpeg",
       "PublishedAt": "2023-08-23T14:39:48Z",
       "Content": "El peso mexicano se afianza en el terreno de las 16 unidades frente al dólar, gracias a que mejores expectativas económicas tanto para México como en Estados Unidos se traducen en una mayor entrada d… [+1838 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 23 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 23 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-23-de-agosto-nid23082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/hWs-tf3d1ELaWt4AXMBw5Y3pkfY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/FOI3DCMBT5HWNEL4O2B6ZAUZQM.jpg",
-      "PublishedAt": "2023-08-23T14:11:48Z",
-      "Content": "Este miércoles 23 de agosto, el precio del dólar en México es de $16,9267, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+1970 chars]"
     }
   ]
 }
