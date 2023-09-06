@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Septiemble’ mueve el piso al peso: Pierde 1% frente al dólar",
+      "Description": "El miedo a que la economía mundial se esté 'enfriando' trajo un incremento en la aversión a los activos de riesgo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/05/peso-dolar-precio-hoy-5-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/WP0au2UpNV1nBVsF2RJD1qYajK4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HLV3XFKI7VF2BDV57GBHFF56HQ.jpg",
+      "PublishedAt": "2023-09-05T15:13:58Z",
+      "Content": "El peso mexicano arranca este martes con pérdidas frente al dólar en el inicio de una jornada en el la que dieron a conocer datos débiles del índice PMI, tanto en Europa como en China.\r\nDe acuerdo co… [+1493 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/9BwaKOMFTnAihKsmoKP22Prhnss=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/B5HALFFZ4FB6TKIPMH4CT3S7UQ.jpg",
       "PublishedAt": "2023-08-24T13:39:23Z",
       "Content": "Este jueves 24 de agosto, el precio del dólar en México es de $16,8077, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+2141 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY jueves 24 de agosto de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 24 de agosto el tipo de cambio interbancario, se ubica en 16.82 pesos por unidad, con una ganancia de 0.22 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba po…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-24-agosto-2023-cual-es-tipo-cambio-mexico",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-08-24T11:32:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 24 de agosto el tipo de cambiointerbancario, se ubica en 16.82 pesos por unidad, con una ganancia de 0.22 por ciento… [+770 chars]"
     }
   ]
 }
