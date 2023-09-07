@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 47,
+  "TotalResults": 48,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Singapore bank DBS raises $1.5 billion in two US dollar bond tranches-term sheet",
+      "Description": "Singapore bank DBS raises $1.5 billion in two US dollar bond tranches-term sheet",
+      "Url": "https://www.investing.com/news/stock-market-news/singapore-bank-dbs-raises-15-billion-in-two-us-dollar-bond-tranchesterm-sheet-3168162",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_L.jpg",
+      "PublishedAt": "2023-09-06T05:26:04Z",
+      "Content": "By Scott Murdoch and Yantoultra Ngui\r\nSYDNEY (Reuters) - Singapore's DBS Group (OTC:DBSDY) has raised $1.5 bln in two U.S. dollar bond tranches, according to a term sheet reviewed by Reuters.\r\nThe ba… [+825 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -23,11 +36,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
     },
     {
       "Source": {
@@ -36,11 +49,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--8zZkLsbd--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-23t114830z_1_lynxmpej7m0hv_rtroptp_3_pakistan-economy-rupee.jpg?itok=NfO7s2z3",
       "PublishedAt": "2023-08-23T11:48:30Z",
       "Content": "KARACHI, Pakistan : Pakistan's rupee closed at 299.6 against the U.S. dollar on Wednesday in the interbank market, touching a record low for the second day in a row, central bank data showed. \r\nOn Tu… [+133 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "The Associated Press",
-      "Title": "Dollar Tree and Family Dollar given two years to fix 'entirely preventable' violations and hazards compromising worker safety",
-      "Description": "U.S. regulators announced a settlement with the company that runs Dollar Tree and Family Dollar aimed at improving worker safety at thousands of the bargain stores across the country.",
-      "Url": "https://fortune.com/2023/08/23/dollar-tree-family-dollar-worker-safety/",
-      "UrlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/GettyImages-1616288202-e1692785878897.jpg?resize=1200,600",
-      "PublishedAt": "2023-08-23T10:19:25Z",
-      "Content": "U.S. regulators on Wednesday announced a settlement with the company that runs Dollar Tree and Family Dollar aimed at improving worker safety at thousands of the bargain stores across the country.Lab… [+2401 chars]"
     }
   ]
 }
