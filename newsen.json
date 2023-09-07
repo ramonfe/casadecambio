@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": "new-scientist",
+        "Name": "New Scientist"
+      },
+      "Author": "Simon Ings",
+      "Title": "Billion Dollar Heist review: How cybercriminals hit Bangladeshi bank",
+      "Description": "A sophisticated attack on Bangladesh Bank left the world reeling as it became clear that the world's largest bank, the Federal Reserve Bank of New York, was powerless to stop all of it. A smart documentary shows how state-sponsored cybercriminals are for hire…",
+      "Url": "https://www.newscientist.com/article/mg25934550-700-billion-dollar-heist-review-how-cybercriminals-hit-bangladeshi-bank/",
+      "UrlToImage": "https://images.newscientist.com/wp-content/uploads/2023/09/04131321/SEI_169382993.jpg",
+      "PublishedAt": "2023-09-06T18:00:00Z",
+      "Content": "Storybook graphics and leading experts create a chilling docudrama\r\nUniversal Pictures\r\nBillion Dollar HeistDaniel GordonAvailable to stream\r\nON 4 February 2016, after a year of using malware to scru… [+383 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -49,11 +62,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
     },
     {
       "Source": {
@@ -62,11 +75,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/Bv5gwV3e56NxijVfXnpfAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/b85e44969294a174b26c131965638ac6",
       "PublishedAt": "2023-08-23T12:00:17Z",
       "Content": "You already know shopping at Dollar Tree can save you money, but it can actually save more thank you think.\r\nIf you currently view the store as a way to cut costs on largely disposable, single-use it… [+4022 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Pakistan rupee hits record low against US dollar - Central Bank",
-      "Description": "Pakistan rupee hits record low against US dollar - Central Bank",
-      "Url": "https://www.investing.com/news/forex-news/pakistan-rupee-hits-record-low-against-us-dollar--central-bank-3159797",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB2U113_L.jpg",
-      "PublishedAt": "2023-08-23T11:51:18Z",
-      "Content": "KARACHI, Pakistan (Reuters) - Pakistan's rupee closed at 299.6 against the U.S. dollar on Wednesday in the interbank market, touching a record low for the second day in a row, central bank data showe… [+134 chars]"
     }
   ]
 }
