@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY miércoles 6 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de septiembre el tipo de cambio interbancario, se ubica en 17.52 pesos por unidad, con una ganancia de 0.63 por ciento, según datos de Bloomberg.El peso mexicano se depreciab…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-septiembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-09-06T11:00:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de septiembre el tipo de cambiointerbancario, se ubica en 17.52 pesos por unidad, con una ganancia de 0.63 por cie… [+798 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/svPjpq5OM0jNynSBp2QdubH4QUI=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YHX2UUOB5BG3DJLQDANKPFTKQU.jpg",
       "PublishedAt": "2023-08-25T14:01:05Z",
       "Content": "Este viernes 25 de agosto, el precio del dólar en México es de $16,8077, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un p… [+2100 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso inicia con ventaja frente al dólar: Se cotiza en 16.77 unidades este jueves",
-      "Description": "La moneda mexicana se aprecia por momentos este jueves, buscando registrar su sexta sesión con ganancias.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/24/peso-dolar-precio-hoy-24-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/rCNOCrsJ4wjIt84qoIBVWZPYpAo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QSOIKUYW5JAXBBZZH2GPNYBOUQ.jpg",
-      "PublishedAt": "2023-08-24T15:54:07Z",
-      "Content": "Con las miradas de los inversionistas puestas en el simposio de Jackson Hole, así como las señales que pueda dar el presidente de la Reserva Federal, Jerome Powell, la moneda mexicana se aprecia por … [+1779 chars]"
     }
   ]
 }
