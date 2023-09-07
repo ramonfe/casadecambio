@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 44,
+  "TotalResults": 46,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
+      "PublishedAt": "2023-09-06T00:48:00Z",
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
+      "PublishedAt": "2023-09-06T00:48:00Z",
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--sXU1ZPzM--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/23/Su Haijin and Wang Dehai.png?itok=97IPDPD5",
       "PublishedAt": "2023-08-23T06:36:01Z",
       "Content": "SINGAPORE: A man who jumped off a second-floor balcony and hid in a drain during a police raid as part of a S$1 billion (US$736 million) money laundering probe suffered multiple fractures.\r\nOn Wednes… [+2010 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Man who jumped off balcony hospitalised with multiple fractures",
-      "Description": "Su Haijin faces one charge of resisting arrest by refusing to open the door of his room during a police raid.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-money-laundering-case-su-haijin-jumped-balcony-hospital-multiple-fractures-3718046",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--sXU1ZPzM--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/23/Su Haijin and Wang Dehai.png?itok=97IPDPD5",
-      "PublishedAt": "2023-08-23T06:36:00Z",
-      "Content": "SINGAPORE: A man who jumped off a second-floor balcony and hid in a drain during a police raid as part of a S$1 billion (US$736 million) money laundering probe was hospitalised with multiple fracture… [+2018 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "J. Christopher Giancarlo, Daniel Gorfine",
-      "Title": "3 keys to ensuring the U.S. maintains dollar primacy in the age of digital money",
-      "Description": "A digital dollar could serve Americans, and people the world over, who aspire to financial autonomy and inclusion consistent with basic human rights.",
-      "Url": "https://fortune.com/crypto/2023/08/22/3-keys-to-ensuring-dollar-primacy-digital-money-cbdc/",
-      "UrlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/digital-dollar-cbdcs-3-key-things-e1692643175982.jpg?resize=1200,600",
-      "PublishedAt": "2023-08-22T09:30:00Z",
-      "Content": "The 15th BRICS summit is set to begin Tuesday in South Africa. According to reports, Brazil, Russia, India, China, and South Africa, and possibly more participants, are exploring a new joint currency… [+6356 chars]"
     }
   ]
 }
