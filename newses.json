@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Cuarto tropiezo al hilo del peso, cerró a 17.4299 por dólar spot",
+      "Description": "Ante señales de debilidad económica en Asia y en Europa, así como la decisión de Arabia Saudita, líder de la Organización de Países Exportadores de Petróleo (OPEP), de prolongar los recortes de producción, el dólar se fortaleció de manera general y llevó al p…",
+      "Url": "https://www.jornada.com.mx/2023/09/06/economia/021n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2023/09/06/fotos/021n1eco-1.jpg",
+      "PublishedAt": "2023-09-06T11:08:06Z",
+      "Content": "Periódico La JornadaMiércoles 6 de septiembre de 2023, p. 21\r\nAnte señales de debilidad económica en Asia y en Europa, así como la decisión de Arabia Saudita, líder de la Organización de Países Expor… [+3085 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/531/5530587.jpg&ang=0",
       "PublishedAt": "2023-08-25T23:02:54Z",
       "Content": "El tipo de cambio se vendió a 17.18 unidades en ventanillas de Citibanamex. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 25 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 25 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-25-de-agosto-nid25082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/svPjpq5OM0jNynSBp2QdubH4QUI=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YHX2UUOB5BG3DJLQDANKPFTKQU.jpg",
-      "PublishedAt": "2023-08-25T14:01:05Z",
-      "Content": "Este viernes 25 de agosto, el precio del dólar en México es de $16,8077, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un p… [+2100 chars]"
     }
   ]
 }
