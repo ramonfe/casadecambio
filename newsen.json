@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 48,
+  "TotalResults": 49,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "2 men in billion-dollar money laundering case denied bail after judge deems them 'high flight risk'",
+      "Description": "Wang Baosen and Su Baolin's lawyers unsuccessfully argued for their clients to be released.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-wang-baosen-su-baolin-denied-bail-flight-risk-3749696",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--9SJPe6xD--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/Moneylaundering suspects Wang Baosen Su Baolin CNA.png?itok=FYOLqz7D",
+      "PublishedAt": "2023-09-06T09:15:15Z",
+      "Content": "ARGUMENTS FOR WANG BAOSEN \r\nIn arguing that Wang - who has been remanded for 22 days - ought to be released on bail, the Chinese national's lawyer Adrian Wee objected to three main points raised in t… [+3988 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -36,11 +49,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
     },
     {
       "Source": {
@@ -49,11 +62,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB2U113_L.jpg",
       "PublishedAt": "2023-08-23T11:51:18Z",
       "Content": "KARACHI, Pakistan (Reuters) - Pakistan's rupee closed at 299.6 against the U.S. dollar on Wednesday in the interbank market, touching a record low for the second day in a row, central bank data showe… [+134 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Pakistan rupee hits record low against US dollar - Central Bank",
-      "Description": "KARACHI, Pakistan : Pakistan's rupee closed at 299.6 against the U.S. dollar on Wednesday in the interbank market, touching a record low for the second day in a row, central bank data showed. On Tuesday, the rupee weakened to 299 against the dollar. On Wednes…",
-      "Url": "https://www.channelnewsasia.com/business/pakistan-rupee-hits-record-low-against-us-dollar-central-bank-3718876",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--8zZkLsbd--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-08-23t114830z_1_lynxmpej7m0hv_rtroptp_3_pakistan-economy-rupee.jpg?itok=NfO7s2z3",
-      "PublishedAt": "2023-08-23T11:48:30Z",
-      "Content": "KARACHI, Pakistan : Pakistan's rupee closed at 299.6 against the U.S. dollar on Wednesday in the interbank market, touching a record low for the second day in a row, central bank data showed. \r\nOn Tu… [+133 chars]"
     }
   ]
 }
