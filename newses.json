@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre con leve baja por señales desde el Banco Central y pese a caída del cobre por China",
+      "Description": "Las señales que entregó el IPoM el miércoles mejoraron las perspectivas de retornos del peso chileno a través de depósitos.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoynl3",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230907/imag/foto_0000000420230907082952/nedret-binici-fyGNt4cDUeA-unsplash.jpg",
+      "PublishedAt": "2023-09-07T11:51:00Z",
+      "Content": "El dólar abrió con una leve caída este jueves, atento al negativo informe de comercio exterior de China que arrastró al yuan a su posición más débil en 16 años frente a la divisa estadounidense, pero… [+1704 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/CL71xf-z0foirGubmCc3KUgfXjg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FT6YQKETA5BKJHT2L7MPQRG6JM.jpg",
       "PublishedAt": "2023-08-28T16:02:55Z",
       "Content": "El peso mexicano abre este lunes con ganancias frente al dólar debido al optimismo en los mercados, esto después de que China impulsó más medidas para apoyar la economía, lo que mantiene el apetito p… [+1443 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 28 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 28 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-28-de-agosto-nid28082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/zsuGQbpiWErVIpHwGuGVhOjZkBY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JMRLISQGVJGX7EP3JM2UX2JIRE.jpg",
-      "PublishedAt": "2023-08-28T14:15:44Z",
-      "Content": "Este lunes 28 de agosto, el precio del dólar en México es de $16,7718, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+2129 chars]"
     }
   ]
 }
