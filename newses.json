@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 7 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 7 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-7-de-septiembre-nid07092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-7-de-OV4SUQQFUVGGRG2RF7AFKGIK5E.jpg?auth=d884823094e8048798ff3f53817735b57855593114e6fb5f9c00542781e94a46&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-07T14:21:31Z",
+      "Content": "Este jueves 7 de septiembre, el precio del dólar en México es de $17,5805, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2036 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
       "PublishedAt": "2023-08-29T11:05:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de agosto el tipo de cambiointerbancario, se ubica en 16.77 pesos por unidad, con una pérdida de 0.08 por ciento,… [+813 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso va ‘a la escuela’ con ganancias frente al dólar: Se cotiza en las 16.71 unidades",
-      "Description": "Gabriela Siller, directora de análisis económico en Banco Base, señaló que es posible que el peso alcance un nuevo mínimo durante esta semana.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/28/peso-dolar-precio-hoy-28-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/CL71xf-z0foirGubmCc3KUgfXjg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FT6YQKETA5BKJHT2L7MPQRG6JM.jpg",
-      "PublishedAt": "2023-08-28T16:02:55Z",
-      "Content": "El peso mexicano abre este lunes con ganancias frente al dólar debido al optimismo en los mercados, esto después de que China impulsó más medidas para apoyar la economía, lo que mantiene el apetito p… [+1443 chars]"
     }
   ]
 }
