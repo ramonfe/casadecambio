@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Felipe Gazcón",
+      "Title": "Peso pone un alto a rally de pérdidas con el dólar: Se cotiza en las 17.54 unidades",
+      "Description": "El peso mexicano reaccionó favorablemente a los datos más recientes de la economía de EU y de la inflación en México.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/07/peso-dolar-precio-hoy-7-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/nvUFvy_bkiwfwFKb0EydzU1-fJY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4RAHVMIMZNDBFMT5O2M4SHTUBI.jpg",
+      "PublishedAt": "2023-09-07T15:41:44Z",
+      "Content": "El peso mexicano pone un alto a su rally de pérdidas frente al dólar después de que este miércoles se dio a conocer el dato más reciente de la inflación en México.\r\nDe acuerdo con datos de Bloomberg,… [+2345 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-29-de-ANBGMTZRW5DYFM5V5N767HZENU.jpg?auth=24bf0d887095b456e11269083ad1585ba8a76974d0ba500823e88c90dca14864&width=768&quality=70&smart=false",
       "PublishedAt": "2023-08-29T14:33:18Z",
       "Content": "Este martes 29 de agosto, el precio del dólar en México es de $16,7432, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pr… [+1951 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY martes 29 de agosto de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de agosto el tipo de cambio interbancario, se ubica en16.77pesos por unidad, con una pérdida de0.08por ciento, según datos de Bloomberg.El peso mexicano mostraba movimientos…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-agosto-2023-cual-es-tipo-cambio-mexico",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2023-08-29T11:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de agosto el tipo de cambiointerbancario, se ubica en 16.77 pesos por unidad, con una pérdida de 0.08 por ciento,… [+813 chars]"
     }
   ]
 }
