@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso alargó racha perdedora; cierra en 17.5704 por dólar",
+      "Description": "La aversión al riesgo de los inversionistas siguió fortaleciendo el dólar. El sesgo negativo hacia los activos se desprende de la idea de que los bancos centrales, incluida la Reserva Federal (Fed), no tendrán más remedio que mantener sus políticas monetarias…",
+      "Url": "https://www.jornada.com.mx/2023/09/07/economia/023n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/2023/09/07/fotos/023n3eco-1.jpg",
+      "PublishedAt": "2023-09-07T10:31:13Z",
+      "Content": "Periódico La JornadaJueves 7 de septiembre de 2023, p. 23\r\nLa aversión al riesgo de los inversionistas siguió fortaleciendo el dólar. El sesgo negativo hacia los activos se desprende de la idea de qu… [+2906 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/zsuGQbpiWErVIpHwGuGVhOjZkBY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JMRLISQGVJGX7EP3JM2UX2JIRE.jpg",
       "PublishedAt": "2023-08-28T14:15:44Z",
       "Content": "Este lunes 28 de agosto, el precio del dólar en México es de $16,7718, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+2129 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Redacción",
-      "Title": "AMLO presume el fortalecimiento del peso frente al dólar",
-      "Description": "El presidente Andrés Manuel López Obrador destacó la fortaleza que ha tenido el peso mexicano frente al dólar, al señalar que es la única moneda en el mundo que más se ha fortalecido en ese rubro.\"Les presumo para orgullo de todos. La economía está creciendo.…",
-      "Url": "https://www.milenio.com/politica/amlo-presume-fortalecimiento-peso-frente-dolar",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/27/presidente-lanzo-spot-previo-quinto.jpg",
-      "PublishedAt": "2023-08-27T19:40:17Z",
-      "Content": "El presidente Andrés Manuel López Obrador destacó la fortaleza que ha tenido el peso mexicano frente al dólar, al señalar que es la única moneda en el mundo que más se ha fortalecido en ese rubro.\r\n\"… [+1021 chars]"
     }
   ]
 }
