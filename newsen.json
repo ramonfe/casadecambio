@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "24/7 Wall St."
+      },
+      "Author": "Lee Jackson",
+      "Title": "Friday’s Top Analyst Upgrades and Downgrades: Bank of America, Dell, Dollar General, Goldman Sachs, Home Depot, Lowe’s, McDonald’s, Roku, Seagate and More",
+      "Description": "Friday's top analyst upgrades and downgrades included Bank of America, Cloudflare, Crocs, Dell Technologies, Dollar General, Flex, Goldman Sachs, Home Depot, Lowe's Companies, McDonald's, Roku and Seagate Technology.",
+      "Url": "https://247wallst.com/investing/2023/09/08/fridays-top-analyst-upgrades-and-downgrades-bank-of-america-cloudflare-dell-technologies-dollar-general-flex-goldman-sachs-home-depot-lowes-companies-mcdonalds-roku-seagate-technology/",
+      "UrlToImage": "https://247wallst.com/wp-content/uploads/2022/09/imageForEntry1-lpX.jpg",
+      "PublishedAt": "2023-09-08T12:47:27Z",
+      "Content": "The futures traded lower as investors get ready to end the holiday-shortened trading week that has proven to live up to the September worst month of the year title so far. All the major indexes close… [+3692 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.huffingtonpost.com/asset/64e61f382000003100f6051f.jpeg?ops=1200_630",
       "PublishedAt": "2023-08-23T15:47:16Z",
       "Content": "After being fined repeatedly for workplace safety violations in recent years, discount retailers Dollar Tree and Family Dollar have reached an agreement with federal regulators to address what inspec… [+3929 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "Rouble recovers to 94 vs dollar as finance ministry holds OFZ auctions",
-      "Description": "(marketscreener.com) The rouble pared early losses and\nfirmed to 94 against the dollar as the finance ministry held OFZ\ntreasury bond auctions on Wednesday, with the Russian currency\ntipped to benefit from a favourable month-end tax period.\n By 1325 GMT, the …",
-      "Url": "https://www.marketscreener.com/quote/currency/US-DOLLAR-RUSSIAN-ROUBL-2370597/news/Rouble-recovers-to-94-vs-dollar-as-finance-ministry-holds-OFZ-auctions-44679975/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2023-08-23T13:35:20Z",
-      "Content": "Aug 23 (Reuters) - The rouble pared early losses and\r\nfirmed to 94 against the dollar as the finance ministry held OFZ\r\ntreasury bond auctions on Wednesday, with the Russian currency\r\ntipped to benef… [+2069 chars]"
     }
   ]
 }
