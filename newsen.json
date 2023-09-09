@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Property agents pay more heed to compliance checks after massive billion-dollar money laundering case",
+      "Description": "SINGAPORE: Property agents are paying more attention to compliance checks in the wake of a S$1.8 billion (US$1.32 billion) money laundering case making headlines in Singapore",
+      "Url": "https://www.channelnewsasia.com/singapore/money-laundering-property-compliance-checks-3755136",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s---4yLdd5q--/c_crop,h_1191,w_2118,x_0,y_234/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2021/11/22/day_view_of_canninghill_piers_from_singapore_river.jpg?itok=rK5SNOra",
+      "PublishedAt": "2023-09-08T06:50:04Z",
+      "Content": "In August, news broke that more than S$1 billion in assets had been seized or frozen and 10 suspects arrested in a massive money laundering crackdown.\r\nThese assets, which have since ballooned in val… [+1308 chars]"
+    },
     {
       "Source": {
         "Id": "new-scientist",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
       "PublishedAt": "2023-08-23T13:35:20Z",
       "Content": "Aug 23 (Reuters) - The rouble pared early losses and\r\nfirmed to 94 against the dollar as the finance ministry held OFZ\r\ntreasury bond auctions on Wednesday, with the Russian currency\r\ntipped to benef… [+2069 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Jennifer Taylor",
-      "Title": "5 Things You Can Buy at Dollar Tree That Will Actually Save You Money Long-Term",
-      "Description": "You already know shopping at Dollar Tree can save you money, but it can actually save more thank you think. If you currently view the store as a way to cut...",
-      "Url": "https://finance.yahoo.com/news/5-things-buy-dollar-tree-120017840.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/Bv5gwV3e56NxijVfXnpfAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/b85e44969294a174b26c131965638ac6",
-      "PublishedAt": "2023-08-23T12:00:17Z",
-      "Content": "You already know shopping at Dollar Tree can save you money, but it can actually save more thank you think.\r\nIf you currently view the store as a way to cut costs on largely disposable, single-use it… [+4022 chars]"
     }
   ]
 }
