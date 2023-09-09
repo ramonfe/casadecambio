@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "George Glover",
+      "Title": "Oil, the dollar, and the Fed still pose a triple threat to the US economy, Bank of America says",
+      "Description": "Don't rule out a hard landing for the US economy just yet, a team of strategists led by Michael Hartnett said.",
+      "Url": "https://www.businessinsider.com/recession-economy-hard-landing-oil-dollar-federal-reserve-bofa-hartnett-2023-9",
+      "UrlToImage": "https://i.insider.com/64fb2c66a39a1b00190bb581?width=1200&format=jpeg",
+      "PublishedAt": "2023-09-08T14:47:25Z",
+      "Content": "Key oil benchmarks spiked to 10-month highs this week – and that's a threat to the US economy, Bank of America strategists have warned.Neil Kremer\r\n<ul>\n<li>Don't rule out a hard landing for the US e… [+2598 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "24/7 Wall St."
       },
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
       "PublishedAt": "2023-08-24T04:51:03Z",
       "Content": "Part of a bigger push to help assuage the pain of sourcing the greenback, which is in limited supply in Nigeria, the drive is focusing on firms earning foreign exchange and those based within Nigeria… [+2785 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Dave Jamieson",
-      "Title": "Dollar Tree, Family Dollar Agree To Fix Store Hazards After Slew Of Fines",
-      "Description": "The Occupational Safety and Health Administration says it reached an accord on safety to address blocked fire exits and other dangers.",
-      "Url": "https://www.huffpost.com/entry/dollar-tree-family-dollar-agreement-osha_n_64e61c8fe4b0a04c2ed7da85",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/64e61f382000003100f6051f.jpeg?ops=1200_630",
-      "PublishedAt": "2023-08-23T15:47:16Z",
-      "Content": "After being fined repeatedly for workplace safety violations in recent years, discount retailers Dollar Tree and Family Dollar have reached an agreement with federal regulators to address what inspec… [+3929 chars]"
     }
   ]
 }

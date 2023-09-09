@@ -6,6 +6,32 @@
     {
       "Source": {
         "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Felipe Gazcón",
+      "Title": "Comentarios de la Fed ‘alivianan’ al peso: Se cotiza en 17.52 unidades frente al dólar",
+      "Description": "En ventanillas bancarias, el dólar se cotiza en 17.93 pesos por billete verde, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/08/peso-dolar-precio-hoy-8-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Y2p4PyYjBwLNfKW5Ymr3U6npJqA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LOICISAQRRBHNB7BCF3PHSTZ2M.jpg",
+      "PublishedAt": "2023-09-08T14:50:32Z",
+      "Content": "El peso mexicano inicia la sesión de este viernes con ganancias frente al dólar en medio de declaraciones con un tono menos restrictivo de funcionarios de la Fed, junto con una reducción del pesimism… [+2102 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 8 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 8 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-8-de-septiembre-nid08092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-8-de-ANBGMTZRW5DYFM5V5N767HZENU.jpg?auth=24bf0d887095b456e11269083ad1585ba8a76974d0ba500823e88c90dca14864&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-08T14:04:58Z",
+      "Content": "Este viernes 8 de septiembre, el precio del dólar en México es de $17,5543,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2173 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Milenio"
       },
       "Author": "Milenio Digital",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2023-08-30T11:00:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 de agosto el tipo de cambiointerbancario, se ubica en 16.77 pesos por unidad, con una pérdida de 0.12 por ciento,… [+767 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso cede terreno: cierra en 16.7936 unidades por dólar",
-      "Description": "Pese a que el dólar se depreció a nivel internacional, el peso no logró reponerse de su arranque negativo y terminó con una depreciación de 0.13 por ciento, para cerrar en 16.7936 unidades por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2023/08/30/economia/017n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-08-30T09:42:56Z",
-      "Content": "Periódico La JornadaMiércoles 30 de agosto de 2023, p. 17\r\nPese a que el dólar se depreció a nivel internacional, el peso no logró reponerse de su arranque negativo y terminó con una depreciación de … [+2506 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso amanece con el ‘pie izquierdo’ frente al dólar: Se cotiza en las 16.83 unidades",
-      "Description": "En ventanillas bancarias el precio del billete verde es de 17.26 pesos cada uno, según información de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/29/peso-dolar-precio-hoy-29-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/4z4hIqr4v1ZWt0gm6fbX-pp-90k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DE4IXEE7SFAH7PHEA2OZ3EFA5M.jpg",
-      "PublishedAt": "2023-08-29T15:26:10Z",
-      "Content": "El peso se mantiene marcando retrocesos, después de una revisión a la baja del PIB de México del segundo trimestre, ya que a tasa anual el crecimiento pasó de 3.57 a 3.56 por ciento. Además, los inve… [+1719 chars]"
     }
   ]
 }
