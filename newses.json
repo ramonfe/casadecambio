@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sputniknews.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "\"La economía no tiene buena pinta\": el euro pierde terreno frente al dólar",
+      "Description": "Desde mediados de julio, el euro ha perdido el 5% para cotizar a 1,07 dólares, lo que representa ocho semanas seguidas de pérdidas frente a la moneda del país norteamericano, en un momento en que el sector manufacturero europeo está profundamente debilitado y…",
+      "Url": "https://sputniknews.lat/20230909/la-economia-no-tiene-buena-pinta-el-euro-pierde-terreno-frente-al-dolar--1143511433.html",
+      "UrlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1143511433.jpg?11364713891694229854",
+      "PublishedAt": "2023-09-09T03:23:46Z",
+      "Content": "\"La economía no tiene buena pinta, y eso debería traer más desinflación\", comentó Dirk Schumacher, antiguo empleado del BCE que ahora trabaja como economista en el banco francés Natixis, a Financial … [+5 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-30-de-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
       "PublishedAt": "2023-08-30T14:27:43Z",
       "Content": "Este miércoles 30 de agosto, el precio del dólar en México es de $16,8402, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2058 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Anyi Ospino Ríos",
-      "Title": "Tipo de cambio del dólar: miércoles 30 de agosto",
-      "Description": "Tipo de cambio de referencia del Banco Central de Costa Rica, y precios de compra y venta por ventanilla anunciados por los intermediarios financieros",
-      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-miercoles-30-de-agosto/PXD4E7KMCFFHVP2L4ULJYU5Y6I/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/kQIdd21dhzTwQVCP7ib_Y0WNnHA=/1440x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/YVFTSGLPZNGRRMP2WYT566LKNY.png",
-      "PublishedAt": "2023-08-30T13:54:27Z",
-      "Content": "En beneficio de la transparencia y para evitar distorsiones del debate público por medios informáticos o aprovechando el anonimato, la sección de comentarios está reservada para nuestros suscriptores… [+170 chars]"
     }
   ]
 }
