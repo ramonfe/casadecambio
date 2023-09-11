@@ -8,15 +8,6 @@
 			"prev_sell": 17.65,
 			"prev_buy": 15.95
 		},
-    {
-      "bank_id": 2,
-      "bank_name": "BANAMEX",
-      "buy": 16.95,
-      "sell": 17.87,
-      "date": "2023-09-11 07:45:23",
-      "prev_buy": 16.96,
-      "prev_sell": 17.93
-    },
 		{
 			"bank_id": 15,
 			"bank_name": "BANJERCITO",
