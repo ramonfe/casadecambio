@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Exclusive-China's central bank to peruse bulk dollar purchases - sources",
+      "Description": "Exclusive-China's central bank to scrutinise bulk dollar purchases - sources",
+      "Url": "https://www.investing.com/news/economy/exclusivechinas-central-bank-to-peruse-bulk-dollar-purchases--sources-3171365",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
+      "PublishedAt": "2023-09-11T09:06:04Z",
+      "Content": "BEIJING/SHANGHAI (Reuters) -China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time whe… [+1886 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Reuters",
+      "Title": "Exclusive-China's central bank to peruse bulk dollar purchases - sources",
+      "Description": "China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday,...",
+      "Url": "https://finance.yahoo.com/news/exclusive-chinas-central-bank-peruse-090142572.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/d81091a6e90835560c6062d7814d5cd5",
+      "PublishedAt": "2023-09-11T09:01:42Z",
+      "Content": "BEIJING/SHANGHAI (Reuters) - China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time wh… [+679 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -140,11 +166,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
     },
     {
       "Source": {
@@ -153,11 +179,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
     },
     {
       "Source": {
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
       "PublishedAt": "2023-08-28T06:41:11Z",
       "Content": "South Africa's finance minister, who also leads his counterparts in Brazil, Russia, India and China, believes that the mooted development of a BRICS common currency is a non-starter. The US dollar st… [+1272 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Top US Crypto Exchange Coinbase Adds PayPal’s Dollar-Backed Stablecoin PYUSD to Listing Roadmap",
-      "Description": "Coinbase has placed PayPal’s new stablecoin on its listing roadmap, meaning the exchange’s users could soon trade the digital asset. The stablecoin, called PayPal USD (PYUSD), aims to maintain a 1:1 peg with the US dollar and is built on Ethereum (ETH). PayPa…",
-      "Url": "https://dailyhodl.com/2023/08/26/top-us-crypto-exchange-coinbase-adds-paypals-dollar-backed-stablecoin-pyusd-to-listing-roadmap/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/08/top-adds-pyusd.jpg",
-      "PublishedAt": "2023-08-27T00:00:37Z",
-      "Content": "Coinbase has placed PayPal’s new stablecoin on its listing roadmap, meaning the exchange’s users could soon trade the digital asset.\r\nThe stablecoin, called PayPal USD (PYUSD), aims to maintain a 1:1… [+1429 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Straits Times"
-      },
-      "Author": "Joyce Lim",
-      "Title": "Billion-dollar money laundering case: CEA investigating agents over property transactions",
-      "Description": "At least two real estate agencies have reported transactions or activities to the CAD since the Aug 15 blitz. Read more at straitstimes.com.",
-      "Url": "https://www.straitstimes.com/singapore/billion-dollar-money-laundering-case-cea-investigating-agents-over-property-transactions",
-      "UrlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/25/2020111268658759fc6128ca-43d9-47ec-a8d9-02f51cf0e9d3.jpg",
-      "PublishedAt": "2023-08-25T13:40:00Z",
-      "Content": "SINGAPORE - The Council for Estate Agencies (CEA) is investigating property agents who might have facilitated property transactions relating to the recent money laundering case that involved about $1… [+1970 chars]"
     }
   ]
 }
