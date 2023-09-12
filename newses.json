@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso aprovecha ‘metida de pata’ del dólar: Se cotiza en las 17.46 unidades",
+      "Description": "En ventanilla bancaria, el dólar se cotiza en los 18.03 pesos por billete verde, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/11/peso-dolar-precio-hoy-11-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/i3J2Atka449Qp9IC9KWSs5LHQ_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QKDY5XQ7YBBG5IZZFSINDYCWL4.jpg",
+      "PublishedAt": "2023-09-11T14:14:48Z",
+      "Content": "El peso mexicano aprovecha el mal desempeño del dólar en los mercados para abrir la semana con ganancias.\r\nDe acuerdo con datos de Bloomberg, la moneda nacional se aprecia 0.70 por ciento, por lo que… [+2155 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 11 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 11 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-11-de-septiembre-nid11092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-11-de-CS7Z7DQSXBCZLADQAG7KRGSDRU.jpg?auth=ea12f006d980257247de5ede76152d36594a81ecf3d788886223c2f6a4beaa1e&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-11T14:10:27Z",
+      "Content": "Este lunes 11 de septiembre, el precio del dólar en México es de $17,5757, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2056 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/542/5541821.jpg&ang=0",
       "PublishedAt": "2023-08-31T23:55:28Z",
       "Content": "En ventanillas de Citibanamex, el tipo de cambio subió 27 centavos a 17.47 pesos en la venta, y a 16.47 en la compra. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 31 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 31 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-31-de-agosto-nid31082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-31-de-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-08-31T14:36:16Z",
-      "Content": "Este jueves 31 de agosto, el precio del dólar en México es de $16,7477 de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+1994 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘aprovecha’ datos de economía de EU para avanzar vs. el dólar: Se cotiza en 16.76 unidades",
-      "Description": "En ventanilla bancaria, el dólar se vende en 17.20 pesos por billete verde, de acuerdo con Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/08/30/peso-dolar-precio-hoy-30-de-agosto-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/khuSUr5GgDaRaXlgYkTDzNHQ8eM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SPD4YS5ONBGZICOT6QLZ5FBXA.jpg",
-      "PublishedAt": "2023-08-30T15:15:06Z",
-      "Content": "El peso mexicano se acerca al cierre de mes con avances frente al dólar. esto tras la publicación de datos económicos en EU menores de lo estimado.\r\nEntre esas cifras está una revisión a la baja del … [+1396 chars]"
     }
   ]
 }

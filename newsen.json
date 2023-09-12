@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "Sam Reynolds",
+      "Title": "Maple Finance Nearly Imploded, but Sid Powell Wants to Bring Back Its Billion Dollar-Plus Glory",
+      "Description": "Last year’s crypto crash wiped out Maple Finance’s TVL as borrowers crumbled and lenders fled. In an interview with CoinDesk, the protocol’s co-founder and CEO lays out his plan for growth in an era of heightened risk management.",
+      "Url": "https://www.coindesk.com/markets/2023/09/11/maple-finance-nearly-imploded-but-sid-powell-wants-to-bring-back-its-billion-dollar-plus-glory/",
+      "UrlToImage": "https://www.coindesk.com/resizer/zQuIgoNbFApq9b4qSXbIvRomeW4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GES4DHA7WRB4RA5OMDS2YEBWUU.jpg",
+      "PublishedAt": "2023-09-11T14:07:57Z",
+      "Content": "KOREA BLOCKCHAIN WEEK, SEOUL At the height of the bull market in late 2021, Maple Finance, a crypto lending protocol, thought it had the hottest product on the market: a way for token-skeptical insti… [+3038 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forumcomm.com/dims4/default/8705dde/2147483647/strip/true/crop/5416x3611+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe9%2F60%2Fdfc55df548e0890efaf2b16d0047%2Fmarshall-grams-3.jpg",
       "PublishedAt": "2023-08-28T18:50:00Z",
       "Content": "This profile and Q&amp;A is a part of St. Cloud LIVE's Emerging Leaders series, highlighting young, local business leaders who received a nomination for their work.\r\nAge: 33Hometown: Little FallsComp… [+4379 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "AllAfrica - Top Africa News"
-      },
-      "Author": null,
-      "Title": "South Africa: Unseating the Mighty Dollar Is a Non-Starter - Finance Minister",
-      "Description": "[Daily Maverick] South Africa's finance minister, who also leads his counterparts in Brazil, Russia, India and China, believes that the mooted development of a BRICS common currency is a non-starter. The US dollar still has a firm place in the global economy.",
-      "Url": "https://allafrica.com/stories/202308280063.html",
-      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "PublishedAt": "2023-08-28T06:41:11Z",
-      "Content": "South Africa's finance minister, who also leads his counterparts in Brazil, Russia, India and China, believes that the mooted development of a BRICS common currency is a non-starter. The US dollar st… [+1272 chars]"
     }
   ]
 }
