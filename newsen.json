@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "AllAfrica - Top Africa News"
+      },
+      "Author": "radiodabanga@gmail.com (Dabanga)",
+      "Title": "Dollar Exchange Rates Increase in Sudan",
+      "Description": "[Dabanga] Khartoum / Port Sudan -- The exchange rate of the US dollar against the Sudanese pound recorded a significant increase following a rise in the demand last week - while a sharp decrease in exports since war broke out in the country on April 15 has fu…",
+      "Url": "https://allafrica.com/stories/202309110089.html",
+      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "PublishedAt": "2023-09-11T07:36:34Z",
+      "Content": "Khartoum / Port Sudan — The exchange rate of the US dollar against the Sudanese pound recorded a significant increase following a rise in the demand last week - while a sharp decrease in exports sinc… [+2626 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -114,11 +127,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
     },
     {
       "Source": {
@@ -127,11 +140,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/a557d2853e664092cc818968c4e737d0?impolicy=wcms_crop_resize&cropH=528&cropW=939&xPos=0&yPos=48&width=862&height=485",
       "PublishedAt": "2023-08-24T20:24:56Z",
       "Content": "The 10 foreigners Singapore police arrested last week in a billion-dollar money laundering case were reported at the time to be citizens from a range of countries including China, Vanuatu, Cyprus, Tü… [+5767 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Grace Dean",
-      "Title": "Dollar Tree and Family Dollar stores will be given 48 hours to fix issues like blocked fire exits and towering stacks of boxes – or they'll be fined $100,000 a day",
-      "Description": "The discount stores have opened a 24-hour hotline for staff to report safety complaints, and will track calls to ensure the issues are addressed.",
-      "Url": "https://www.businessinsider.com/dollar-tree-family-dollar-safety-hazards-stores-storage-blocked-exit-2023-8",
-      "UrlToImage": "https://i.insider.com/64e73b6ea7adf7001906d7c5?width=1200&format=jpeg",
-      "PublishedAt": "2023-08-24T11:58:55Z",
-      "Content": "nullScott Olson/Getty Images\r\n<ul><li>Dollar Tree and Family Dollar stores must fix certain safety problems in 2 days or be fined by OSHA.</li><li>These include locked and blocked exits, obstructed f… [+3974 chars]"
     }
   ]
 }
