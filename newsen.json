@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "Publicnow",
+      "Title": "Aozora Bank : Issues Senior Unsecured U.S. Dollar-Denominated Green Bonds Listed on Overseas Market",
+      "Description": "(marketscreener.com) \n \n September 11, 2023\n \n \n Aozora Bank, Ltd.\n \n \n ＮＥＷＳ ＲＥＬＥＡＳＥ\n \n \n Aozora Issues Senior Unsecured\n \n \n U.S. Dollar-Denominated Green Bonds Listed on Overseas Market\n \n \n ...https://www.marketscreener.com/quote/stock/AOZORA-BANK-LTD-6499…",
+      "Url": "https://www.marketscreener.com/quote/stock/AOZORA-BANK-LTD-6499231/news/Aozora-Bank-Issues-Senior-Unsecured-U-S-Dollar-Denominated-Green-Bonds-Listed-on-Overseas-Market-44810941/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2023-09-11T06:07:01Z",
+      "Content": "September 11, 2023\r\nAozora Bank, Ltd.\r\nAozora Issues Senior Unsecured\r\nU.S. Dollar-Denominated Green Bonds Listed on Overseas Market\r\nTokyo September 11, 2023 Aozora Bank, Ltd. (President and CEO: Ke… [+5080 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.insider.com/64e73b6ea7adf7001906d7c5?width=1200&format=jpeg",
       "PublishedAt": "2023-08-24T11:58:55Z",
       "Content": "nullScott Olson/Getty Images\r\n<ul><li>Dollar Tree and Family Dollar stores must fix certain safety problems in 2 days or be fined by OSHA.</li><li>These include locked and blocked exits, obstructed f… [+3974 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "AllAfrica - Top Africa News"
-      },
-      "Author": null,
-      "Title": "Nigerian Exchange Proposes Dollar Securities for Companies Battling Forex Crunch",
-      "Description": "[Premium Times] Part of a bigger push to help assuage the pain of sourcing the greenback, which is in limited supply in Nigeria, the drive is focusing on firms earning foreign exchange and those based within Nigeria's special economic zones.",
-      "Url": "https://allafrica.com/stories/202308240018.html",
-      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "PublishedAt": "2023-08-24T04:51:03Z",
-      "Content": "Part of a bigger push to help assuage the pain of sourcing the greenback, which is in limited supply in Nigeria, the drive is focusing on firms earning foreign exchange and those based within Nigeria… [+2785 chars]"
     }
   ]
 }

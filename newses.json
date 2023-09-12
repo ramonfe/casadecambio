@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "S. Valdenegro y R. Lucero",
+      "Title": "Rosanna Costa, presidenta del Banco Central: “Esta alza reciente (del dólar) ha ido más allá de lo contemplado en las proyecciones del IPoM”",
+      "Description": "La economista califica como una buena noticia el bajo IPC del mes de agosto, pero advierte que la sorpresa podría revertirse en el corto plazo, debido al factor cambiario, entre otros.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/rosanna-costa-presidenta-del-banco-central-esta-alza-reciente-del",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230908/imag/foto_0000000120230908193801.jpg",
+      "PublishedAt": "2023-09-11T07:00:00Z",
+      "Content": "Rosanna Costa no para. A las horas que le dedicó a la difusión del Informe de Política Monetaria (IPoM) -miércoles antes el Senado y jueves ante empresarios y academia-, la presidenta del Banco Centr… [+14581 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/khuSUr5GgDaRaXlgYkTDzNHQ8eM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SPD4YS5ONBGZICOT6QLZ5FBXA.jpg",
       "PublishedAt": "2023-08-30T15:15:06Z",
       "Content": "El peso mexicano se acerca al cierre de mes con avances frente al dólar. esto tras la publicación de datos económicos en EU menores de lo estimado.\r\nEntre esas cifras está una revisión a la baja del … [+1396 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 30 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 30 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-30-de-agosto-nid30082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-30-de-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-08-30T14:27:43Z",
-      "Content": "Este miércoles 30 de agosto, el precio del dólar en México es de $16,8402, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2058 chars]"
     }
   ]
 }
