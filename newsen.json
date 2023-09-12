@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 51,
+  "TotalResults": 52,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "Reuters",
+      "Title": "China's central bank to peruse bulk dollar purchases - sources",
+      "Description": "(marketscreener.com) China's central\nbank is tightening its scrutiny of bulk dollar purchases by\ndomestic firms, three sources with direct knowledge of the\nmatter said on Monday, at a time when the Chinese currency faces\nmounting depreciation pressure.\n Compa…",
+      "Url": "https://www.marketscreener.com/news/latest/China-s-central-bank-to-peruse-bulk-dollar-purchases-sources--44812041/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2023-02/2023-02-07T114458Z_1_LYNXMPEJ160JL_RTROPTP_3_USA-CHINA.JPG",
+      "PublishedAt": "2023-09-11T08:58:55Z",
+      "Content": "BEIJING/SHANGHAI, Sept 11 (Reuters) - China's central\r\nbank is tightening its scrutiny of bulk dollar purchases by\r\ndomestic firms, three sources with direct knowledge of the\r\nmatter said on Monday, … [+693 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/08/25/2020111268658759fc6128ca-43d9-47ec-a8d9-02f51cf0e9d3.jpg",
       "PublishedAt": "2023-08-25T13:40:00Z",
       "Content": "SINGAPORE - The Council for Estate Agencies (CEA) is investigating property agents who might have facilitated property transactions relating to the recent money laundering case that involved about $1… [+1970 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "Will Jackson",
-      "Title": "Why did the suspects in a Singapore billion-dollar money laundering case have so many passports?",
-      "Description": "The 10 foreigners Singapore police arrested last week in a massive anti-money laundering operation were citizens of countries including China, Vanuatu, Cyprus, Türkiye and Cambodia. But it's since emerged they were all originally from the same place.",
-      "Url": "https://www.abc.net.au/news/2023-08-25/singapore-money-laundering-case-citizenships-passports/102767474",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/a557d2853e664092cc818968c4e737d0?impolicy=wcms_crop_resize&cropH=528&cropW=939&xPos=0&yPos=48&width=862&height=485",
-      "PublishedAt": "2023-08-24T20:24:56Z",
-      "Content": "The 10 foreigners Singapore police arrested last week in a billion-dollar money laundering case were reported at the time to be citizens from a range of countries including China, Vanuatu, Cyprus, Tü… [+5767 chars]"
     }
   ]
 }
