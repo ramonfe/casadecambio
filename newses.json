@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 12 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 12 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-12-de-septiembre-nid12092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-12-de-HYEMBKJX2FH3DCLGIGS26ICLIM.jpg?auth=d420745243bde133dfd6227c81ee77dc2af4b7c9900fde17d05808d20a6b537c&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-12T14:25:58Z",
+      "Content": "Este martes 12 de septiembre, el precio del dólar en México es de $17,3813, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en u… [+2075 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eluniversal.com.co"
+      },
+      "Author": "LA REPÚBLICA",
+      "Title": "Dólar hoy: leve alza de la moneda estadounidense por encima de $4.000",
+      "Description": "La moneda estadounidense abrió el primer día de cotización de la semana con leve alza a la expectativa de los datos de inflación en Estados Unidos.",
+      "Url": "https://www.eluniversal.com.co/economica/dolar-hoy-leve-alza-de-la-moneda-estadounidense-por-encima-de-4000-ME8987842",
+      "UrlToImage": "https://www.eluniversal.com.co/binrepository/1083x686/142c0/800d686/none/13704/PKNU/precio-del-dolar_8468532_20230912091823.jpg",
+      "PublishedAt": "2023-09-12T14:18:17Z",
+      "Content": "La moneda estadounidense abrió el primer día de cotización de la semana con leve alza a la expectativa de los datos de inflación en Estados Unidos.\r\nSegún datos de Set FX, el dólar comenzó la jornada… [+1753 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso tropieza ‘con la misma piedra’ frente al dólar: Se cotiza en las 17.35 unidades",
+      "Description": "El peso mexicano busca regresar al terreno de las 16 unidades después de experimentar un rally negativo que borró sus avances contra el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/12/peso-dolar-precio-hoy-12-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Zl3BuaUcHB1joicoHriCBOdFf6g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DQR2IQQ6ERDULO2IMIPLKD7C4U.jpg",
+      "PublishedAt": "2023-09-12T14:04:54Z",
+      "Content": "El peso mexicano regresa al terreno de las pérdidas frente al dólar mientras los inversionistas buscan evadir los activos de riesgo tras las noticias de la economía de China. \r\nDe acuerdo con datos d… [+1007 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/457/5456647.jpg&ang=0",
       "PublishedAt": "2023-09-01T23:29:29Z",
       "Content": "Este viernes, en ventanillas de Citibanamex, el dólar aumentó su valor cinco centavos a 17.52 unidades a la venta (ligó dos incrementos) y a 16.59 pesos a la compra. Crédito: AP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 1º de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 1º de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-1-de-septiembre-nid01092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-1o-de-OV4SUQQFUVGGRG2RF7AFKGIK5E.jpg?auth=d884823094e8048798ff3f53817735b57855593114e6fb5f9c00542781e94a46&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-01T14:29:37Z",
-      "Content": "Este viernes 1º de septiembre, el precio del dólar en México es de $16,917 de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2390 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY viernes 1 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de septiembre el tipo de cambio interbancario, se ubica en17.07pesos por unidad, con un alza de0.21por ciento, según datos de Bloomberg.El peso mexicano retrocedía ayer despu…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-1-septiembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-4.jpg",
-      "PublishedAt": "2023-09-01T11:11:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 1 de septiembre el tipo de cambiointerbancario, se ubica en 17.07 pesos por unidad, con un alza de 0.21 por ciento, … [+844 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Sube dólar a $17.47; tiene peso peor desempeño en 14 meses",
-      "Description": "Luego de siete meses con apreciación, al menudeo, en agosto, el peso sufrió su peor resultado en 14 meses.",
-      "Url": "https://www.reforma.com/sube-dolar-a-17-47-tiene-peso-peor-desempeno-en-14-meses/ar2667540",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/542/5541821.jpg&ang=0",
-      "PublishedAt": "2023-08-31T23:55:28Z",
-      "Content": "En ventanillas de Citibanamex, el tipo de cambio subió 27 centavos a 17.47 pesos en la venta, y a 16.47 en la compra. Crédito: AFP"
     }
   ]
 }
