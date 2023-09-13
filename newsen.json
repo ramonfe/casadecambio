@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Today"
+      },
+      "Author": "Reuters",
+      "Title": "China's central bank to scrutinise bulk dollar purchases - sources",
+      "Description": "The central bank has warned some lenders of their huge dollar purchases on behalf of their corporate clients, according one of the other sources.",
+      "Url": "https://www.businesstoday.in/latest/world/story/chinas-central-bank-to-scrutinise-bulk-dollar-purchases-sources-398020-2023-09-12",
+      "UrlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202309/china_dollar_bulk_purchase-sixteen_nine.jpeg",
+      "PublishedAt": "2023-09-12T05:32:42Z",
+      "Content": "China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time when the Chinese currency faces… [+1850 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -179,11 +192,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
     },
     {
       "Source": {
@@ -192,11 +205,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--RhdCw3MB--/c_crop,h_581,w_1034,x_0,y_62/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/29/capture.png?itok=q_dJuIHn",
       "PublishedAt": "2023-08-28T22:27:49Z",
       "Content": "SINGAPORE: A S$1 billion money laundering case has expanded to include precious stones and metal traders, with 24 more suspects being named, according to a notice sent on Sunday (Aug 27) by the Minis… [+1409 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Stcloudlive.com"
-      },
-      "Author": "Trent Abrego",
-      "Title": "Emerging Leaders: Marshall Grams thinks about finance in more than a 'dollar and cents way'",
-      "Description": "Emerging Leaders: Marshall Grams thinks about finance in more than a 'dollar and cents way'stcloudlive.com",
-      "Url": "https://www.stcloudlive.com/business/emerging-leaders-marshall-grams-thinks-about-finance-in-more-than-a-dollar-and-cents-way",
-      "UrlToImage": "https://cdn.forumcomm.com/dims4/default/8705dde/2147483647/strip/true/crop/5416x3611+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe9%2F60%2Fdfc55df548e0890efaf2b16d0047%2Fmarshall-grams-3.jpg",
-      "PublishedAt": "2023-08-28T18:50:00Z",
-      "Content": "This profile and Q&amp;A is a part of St. Cloud LIVE's Emerging Leaders series, highlighting young, local business leaders who received a nomination for their work.\r\nAge: 33Hometown: Little FallsComp… [+4379 chars]"
     }
   ]
 }
