@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hipertextual"
+      },
+      "Author": "Ebenizer Pinedo",
+      "Title": "Todos los precios de los iPhone 15 en México, que serán más baratos gracias a la depreciación del dólar",
+      "Description": "Apple finalmente presentó sus smartphones de nueva generación, los iPhone 15. Pero más allá de sus características, que hemos repasado a detalle tanto en los modelos estándar como en las variantes Pro, siempre hay un tema adicional que el público espera saber…",
+      "Url": "http://hipertextual.com/2023/09/precios-iphone-15-mexico",
+      "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/09/iphone-15-pro-scaled.jpg",
+      "PublishedAt": "2023-09-12T18:47:54Z",
+      "Content": "Apple finalmente presentó sus smartphones de nueva generación, los iPhone 15. Pero más allá de sus características, que hemos repasado a detalle tanto en los modelos estándar como en las variantes Pr… [+4325 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Luján Berardi",
+      "Title": "Tipo de cambio: el BCRA debería buscar un equilibrio entre el dólar oficial y el paralelo",
+      "Description": "Según una consultora, el precio planteado por Javier Milei para la dolarización sería muy alto; el valor intermedio sería aconsejable para estabilizar las cuentas externas",
+      "Url": "https://www.lanacion.com.ar/economia/tipo-de-cambio-el-bcra-deberia-buscar-un-equilibrio-entre-el-dolar-oficial-y-el-paralelo-nid12092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/segun-el-informe-de-la-consultora-map-la-JFMAEFJCWRFS5ITDFYCNLPHVIQ.jpg?auth=7a867f752546465fc051bfb15e8e0dafd2c695d9c819bcf0ad7e50094b18e579&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-12T18:24:48Z",
+      "Content": "Desde el 13 de agosto, día en que Javier Milei, candidato presidencial por La Libertad Avanza (LLA), ganó las elecciones primarias, gran parte del interés se enfocó en una de sus posturas más controv… [+4857 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2023-09-04T11:09:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 4 de septiembre el tipo de cambiointerbancario, se ubica en 17.06 pesos por unidad, con una pérdida de 0.13 por cien… [+835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso pierde en la semana y supera las 17 unidades por dólar",
-      "Description": "El peso mexicano retrocedió este viernes, por lo que extendió su movimiento de la jornada anterior, mientras la Bolsa Mexicana de Valores (BMV) repuntó tras la divulgación de un informe del mercado laboral en Estados Unidos que reforzó las expectativas de que…",
-      "Url": "https://www.jornada.com.mx/2023/09/02/economia/020n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-09-02T09:40:33Z",
-      "Content": "Periódico La JornadaSábado 2 de septiembre de 2023, p. 20\r\nEl peso mexicano retrocedió este viernes, por lo que extendió su movimiento de la jornada anterior, mientras la Bolsa Mexicana de Valores (B… [+2832 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso pierde fuerza, pero apuestas a futuro ven apreciación ante el dólar",
-      "Description": "Forbes México.\n Peso pierde fuerza, pero apuestas a futuro ven apreciación ante el dólar\n\nEn el Chicago Mercantile Exchange aumentaron las apuestas especulativas que anticipan una apreciación del peso respecto al dólar.\nPeso pierde fuerza, pero apuestas a fut…",
-      "Url": "https://www.forbes.com.mx/peso-pierde-fuerza-pero-apuestas-a-futuro-ven-apreciacion-ante-el-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2021/01/dolar6.jpg",
-      "PublishedAt": "2023-09-02T00:55:20Z",
-      "Content": "El peso retrocedió este viernes respecto al dólar, extendiendo el movimiento de la jornada anterior, mientras que la Bolsa Mexicana de Valores (BMV) repuntó tras la divulgación de un informe del merc… [+2234 chars]"
     }
   ]
 }
