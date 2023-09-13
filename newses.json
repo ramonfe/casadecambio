@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Criptonoticias.com"
+      },
+      "Author": "Nickolas Plaza",
+      "Title": "«Bitcoin podría competir con el dólar como moneda internacional»: Grayscale",
+      "Description": "Lightning Network mejora las perspectivas de uso de bitcoin como medio de pago, explica la empresa de inversiones.\nLeer más",
+      "Url": "https://www.criptonoticias.com/mercados/bitcoin-competir-dolar-moneda-internacional-grayscale/",
+      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/08/bitcoin-competir-dolar-moneda-internacional.jpg",
+      "PublishedAt": "2023-09-12T17:52:38Z",
+      "Content": "Hechos clave:\r\n<ul><li>Grayscale estima que las stablecoins se impondrán en transacciones minoristas.\r\n</li><li>Bitcoin, además, serviría como capa de liquidación para utilidades no financieras.\r\n</l… [+3693 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2021/01/dolar6.jpg",
       "PublishedAt": "2023-09-02T00:55:20Z",
       "Content": "El peso retrocedió este viernes respecto al dólar, extendiendo el movimiento de la jornada anterior, mientras que la Bolsa Mexicana de Valores (BMV) repuntó tras la divulgación de un informe del merc… [+2234 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Sube dólar a $17.52; peso con peor revés en 4 semanas",
-      "Description": "La jornada fue desfavorable para la moneda nacional, al aumentar el dólar por segundo día al hilo, y el peso tuviera su mayor minusvalía.",
-      "Url": "https://www.reforma.com/sube-dolar-a-17-52-peso-con-peor-reves-en-4-semanas/ar2668219",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/457/5456647.jpg&ang=0",
-      "PublishedAt": "2023-09-01T23:29:29Z",
-      "Content": "Este viernes, en ventanillas de Citibanamex, el dólar aumentó su valor cinco centavos a 17.52 unidades a la venta (ligó dos incrementos) y a 16.59 pesos a la compra. Crédito: AP"
     }
   ]
 }
