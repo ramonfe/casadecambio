@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY 13 septiembre: Peso se recupera tras dato de inflación en EU",
+      "Description": "Al iniciar operaciones HOY 13 de septiembre, el dólar se vendía hasta en 18.20 pesos en ventanilla en bancos. En tanto, el tipo de cambio interbancario se ubica en 17.15 unidades por dólar, con una ganancia de 0.27 por ciento frente al precio de referencia de…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-septiembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2023-09-13T13:45:00Z",
+      "Content": "Al iniciar operaciones HOY 13 de septiembre, el dólar se vendía hasta en 18.20 pesos en ventanilla en bancos. En tanto, el tipo de cambio interbancario se ubica en 17.15 unidades por dólar, con una g… [+2722 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-4-de-7HEZJDXOIZDHZNGHL7W3T5EX6A.jpg?auth=0bd005904a0dfe28ed05d4a75e48e1a7184ed076fb9f09f33ec78c0fb880f63d&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-04T14:55:12Z",
       "Content": "Este lunes 4 de septiembre, el precio del dólar en México es de $17, 1113, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2053 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Dólar abre con leve caída en semana de anuncio de tasas de interés del Banco Central",
-      "Description": "Los mercados de bonos y acciones de EEUU se encuentran en receso por el feriado del Día del Trabajo.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoyjnl",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230904/imag/foto_0000001420230904083000/pexels-tima-miroshnichenko-6266445.jpg",
-      "PublishedAt": "2023-09-04T11:48:00Z",
-      "Content": "El dólar abrió con un ligero retroceso este lunes -en una sesión de actividad reducida por el receso de los mercados estadounidenses-, atento a próximos datos en China y especialmente a la decisión d… [+1522 chars]"
     }
   ]
 }
