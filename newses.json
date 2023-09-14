@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 13 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 13 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-13-de-septiembre-nid13092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-13-de-M244ULRA4BH65BRLWQYQBRMBKY.jpg?auth=6eeaf5afa1d013f275aeea68054905883295411cc83c4dae59fe7d90855b59bc&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-13T14:21:52Z",
+      "Content": "Este miércoles 13 de septiembre, el precio del dólar en México es de $17,2253, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex e… [+2054 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/04/26/dolar-estadunidense-monedas-socorridas-usadas.jpg",
       "PublishedAt": "2023-09-04T21:07:00Z",
       "Content": "El peso mexicano cotizó en 17.16 unidades por dólar estadunidense al cierre de mercados, este lunes 4 de septiembre 2023, con depreciación de 0.53 por ciento frente al precio de referencia del vierne… [+754 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 4 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 4 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-4-de-septiembre-nid04092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-4-de-7HEZJDXOIZDHZNGHL7W3T5EX6A.jpg?auth=0bd005904a0dfe28ed05d4a75e48e1a7184ed076fb9f09f33ec78c0fb880f63d&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-04T14:55:12Z",
-      "Content": "Este lunes 4 de septiembre, el precio del dólar en México es de $17, 1113, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2053 chars]"
     }
   ]
 }
