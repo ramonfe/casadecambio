@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Antonio Cahun",
+      "Title": "Los iPhone 15 son más baratos en México: hasta 4,000 pesos menos gracias al súper peso y a la depreciación del dólar",
+      "Description": "Apple ha presentado su nueva familia iPhone 15 y trae consigo novedades importantes. Sin embargo, la sorpresa que nadie esperaba eran precios más bajos. Sí, los iPhone 15, iPhone 15 Plus, iPhone 15 Pro y iPhone 15 Pro Max son más baratos que los iPhone 14 en …",
+      "Url": "https://www.xataka.com.mx/celulares-y-smartphones/iphone-15-baratos-mexico-4-000-pesos-gracias-al-super-peso-a-depreciacion-dolar",
+      "UrlToImage": "https://i.blogs.es/99489f/iphone-15-pro-max-diseno-caracteristicas-ficha-tecnica/840_560.jpeg",
+      "PublishedAt": "2023-09-12T23:01:00Z",
+      "Content": "Apple ha presentado su nueva familia iPhone 15 y trae consigo novedades importantes. Sin embargo, la sorpresa que nadie esperaba eran precios más bajos. Sí, los iPhone 15, iPhone 15 Plus, iPhone 15 P… [+4436 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20230904/imag/foto_0000001420230904083000/pexels-tima-miroshnichenko-6266445.jpg",
       "PublishedAt": "2023-09-04T11:48:00Z",
       "Content": "El dólar abrió con un ligero retroceso este lunes -en una sesión de actividad reducida por el receso de los mercados estadounidenses-, atento a próximos datos en China y especialmente a la decisión d… [+1522 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY lunes 4 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 4 de septiembre el tipo de cambio interbancario, se ubica en17.06pesos por unidad, con una pérdida de0.13por ciento, según datos de Bloomberg.El peso mexicano se depreciaba el …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-4-septiembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2023-09-04T11:09:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 4 de septiembre el tipo de cambiointerbancario, se ubica en 17.06 pesos por unidad, con una pérdida de 0.13 por cien… [+835 chars]"
     }
   ]
 }
