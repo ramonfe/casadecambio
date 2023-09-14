@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano continúa subida frente al dólar",
+      "Description": "La moneda nacional cotizaba en 17.12 por dólar, con una apreciación del 0.41% frente al precio de referencia del martes.",
+      "Url": "https://aristeguinoticias.com/1309/dinero-y-economia/peso-mexicano-continua-subida-frente-al-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/07/moneda-mexicana-podria-alcanzar-umbral-15-pesos-agosto-jose-ignacio-martinez-cortes-lacen-unam-dienro-economia-inflacion-subyacente-27072023.jpg",
+      "PublishedAt": "2023-09-13T20:13:31Z",
+      "Content": "El peso mexicano continuaba su racha de tres jornadas consecutivas de ganancias el miércoles, mientras la bolsa bajaba, tras conocerse los datos de inflación de Estados Unidos en agosto, que generaro… [+1587 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20230905/imag/foto_0000000420230905083801/364093269.jpg",
       "PublishedAt": "2023-09-05T11:44:00Z",
       "Content": "El dólar abrió al alza este martes, presionado por el debilitamiento de la confianza en las empresas chinas del sector servicios y atento a la decisión de tasas del Banco Central de Chile, que tendrá… [+1372 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Belkis Martínez",
-      "Title": "Dólar soja: luego de oficializarse la medida, los exportadores insistieron en que unifique el tipo de cambio",
-      "Description": "En la Cámara de la Industria Aceitera de la República Argentina (Ciara) y el Centro de Exportadores de Cereales (Cec) hicieron un análisis del mecanismo que estará en vigor hasta fin de mes",
-      "Url": "https://www.lanacion.com.ar/economia/campo/dolar-soja-luego-de-oficializarse-la-medida-los-exportadores-insistieron-en-que-unifique-el-tipo-de-nid05092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/gustavo-idigoras-presidente-de-ciara-VTI2FSOFNNEYPCRAOX74O65UMQ.JPG?auth=548cebf102478343d414314389d2dd36947154fb29de92ebb18f73d32d140d50&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-05T10:45:10Z",
-      "Content": "Luego de que el Gobierno publicara en el Boletín Oficial el nuevo esquema del dólar soja, que fija condiciones para que los exportadores liquiden soja en el mercado local, desde la Cámara de la Indus… [+2996 chars]"
     }
   ]
 }
