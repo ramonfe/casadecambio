@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Pypi.org"
+      },
+      "Author": null,
+      "Title": "venezuela-dollar-price added to PyPI",
+      "Description": "A package to get the dollar price in Venezuela",
+      "Url": "https://pypi.org/project/venezuela-dollar-price/",
+      "UrlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "PublishedAt": "2023-09-13T03:53:24Z",
+      "Content": "venezuela_dollar_price is a Python library created to retrieve the current dollar price in Venezuela. It is simple to use and requires minimal setup.\r\nFeatures\r\n<ul><li>Get the latest dollar price in… [+1035 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
       "PublishedAt": "2023-08-29T20:59:07Z",
       "Content": "ANALYST RECOMMENDATIONS : AT&amp;T, Celanese, M&amp;S, Snap, Verizon..."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Adam Hancock)",
-      "Title": "Singapore busts multi-million-dollar money laundering scheme",
-      "Description": "A huge money laundering case has riveted attention in Singapore.\n\n\nIn a series of raids across the city-state in mid-August, authorities seized close to three quarters of a billion U.S. dollars in assets including more than 100 luxury condos and dozens of fla…",
-      "Url": "https://www.voanews.com/a/singapore-busts-multi-million-dollar-money-laundering-scheme/7245389.html",
-      "UrlToImage": "https://gdb.voanews.com/DE6ACC24-EEED-418B-8582-03B34DE83AE4.jpg",
-      "PublishedAt": "2023-08-29T08:58:44Z",
-      "Content": "SINGAPORE  A huge money laundering case has riveted attention in Singapore.\r\nIn a series of raids across the city-state in mid-August, authorities seized close to three quarters of a billion U.S. dol… [+5098 chars]"
     }
   ]
 }
