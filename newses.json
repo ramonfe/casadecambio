@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso está ‘enrachado’ contra el dólar: Se cotiza en las 17.10 unidades",
+      "Description": "En ventanillas bancarias, el dólar se cotiza en los 17.57 pesos por cada billete verde, de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/13/peso-dolar-precio-hoy-13-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/rcbYwhfhx2yxJv42a4EbGIOBja0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3ZRZINV6OJBZTIHHFOHKEP6MEQ.jpg",
+      "PublishedAt": "2023-09-13T15:13:35Z",
+      "Content": "El peso mexicano busca alargar su racha positiva de esta semana contra el dólar, mientras los mercados analizan el nuevo dato de inflación en Estados Unidos.\r\nDe acuerdo con datos de Bloomberg, la mo… [+1246 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/gustavo-idigoras-presidente-de-ciara-VTI2FSOFNNEYPCRAOX74O65UMQ.JPG?auth=548cebf102478343d414314389d2dd36947154fb29de92ebb18f73d32d140d50&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-05T10:45:10Z",
       "Content": "Luego de que el Gobierno publicara en el Boletín Oficial el nuevo esquema del dólar soja, que fija condiciones para que los exportadores liquiden soja en el mercado local, desde la Cámara de la Indus… [+2996 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso sigue retrocediendo ante dólar; cotiza en 17.16 por billete verde",
-      "Description": "El peso mexicano cotizó en 17.16 unidades por dólar estadunidense al cierre de mercados, este lunes 4 de septiembre 2023,con depreciación de 0.53 por ciento frente al precio de referencia del viernes, hilando su tercera sesión seguida de pérdidas.La divisa na…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-lunes-4-de-septiembre-2023-peso-cierra-en-17-16",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/04/26/dolar-estadunidense-monedas-socorridas-usadas.jpg",
-      "PublishedAt": "2023-09-04T21:07:00Z",
-      "Content": "El peso mexicano cotizó en 17.16 unidades por dólar estadunidense al cierre de mercados, este lunes 4 de septiembre 2023, con depreciación de 0.53 por ciento frente al precio de referencia del vierne… [+754 chars]"
     }
   ]
 }
