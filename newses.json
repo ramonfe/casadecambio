@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Racha del peso vs. el dólar sube como ‘trique’: Se cotiza en 17.11 unidades",
+      "Description": "Datos de Bloomberg muestran que la moneda nacional se aprecia 0.20% este jueves. Si mantiene el paso, serán ya cuatro días con ganancias para el peso mexicano.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/14/peso-dolar-precio-hoy-14-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/tVEHrSP0ovVg8nPb0Qy75cNKTx0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LXTLY4QVVJBK7JU5IHPG4DSXNI.jpg",
+      "PublishedAt": "2023-09-14T15:37:14Z",
+      "Content": "El peso mexicano mantiene este jueves su paso firme frente al dólar en medio de una mañana abrumadora, en la que los inversionistas asimilan datos económicos en Estados Unidos, así como la decisión d… [+1323 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Catalina Vergara",
+      "Title": "Santander advierte que alza del dólar podría poner una pausa al ritmo de baja de la inflación en los próximos meses",
+      "Description": "La entidad modificó su proyección de PIB para este año, moderando la caída esperada.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/santander-advierte-que-alza-del-dolar-podria-poner-una-pausa-al-ritmo-de",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230914/imag/foto_0000000120230914123431/BANCO_SANTANDER.jpg",
+      "PublishedAt": "2023-09-14T15:33:00Z",
+      "Content": "La baja en la inflación tendría una pausa, a medida que el alza del dólar condicionaría los movimientos en la Tasa de Política Monetaria (TPM). Estas son algunas de las proyecciones que hace el Banco… [+4865 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-09-06T11:00:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de septiembre el tipo de cambiointerbancario, se ubica en 17.52 pesos por unidad, con una ganancia de 0.63 por cie… [+798 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "EFE",
-      "Title": "El rublo se ha devaluado 4,1 rublos por dólar desde la intervención del Banco Central",
-      "Description": "La moneda rusa se ha devaluado 4,1 rublos por cada dólar desde mediados de agosto, cuando el Banco Central de Rusia (BCR) decidió subir los intereses en 350 puntos para frenar el desplome de la divisa nacional. Según informó el BCR, el rublo se cotizará el mi…",
-      "Url": "https://www.elperiodico.com/es/economia/20230905/rublo-devaluado-4-1-rublos-91743533",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/07ac13a0-0473-41d6-845b-2e43911ecfc1_16-9-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-09-05T17:23:19Z",
-      "Content": "La moneda rusa se ha devaluado 4,1 rublos por cada dólar desde mediados de agosto, cuando el Banco Central de Rusia (BCR) decidió subir los intereses en 350 puntos para frenar el desplome de la divis… [+1793 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Septiemble’ mueve el piso al peso: Pierde 1% frente al dólar",
-      "Description": "El miedo a que la economía mundial se esté 'enfriando' trajo un incremento en la aversión a los activos de riesgo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/05/peso-dolar-precio-hoy-5-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/WP0au2UpNV1nBVsF2RJD1qYajK4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HLV3XFKI7VF2BDV57GBHFF56HQ.jpg",
-      "PublishedAt": "2023-09-05T15:13:58Z",
-      "Content": "El peso mexicano arranca este martes con pérdidas frente al dólar en el inicio de una jornada en el la que dieron a conocer datos débiles del índice PMI, tanto en Europa como en China.\r\nDe acuerdo co… [+1493 chars]"
     }
   ]
 }
