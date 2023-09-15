@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano sigue ganando terreno a pesar de fortaleza del dólar",
+      "Description": "La moneda nacional ampliaba sus avances por cuarta sesión consecutiva.",
+      "Url": "https://aristeguinoticias.com/1409/dinero-y-economia/peso-mexicano-sigue-ganando-terreno-a-pesar-de-fortaleza-del-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
+      "PublishedAt": "2023-09-14T17:07:44Z",
+      "Content": "El peso mexicano se apreciaba el jueves en la apertura extendiendo el repunte de la semana, a pesar de la fortaleza del dólar, debido a la confianza en activos de economías emergentes que apuntalaban… [+1410 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2023/09/06/fotos/021n1eco-1.jpg",
       "PublishedAt": "2023-09-06T11:08:06Z",
       "Content": "Periódico La JornadaMiércoles 6 de septiembre de 2023, p. 21\r\nAnte señales de debilidad económica en Asia y en Europa, así como la decisión de Arabia Saudita, líder de la Organización de Países Expor… [+3085 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY miércoles 6 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de septiembre el tipo de cambio interbancario, se ubica en 17.52 pesos por unidad, con una ganancia de 0.63 por ciento, según datos de Bloomberg.El peso mexicano se depreciab…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-septiembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-09-06T11:00:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de septiembre el tipo de cambiointerbancario, se ubica en 17.52 pesos por unidad, con una ganancia de 0.63 por cie… [+798 chars]"
     }
   ]
 }
