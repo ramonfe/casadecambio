@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso mantiene racha al alza, a pesar de la fortaleza del dólar",
+      "Description": "Forbes México.\n Peso mantiene racha al alza, a pesar de la fortaleza del dólar\n\nEl peso cotizaba en 17.1229 unidades por dólar, con una ganancia de 0.14% frente al precio de referencia de Reuters del miércoles.\nPeso mantiene racha al alza, a pesar de la forta…",
+      "Url": "https://www.forbes.com.mx/peso-mantiene-racha-al-alza-a-pesar-de-la-fortaleza-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0458.jpg",
+      "PublishedAt": "2023-09-14T14:24:41Z",
+      "Content": "El peso se apreciaba este jueves en la apertura extendiendo el repunte de la semana, a pesar de la fortaleza del dólar, debido a la confianza en activos de economías emergentes que apuntalaban a las … [+1104 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 14 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 14 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-14-de-septiembre-nid14092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-14-de-CZNZXJXVDJGH7OV2NMW6XLSXTY.jpg?auth=07b2406b82b9b7cb34274822f0dddbb19ce719b800f272828fd431ce5004cc27&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-14T14:18:19Z",
+      "Content": "Este jueves 14 de septiembre, el precio del dólar en México es de $17,1235, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en u… [+2024 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/WP0au2UpNV1nBVsF2RJD1qYajK4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HLV3XFKI7VF2BDV57GBHFF56HQ.jpg",
       "PublishedAt": "2023-09-05T15:13:58Z",
       "Content": "El peso mexicano arranca este martes con pérdidas frente al dólar en el inicio de una jornada en el la que dieron a conocer datos débiles del índice PMI, tanto en Europa como en China.\r\nDe acuerdo co… [+1493 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 5 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 5 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-5-de-septiembre-nid05092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-5-de-XMUCHJ5MHFHAPJ23PV3GSZL5M4.jpg?auth=2c625f9564247b06d5b5b2716ec7624fc4296f0891dca3b4b01b95aa07d4a2e0&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-05T14:17:56Z",
-      "Content": "Este martes 5 de septiembre, el precio del dólar en México es de $17,125, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un … [+2076 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Dólar abre al alza tras decepcionante cifra de servicios en China y atento al anuncio de tasa del Banco Central",
-      "Description": "El cobre perdía terreno y un indicador del precio del dólar global alcanzaba su nivel más alto desde marzo.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoykjb8",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230905/imag/foto_0000000420230905083801/364093269.jpg",
-      "PublishedAt": "2023-09-05T11:44:00Z",
-      "Content": "El dólar abrió al alza este martes, presionado por el debilitamiento de la confianza en las empresas chinas del sector servicios y atento a la decisión de tasas del Banco Central de Chile, que tendrá… [+1372 chars]"
     }
   ]
 }
