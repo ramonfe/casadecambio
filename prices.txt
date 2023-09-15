@@ -1,14 +1,5 @@
 {
-	"banks": [
-    {
-      "bank_id": 2,
-      "bank_name": "BANAMEX",
-      "buy": 16.59,
-      "sell": 17.59,
-      "date": "2023-09-11 09:00:19",
-      "prev_buy": 16.95,
-      "prev_sell": 17.87
-    },
+	"banks": [    
 {
 			"bank_id": 3,
 			"bank_name": "SANTANDER",
