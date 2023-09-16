@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso amanece ‘patrio’ y aventaja al dólar: Se cotiza en las 17.08 unidades",
+      "Description": "Información de Bloomberg indica que el tipo de cambio se ubica en los 17.0847 pesos por billete verde este 15 de septiembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/15/peso-dolar-precio-hoy-15-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/DAORYlpmNO-v6ww_Al4_qgS8ZBs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4COZQ3YKURB6BKRSXZ5NKJHWQA.jpg",
+      "PublishedAt": "2023-09-15T16:34:18Z",
+      "Content": "La especulación de que no se realice otro incremento a la tasa de interés por parte de la Reserva Federal, en su reunión de política monetaria de este mes, llevó al dólar a colocarse en terreno de pé… [+1652 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20230907/imag/foto_0000000420230907082952/nedret-binici-fyGNt4cDUeA-unsplash.jpg",
       "PublishedAt": "2023-09-07T11:51:00Z",
       "Content": "El dólar abrió con una leve caída este jueves, atento al negativo informe de comercio exterior de China que arrastró al yuan a su posición más débil en 16 años frente a la divisa estadounidense, pero… [+1704 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso alargó racha perdedora; cierra en 17.5704 por dólar",
-      "Description": "La aversión al riesgo de los inversionistas siguió fortaleciendo el dólar. El sesgo negativo hacia los activos se desprende de la idea de que los bancos centrales, incluida la Reserva Federal (Fed), no tendrán más remedio que mantener sus políticas monetarias…",
-      "Url": "https://www.jornada.com.mx/2023/09/07/economia/023n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/2023/09/07/fotos/023n3eco-1.jpg",
-      "PublishedAt": "2023-09-07T10:31:13Z",
-      "Content": "Periódico La JornadaJueves 7 de septiembre de 2023, p. 23\r\nLa aversión al riesgo de los inversionistas siguió fortaleciendo el dólar. El sesgo negativo hacia los activos se desprende de la idea de qu… [+2906 chars]"
     }
   ]
 }
