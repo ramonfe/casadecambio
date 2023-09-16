@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 15 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 15 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-15-de-septiembre-nid15092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-15-de-7HEZJDXOIZDHZNGHL7W3T5EX6A.jpg?auth=0bd005904a0dfe28ed05d4a75e48e1a7184ed076fb9f09f33ec78c0fb880f63d&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-15T14:38:23Z",
+      "Content": "Este viernes 15 de septiembre, el precio del dólar en México es de $17,1042, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en … [+2074 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2023/09/07/fotos/023n3eco-1.jpg",
       "PublishedAt": "2023-09-07T10:31:13Z",
       "Content": "Periódico La JornadaJueves 7 de septiembre de 2023, p. 23\r\nLa aversión al riesgo de los inversionistas siguió fortaleciendo el dólar. El sesgo negativo hacia los activos se desprende de la idea de qu… [+2906 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 6 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 6 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-6-de-septiembre-nid06092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-6-de-GMI3QMFJ5FGA3LIRYITVESCLLA.jpg?auth=6d3eccf3e4705885c1062ed8110b0414a3dc5f6546afe1abe2f55e57089a6477&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-06T14:45:19Z",
-      "Content": "Este miércoles 6 de septiembre, el precio del dólar en México es de $17,3492, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en… [+2109 chars]"
     }
   ]
 }
