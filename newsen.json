@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Dollar surges as ECB signals pause in rate hikes, markets expect similar stance from Bank of England",
+      "Description": "Dollar surges as ECB signals pause in rate hikes, markets expect similar stance from Bank of England",
+      "Url": "https://www.investing.com/news/economy/dollar-surges-as-ecb-signals-pause-in-rate-hikes-markets-expect-similar-stance-from-bank-of-england-93CH-3175802",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
+      "PublishedAt": "2023-09-15T17:48:00Z",
+      "Content": "The US Dollar emerged as the victor following the European Central Bank's (ECB) dovish policy announcement on Thursday, September 14, 2023, which led to declines in both the Pound to Dollar and Euro-… [+3645 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-30T05:29:52Z",
       "Content": "By Adam Hancock August 29, 2023\r\nA huge money laundering case has riveted attention in Singapore.\r\nIn a series of raids across the city-state in mid-August, authorities seized close to three quarters… [+5232 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Chosun.com"
-      },
-      "Author": null,
-      "Title": "Singapore Busts Multimillion-Dollar Money Laundering Scheme",
-      "Description": "A huge money laundering case has riveted attention in Singapore. In a series of raids across the city-state in mid-August, authorities seized close to three quarters of a billion U.S. dollars in assets including more than 100 luxury condos and dozens of flash…",
-      "Url": "https://english.chosun.com/site/data/html_dir/2023/08/30/2023083000503.html",
-      "UrlToImage": "https://english.chosun.com/site/data/img_dir/2023/08/30/2023083000502_0.jpg",
-      "PublishedAt": "2023-08-29T23:16:00Z",
-      "Content": "A huge money laundering case has riveted attention in Singapore. In a series of raids across the city-state in mid-August, authorities seized close to three quarters of a billion U.S. dollars in asse… [+5083 chars]"
     }
   ]
 }
