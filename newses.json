@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sputniknews.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "Dólar o real brasileño: ¿necesita Argentina una nueva moneda?",
+      "Description": "Entre las diversas ideas que se barajan para revertir la crisis económica en Argentina, algunos economistas apuntan al uso de otras monedas, a distintos niveles. Pero, ¿cuáles serían las consecuencias prácticas de tal cambio? Expertos explican a Sputnik si es…",
+      "Url": "https://sputniknews.lat/20230915/dolar-o-real-brasileno-necesita-argentina-una-nueva-moneda-1143740900.html",
+      "UrlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1143740900.jpg?10841203881694785321",
+      "PublishedAt": "2023-09-15T13:42:00Z",
+      "Content": "\"Si Argentina tiene tantas ganas de un tipo de cambio estable la dolarización es, al fin y al cabo, solo un tipo de cambio fijo que se vincule a Brasil. Brasil es exportador de materias primas, tiene… [+169 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-6-de-GMI3QMFJ5FGA3LIRYITVESCLLA.jpg?auth=6d3eccf3e4705885c1062ed8110b0414a3dc5f6546afe1abe2f55e57089a6477&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-06T14:45:19Z",
       "Content": "Este miércoles 6 de septiembre, el precio del dólar en México es de $17,3492, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en… [+2109 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Cuarto tropiezo al hilo del peso, cerró a 17.4299 por dólar spot",
-      "Description": "Ante señales de debilidad económica en Asia y en Europa, así como la decisión de Arabia Saudita, líder de la Organización de Países Exportadores de Petróleo (OPEP), de prolongar los recortes de producción, el dólar se fortaleció de manera general y llevó al p…",
-      "Url": "https://www.jornada.com.mx/2023/09/06/economia/021n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/2023/09/06/fotos/021n1eco-1.jpg",
-      "PublishedAt": "2023-09-06T11:08:06Z",
-      "Content": "Periódico La JornadaMiércoles 6 de septiembre de 2023, p. 21\r\nAnte señales de debilidad económica en Asia y en Europa, así como la decisión de Arabia Saudita, líder de la Organización de Países Expor… [+3085 chars]"
     }
   ]
 }
