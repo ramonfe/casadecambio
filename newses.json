@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso hila 5 sesiones al alza y mira el umbral de 17.00 por dólar; BMV cae",
+      "Description": "Forbes México.\n Peso hila 5 sesiones al alza y mira el umbral de 17.00 por dólar; BMV cae\n\nEl peso cerró la semana con un incremento de alrededor de 2.9%, con lo cual casi borró las pérdidas de la semana anterior.\nPeso hila 5 sesiones al alza y mira el umbral…",
+      "Url": "https://www.forbes.com.mx/peso-hila-5-sesiones-al-alza-y-mira-el-umbral-de-17-00-por-dolar-bmv-cae/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2021/05/Dinero_002.jpg",
+      "PublishedAt": "2023-09-15T21:30:18Z",
+      "Content": "El peso subió este viernes con respecto al dólar y finalizó una semana con importantes ganancias, recuperando terreno por el optimismo en la economía y la expectativa de que el ciclo de ajustes monet… [+2319 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-7-de-OV4SUQQFUVGGRG2RF7AFKGIK5E.jpg?auth=d884823094e8048798ff3f53817735b57855593114e6fb5f9c00542781e94a46&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-07T14:21:31Z",
       "Content": "Este jueves 7 de septiembre, el precio del dólar en México es de $17,5805, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2036 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Dólar abre con leve baja por señales desde el Banco Central y pese a caída del cobre por China",
-      "Description": "Las señales que entregó el IPoM el miércoles mejoraron las perspectivas de retornos del peso chileno a través de depósitos.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoynl3",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230907/imag/foto_0000000420230907082952/nedret-binici-fyGNt4cDUeA-unsplash.jpg",
-      "PublishedAt": "2023-09-07T11:51:00Z",
-      "Content": "El dólar abrió con una leve caída este jueves, atento al negativo informe de comercio exterior de China que arrastró al yuan a su posición más débil en 16 años frente a la divisa estadounidense, pero… [+1704 chars]"
     }
   ]
 }
