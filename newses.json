@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Adriana Arcos y Ernesto Sarabia",
+      "Title": "Peso tiene mejor resultado en más de un año; dólar a $17.51",
+      "Description": "Al bajar el dólar de menudeo 52 centavos en la semana a 17.51, el peso cosechó su mayor plusvalía en 57 semanas.",
+      "Url": "https://www.reforma.com/peso-tiene-mejor-resultado-en-mas-de-un-ano-dolar-a-17-51/ar2676331",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/529/5528150.jpg&ang=0",
+      "PublishedAt": "2023-09-15T23:42:07Z",
+      "Content": "Hoy, el tipo de cambio se ofreció a 17.51 pesos en las ventanillas de Citibanamex, y se compró a 16.53 unidades. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/nvUFvy_bkiwfwFKb0EydzU1-fJY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4RAHVMIMZNDBFMT5O2M4SHTUBI.jpg",
       "PublishedAt": "2023-09-07T15:41:44Z",
       "Content": "El peso mexicano pone un alto a su rally de pérdidas frente al dólar después de que este miércoles se dio a conocer el dato más reciente de la inflación en México.\r\nDe acuerdo con datos de Bloomberg,… [+2345 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 7 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 7 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-7-de-septiembre-nid07092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-7-de-OV4SUQQFUVGGRG2RF7AFKGIK5E.jpg?auth=d884823094e8048798ff3f53817735b57855593114e6fb5f9c00542781e94a46&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-07T14:21:31Z",
-      "Content": "Este jueves 7 de septiembre, el precio del dólar en México es de $17,5805, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2036 chars]"
     }
   ]
 }
