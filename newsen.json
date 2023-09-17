@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Angela Mae",
+      "Title": "‘Rich Dad’ Robert Kiyosaki Says the Dollar Is In Trouble: What That Means for Your Money",
+      "Description": "It's common knowledge that the value of the U.S. dollar has fluctuated throughout the years. But now, it seems the dollar could be in serious trouble. This...",
+      "Url": "https://finance.yahoo.com/news/rich-dad-robert-kiyosaki-says-170008171.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/H9cUsnp1v7PokGe4d2IZVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/b339ffb139ee8be86e672c2d38746207",
+      "PublishedAt": "2023-09-16T17:00:08Z",
+      "Content": "Its common knowledge that the value of the U.S. dollar has fluctuated throughout the years. But now, it seems the dollar could be in serious trouble. This could be especially problematic for people w… [+5217 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://api.time.com/wp-content/uploads/2023/08/Singapore-Banks-Money-Laundering.jpg?quality=85",
       "PublishedAt": "2023-08-30T07:15:00Z",
       "Content": "Some of the biggest local and international banks in Singapore are becoming embroiled in one of the city-states largest money laundering cases.\r\nDBS Group Holdings Ltd, the countrys largest bank, and… [+3712 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Globalsecurity.org"
-      },
-      "Author": "John Pike",
-      "Title": "Singapore Busts Multimillion-Dollar Money Laundering Scheme",
-      "Description": "A huge money laundering case has riveted attention in Singapore.",
-      "Url": "https://www.globalsecurity.org/security/library/news/2023/08/sec-230829-voa02.htm",
-      "UrlToImage": null,
-      "PublishedAt": "2023-08-30T05:29:52Z",
-      "Content": "By Adam Hancock August 29, 2023\r\nA huge money laundering case has riveted attention in Singapore.\r\nIn a series of raids across the city-state in mid-August, authorities seized close to three quarters… [+5232 chars]"
     }
   ]
 }
