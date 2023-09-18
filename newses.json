@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Montevideo.com.uy"
+      },
+      "Author": "Montevideo Portal",
+      "Title": "Dólar, tipo de cambio y el “déjà vu” de Munyo sobre el surgimiento de Un Solo Uruguay",
+      "Description": "Los economistas Agustín Iturralde, Aldo Lema, Ignacio Munyo y María Laura Rodríguez analizaron las causas del atraso cambiario en el país.",
+      "Url": "https://www.montevideo.com.uy/Noticias/Dolar-tipo-de-cambio-y-el-dej-vu-de-Munyo-sobre-el-surgimiento-de-Un-Solo-Uruguay-uc865737",
+      "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202309/_W933_80/856109.jpg",
+      "PublishedAt": "2023-09-17T16:25:00Z",
+      "Content": "Montevideo Portal\r\nEl Centro de\r\nEstudios para el Desarrollo (CED) organizó el pasado viernes en la Expo Prado\r\n2023 un panel con especialista económicos, con el objetivo de analizar el\r\ncomportamien… [+7792 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-09-08T11:05:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de septiembre el tipo de cambiointerbancario, se ubica en 17.44 pesos por unidad, con una pérdida de 0.89 por cien… [+809 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Felipe Gazcón",
-      "Title": "Peso pone un alto a rally de pérdidas con el dólar: Se cotiza en las 17.54 unidades",
-      "Description": "El peso mexicano reaccionó favorablemente a los datos más recientes de la economía de EU y de la inflación en México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/07/peso-dolar-precio-hoy-7-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/nvUFvy_bkiwfwFKb0EydzU1-fJY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4RAHVMIMZNDBFMT5O2M4SHTUBI.jpg",
-      "PublishedAt": "2023-09-07T15:41:44Z",
-      "Content": "El peso mexicano pone un alto a su rally de pérdidas frente al dólar después de que este miércoles se dio a conocer el dato más reciente de la inflación en México.\r\nDe acuerdo con datos de Bloomberg,… [+2345 chars]"
     }
   ]
 }
