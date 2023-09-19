@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "¿Estás ‘crudito’, peso? Pierde con el dólar y se cotiza en las 17.11 unidades",
+      "Description": "Especialistas de CIBanco estimaron que a lo largo de este 18 de septiembre, el tipo de cambio podría moverse entre las 17.05 y 17.20 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/18/peso-dolar-precio-hoy-18-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/1JE4qvvY7eJE1x178QEoB-2Vxqo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JSKFTML5B5BCNEMLUSWIQQOLFE.jpg",
+      "PublishedAt": "2023-09-18T16:01:38Z",
+      "Content": "El peso mexicano regresó del fin de semana patrio con pérdidas frente al dólar. La atención del mercado en los próximos días estará enfocada en la nueva decisión de política monetaria de la Reserva F… [+1445 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Y2p4PyYjBwLNfKW5Ymr3U6npJqA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LOICISAQRRBHNB7BCF3PHSTZ2M.jpg",
       "PublishedAt": "2023-09-08T14:50:32Z",
       "Content": "El peso mexicano inicia la sesión de este viernes con ganancias frente al dólar en medio de declaraciones con un tono menos restrictivo de funcionarios de la Fed, junto con una reducción del pesimism… [+2102 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 8 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 8 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-8-de-septiembre-nid08092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-8-de-ANBGMTZRW5DYFM5V5N767HZENU.jpg?auth=24bf0d887095b456e11269083ad1585ba8a76974d0ba500823e88c90dca14864&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-08T14:04:58Z",
-      "Content": "Este viernes 8 de septiembre, el precio del dólar en México es de $17,5543,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2173 chars]"
     }
   ]
 }
