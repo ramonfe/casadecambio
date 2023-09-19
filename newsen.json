@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar eases as traders eye upcoming central bank decisions",
+      "Description": "(marketscreener.com) \n \n \n NEW YORK, Sept 18 -\n The U.S. dollar eased against a basket of currencies on\nMonday but remained near a six-month high in muted trading as\ntraders awaited interest rate decisions this week by the Federal\nReserve, Bank of England and…",
+      "Url": "https://www.marketscreener.com/news/latest/Dollar-eases-as-traders-eye-upcoming-central-bank-decisions--44869728/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2017-03/2017-03-10T122624Z_1_LYNXMPED290VT_RTROPTP_2_ECB-POLICY.JPG",
+      "PublishedAt": "2023-09-18T20:00:34Z",
+      "Content": "NEW YORK, Sept 18 (Reuters) -\r\nThe U.S. dollar eased against a basket of currencies on\r\nMonday but remained near a six-month high in muted trading as\r\ntraders awaited interest rate decisions this wee… [+3089 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.wired.com/photos/64f256cbf448350e82119af5/191:100/w_1280,c_limit/wheat-field-science-GettyImages-184589603.jpg",
       "PublishedAt": "2023-09-05T11:00:00Z",
       "Content": "Agriculture is a big source of emissions. In the US, about 10 percent of greenhouse gases come from livestock or cropsand for a long time, agriculture has lagged behind other sectors when it comes to… [+3597 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Wired.co.uk"
-      },
-      "Author": "Matt Reynolds",
-      "Title": "A Billion-Dollar Plan to Fix Farm Emissions Might Make Things Worse",
-      "Description": "Agriculture is a huge source of greenhouse gas emissions, so the US is getting serious about reform. But some scientists say current efforts are misguided.",
-      "Url": "https://www.wired.co.uk/article/usda-climate-smart-agriculture",
-      "UrlToImage": "https://media.wired.co.uk/photos/64f0db2669c30eb2b2a09297/16:9/w_1280,c_limit/wheat-field-science-GettyImages-184589603.jpg",
-      "PublishedAt": "2023-09-05T07:00:00Z",
-      "Content": "Blaustein-Rejto and West both worry that the PCSC prioritizes sequestering carbon rather than stopping emissions from being released in the first place. One way to think about this is the difference … [+3172 chars]"
     }
   ]
 }
