@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar steady as week of key central bank decisions kicks off",
+      "Description": "Resilient U.S. growth has fueled a rebound in the dollar in recent weeks though the rally will likely be tested by a gauntlet of data and Wednesday's Federal Reserve interest rate decision",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-steady-as-week-of-key-central-bank-decisions-kicks-off/articleshow/103764286.cms",
+      "UrlToImage": "https://economictimes.indiatimes.com/thumb/msid-103764315,width-1070,height-580,imgsize-69954,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2023-09-18T15:40:23Z",
+      "Content": "The U.S. dollar held steady against a basket of currencies on Monday, hovering near a six-month high as traders looked ahead to interest rate decisions this week from the Federal Reserve, the Bank of… [+3103 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar steady as week of key central bank decisions kicks off",
+      "Description": "(marketscreener.com) The U.S. dollar held\nsteady against a basket of currencies on Monday, hovering near a\nsix-month high as traders looked ahead to interest rate\ndecisions this week from the Federal Reserve, the Bank of\nEngland and the Bank of Japan.\n Curren…",
+      "Url": "https://www.marketscreener.com/quote/currency/EURO-US-DOLLAR-EUR-USD-4591/news/Dollar-steady-as-week-of-key-central-bank-decisions-kicks-off-44868305/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2017-03/2017-03-30T103534Z_1_LYNXMPED2T0NH_RTROPTP_2_GERMANY-BUSINESS.JPG",
+      "PublishedAt": "2023-09-18T15:01:32Z",
+      "Content": "NEW YORK, Sept 18 (Reuters) - The U.S. dollar held\r\nsteady against a basket of currencies on Monday, hovering near a\r\nsix-month high as traders looked ahead to interest rate\r\ndecisions this week from… [+3236 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://media.wired.co.uk/photos/64f0db2669c30eb2b2a09297/16:9/w_1280,c_limit/wheat-field-science-GettyImages-184589603.jpg",
       "PublishedAt": "2023-09-05T07:00:00Z",
       "Content": "Blaustein-Rejto and West both worry that the PCSC prioritizes sequestering carbon rather than stopping emissions from being released in the first place. One way to think about this is the difference … [+3172 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Billion-Dollar Bank Says It May Freeze, Terminate Accounts Sending ‘Unacceptable’ Transactions – Here’s What It Means",
-      "Description": "One of the largest banks in Australia says it may freeze and terminate customer accounts that engage in certain types of “unacceptable account conduct.” National Australia Bank says a new policy launching in November is designed to protect people from harm by…",
-      "Url": "https://dailyhodl.com/2023/08/30/billion-dollar-bank-says-it-may-freeze-terminate-accounts-sending-unacceptable-transactions-heres-what-it-means/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/cash-account-bank.jpg",
-      "PublishedAt": "2023-09-03T00:04:11Z",
-      "Content": "One of the largest banks in Australia says it may freeze and terminate customer accounts that engage in certain types of “unacceptable account conduct.”\r\nNational Australia Bank says a new policy lau… [+1708 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "pymnts.com"
-      },
-      "Author": "PYMNTS",
-      "Title": "Tether Taps Britannia Bank to Process Dollar Transfers",
-      "Description": "Tether has reportedly begun working with Bahamas-based Britannia Bank & Trust to process dollar transfers. A report Tuesday (Aug. 29) by Bloomberg News — citing sources familiar with the matter — said the stablecoin issuer had instructed customers to send fun…",
-      "Url": "https://www.pymnts.com/cryptocurrency/2023/tether-taps-britannia-bank-to-process-dollar-transfers/",
-      "UrlToImage": "https://content.pymnts.com/wp-content/uploads/2023/08/Tether-Britannia-Bank-1000x600.jpg",
-      "PublishedAt": "2023-08-30T14:31:14Z",
-      "Content": "Tether has reportedly begun working with Bahamas-based Britannia Bank &amp; Trust to process dollar transfers.\r\nA report Tuesday (Aug. 29) by Bloomberg News citing sources familiar with the matter sa… [+2618 chars]"
     }
   ]
 }

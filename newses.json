@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 18 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 18 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-18-de-septiembre-nid18092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-18-de-7O6XQSCGJNEQNN3WMXCZBGW6LQ.jpg?auth=03a875eaeab330046b069e105b83700b0714410103789575b2a1310774aadc65&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-18T15:09:37Z",
+      "Content": "Este lunes 18 de septiembre, el precio del dólar en México es de $17,0807, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2086 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-8-de-ANBGMTZRW5DYFM5V5N767HZENU.jpg?auth=24bf0d887095b456e11269083ad1585ba8a76974d0ba500823e88c90dca14864&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-08T14:04:58Z",
       "Content": "Este viernes 8 de septiembre, el precio del dólar en México es de $17,5543,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2173 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY viernes 8 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de septiembre el tipo de cambio interbancario, se ubica en17.44pesos por unidad, con una pérdida de0.89por ciento, según datos de Bloomberg.El peso mexicano avanzaba ayer int…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-8-septiembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-09-08T11:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de septiembre el tipo de cambiointerbancario, se ubica en 17.44 pesos por unidad, con una pérdida de 0.89 por cien… [+809 chars]"
     }
   ]
 }
