@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar hovers near six-month high before key central bank decisions",
+      "Description": "(marketscreener.com) The U.S. dollar\nhovered near a six-month high on Monday as traders looked ahead\nto interest rate decisions from the Federal Reserve, the Bank of\nEngland and the Bank of Japan this week.\n The euro was roughly flat against the dollar at\n$1.…",
+      "Url": "https://www.marketscreener.com/news/latest/Dollar-hovers-near-six-month-high-before-key-central-bank-decisions--44863564/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2017-02/2017-02-24T005845Z_1006950001_LYNXMPED1N02U_RTROPTP_2_CBUSINESS-US-GLOBAL-FOREX.JPG",
+      "PublishedAt": "2023-09-18T08:41:17Z",
+      "Content": "LONDON/SINGAPORE, Sept 18 (Reuters) - The U.S. dollar\r\nhovered near a six-month high on Monday as traders looked ahead\r\nto interest rate decisions from the Federal Reserve, the Bank of\r\nEngland and t… [+3146 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -283,11 +296,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
     },
     {
       "Source": {
@@ -296,11 +309,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://content.pymnts.com/wp-content/uploads/2023/08/Tether-Britannia-Bank-1000x600.jpg",
       "PublishedAt": "2023-08-30T14:31:14Z",
       "Content": "Tether has reportedly begun working with Bahamas-based Britannia Bank &amp; Trust to process dollar transfers.\r\nA report Tuesday (Aug. 29) by Bloomberg News citing sources familiar with the matter sa… [+2618 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: What charges do the 10 suspects face and how much assets have been seized?",
-      "Description": "CNA breaks down what the 10 people in the case are accused of, what assets have been seized and other details known about their cases.",
-      "Url": "https://www.channelnewsasia.com/singapore/s1-billion-dollar-money-laundering-accused-suspects-charges-what-assets-seized-3734531",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--8yRtorrF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/30/Moneylaundering suspects 10 suspects illustration.png?itok=eD3HvV-D",
-      "PublishedAt": "2023-08-30T11:01:00Z",
-      "Content": "Vang Shuiming Age: 42Nationality: TurkRepresentation: Mr Wendell Wong, Mr Andrew Chua from Drew &amp; NapierAssets seized: Over S$200 million seizedCharges tendered: One count of using a forged docum… [+3422 chars]"
     }
   ]
 }
