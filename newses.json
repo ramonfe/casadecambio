@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Dólar se debilita y peso mexicano recupera fuerza",
+      "Description": "La moneda nacional cotizaba en 17.08 por dólar, con una ganancia del 0.27% frente al precio de referencia del lunes.",
+      "Url": "https://aristeguinoticias.com/1909/mexico/dolar-se-debilita-y-peso-mexicano-recupera-fuerza/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/08/dolares-estados-unidos-ecomomia-calificadoras-01082023.jpg",
+      "PublishedAt": "2023-09-19T16:16:22Z",
+      "Content": "El peso mexicano se apreciaba el martes, ante un debilitamiento global del dólar al inicio de una reunión de política monetaria de dos días del Comité Federal de Mercado Abierto (FOMC) de la Reserva … [+1479 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/i3J2Atka449Qp9IC9KWSs5LHQ_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QKDY5XQ7YBBG5IZZFSINDYCWL4.jpg",
       "PublishedAt": "2023-09-11T14:14:48Z",
       "Content": "El peso mexicano aprovecha el mal desempeño del dólar en los mercados para abrir la semana con ganancias.\r\nDe acuerdo con datos de Bloomberg, la moneda nacional se aprecia 0.70 por ciento, por lo que… [+2155 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 11 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 11 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-11-de-septiembre-nid11092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-11-de-CS7Z7DQSXBCZLADQAG7KRGSDRU.jpg?auth=ea12f006d980257247de5ede76152d36594a81ecf3d788886223c2f6a4beaa1e&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-11T14:10:27Z",
-      "Content": "Este lunes 11 de septiembre, el precio del dólar en México es de $17,5757, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2056 chars]"
     }
   ]
 }
