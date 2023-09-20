@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "¿Qué peso tiene el dólar en las economías latinoamericanas? Más de lo que se cree",
+      "Description": "Forbes México.\n ¿Qué peso tiene el dólar en las economías latinoamericanas? Más de lo que se cree\n\nEn este análisis se revisará que influencia tiene el dólar estadounidense en algunas de las economías más importantes de Latinoamérica. \n¿Qué peso tiene el dóla…",
+      "Url": "https://www.forbes.com.mx/que-peso-tiene-el-dolar-en-las-economias-latinoamericanas-mas-de-lo-que-se-cree/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9201.webp",
+      "PublishedAt": "2023-09-19T15:29:54Z",
+      "Content": "La propuesta del candidato de ultraderecha argentino Javier Milei de dolarizar Argentina ha vuelto a traer un debate a América Latina, donde países como Panamá, El Salvador y Ecuador llevan ya años c… [+7884 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 19 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 19 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-19-de-septiembre-nid19092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-19-de-CZNZXJXVDJGH7OV2NMW6XLSXTY.jpg?auth=07b2406b82b9b7cb34274822f0dddbb19ce719b800f272828fd431ce5004cc27&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-19T15:27:18Z",
+      "Content": "Este martes 19 de septiembre, el precio del dólar en México es de $17,1307, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en u… [+2054 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-11-de-CS7Z7DQSXBCZLADQAG7KRGSDRU.jpg?auth=ea12f006d980257247de5ede76152d36594a81ecf3d788886223c2f6a4beaa1e&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-11T14:10:27Z",
       "Content": "Este lunes 11 de septiembre, el precio del dólar en México es de $17,5757, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "S. Valdenegro y R. Lucero",
-      "Title": "Rosanna Costa, presidenta del Banco Central: “Esta alza reciente (del dólar) ha ido más allá de lo contemplado en las proyecciones del IPoM”",
-      "Description": "La economista califica como una buena noticia el bajo IPC del mes de agosto, pero advierte que la sorpresa podría revertirse en el corto plazo, debido al factor cambiario, entre otros.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/rosanna-costa-presidenta-del-banco-central-esta-alza-reciente-del",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20230908/imag/foto_0000000120230908193801.jpg",
-      "PublishedAt": "2023-09-11T07:00:00Z",
-      "Content": "Rosanna Costa no para. A las horas que le dedicó a la difusión del Informe de Política Monetaria (IPoM) -miércoles antes el Senado y jueves ante empresarios y academia-, la presidenta del Banco Centr… [+14581 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sputniknews.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "\"La economía no tiene buena pinta\": el euro pierde terreno frente al dólar",
-      "Description": "Desde mediados de julio, el euro ha perdido el 5% para cotizar a 1,07 dólares, lo que representa ocho semanas seguidas de pérdidas frente a la moneda del país norteamericano, en un momento en que el sector manufacturero europeo está profundamente debilitado y…",
-      "Url": "https://sputniknews.lat/20230909/la-economia-no-tiene-buena-pinta-el-euro-pierde-terreno-frente-al-dolar--1143511433.html",
-      "UrlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1143511433.jpg?11364713891694229854",
-      "PublishedAt": "2023-09-09T03:23:46Z",
-      "Content": "\"La economía no tiene buena pinta, y eso debería traer más desinflación\", comentó Dirk Schumacher, antiguo empleado del BCE que ahora trabaja como economista en el banco francés Natixis, a Financial … [+5 chars]"
     }
   ]
 }
