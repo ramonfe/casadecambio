@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Bangladesh Bank takes action against ten financial institutions over inflated dollar sales",
+      "Description": "Bangladesh Bank takes action against ten financial institutions over inflated dollar sales",
+      "Url": "https://www.investing.com/news/economy/bangladesh-bank-takes-action-against-ten-financial-institutions-over-inflated-dollar-sales-93CH-3178131",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB2A045_L.jpg",
+      "PublishedAt": "2023-09-20T08:21:09Z",
+      "Content": "The Bangladesh Bank is taking disciplinary measures against ten financial institutions for reportedly selling US dollars at inflated prices. The central bank sent letters to these banks on Tuesday, s… [+1730 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -335,11 +348,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
+      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
     },
     {
       "Source": {
@@ -348,11 +361,11 @@
       },
       "Author": null,
       "Title": "Billion-dollar money laundering case: Man financed purchase of 10 units at luxury condominium Canninghill Piers",
-      "Description": "The amount of assets involved in the case has ballooned to S$1.8 billion.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-200-million-condo-units-canninghill-piers-3748616",
+      "Description": "The value of the assets involved in the case has ballooned to S$1.8 billion. They include properties, cars, cash, gold bars, jewellery and luxury watches.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-canninghill-piers-condo-units-3748616",
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
       "PublishedAt": "2023-09-06T00:48:00Z",
-      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1144 chars]"
+      "Content": "SINGAPORE: A man implicated in one of Singapores biggest money laundering probes had financed the purchase of 10 units at luxury condominium Canninghill Piers and another unit at Park Nova, an affida… [+1242 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-09-05T11:12:04Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": "wired",
-        "Name": "Wired"
-      },
-      "Author": "Matt Reynolds",
-      "Title": "A Billion-Dollar Plan to Fix Farm Emissions Might Make Things Worse",
-      "Description": "Agriculture is a huge source of greenhouse gas emissions, so the US is getting serious about reform. But some scientists say current efforts are misguided.",
-      "Url": "https://www.wired.com/story/usda-climate-smart-agriculture/",
-      "UrlToImage": "https://media.wired.com/photos/64f256cbf448350e82119af5/191:100/w_1280,c_limit/wheat-field-science-GettyImages-184589603.jpg",
-      "PublishedAt": "2023-09-05T11:00:00Z",
-      "Content": "Agriculture is a big source of emissions. In the US, about 10 percent of greenhouse gases come from livestock or cropsand for a long time, agriculture has lagged behind other sectors when it comes to… [+3597 chars]"
     }
   ]
 }
