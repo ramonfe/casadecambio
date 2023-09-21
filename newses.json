@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Reservas del Banco Central: realizó hoy la menor compra de reservas desde que rige el dólar soja 4",
+      "Description": "Logró quedarse con apenas US$1 millón para sus arcas, por lo que el saldo neto de sus operaciones de mercado con reservas del día será negativo",
+      "Url": "https://www.lanacion.com.ar/economia/reservas-del-banco-central-realizo-hoy-la-menor-compra-de-reservas-desde-que-rige-el-dolar-soja-4-nid20092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-central-de-la-republica-WNFHIWBYJRG4LI7XHUGHDEN42A.jpg?auth=41351aafb856a02d22211731c9e4cde0c3e8e54e9720f7539226c12204dbb4af&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-20T19:46:31Z",
+      "Content": "El Banco Central (BCRA) pudo sostener hoy a duras penas la racha recompradora de reservas iniciada tras la devaluación de las últimas PASO -y estirarla a 27 ruedas- al alzarse con apenas US$1 millón … [+3943 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/08/bitcoin-competir-dolar-moneda-internacional.jpg",
       "PublishedAt": "2023-09-12T17:52:38Z",
       "Content": "Hechos clave:\r\n<ul><li>Grayscale estima que las stablecoins se impondrán en transacciones minoristas.\r\n</li><li>Bitcoin, además, serviría como capa de liquidación para utilidades no financieras.\r\n</l… [+3693 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 12 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 12 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-12-de-septiembre-nid12092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-12-de-HYEMBKJX2FH3DCLGIGS26ICLIM.jpg?auth=d420745243bde133dfd6227c81ee77dc2af4b7c9900fde17d05808d20a6b537c&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-12T14:25:58Z",
-      "Content": "Este martes 12 de septiembre, el precio del dólar en México es de $17,3813, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en u… [+2075 chars]"
     }
   ]
 }
