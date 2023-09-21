@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 20 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 20 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-20-de-septiembre-nid20092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-20-de-GMI3QMFJ5FGA3LIRYITVESCLLA.jpg?auth=6d3eccf3e4705885c1062ed8110b0414a3dc5f6546afe1abe2f55e57089a6477&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-20T14:39:31Z",
+      "Content": "Este miércoles 20 de septiembre, el precio del dólar en México es de $17,0805, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex e… [+2088 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘merodea’ el piso de las 17 unidades frente al dólar: Se cotiza en 17.03",
+      "Description": "Una Fed menos restrictiva podría ser una buena noticia para el 'superpeso', señaló Gabriela Siller, directora de análisis económico-financiero de Banco Base.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/20/peso-dolar-precio-hoy-20-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/FoLeqruX_KfrVxcoKslg7zuOG0w=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/72NH3F6T7NHTDNYRBCXUJV7CG4.jpg",
+      "PublishedAt": "2023-09-20T14:28:38Z",
+      "Content": "El peso mexicano merodea el piso de las 17 unidades frente al dólar este miércoles, a unas horas de que la Reserva Federal dé a conocer su decisión de política monetaria. \r\nDe acuerdo con datos de Bl… [+1181 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-12-de-HYEMBKJX2FH3DCLGIGS26ICLIM.jpg?auth=d420745243bde133dfd6227c81ee77dc2af4b7c9900fde17d05808d20a6b537c&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-12T14:25:58Z",
       "Content": "Este martes 12 de septiembre, el precio del dólar en México es de $17,3813, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en u… [+2075 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": "LA REPÚBLICA",
-      "Title": "Dólar hoy: leve alza de la moneda estadounidense por encima de $4.000",
-      "Description": "La moneda estadounidense abrió el primer día de cotización de la semana con leve alza a la expectativa de los datos de inflación en Estados Unidos.",
-      "Url": "https://www.eluniversal.com.co/economica/dolar-hoy-leve-alza-de-la-moneda-estadounidense-por-encima-de-4000-ME8987842",
-      "UrlToImage": "https://www.eluniversal.com.co/binrepository/1083x686/142c0/800d686/none/13704/PKNU/precio-del-dolar_8468532_20230912091823.jpg",
-      "PublishedAt": "2023-09-12T14:18:17Z",
-      "Content": "La moneda estadounidense abrió el primer día de cotización de la semana con leve alza a la expectativa de los datos de inflación en Estados Unidos.\r\nSegún datos de Set FX, el dólar comenzó la jornada… [+1753 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso tropieza ‘con la misma piedra’ frente al dólar: Se cotiza en las 17.35 unidades",
-      "Description": "El peso mexicano busca regresar al terreno de las 16 unidades después de experimentar un rally negativo que borró sus avances contra el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/12/peso-dolar-precio-hoy-12-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Zl3BuaUcHB1joicoHriCBOdFf6g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DQR2IQQ6ERDULO2IMIPLKD7C4U.jpg",
-      "PublishedAt": "2023-09-12T14:04:54Z",
-      "Content": "El peso mexicano regresa al terreno de las pérdidas frente al dólar mientras los inversionistas buscan evadir los activos de riesgo tras las noticias de la economía de China. \r\nDe acuerdo con datos d… [+1007 chars]"
     }
   ]
 }
