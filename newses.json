@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY miércoles 20 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de septiembre el tipo de cambio interbancario, se ubica en 17.04 pesos por unidad, con una pérdida de 0.23 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-septiembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-09-20T11:01:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de septiembre el tipo de cambiointerbancario, se ubica en 17.04 pesos por unidad, con una pérdida de 0.23 por cie… [+785 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Zl3BuaUcHB1joicoHriCBOdFf6g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DQR2IQQ6ERDULO2IMIPLKD7C4U.jpg",
       "PublishedAt": "2023-09-12T14:04:54Z",
       "Content": "El peso mexicano regresa al terreno de las pérdidas frente al dólar mientras los inversionistas buscan evadir los activos de riesgo tras las noticias de la economía de China. \r\nDe acuerdo con datos d… [+1007 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso aprovecha ‘metida de pata’ del dólar: Se cotiza en las 17.46 unidades",
-      "Description": "En ventanilla bancaria, el dólar se cotiza en los 18.03 pesos por billete verde, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/11/peso-dolar-precio-hoy-11-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/i3J2Atka449Qp9IC9KWSs5LHQ_s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QKDY5XQ7YBBG5IZZFSINDYCWL4.jpg",
-      "PublishedAt": "2023-09-11T14:14:48Z",
-      "Content": "El peso mexicano aprovecha el mal desempeño del dólar en los mercados para abrir la semana con ganancias.\r\nDe acuerdo con datos de Bloomberg, la moneda nacional se aprecia 0.70 por ciento, por lo que… [+2155 chars]"
     }
   ]
 }
