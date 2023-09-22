@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 21 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 21 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-21-de-septiembre-nid21092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-21-de-MT7MFWFJJJGI3LWXVNP7IMQZTI.jpg?auth=4d639f7c7637e3224730347db8910c35c614733b700159ea59aaa8f0a9a9be2d&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-21T15:09:42Z",
+      "Content": "Este jueves 21 de septiembre, el precio del dólar en México es de $17,024, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2074 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/segun-el-informe-de-la-consultora-map-la-JFMAEFJCWRFS5ITDFYCNLPHVIQ.jpg?auth=7a867f752546465fc051bfb15e8e0dafd2c695d9c819bcf0ad7e50094b18e579&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-12T18:24:48Z",
       "Content": "Desde el 13 de agosto, día en que Javier Milei, candidato presidencial por La Libertad Avanza (LLA), ganó las elecciones primarias, gran parte del interés se enfocó en una de sus posturas más controv… [+4857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Criptonoticias.com"
-      },
-      "Author": "Nickolas Plaza",
-      "Title": "«Bitcoin podría competir con el dólar como moneda internacional»: Grayscale",
-      "Description": "Lightning Network mejora las perspectivas de uso de bitcoin como medio de pago, explica la empresa de inversiones.\nLeer más",
-      "Url": "https://www.criptonoticias.com/mercados/bitcoin-competir-dolar-moneda-internacional-grayscale/",
-      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/08/bitcoin-competir-dolar-moneda-internacional.jpg",
-      "PublishedAt": "2023-09-12T17:52:38Z",
-      "Content": "Hechos clave:\r\n<ul><li>Grayscale estima que las stablecoins se impondrán en transacciones minoristas.\r\n</li><li>Bitcoin, además, serviría como capa de liquidación para utilidades no financieras.\r\n</l… [+3693 chars]"
     }
   ]
 }
