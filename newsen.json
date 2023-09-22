@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Globalsecurity.org"
+      },
+      "Author": "John Pike",
+      "Title": "Exchange rate of yuan against dollar is not sole indicator of the yuan's value: official",
+      "Description": "The exchange rate of the yuan against the US dollar is important, but it is not the sole indicator of the yuan's value, an official of the People's Bank of China (PBC) told a press conference on Wednesday in response to questions related to the yuan's recent …",
+      "Url": "https://www.globalsecurity.org/wmd/library/news/china/2023/09/china-230920-globaltimes05.htm",
+      "UrlToImage": null,
+      "PublishedAt": "2023-09-21T05:18:51Z",
+      "Content": "Global Times\r\nBy Qi Xijia Published: Sep 20, 2023 04:31 PM Updated: Sep 20, 2023 04:25 PM\r\nThe exchange rate of the yuan against the US dollar is important, but it is not the sole indicator of the yu… [+4055 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--PxQgrJ2m--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/05/vang_shuiming.png?itok=GoKveaC9",
       "PublishedAt": "2023-09-05T11:20:01Z",
       "Content": "The investigating officer also wrote in his affidavit that Singapore police had acted on intelligence provided by \"a foreign authority\", that allowed them to uncover US$30 million in assets they did … [+2036 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "A Billion-Dollar Plan to Fix Farm Emissions Might Make Things Worse",
-      "Description": "Agriculture is a huge source of greenhouse gas emissions, so the US is getting serious about reform. But some scientists say current efforts are misguided.",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171765814",
-      "UrlToImage": null,
-      "PublishedAt": "2023-09-05T11:12:04Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
