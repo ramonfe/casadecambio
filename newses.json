@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Enrique Quintana",
+      "Title": "El incierto futuro de la paridad del peso frente al dólar",
+      "Description": "La paridad del peso frente al dólar puede ser afectada por factores como la percepción respecto a los riesgos para la estabilidad financiera o fiscal, o la aversión al riesgo en los mercados internacionales.",
+      "Url": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2023/09/22/el-incierto-futuro-de-la-paridad-del-peso-frente-al-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/myKEax4bZiVdgwxzd41V9YURtZ8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3RVNQTOFYFFENJO74HEYDILZ5M.jpg",
+      "PublishedAt": "2023-09-22T08:00:00Z",
+      "Content": "¿Alguien sabe realmente lo que va a pasar con la cotización del peso frente al dólar?\r\nLa inquietud respecto al futuro de la paridad es una constante, que aparece una y otra vez.\r\nHace unos cuantos d… [+3506 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/09/iphone-15-pro-scaled.jpg",
       "PublishedAt": "2023-09-12T18:47:54Z",
       "Content": "Apple finalmente presentó sus smartphones de nueva generación, los iPhone 15. Pero más allá de sus características, que hemos repasado a detalle tanto en los modelos estándar como en las variantes Pr… [+4325 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Luján Berardi",
-      "Title": "Tipo de cambio: el BCRA debería buscar un equilibrio entre el dólar oficial y el paralelo",
-      "Description": "Según una consultora, el precio planteado por Javier Milei para la dolarización sería muy alto; el valor intermedio sería aconsejable para estabilizar las cuentas externas",
-      "Url": "https://www.lanacion.com.ar/economia/tipo-de-cambio-el-bcra-deberia-buscar-un-equilibrio-entre-el-dolar-oficial-y-el-paralelo-nid12092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/segun-el-informe-de-la-consultora-map-la-JFMAEFJCWRFS5ITDFYCNLPHVIQ.jpg?auth=7a867f752546465fc051bfb15e8e0dafd2c695d9c819bcf0ad7e50094b18e579&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-12T18:24:48Z",
-      "Content": "Desde el 13 de agosto, día en que Javier Milei, candidato presidencial por La Libertad Avanza (LLA), ganó las elecciones primarias, gran parte del interés se enfocó en una de sus posturas más controv… [+4857 chars]"
     }
   ]
 }
