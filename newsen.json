@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "Billion-Dollar Bank Terminating Cash Transactions in All Branches in Abrupt Shift to Digital-Only Era",
+      "Description": "A bank with more than $250 billion in total assets says it will soon terminate cash transactions in all of its branches. The Australia-based Macquarie Bank says it will launch a plan to eliminate all cash, check and phone payment services in January, shifting…",
+      "Url": "https://dailyhodl.com/2023/09/22/billion-dollar-bank-terminating-cash-transactions-in-all-branches-in-abrupt-shift-to-digital-only-era/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/bank-cash-terminate.jpg",
+      "PublishedAt": "2023-09-23T00:04:50Z",
+      "Content": "A bank with more than $250 billion in total assets says it will soon terminate cash transactions in all of its branches.\r\nThe Australia-based Macquarie Bank says it will launch a plan to eliminate al… [+1796 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--9SJPe6xD--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/Moneylaundering suspects Wang Baosen Su Baolin CNA.png?itok=FYOLqz7D",
       "PublishedAt": "2023-09-06T09:15:15Z",
       "Content": "ARGUMENTS FOR WANG BAOSEN \r\nIn arguing that Wang - who has been remanded for 22 days - ought to be released on bail, the Chinese national's lawyer Adrian Wee objected to three main points raised in t… [+3988 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Singapore bank DBS raises $1.5 billion in two US dollar bond tranches-term sheet",
-      "Description": "Singapore bank DBS raises $1.5 billion in two US dollar bond tranches-term sheet",
-      "Url": "https://www.investing.com/news/stock-market-news/singapore-bank-dbs-raises-15-billion-in-two-us-dollar-bond-tranchesterm-sheet-3168162",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_L.jpg",
-      "PublishedAt": "2023-09-06T05:26:04Z",
-      "Content": "By Scott Murdoch and Yantoultra Ngui\r\nSYDNEY (Reuters) - Singapore's DBS Group (OTC:DBSDY) has raised $1.5 bln in two U.S. dollar bond tranches, according to a term sheet reviewed by Reuters.\r\nThe ba… [+825 chars]"
     }
   ]
 }
