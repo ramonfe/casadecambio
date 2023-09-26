@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano inicial la semana perdiendo frente al dólar",
+      "Description": "La moneda nacional cotizaba en 17.36 por dólar, con una depreciación del 0.95%.",
+      "Url": "https://aristeguinoticias.com/2509/dinero-y-economia/peso-mexicano-inicial-la-semana-perdiendo-frente-al-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
+      "PublishedAt": "2023-09-25T20:52:01Z",
+      "Content": "El peso mexicano retrocedía el jueves, al igual que la bolsa, que cambiaba su tendencia positiva de primera hora, reflejando las preocupaciones de los mercados ante la posición restrictiva de la Rese… [+1759 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Banco Central: el duro quebranto que las distintas versiones del dólar soja y agro le generaron al organismo",
+      "Description": "El daño se puede calcular tras haber emitido el Tesoro hace unos días otras Letra Intransferible (LI) por US$2165,8 millones para “compensarlo”",
+      "Url": "https://www.lanacion.com.ar/economia/banco-central-el-duro-quebranto-que-las-distintas-versiones-del-dolar-soja-y-agro-le-generaron-al-nid25092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ya-se-puede-establecer-el-perjuicio-que-debio-IIWTPFNGIJGMTJBBVHRFDER4ZQ.JPG?auth=5495d4f1740324982c8fef813d088207a1cc563d27a5bc0f0804f75bb1619c78&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-25T20:28:11Z",
+      "Content": "El Gobierno emitió en los últimos días una nueva Letra Intransferible (LI) por vencer en 10 años para compensar al Banco Central (BCRA) por la pérdida patrimonial que le causó al volver a obligarlo a… [+4979 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/rcbYwhfhx2yxJv42a4EbGIOBja0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3ZRZINV6OJBZTIHHFOHKEP6MEQ.jpg",
       "PublishedAt": "2023-09-13T15:13:35Z",
       "Content": "El peso mexicano busca alargar su racha positiva de esta semana contra el dólar, mientras los mercados analizan el nuevo dato de inflación en Estados Unidos.\r\nDe acuerdo con datos de Bloomberg, la mo… [+1246 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 13 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 13 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-13-de-septiembre-nid13092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-13-de-M244ULRA4BH65BRLWQYQBRMBKY.jpg?auth=6eeaf5afa1d013f275aeea68054905883295411cc83c4dae59fe7d90855b59bc&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-13T14:21:52Z",
-      "Content": "Este miércoles 13 de septiembre, el precio del dólar en México es de $17,2253, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex e… [+2054 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY 13 septiembre: Peso se recupera tras dato de inflación en EU",
-      "Description": "Al iniciar operaciones HOY 13 de septiembre, el dólar se vendía hasta en 18.20 pesos en ventanilla en bancos. En tanto, el tipo de cambio interbancario se ubica en 17.15 unidades por dólar, con una ganancia de 0.27 por ciento frente al precio de referencia de…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-septiembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2023-09-13T13:45:00Z",
-      "Content": "Al iniciar operaciones HOY 13 de septiembre, el dólar se vendía hasta en 18.20 pesos en ventanilla en bancos. En tanto, el tipo de cambio interbancario se ubica en 17.15 unidades por dólar, con una g… [+2722 chars]"
     }
   ]
 }
