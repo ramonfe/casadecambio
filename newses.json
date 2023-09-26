@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 25 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 25 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-25-de-septiembre-nid25092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-25-de-MT7MFWFJJJGI3LWXVNP7IMQZTI.jpg?auth=4d639f7c7637e3224730347db8910c35c614733b700159ea59aaa8f0a9a9be2d&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-25T14:46:23Z",
+      "Content": "Este lunes de septiembre, el precio del dólar en México es de $17,1568,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+1995 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2023-09-13T13:45:00Z",
       "Content": "Al iniciar operaciones HOY 13 de septiembre, el dólar se vendía hasta en 18.20 pesos en ventanilla en bancos. En tanto, el tipo de cambio interbancario se ubica en 17.15 unidades por dólar, con una g… [+2722 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Antonio Cahun",
-      "Title": "Los iPhone 15 son más baratos en México: hasta 4,000 pesos menos gracias al súper peso y a la depreciación del dólar",
-      "Description": "Apple ha presentado su nueva familia iPhone 15 y trae consigo novedades importantes. Sin embargo, la sorpresa que nadie esperaba eran precios más bajos. Sí, los iPhone 15, iPhone 15 Plus, iPhone 15 Pro y iPhone 15 Pro Max son más baratos que los iPhone 14 en …",
-      "Url": "https://www.xataka.com.mx/celulares-y-smartphones/iphone-15-baratos-mexico-4-000-pesos-gracias-al-super-peso-a-depreciacion-dolar",
-      "UrlToImage": "https://i.blogs.es/99489f/iphone-15-pro-max-diseno-caracteristicas-ficha-tecnica/840_560.jpeg",
-      "PublishedAt": "2023-09-12T23:01:00Z",
-      "Content": "Apple ha presentado su nueva familia iPhone 15 y trae consigo novedades importantes. Sin embargo, la sorpresa que nadie esperaba eran precios más bajos. Sí, los iPhone 15, iPhone 15 Plus, iPhone 15 P… [+4436 chars]"
     }
   ]
 }
