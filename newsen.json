@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Moneycontrol"
+      },
+      "Author": "Moneycontrol News",
+      "Title": "Bajaj Finance in focus amid reports of plans for billion-dollar mega fund raise",
+      "Description": "The non-bank finance lender announced a board meeting on October 5 to make a final decision on the fund raise plans, its deal size and the mechanism.",
+      "Url": "https://www.moneycontrol.com/news/business/markets/bajaj-finance-in-focus-amid-reports-of-plans-for-billion-dollar-mega-fund-raise-11420051.html",
+      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/BAJAJ-FINANCE-759x435.jpg",
+      "PublishedAt": "2023-09-25T03:02:24Z",
+      "Content": "Shares of Bajaj Finance will remain in focus on September 25 after Moneycontrol exclusively reported citing sources that the company was planning a mega fund raise to the tune of $800 million- $1 bil… [+1993 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.newscientist.com/wp-content/uploads/2023/09/04131321/SEI_169382993.jpg",
       "PublishedAt": "2023-09-06T18:00:00Z",
       "Content": "Storybook graphics and leading experts create a chilling docudrama\r\nUniversal Pictures\r\nBillion Dollar HeistDaniel GordonAvailable to stream\r\nON 4 February 2016, after a year of using malware to scru… [+383 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "2 men in billion-dollar money laundering case denied bail after judge deems them 'high flight risk'",
-      "Description": "Wang Baosen and Su Baolin's lawyers unsuccessfully argued for their clients to be released.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-wang-baosen-su-baolin-denied-bail-flight-risk-3749696",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--9SJPe6xD--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/Moneylaundering suspects Wang Baosen Su Baolin CNA.png?itok=FYOLqz7D",
-      "PublishedAt": "2023-09-06T09:15:15Z",
-      "Content": "ARGUMENTS FOR WANG BAOSEN \r\nIn arguing that Wang - who has been remanded for 22 days - ought to be released on bail, the Chinese national's lawyer Adrian Wee objected to three main points raised in t… [+3988 chars]"
     }
   ]
 }
