@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Asia Stocks Fall as Treasury Yields, Dollar Higher: Markets Wrap - Yahoo Finance",
+      "Description": "Asia Stocks Fall as Treasury Yields, Dollar Higher: Markets WrapYahoo Finance Stock market today: Asian shares dip with eyes on China economy, US shutdownThe Associated Press Stock Market Today: Dow, S&P Live Updates for September 26Bloomberg Asian shares sub…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171897679",
+      "UrlToImage": null,
+      "PublishedAt": "2023-09-26T06:53:33Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s---4yLdd5q--/c_crop,h_1191,w_2118,x_0,y_234/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2021/11/22/day_view_of_canninghill_piers_from_singapore_river.jpg?itok=rK5SNOra",
       "PublishedAt": "2023-09-08T06:50:04Z",
       "Content": "In August, news broke that more than S$1 billion in assets had been seized or frozen and 10 suspects arrested in a massive money laundering crackdown.\r\nThese assets, which have since ballooned in val… [+1308 chars]"
-    },
-    {
-      "Source": {
-        "Id": "new-scientist",
-        "Name": "New Scientist"
-      },
-      "Author": "Simon Ings",
-      "Title": "Billion Dollar Heist review: How cybercriminals hit Bangladeshi bank",
-      "Description": "A sophisticated attack on Bangladesh Bank left the world reeling as it became clear that the world's largest bank, the Federal Reserve Bank of New York, was powerless to stop all of it. A smart documentary shows how state-sponsored cybercriminals are for hire…",
-      "Url": "https://www.newscientist.com/article/mg25934550-700-billion-dollar-heist-review-how-cybercriminals-hit-bangladeshi-bank/",
-      "UrlToImage": "https://images.newscientist.com/wp-content/uploads/2023/09/04131321/SEI_169382993.jpg",
-      "PublishedAt": "2023-09-06T18:00:00Z",
-      "Content": "Storybook graphics and leading experts create a chilling docudrama\r\nUniversal Pictures\r\nBillion Dollar HeistDaniel GordonAvailable to stream\r\nON 4 February 2016, after a year of using malware to scru… [+383 chars]"
     }
   ]
 }
