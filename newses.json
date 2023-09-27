@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Racha del dólar deja ‘en la depre’ al peso: Se cotiza en las 17.42 unidades",
+      "Description": "En ventanillas bancarias, el dólar se vende en 17.85 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/26/peso-dolar-precio-hoy-26-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xVgfhzhigA9sN2-9LVfqw3tNc90=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3VPWMVWGRNASZOW4YNUXYH7ZOY.jpg",
+      "PublishedAt": "2023-09-26T14:16:31Z",
+      "Content": "El peso mexicano se hunde en el terreno de las pérdidas debido a la buena racha que el dólar está experimentando en el mercado. \r\nDe acuerdo con datos de Bloomberg, la moneda nacional se deprecia 0.1… [+1665 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-14-de-CZNZXJXVDJGH7OV2NMW6XLSXTY.jpg?auth=07b2406b82b9b7cb34274822f0dddbb19ce719b800f272828fd431ce5004cc27&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-14T14:18:19Z",
       "Content": "Este jueves 14 de septiembre, el precio del dólar en México es de $17,1235, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en u… [+2024 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano continúa subida frente al dólar",
-      "Description": "La moneda nacional cotizaba en 17.12 por dólar, con una apreciación del 0.41% frente al precio de referencia del martes.",
-      "Url": "https://aristeguinoticias.com/1309/dinero-y-economia/peso-mexicano-continua-subida-frente-al-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/07/moneda-mexicana-podria-alcanzar-umbral-15-pesos-agosto-jose-ignacio-martinez-cortes-lacen-unam-dienro-economia-inflacion-subyacente-27072023.jpg",
-      "PublishedAt": "2023-09-13T20:13:31Z",
-      "Content": "El peso mexicano continuaba su racha de tres jornadas consecutivas de ganancias el miércoles, mientras la bolsa bajaba, tras conocerse los datos de inflación de Estados Unidos en agosto, que generaro… [+1587 chars]"
     }
   ]
 }
