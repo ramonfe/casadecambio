@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Finbold.com"
+      },
+      "Author": "Vahid Karaahmetovic",
+      "Title": "What’s going on with Mexican peso vs. Dollar (USD/MXN)?",
+      "Description": "In the Forex markets, the US dollar (USD) has been climbing against the Mexican peso (MXN), after facing a few … Continued\nThe post What’s going on with Mexican peso vs. Dollar (USD/MXN)? appeared first on Finbold.",
+      "Url": "https://finbold.com/whats-going-on-with-mexican-peso-vs-dollar-usd-mxn/",
+      "UrlToImage": "https://finbold.com/app/uploads/2023/09/Whats-going-on-with-Mexican-peso-vs.-Dollar-USDMXN.jpg",
+      "PublishedAt": "2023-09-26T11:49:16Z",
+      "Content": "In the Forex markets, the US dollar (USD) has been climbing against the Mexican peso (MXN), after facing a few minor bumps along the way. \r\nThis upward trajectory is driven by a confluence of factors… [+2669 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://247wallst.com/wp-content/uploads/2022/09/imageForEntry1-lpX.jpg",
       "PublishedAt": "2023-09-08T12:47:27Z",
       "Content": "The futures traded lower as investors get ready to end the holiday-shortened trading week that has proven to live up to the September worst month of the year title so far. All the major indexes close… [+3692 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Property agents pay more heed to compliance checks after massive billion-dollar money laundering case",
-      "Description": "SINGAPORE: Property agents are paying more attention to compliance checks in the wake of a S$1.8 billion (US$1.32 billion) money laundering case making headlines in Singapore",
-      "Url": "https://www.channelnewsasia.com/singapore/money-laundering-property-compliance-checks-3755136",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s---4yLdd5q--/c_crop,h_1191,w_2118,x_0,y_234/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2021/11/22/day_view_of_canninghill_piers_from_singapore_river.jpg?itok=rK5SNOra",
-      "PublishedAt": "2023-09-08T06:50:04Z",
-      "Content": "In August, news broke that more than S$1 billion in assets had been seized or frozen and 10 suspects arrested in a massive money laundering crackdown.\r\nThese assets, which have since ballooned in val… [+1308 chars]"
     }
   ]
 }
