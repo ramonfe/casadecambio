@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso se debilita hasta 17.81 unidades por dólar previo a decisión de Banxico; BMV sube",
+      "Description": "Forbes México.\n Peso se debilita hasta 17.81 unidades por dólar previo a decisión de Banxico; BMV sube\n\nEl peso cotizaba en 17.6783 por dólar casi al final de los negocios, con un retroceso de 0.88% frente al precio de referencia de Reuters del martes, aunque…",
+      "Url": "https://www.forbes.com.mx/peso-se-debilita-hasta-17-81-unidades-por-dolar-previo-a-decision-de-banxico-bmv-sube/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0500.jpg",
+      "PublishedAt": "2023-09-27T21:42:06Z",
+      "Content": "El peso retrocedió el miércoles por tercera sesión consecutiva, ante un fortalecimiento global del dólar debido a crecientes preocupaciones de que las tasas de interés en Estados Unidos permanecerán … [+2467 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1143740900.jpg?10841203881694785321",
       "PublishedAt": "2023-09-15T13:42:00Z",
       "Content": "\"Si Argentina tiene tantas ganas de un tipo de cambio estable la dolarización es, al fin y al cabo, solo un tipo de cambio fijo que se vincule a Brasil. Brasil es exportador de materias primas, tiene… [+169 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano sigue ganando terreno a pesar de fortaleza del dólar",
-      "Description": "La moneda nacional ampliaba sus avances por cuarta sesión consecutiva.",
-      "Url": "https://aristeguinoticias.com/1409/dinero-y-economia/peso-mexicano-sigue-ganando-terreno-a-pesar-de-fortaleza-del-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
-      "PublishedAt": "2023-09-14T17:07:44Z",
-      "Content": "El peso mexicano se apreciaba el jueves en la apertura extendiendo el repunte de la semana, a pesar de la fortaleza del dólar, debido a la confianza en activos de economías emergentes que apuntalaban… [+1410 chars]"
     }
   ]
 }
