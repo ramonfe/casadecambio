@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 27 de septiembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 27 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-27-de-septiembre-nid27092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-27-de-ZGNMUD2EFFBVRL2BNJMT2FENKE.jpg?auth=84e78ba0c4f27e4022f92250a600fff78ce274d5a9effa819ca5b104722cc3b7&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-27T14:29:50Z",
+      "Content": "Este miércoles 27 de septiembre, el precio del dólar en México es de $17,4758,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en… [+2157 chars]"
+    },
     {
       "Source": {
         "Id": "rt",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
       "PublishedAt": "2023-09-14T17:07:44Z",
       "Content": "El peso mexicano se apreciaba el jueves en la apertura extendiendo el repunte de la semana, a pesar de la fortaleza del dólar, debido a la confianza en activos de economías emergentes que apuntalaban… [+1410 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Racha del peso vs. el dólar sube como ‘trique’: Se cotiza en 17.11 unidades",
-      "Description": "Datos de Bloomberg muestran que la moneda nacional se aprecia 0.20% este jueves. Si mantiene el paso, serán ya cuatro días con ganancias para el peso mexicano.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/14/peso-dolar-precio-hoy-14-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/tVEHrSP0ovVg8nPb0Qy75cNKTx0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LXTLY4QVVJBK7JU5IHPG4DSXNI.jpg",
-      "PublishedAt": "2023-09-14T15:37:14Z",
-      "Content": "El peso mexicano mantiene este jueves su paso firme frente al dólar en medio de una mañana abrumadora, en la que los inversionistas asimilan datos económicos en Estados Unidos, así como la decisión d… [+1323 chars]"
     }
   ]
 }
