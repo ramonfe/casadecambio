@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Cork Gaines",
+      "Title": "Inflation pushed the wealthy to shop at dollar stores. Now even those places are seeing people get tighter with their money.",
+      "Description": "Even the wealthy now shop at dollar stores due to inflation. But those businesses are still struggling after\nattracting affluent customers.",
+      "Url": "https://www.businessinsider.com/inflation-is-so-bad-wealthy-shopping-at-dollar-stores-2023-9",
+      "UrlToImage": "https://i.insider.com/651338f251acc80019f0db69?width=1200&format=jpeg",
+      "PublishedAt": "2023-09-27T18:11:24Z",
+      "Content": "Dollar General sign and a person dressed as Mr. Monopoly, \"Milburn Pennybags.\"Jakub Porzycki/NurPhoto via Getty Images; MANDEL NGAN/AFP via Getty Images\r\n<ul><li>During the pandemic, more people with… [+3418 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.insider.com/64fb2c66a39a1b00190bb581?width=1200&format=jpeg",
       "PublishedAt": "2023-09-08T14:47:25Z",
       "Content": "Key oil benchmarks spiked to 10-month highs this week – and that's a threat to the US economy, Bank of America strategists have warned.Neil Kremer\r\n<ul>\n<li>Don't rule out a hard landing for the US e… [+2598 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "24/7 Wall St."
-      },
-      "Author": "Lee Jackson",
-      "Title": "Friday’s Top Analyst Upgrades and Downgrades: Bank of America, Dell, Dollar General, Goldman Sachs, Home Depot, Lowe’s, McDonald’s, Roku, Seagate and More",
-      "Description": "Friday's top analyst upgrades and downgrades included Bank of America, Cloudflare, Crocs, Dell Technologies, Dollar General, Flex, Goldman Sachs, Home Depot, Lowe's Companies, McDonald's, Roku and Seagate Technology.",
-      "Url": "https://247wallst.com/investing/2023/09/08/fridays-top-analyst-upgrades-and-downgrades-bank-of-america-cloudflare-dell-technologies-dollar-general-flex-goldman-sachs-home-depot-lowes-companies-mcdonalds-roku-seagate-technology/",
-      "UrlToImage": "https://247wallst.com/wp-content/uploads/2022/09/imageForEntry1-lpX.jpg",
-      "PublishedAt": "2023-09-08T12:47:27Z",
-      "Content": "The futures traded lower as investors get ready to end the holiday-shortened trading week that has proven to live up to the September worst month of the year title so far. All the major indexes close… [+3692 chars]"
     }
   ]
 }
