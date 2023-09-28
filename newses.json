@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Debate.com.mx"
+      },
+      "Author": "Metztli Molina Olmos",
+      "Title": "Cierre del dólar hoy 26 de septiembre de 2023 en bancos de México",
+      "Description": "El peso cotizó en 17.52 unidades por dólar cerca del cierre de la sesión de este martes, con un retroceso del 0.78 por ciento",
+      "Url": "https://www.debate.com.mx/economia/Cierre-del-dolar-hoy-26-de-septiembre-de-2023-en-bancos-de-Mexico-20230926-0225.html",
+      "UrlToImage": "https://www.debate.com.mx/__export/1695762855239/sites/debate/img/2023/09/26/dolar-14.jpg_242310155.jpg",
+      "PublishedAt": "2023-09-26T23:43:43Z",
+      "Content": "El peso cotizó en 17.52 unidades por dólar cerca del cierre de la sesión de este martes, con un retroceso del 0.78 por ciento frente al precio de referencia del lunes, aunque durante el día llegó a d… [+1825 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20230914/imag/foto_0000000120230914123431/BANCO_SANTANDER.jpg",
       "PublishedAt": "2023-09-14T15:33:00Z",
       "Content": "La baja en la inflación tendría una pausa, a medida que el alza del dólar condicionaría los movimientos en la Tasa de Política Monetaria (TPM). Estas son algunas de las proyecciones que hace el Banco… [+4865 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso mantiene racha al alza, a pesar de la fortaleza del dólar",
-      "Description": "Forbes México.\n Peso mantiene racha al alza, a pesar de la fortaleza del dólar\n\nEl peso cotizaba en 17.1229 unidades por dólar, con una ganancia de 0.14% frente al precio de referencia de Reuters del miércoles.\nPeso mantiene racha al alza, a pesar de la forta…",
-      "Url": "https://www.forbes.com.mx/peso-mantiene-racha-al-alza-a-pesar-de-la-fortaleza-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0458.jpg",
-      "PublishedAt": "2023-09-14T14:24:41Z",
-      "Content": "El peso se apreciaba este jueves en la apertura extendiendo el repunte de la semana, a pesar de la fortaleza del dólar, debido a la confianza en activos de economías emergentes que apuntalaban a las … [+1104 chars]"
     }
   ]
 }
