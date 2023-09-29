@@ -21,8 +21,8 @@
 		{
 			"bank_id": 4,
 			"bank_name": "HSBC",
-			"buy": 16.88,
-			"sell": 17.61,
+			"buy": 16.85,
+			"sell": 17.75,
 			"date": "2022-05-02 17:10:09",
 			"prev_sell": 17.65,
 			"prev_buy": 15.95
@@ -30,8 +30,8 @@
 		{
 			"bank_id": 28,
 			"bank_name": "BANCAMIFEL",
-			"buy": 17.20,
-			"sell": 18.10,
+			"buy": 16.90,
+			"sell": 17.80,
 			"date": "2023-08-21 10:50:08",
 			"prev_sell": 16.70,
 			"prev_buy": 17.40
