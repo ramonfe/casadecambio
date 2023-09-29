@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sputniknews.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "\"Es un reto para el dólar\": así el Banco Europeo de Reconstrucción evalúa el comercio ruso en yuanes",
+      "Description": "El aumento de los negocios de Rusia, realizados en moneda china tras la imposición de sanciones occidentales contra Moscú, podría acabar socavando el dólar estadounidense, afirma el Banco Europeo para la Reconstrucción y el Desarrollo (BERD).",
+      "Url": "https://sputniknews.lat/20230928/es-un-reto-para-el-dolar-asi-el-banco-europeo-de-reconstruccion-evalua-el-comercio-ruso-en-yuanes-1144189894.html",
+      "UrlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1144189894.jpg?10373114701695913561",
+      "PublishedAt": "2023-09-28T15:06:00Z",
+      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 28 de septiembre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 28 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-28-de-septiembre-nid28092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-28-de-FOI3DCMBT5HWNEL4O2B6ZAUZQM.jpg?auth=1c25795cceb57275d013b01c265ecd580ffb492dd4485a2f993ed3a95051e1b7&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-28T15:04:34Z",
+      "Content": "Este jueves 28 de septiembre, el precio del dólar en México es de $17,7287,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2070 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/DAORYlpmNO-v6ww_Al4_qgS8ZBs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4COZQ3YKURB6BKRSXZ5NKJHWQA.jpg",
       "PublishedAt": "2023-09-15T16:34:18Z",
       "Content": "La especulación de que no se realice otro incremento a la tasa de interés por parte de la Reserva Federal, en su reunión de política monetaria de este mes, llevó al dólar a colocarse en terreno de pé… [+1652 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 15 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 15 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-15-de-septiembre-nid15092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-15-de-7HEZJDXOIZDHZNGHL7W3T5EX6A.jpg?auth=0bd005904a0dfe28ed05d4a75e48e1a7184ed076fb9f09f33ec78c0fb880f63d&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-15T14:38:23Z",
-      "Content": "Este viernes 15 de septiembre, el precio del dólar en México es de $17,1042, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en … [+2074 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sputniknews.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "Dólar o real brasileño: ¿necesita Argentina una nueva moneda?",
-      "Description": "Entre las diversas ideas que se barajan para revertir la crisis económica en Argentina, algunos economistas apuntan al uso de otras monedas, a distintos niveles. Pero, ¿cuáles serían las consecuencias prácticas de tal cambio? Expertos explican a Sputnik si es…",
-      "Url": "https://sputniknews.lat/20230915/dolar-o-real-brasileno-necesita-argentina-una-nueva-moneda-1143740900.html",
-      "UrlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1143740900.jpg?10841203881694785321",
-      "PublishedAt": "2023-09-15T13:42:00Z",
-      "Content": "\"Si Argentina tiene tantas ganas de un tipo de cambio estable la dolarización es, al fin y al cabo, solo un tipo de cambio fijo que se vincule a Brasil. Brasil es exportador de materias primas, tiene… [+169 chars]"
     }
   ]
 }
