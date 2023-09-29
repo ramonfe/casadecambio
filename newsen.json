@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "New Zealand Herald"
+      },
+      "Author": "Jenée Tibshraeny",
+      "Title": "Reserve Bank builds war chest of foreign reserves to support the dollar if there’s a crisis",
+      "Description": "A closer look at why the Reserve Bank is accumulating billions in foreign reserves.",
+      "Url": "https://www.nzherald.co.nz/business/reserve-bank-builds-war-chest-of-foreign-reserves-to-support-the-dollar-if-theres-a-crisis/QDDRGJO5HNDNTPRULSHJR42YDQ/",
+      "UrlToImage": "https://www.nzherald.co.nz/resizer/JagutZFpG4m3Uxpiv25AMuPJ5QI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LYMNMPCZCJDN7NZEDPM2PSIJFE.JPG",
+      "PublishedAt": "2023-09-28T01:43:10Z",
+      "Content": "Reserve Bank governor Adrian Orr says the transition to a higher level of foreign reserves will take place over a number of years. Photo / Jed BradleyThe Reserve Bank of New Zealand (RBNZ) is slowly … [+3360 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2023-09-11T06:07:01Z",
       "Content": "September 11, 2023\r\nAozora Bank, Ltd.\r\nAozora Issues Senior Unsecured\r\nU.S. Dollar-Denominated Green Bonds Listed on Overseas Market\r\nTokyo September 11, 2023 Aozora Bank, Ltd. (President and CEO: Ke… [+5080 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "George Glover",
-      "Title": "Oil, the dollar, and the Fed still pose a triple threat to the US economy, Bank of America says",
-      "Description": "Don't rule out a hard landing for the US economy just yet, a team of strategists led by Michael Hartnett said.",
-      "Url": "https://www.businessinsider.com/recession-economy-hard-landing-oil-dollar-federal-reserve-bofa-hartnett-2023-9",
-      "UrlToImage": "https://i.insider.com/64fb2c66a39a1b00190bb581?width=1200&format=jpeg",
-      "PublishedAt": "2023-09-08T14:47:25Z",
-      "Content": "Key oil benchmarks spiked to 10-month highs this week – and that's a threat to the US economy, Bank of America strategists have warned.Neil Kremer\r\n<ul>\n<li>Don't rule out a hard landing for the US e… [+2598 chars]"
     }
   ]
 }
