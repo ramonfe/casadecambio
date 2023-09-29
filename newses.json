@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: el Banco Central abrió un camino al desdoblamiento cambiario",
+      "Description": "El organismo removió una norma para facilitar el ingreso de divisas por el CCL; castigaba a las empresas que usaban ese canal con un bloqueo temporal de acceso al MULC; para algunos economistas, es el comienzo de un proceso de diferenciación de cotizaciones",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-abrio-un-camino-al-desdoblamiento-cambiario-nid28092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-resolucion-del-bcra-facilita-que-algunas-4TEBVYBZC5DOVAHRZ3BETGVF7U.JPG?auth=59e7f7d57b6e0c3e589a6729a70f2ed5df96f05cc34c7f776ee7eb04fa6752f5&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-28T21:39:12Z",
+      "Content": "El Banco Central (BCRA) modificó una norma que trababa a las empresas el ingresos de divisas desde el exterior por el mercado bursátil, al dejar habilitado ese canal para transferencias vinculadas a … [+2831 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2021/05/Dinero_002.jpg",
       "PublishedAt": "2023-09-15T21:30:18Z",
       "Content": "El peso subió este viernes con respecto al dólar y finalizó una semana con importantes ganancias, recuperando terreno por el optimismo en la economía y la expectativa de que el ciclo de ajustes monet… [+2319 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso amanece ‘patrio’ y aventaja al dólar: Se cotiza en las 17.08 unidades",
-      "Description": "Información de Bloomberg indica que el tipo de cambio se ubica en los 17.0847 pesos por billete verde este 15 de septiembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/15/peso-dolar-precio-hoy-15-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/DAORYlpmNO-v6ww_Al4_qgS8ZBs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4COZQ3YKURB6BKRSXZ5NKJHWQA.jpg",
-      "PublishedAt": "2023-09-15T16:34:18Z",
-      "Content": "La especulación de que no se realice otro incremento a la tasa de interés por parte de la Reserva Federal, en su reunión de política monetaria de este mes, llevó al dólar a colocarse en terreno de pé… [+1652 chars]"
     }
   ]
 }
