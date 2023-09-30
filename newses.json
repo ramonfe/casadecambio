@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso amanece ‘fortachón’ frente al dólar: Se cotiza en las 17.40 unidades este viernes",
+      "Description": "El tipo de cambio se ubica este viernes 29 de septiembre en los 17.4036 pesos por billete verde.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/29/peso-dolar-precio-hoy-29-de-septiembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xa53IKXcifRgHvWgCFe9jxT_LKs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LRY6CWITUBFTVP6MNJ5J6WFRNY.jpg",
+      "PublishedAt": "2023-09-29T15:27:48Z",
+      "Content": "La apreciación del peso mexicano se prolongó en la sesión de este viernes 29 de septiembre, después de que el Banco de México (Banxico) decidió mantener sin cambios la tasa de interés este jueves; si… [+1681 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/1JE4qvvY7eJE1x178QEoB-2Vxqo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JSKFTML5B5BCNEMLUSWIQQOLFE.jpg",
       "PublishedAt": "2023-09-18T16:01:38Z",
       "Content": "El peso mexicano regresó del fin de semana patrio con pérdidas frente al dólar. La atención del mercado en los próximos días estará enfocada en la nueva decisión de política monetaria de la Reserva F… [+1445 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 18 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 18 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-18-de-septiembre-nid18092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-18-de-7O6XQSCGJNEQNN3WMXCZBGW6LQ.jpg?auth=03a875eaeab330046b069e105b83700b0714410103789575b2a1310774aadc65&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-18T15:09:37Z",
-      "Content": "Este lunes 18 de septiembre, el precio del dólar en México es de $17,0807, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2086 chars]"
     }
   ]
 }
