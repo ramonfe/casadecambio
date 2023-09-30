@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 29 de septiembre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 29 de septiembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-29-de-septiembre-nid29092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-29-de-JQDIS6EHANES3M237JMYCUSG4U.jpg?auth=59b96d22bb8594d3a8b38eba5a6a57ddc3dceb3ebb9c7c89c6b56ccc68e3a796&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-29T14:11:16Z",
+      "Content": "Este viernes 29 de septiembre, el precio del dólar en México es de $17,6195, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en … [+1984 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-18-de-7O6XQSCGJNEQNN3WMXCZBGW6LQ.jpg?auth=03a875eaeab330046b069e105b83700b0714410103789575b2a1310774aadc65&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-18T15:09:37Z",
       "Content": "Este lunes 18 de septiembre, el precio del dólar en México es de $17,0807, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2086 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Montevideo.com.uy"
-      },
-      "Author": "Montevideo Portal",
-      "Title": "Dólar, tipo de cambio y el “déjà vu” de Munyo sobre el surgimiento de Un Solo Uruguay",
-      "Description": "Los economistas Agustín Iturralde, Aldo Lema, Ignacio Munyo y María Laura Rodríguez analizaron las causas del atraso cambiario en el país.",
-      "Url": "https://www.montevideo.com.uy/Noticias/Dolar-tipo-de-cambio-y-el-dej-vu-de-Munyo-sobre-el-surgimiento-de-Un-Solo-Uruguay-uc865737",
-      "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202309/_W933_80/856109.jpg",
-      "PublishedAt": "2023-09-17T16:25:00Z",
-      "Content": "Montevideo Portal\r\nEl Centro de\r\nEstudios para el Desarrollo (CED) organizó el pasado viernes en la Expo Prado\r\n2023 un panel con especialista económicos, con el objetivo de analizar el\r\ncomportamien… [+7792 chars]"
     }
   ]
 }
