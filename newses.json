@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Regresa dólar debajo de los $18 tras anuncio de Banxico",
+      "Description": "El dólar cerró con bajas en su valor, con lo que el peso se apreció ante anuncio monetario del Banco de México.",
+      "Url": "https://www.reforma.com/regresa-dolar-debajo-de-los-18-tras-anuncio-de-banxico/ar2683733",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/363/5362783.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-09-28T23:09:56Z",
+      "Content": "Luego de tres jornadas con incrementos, hoy, el dólar de ventanilla disminuyó 12 centavos y se ubicó a 17.97 pesos a la venta en Citibanamex y a 17.02 unidades a la compra. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/529/5528150.jpg&ang=0",
       "PublishedAt": "2023-09-15T23:42:07Z",
       "Content": "Hoy, el tipo de cambio se ofreció a 17.51 pesos en las ventanillas de Citibanamex, y se compró a 16.53 unidades. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso hila 5 sesiones al alza y mira el umbral de 17.00 por dólar; BMV cae",
-      "Description": "Forbes México.\n Peso hila 5 sesiones al alza y mira el umbral de 17.00 por dólar; BMV cae\n\nEl peso cerró la semana con un incremento de alrededor de 2.9%, con lo cual casi borró las pérdidas de la semana anterior.\nPeso hila 5 sesiones al alza y mira el umbral…",
-      "Url": "https://www.forbes.com.mx/peso-hila-5-sesiones-al-alza-y-mira-el-umbral-de-17-00-por-dolar-bmv-cae/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2021/05/Dinero_002.jpg",
-      "PublishedAt": "2023-09-15T21:30:18Z",
-      "Content": "El peso subió este viernes con respecto al dólar y finalizó una semana con importantes ganancias, recuperando terreno por el optimismo en la economía y la expectativa de que el ciclo de ajustes monet… [+2319 chars]"
     }
   ]
 }
