@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Adriana Arcos",
+      "Title": "Peso se deprecia 3.75% en septiembre, a $17.85 por dólar",
+      "Description": "El peso anotó su mayor depreciación en casi dos años al ceder 3.75% en septiembre frente al dólar, al finalizar a $17.85 al menudeo.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-3-75-en-septiembre-a-17-85-por-dolar/ar2684369",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/5/973/4972369.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-09-29T22:14:36Z",
+      "Content": "El peso cerró a $17.85 en cruces al menudeo. Crédito: Sergio Ángeles."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
       "PublishedAt": "2023-09-19T14:29:55Z",
       "Content": "El peso se apreciaba este martes, ante un debilitamiento global del dólar al inicio de una reunión de política monetaria de dos días del Comité Federal de Mercado Abierto (FOMC) de la Reserva Federal… [+1105 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¿Estás ‘crudito’, peso? Pierde con el dólar y se cotiza en las 17.11 unidades",
-      "Description": "Especialistas de CIBanco estimaron que a lo largo de este 18 de septiembre, el tipo de cambio podría moverse entre las 17.05 y 17.20 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/18/peso-dolar-precio-hoy-18-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/1JE4qvvY7eJE1x178QEoB-2Vxqo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JSKFTML5B5BCNEMLUSWIQQOLFE.jpg",
-      "PublishedAt": "2023-09-18T16:01:38Z",
-      "Content": "El peso mexicano regresó del fin de semana patrio con pérdidas frente al dólar. La atención del mercado en los próximos días estará enfocada en la nueva decisión de política monetaria de la Reserva F… [+1445 chars]"
     }
   ]
 }
