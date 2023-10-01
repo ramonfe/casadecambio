@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Alejandro Durán",
+      "Title": "Banco Central intervino este viernes para moderar alza del dólar",
+      "Description": "Banco Central vendió directamente $3,9 millones en el Monex. Precio de la divisa subió ¢6,4 desde el pasado miércoles, pero es ¢0,45 menor en comparación con el cierre de la semana anterior",
+      "Url": "https://www.nacion.com/economia/indicadores/banco-central-intervino-este-viernes-para-moderar/QPWJUXZITFHY5CCENLNPE77W2Y/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/AdTorw9xaN1RhcwzaGZGExJAFO8=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/42CA5WE6QNGQLLIABRFTMOIRHQ.jpg",
+      "PublishedAt": "2023-09-29T23:12:21Z",
+      "Content": "El Banco Central de Costa Rica (BCCR) intervino en el mercado cambiario durante este viernes para frenar presiones al alza que se presentaron en el precio del dólar. La autoridad monetaria vendió $3,… [+4192 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/9cPBjOcVus7Tf22Up3mxs4UIFwE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FHLDIWPHQZAJVHZNP4VHDLIWKM.jpg",
       "PublishedAt": "2023-09-19T14:41:39Z",
       "Content": "El peso mexicano sostiene sus avances frente al dólar, que se debilita mientras el mercado está a la expectativa de la próxima decisión de política monetaria por parte de la Reserva Federal, que se e… [+1485 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se aprecia ante debilitamiento del dólar y en espera de decisión de la Fed",
-      "Description": "Forbes México.\n Peso se aprecia ante debilitamiento del dólar y en espera de decisión de la Fed\n\nEl peso cotizaba en 17.0853 por dólar, con una ganancia de 0.27% frente al precio de referencia de Reuters del lunes.\nPeso se aprecia ante debilitamiento del dóla…",
-      "Url": "https://www.forbes.com.mx/peso-se-aprecia-ante-debilitamiento-del-dolar-y-en-espera-de-decision-de-la-fed/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
-      "PublishedAt": "2023-09-19T14:29:55Z",
-      "Content": "El peso se apreciaba este martes, ante un debilitamiento global del dólar al inicio de una reunión de política monetaria de dos días del Comité Federal de Mercado Abierto (FOMC) de la Reserva Federal… [+1105 chars]"
     }
   ]
 }
