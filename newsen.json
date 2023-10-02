@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 46,
+  "TotalResults": 47,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Fined $9,650,000 for Misleading Customers, Charging 186,000 Accounts With Hidden Fees and Interest",
+      "Description": "A bank with about $670 billion in total assets will pay a multi-million-dollar fine after admitting to misleading credit card customers for years. The Australian Securities and Investments Commission (ASIC) says Australia and New Zealand Banking Group Limited…",
+      "Url": "https://dailyhodl.com/2023/09/30/billion-dollar-bank-fined-9650000-for-misleading-customers-charging-186000-accounts-with-hidden-fees-and-interest/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/bank-account-cash.jpg",
+      "PublishedAt": "2023-10-01T00:04:59Z",
+      "Content": "A bank with about $670 billion in total assets will pay a multi-million-dollar fine after admitting to misleading credit card customers for years.\r\nThe Australian Securities and Investments Commissio… [+1978 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/d81091a6e90835560c6062d7814d5cd5",
       "PublishedAt": "2023-09-11T09:01:42Z",
       "Content": "BEIJING/SHANGHAI (Reuters) - China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time wh… [+679 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "China's central bank to peruse bulk dollar purchases - sources",
-      "Description": "(marketscreener.com) China's central\nbank is tightening its scrutiny of bulk dollar purchases by\ndomestic firms, three sources with direct knowledge of the\nmatter said on Monday, at a time when the Chinese currency faces\nmounting depreciation pressure.\n Compa…",
-      "Url": "https://www.marketscreener.com/news/latest/China-s-central-bank-to-peruse-bulk-dollar-purchases-sources--44812041/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2023-02/2023-02-07T114458Z_1_LYNXMPEJ160JL_RTROPTP_3_USA-CHINA.JPG",
-      "PublishedAt": "2023-09-11T08:58:55Z",
-      "Content": "BEIJING/SHANGHAI, Sept 11 (Reuters) - China's central\r\nbank is tightening its scrutiny of bulk dollar purchases by\r\ndomestic firms, three sources with direct knowledge of the\r\nmatter said on Monday, … [+693 chars]"
     }
   ]
 }
