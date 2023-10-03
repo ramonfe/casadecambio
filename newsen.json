@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 47,
+  "TotalResults": 48,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "David Chau",
+      "Title": "Live: ASX set to tumble, Australian dollar falls to 11-month low ahead of Reserve Bank decision",
+      "Description": "The local share market is likely to fall sharply in morning trade as investors bet on interest rates staying higher for longer, while the value of the Australian dollar, gold and oil suffered heavy losses. Follow the latest updates in our live blog.",
+      "Url": "https://www.abc.net.au/news/2023-10-03/asx-markets-business-live-news/102927212",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/32ad9f6bb18cedd086f88e3c452834ac?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
+      "PublishedAt": "2023-10-02T21:03:23Z",
+      "Content": "Good morning! David Chau here, with your latest finance updates.\r\nThe Australian share market is set to fall sharply this morning, with ASX futures down 1.4%.\r\nIt looks like markets are increasingly … [+1501 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
       "PublishedAt": "2023-09-11T09:06:04Z",
       "Content": "BEIJING/SHANGHAI (Reuters) -China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time whe… [+1886 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Reuters",
-      "Title": "Exclusive-China's central bank to peruse bulk dollar purchases - sources",
-      "Description": "China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday,...",
-      "Url": "https://finance.yahoo.com/news/exclusive-chinas-central-bank-peruse-090142572.html",
-      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/d81091a6e90835560c6062d7814d5cd5",
-      "PublishedAt": "2023-09-11T09:01:42Z",
-      "Content": "BEIJING/SHANGHAI (Reuters) - China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time wh… [+679 chars]"
     }
   ]
 }
