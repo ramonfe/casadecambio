@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eluniversal.com.co"
+      },
+      "Author": "EFE",
+      "Title": "Divisas internacionales: el rublo ruso y el euro caen con respecto al dólar",
+      "Description": "El rublo se cotizó en la madrugada de este lunes 02 a 99,08 por cada billete verde, una devaluación del 1,12 % desde el cierre de la sesión el pasado viernes. La divisa no alcanzaba este listón desde que el Banco Central de Rusia (BCR) subiera el pasado 15 de…",
+      "Url": "https://www.eluniversal.com.co/economica/divisas-internacionales-el-rublo-ruso-y-el-euro-caen-con-respecto-al-dolar-BF9135726",
+      "UrlToImage": "https://www.eluniversal.com.co/binrepository/1025x686/113c0/800d686/none/13704/JFNB/rublo-ruso_8623810_20231002115956.jpg",
+      "PublishedAt": "2023-10-02T16:35:15Z",
+      "Content": "El rublo se cotizó en la madrugada de este lunes 02 a 99,08 por cada billete verde, una devaluación del 1,12 % desde el cierre de la sesión el pasado viernes. La divisa no alcanzaba este listón desde… [+3131 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-19-de-CZNZXJXVDJGH7OV2NMW6XLSXTY.jpg?auth=07b2406b82b9b7cb34274822f0dddbb19ce719b800f272828fd431ce5004cc27&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-19T15:27:18Z",
       "Content": "Este martes 19 de septiembre, el precio del dólar en México es de $17,1307, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en u… [+2054 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Al peso ‘no le tiembla la mano’ con el dólar: Se cotiza en las 17.09 unidades",
-      "Description": "En ventanillas bancarias, el dólar se vende en 17.53 pesos por cada billete verde, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/19/peso-dolar-precio-hoy-19-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/9cPBjOcVus7Tf22Up3mxs4UIFwE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FHLDIWPHQZAJVHZNP4VHDLIWKM.jpg",
-      "PublishedAt": "2023-09-19T14:41:39Z",
-      "Content": "El peso mexicano sostiene sus avances frente al dólar, que se debilita mientras el mercado está a la expectativa de la próxima decisión de política monetaria por parte de la Reserva Federal, que se e… [+1485 chars]"
     }
   ]
 }
