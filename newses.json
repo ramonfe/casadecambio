@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 2 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este lunes 2 de octubre; el tipo de cambio ha regresado al nivel registrado al inicio de la semana anterior",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-2-de-octubre-nid02102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-02T17:57:44Z",
+      "Content": "Según elDiario Oficial de la Federación (DOF), este lunes 2 de octubre el precio del dólar en México es de $17,7142, mientras que el que se vende por las ventanillas del Citibanamex es de un promedio… [+1609 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9201.webp",
       "PublishedAt": "2023-09-19T15:29:54Z",
       "Content": "La propuesta del candidato de ultraderecha argentino Javier Milei de dolarizar Argentina ha vuelto a traer un debate a América Latina, donde países como Panamá, El Salvador y Ecuador llevan ya años c… [+7884 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 19 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 19 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-19-de-septiembre-nid19092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-19-de-CZNZXJXVDJGH7OV2NMW6XLSXTY.jpg?auth=07b2406b82b9b7cb34274822f0dddbb19ce719b800f272828fd431ce5004cc27&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-19T15:27:18Z",
-      "Content": "Este martes 19 de septiembre, el precio del dólar en México es de $17,1307, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en u… [+2054 chars]"
     }
   ]
 }
