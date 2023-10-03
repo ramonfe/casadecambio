@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencialdigital.com"
+      },
+      "Author": "Agencias",
+      "Title": "El euro arranca octubre en retroceso y vuelve a caer a mínimos del año frente al dólar",
+      "Description": "MADRID, 2 (EUROPA PRESS) La cotización del euro frente al dólar ha registrado este primer lunes de octubre un descenso del 0,75%, hasta situarse el cambio en 1,0491 dólares, lo que supone el nivel más bajo desde el inicio del año. El...",
+      "Url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/euro-arranca-octubre-retroceso-vuelve-caer-minimos-ano-frente-dolar/20231002205248645437.html",
+      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/10/02/2023100218524587984.jpg",
+      "PublishedAt": "2023-10-02T18:52:48Z",
+      "Content": "MADRID, 2 (EUROPA PRESS)\r\n La cotización del euro frente al dólar ha registrado este primer lunes de octubre un descenso del 0,75%, hasta situarse el cambio en 1,0491 dólares, lo que supone el nivel … [+1366 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/08/dolares-estados-unidos-ecomomia-calificadoras-01082023.jpg",
       "PublishedAt": "2023-09-19T16:16:22Z",
       "Content": "El peso mexicano se apreciaba el martes, ante un debilitamiento global del dólar al inicio de una reunión de política monetaria de dos días del Comité Federal de Mercado Abierto (FOMC) de la Reserva … [+1479 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "¿Qué peso tiene el dólar en las economías latinoamericanas? Más de lo que se cree",
-      "Description": "Forbes México.\n ¿Qué peso tiene el dólar en las economías latinoamericanas? Más de lo que se cree\n\nEn este análisis se revisará que influencia tiene el dólar estadounidense en algunas de las economías más importantes de Latinoamérica. \n¿Qué peso tiene el dóla…",
-      "Url": "https://www.forbes.com.mx/que-peso-tiene-el-dolar-en-las-economias-latinoamericanas-mas-de-lo-que-se-cree/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9201.webp",
-      "PublishedAt": "2023-09-19T15:29:54Z",
-      "Content": "La propuesta del candidato de ultraderecha argentino Javier Milei de dolarizar Argentina ha vuelto a traer un debate a América Latina, donde países como Panamá, El Salvador y Ecuador llevan ya años c… [+7884 chars]"
     }
   ]
 }
