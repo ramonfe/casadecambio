@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El dólar se fortalece y pega a la moneda mexicana",
+      "Description": "En un escenario en el que la tasa de interés de los bonos del Tesoro de Estados Unidos alcanzó niveles no vistos desde hace casi 16 años, debido a la expectativa de que la Reserva Federal (Fed) subirá de nuevo los rendimientos este año, el peso mexicano fue l…",
+      "Url": "https://www.jornada.com.mx/2023/10/03/economia/020n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2023-10-03T07:18:31Z",
+      "Content": "Periódico La JornadaMartes 3 de octubre de 2023, p. 20\r\nEn un escenario en el que la tasa de interés de los bonos del Tesoro de Estados Unidos alcanzó niveles no vistos desde hace casi 16 años, debid… [+2158 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-09-20T11:01:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de septiembre el tipo de cambiointerbancario, se ubica en 17.04 pesos por unidad, con una pérdida de 0.23 por cie… [+785 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Dólar se debilita y peso mexicano recupera fuerza",
-      "Description": "La moneda nacional cotizaba en 17.08 por dólar, con una ganancia del 0.27% frente al precio de referencia del lunes.",
-      "Url": "https://aristeguinoticias.com/1909/mexico/dolar-se-debilita-y-peso-mexicano-recupera-fuerza/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/08/dolares-estados-unidos-ecomomia-calificadoras-01082023.jpg",
-      "PublishedAt": "2023-09-19T16:16:22Z",
-      "Content": "El peso mexicano se apreciaba el martes, ante un debilitamiento global del dólar al inicio de una reunión de política monetaria de dos días del Comité Federal de Mercado Abierto (FOMC) de la Reserva … [+1479 chars]"
     }
   ]
 }
