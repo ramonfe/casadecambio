@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Eso no está ‘fetch’, peso: Profundiza pérdidas vs. el dólar y se cotiza en las 17.74 unidades",
+      "Description": "Las monedas de mercados emergentes, como el peso mexicano, sufren por el rally alcista del billete verde.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/03/peso-dolar-precio-hoy-3-de-octubre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RFdxtRRMz6yTOFCbqyKpX5AU4o4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C4XJ5UJIVJEDVKBMZXVHBCQVGM.jpg",
+      "PublishedAt": "2023-10-03T13:53:34Z",
+      "Content": "El peso mexicano profundiza sus pérdidas frente al dólar este 3 de octubre ante el rally alcista del billete verde que recibió otro impulso más cuando una nueva voz de la Fed aseguro que el Banco Cen… [+1218 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/FoLeqruX_KfrVxcoKslg7zuOG0w=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/72NH3F6T7NHTDNYRBCXUJV7CG4.jpg",
       "PublishedAt": "2023-09-20T14:28:38Z",
       "Content": "El peso mexicano merodea el piso de las 17 unidades frente al dólar este miércoles, a unas horas de que la Reserva Federal dé a conocer su decisión de política monetaria. \r\nDe acuerdo con datos de Bl… [+1181 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY miércoles 20 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de septiembre el tipo de cambio interbancario, se ubica en 17.04 pesos por unidad, con una pérdida de 0.23 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-septiembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-09-20T11:01:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de septiembre el tipo de cambiointerbancario, se ubica en 17.04 pesos por unidad, con una pérdida de 0.23 por cie… [+785 chars]"
     }
   ]
 }
