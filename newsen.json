@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT",
+      "Title": "Ruble exchange rate to dollar doesn’t matter – Kremlin",
+      "Description": "The Russian government does not see a weakening ruble as a threat to macroeconomic stability, the Kremlin spokesman has said Read Full Article at RT.com",
+      "Url": "https://www.rt.com/business/583962-ruble-dollar-exchange-rate/",
+      "UrlToImage": "https://mf.b37mrtl.ru/files/2023.10/article/651c249385f54056ca354c85.jpg",
+      "PublishedAt": "2023-10-03T15:11:24Z",
+      "Content": "The Russian currency’s continued backslide against the US dollar is not a reason for concern, Kremlin spokesperson Dmitry Peskov stated on Tuesday, calling such worries a “remnant of the past.”\r\nThe … [+1190 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
       "PublishedAt": "2023-09-12T10:10:03Z",
       "Content": "Get SAT Extends U.S. Government Contract with Spacecom for a Multi-Million Dollar SATCOM On-the-Move Project, Demonstrating Customer Trust and Satisfaction12.09.2023\r\n Get SAT, an innovator in small,… [+3674 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Today"
-      },
-      "Author": "Reuters",
-      "Title": "China's central bank to scrutinise bulk dollar purchases - sources",
-      "Description": "The central bank has warned some lenders of their huge dollar purchases on behalf of their corporate clients, according one of the other sources.",
-      "Url": "https://www.businesstoday.in/latest/world/story/chinas-central-bank-to-scrutinise-bulk-dollar-purchases-sources-398020-2023-09-12",
-      "UrlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202309/china_dollar_bulk_purchase-sixteen_nine.jpeg",
-      "PublishedAt": "2023-09-12T05:32:42Z",
-      "Content": "China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time when the Chinese currency faces… [+1850 chars]"
     }
   ]
 }
