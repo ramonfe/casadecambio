@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 3 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 3 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-3-de-octubre-nid03102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-3-de-3YJXLYJ6OZDS7CUKFHURO5YU4M.jpg?auth=37c9b920fd6a03f5e6c71444968f3529ba9e424420101ad7681a668d07b81072&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-03T17:14:57Z",
+      "Content": "Este martes 3 de octubre el precio del dólar en México es de $17,5920, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1583 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-20-de-GMI3QMFJ5FGA3LIRYITVESCLLA.jpg?auth=6d3eccf3e4705885c1062ed8110b0414a3dc5f6546afe1abe2f55e57089a6477&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-20T14:39:31Z",
       "Content": "Este miércoles 20 de septiembre, el precio del dólar en México es de $17,0805, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex e… [+2088 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘merodea’ el piso de las 17 unidades frente al dólar: Se cotiza en 17.03",
-      "Description": "Una Fed menos restrictiva podría ser una buena noticia para el 'superpeso', señaló Gabriela Siller, directora de análisis económico-financiero de Banco Base.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/20/peso-dolar-precio-hoy-20-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/FoLeqruX_KfrVxcoKslg7zuOG0w=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/72NH3F6T7NHTDNYRBCXUJV7CG4.jpg",
-      "PublishedAt": "2023-09-20T14:28:38Z",
-      "Content": "El peso mexicano merodea el piso de las 17 unidades frente al dólar este miércoles, a unas horas de que la Reserva Federal dé a conocer su decisión de política monetaria. \r\nDe acuerdo con datos de Bl… [+1181 chars]"
     }
   ]
 }
