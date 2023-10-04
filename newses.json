@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "AFP",
+      "Title": "La moneda rusa vuelve a caer y supera los 100 rublos por dólar",
+      "Description": "La moneda rusa se hundió de nuevo el martes y se cambiaba a más de 100 rublos por dólar, pese a los esfuerzos del banco central para frenar la inflación y la caída de la...",
+      "Url": "https://www.elmundo.es/economia/2023/10/03/651c5b0ce85ece052d8b45c4.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/d71a348ca2db970d573bd1269c31fdef/crop/15x0/1009x663/f/jpg/assets/multimedia/imagenes/2023/10/03/16963569350998.jpg",
+      "PublishedAt": "2023-10-03T18:22:27Z",
+      "Content": "La moneda rusa se hundió de nuevo el martes y se cambiaba a más de 100 rublos por dólar, pese a los esfuerzos del banco central para frenar la inflación y la caída de la divisa nacional.\r\nEl rublo, b… [+1180 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-central-de-la-republica-WNFHIWBYJRG4LI7XHUGHDEN42A.jpg?auth=41351aafb856a02d22211731c9e4cde0c3e8e54e9720f7539226c12204dbb4af&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-20T19:46:31Z",
       "Content": "El Banco Central (BCRA) pudo sostener hoy a duras penas la racha recompradora de reservas iniciada tras la devaluación de las últimas PASO -y estirarla a 27 ruedas- al alzarse con apenas US$1 millón … [+3943 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 20 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 20 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-20-de-septiembre-nid20092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-20-de-GMI3QMFJ5FGA3LIRYITVESCLLA.jpg?auth=6d3eccf3e4705885c1062ed8110b0414a3dc5f6546afe1abe2f55e57089a6477&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-20T14:39:31Z",
-      "Content": "Este miércoles 20 de septiembre, el precio del dólar en México es de $17,0805, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex e… [+2088 chars]"
     }
   ]
 }
