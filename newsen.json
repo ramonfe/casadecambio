@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "10 suspects in billion-dollar money laundering case not on Interpol list; other Singaporeans, PRs being probed: Josephine Teo",
+      "Description": "SINGAPORE:  The 10 people who have been arrested and charged in relation to a multi-billion dollar money laundering probe all hold either employment passes or dependent’s pa",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-suspects-interpol-3816951",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--pOT82EpS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/17/IMG_2682.jpeg?itok=Wds0Oai5",
+      "PublishedAt": "2023-10-03T08:19:00Z",
+      "Content": "Mrs Teo noted that one question raised by MPs was whether Singapore works with foreign governments to verify the information provided by applicants for immigration passes.\r\nWhere the agencies have su… [+2816 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202309/china_dollar_bulk_purchase-sixteen_nine.jpeg",
       "PublishedAt": "2023-09-12T05:32:42Z",
       "Content": "China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time when the Chinese currency faces… [+1850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CoinDesk"
-      },
-      "Author": "Sam Reynolds",
-      "Title": "Maple Finance Nearly Imploded, but Sid Powell Wants to Bring Back Its Billion Dollar-Plus Glory",
-      "Description": "Last year’s crypto crash wiped out Maple Finance’s TVL as borrowers crumbled and lenders fled. In an interview with CoinDesk, the protocol’s co-founder and CEO lays out his plan for growth in an era of heightened risk management.",
-      "Url": "https://www.coindesk.com/markets/2023/09/11/maple-finance-nearly-imploded-but-sid-powell-wants-to-bring-back-its-billion-dollar-plus-glory/",
-      "UrlToImage": "https://www.coindesk.com/resizer/zQuIgoNbFApq9b4qSXbIvRomeW4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GES4DHA7WRB4RA5OMDS2YEBWUU.jpg",
-      "PublishedAt": "2023-09-11T14:07:57Z",
-      "Content": "KOREA BLOCKCHAIN WEEK, SEOUL At the height of the bull market in late 2021, Maple Finance, a crypto lending protocol, thought it had the hottest product on the market: a way for token-skeptical insti… [+3038 chars]"
     }
   ]
 }
