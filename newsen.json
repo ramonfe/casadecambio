@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 48,
+  "TotalResults": 49,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Singapore police began ‘comprehensive intelligence probe’ in early 2022",
+      "Description": "SINGAPORE: In early 2022, Singapore police acted on tip-offs regarding various suspicious activities and launched a “comprehensive, coordinated intelligence probe” into what would eventually become a massive, transnational billi",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-police-intelligence-probe-2022-3816371",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--K1cFVESO--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/03/screenshot_2023-10-03_at_1.22.13_pm.png?itok=l90e2jy3",
+      "PublishedAt": "2023-10-03T05:29:13Z",
+      "Content": "She then gave an update on the total value of assets seized or issued with prohibition of disposal orders.\r\nThe police had last said on Sep 20 that the total value stood at more than S$2.4 billion. S… [+3757 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news-au",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.coindesk.com/resizer/zQuIgoNbFApq9b4qSXbIvRomeW4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GES4DHA7WRB4RA5OMDS2YEBWUU.jpg",
       "PublishedAt": "2023-09-11T14:07:57Z",
       "Content": "KOREA BLOCKCHAIN WEEK, SEOUL At the height of the bull market in late 2021, Maple Finance, a crypto lending protocol, thought it had the hottest product on the market: a way for token-skeptical insti… [+3038 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Exclusive-China's central bank to peruse bulk dollar purchases - sources",
-      "Description": "Exclusive-China's central bank to scrutinise bulk dollar purchases - sources",
-      "Url": "https://www.investing.com/news/economy/exclusivechinas-central-bank-to-peruse-bulk-dollar-purchases--sources-3171365",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
-      "PublishedAt": "2023-09-11T09:06:04Z",
-      "Content": "BEIJING/SHANGHAI (Reuters) -China's central bank is tightening its scrutiny of bulk dollar purchases by domestic firms, three sources with direct knowledge of the matter said on Monday, at a time whe… [+1886 chars]"
     }
   ]
 }
