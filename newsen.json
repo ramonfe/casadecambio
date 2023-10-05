@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "AllAfrica - Top Africa News"
+      },
+      "Author": "radiodabanga@gmail.com (Dabanga)",
+      "Title": "Sudanese Pound Declines Further As Dollar Exchange Rates Rise Again",
+      "Description": "[Dabanga] Port Sudan -- The Sudanese Pound (SDG) once again faced a significant depreciation against foreign currencies this week. Exchange rates for the US Dollar surged, with reports indicating prices exceeding SDG850 in the parallel market.",
+      "Url": "https://allafrica.com/stories/202310040107.html",
+      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "PublishedAt": "2023-10-04T07:46:22Z",
+      "Content": "Port Sudan — The Sudanese Pound (SDG) once again faced a significant depreciation against foreign currencies this week. Exchange rates for the US Dollar surged, with reports indicating prices exceedi… [+1672 chars]"
+    },
     {
       "Source": {
         "Id": "rt",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
       "PublishedAt": "2023-09-13T03:53:24Z",
       "Content": "venezuela_dollar_price is a Python library created to retrieve the current dollar price in Venezuela. It is simple to use and requires minimal setup.\r\nFeatures\r\n<ul><li>Get the latest dollar price in… [+1035 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Publicnow",
-      "Title": "Space Communication : Get SAT Extends U.S. Government Contract with Spacecom for a Multi-Million Dollar SATCOM On-the-Move Project, Demonstrating Customer Trust and Satisfaction",
-      "Description": "(marketscreener.com) \n Get SAT Extends U.S. Government Contract with Spacecom for a Multi-Million Dollar SATCOM On-the-Move Project, Demonstrating Customer Trust and Satisfaction\n \n 12.09.2023\n \n Get SAT, an innovator in small, lightweight satellite communica…",
-      "Url": "https://www.marketscreener.com/quote/stock/SPACE-COMMUNICATION-LTD-56537268/news/Space-Communication-Get-SAT-Extends-U-S-Government-Contract-with-Spacecom-for-a-Multi-Million-Dol-44821862/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2023-09-12T10:10:03Z",
-      "Content": "Get SAT Extends U.S. Government Contract with Spacecom for a Multi-Million Dollar SATCOM On-the-Move Project, Demonstrating Customer Trust and Satisfaction12.09.2023\r\n Get SAT, an innovator in small,… [+3674 chars]"
     }
   ]
 }
