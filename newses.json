@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano vuelve a caer; rompe barrera de 18 por dólar",
+      "Description": "La moneda nacional cotizaba en 18.08 por dólar, con una pérdida del 0.76% frente al precio de referencia del miércoles.",
+      "Url": "https://aristeguinoticias.com/0510/dinero-y-economia/peso-mexicano-vuelve-a-caer-rompe-barrera-de-18-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/peso-dolar-tipo-cambio-moneda-051023-1.jpg",
+      "PublishedAt": "2023-10-05T15:55:49Z",
+      "Content": "El peso mexicano se depreciaba el jueves un día antes de un esperado informe de empleo en Estados Unidos, que ofrecería nuevas pistas sobre si la mayor economía del mundo es lo suficientemente fuerte… [+1695 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, jueves 5 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 5 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-5-de-octubre-nid05102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-cuanto-esta-la-moneda-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-05T15:05:40Z",
+      "Content": "Este jueves 5 de octubre el precio del dólar en México es de $18.0170, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1737 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
       "PublishedAt": "2023-09-25T20:52:01Z",
       "Content": "El peso mexicano retrocedía el jueves, al igual que la bolsa, que cambiaba su tendencia positiva de primera hora, reflejando las preocupaciones de los mercados ante la posición restrictiva de la Rese… [+1759 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Banco Central: el duro quebranto que las distintas versiones del dólar soja y agro le generaron al organismo",
-      "Description": "El daño se puede calcular tras haber emitido el Tesoro hace unos días otras Letra Intransferible (LI) por US$2165,8 millones para “compensarlo”",
-      "Url": "https://www.lanacion.com.ar/economia/banco-central-el-duro-quebranto-que-las-distintas-versiones-del-dolar-soja-y-agro-le-generaron-al-nid25092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ya-se-puede-establecer-el-perjuicio-que-debio-IIWTPFNGIJGMTJBBVHRFDER4ZQ.JPG?auth=5495d4f1740324982c8fef813d088207a1cc563d27a5bc0f0804f75bb1619c78&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-25T20:28:11Z",
-      "Content": "El Gobierno emitió en los últimos días una nueva Letra Intransferible (LI) por vencer en 10 años para compensar al Banco Central (BCRA) por la pérdida patrimonial que le causó al volver a obligarlo a… [+4979 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 25 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 25 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-25-de-septiembre-nid25092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-25-de-MT7MFWFJJJGI3LWXVNP7IMQZTI.jpg?auth=4d639f7c7637e3224730347db8910c35c614733b700159ea59aaa8f0a9a9be2d&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-25T14:46:23Z",
-      "Content": "Este lunes de septiembre, el precio del dólar en México es de $17,1568,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un pro… [+1995 chars]"
     }
   ]
 }
