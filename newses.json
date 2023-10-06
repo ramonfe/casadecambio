@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central retomó la compra de reservas en el día debut del dólar Vaca Muerta",
+      "Description": "Pudo quedarse con US$11 millones por sus intervenciones sobre el mercado pero los operadores dicen -y los volúmenes también lo sugieren- que lo logró sólo “pisando” demanda",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-retomo-la-compra-de-reservas-en-el-dia-debut-del-dolar-vaca-muerta-nid05102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-central-dela-republica-SJWGLPQ7R5GDLEKRLQQAKXYHJI.jpg?auth=f47a30094496921ffa68af27bc57150ec761fa39c563d0476422914a96a1102a&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-05T19:32:09Z",
+      "Content": "El Banco Central (BCRA) logró hoy cortar la seguidilla de ventas padecidas en las últimas 48 horas en la rueda que marcó el debut oficial del denominado dólar Vaca Muerta, al cerrar sus intervencione… [+3102 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2023-09-26T08:19:55Z",
       "Content": "Periódico La JornadaMartes 26 de septiembre de 2023, p. 21\r\nEn medio de nuevos máximos en los intereses de la deuda gubernamental de Washington, principalmente y, por consiguiente de la fortaleza del… [+1627 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano inicial la semana perdiendo frente al dólar",
-      "Description": "La moneda nacional cotizaba en 17.36 por dólar, con una depreciación del 0.95%.",
-      "Url": "https://aristeguinoticias.com/2509/dinero-y-economia/peso-mexicano-inicial-la-semana-perdiendo-frente-al-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
-      "PublishedAt": "2023-09-25T20:52:01Z",
-      "Content": "El peso mexicano retrocedía el jueves, al igual que la bolsa, que cambiaba su tendencia positiva de primera hora, reflejando las preocupaciones de los mercados ante la posición restrictiva de la Rese… [+1759 chars]"
     }
   ]
 }
