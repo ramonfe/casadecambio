@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, viernes 6 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 6 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-6-de-octubre-nid06102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-06T15:18:33Z",
+      "Content": "Este viernes 6 de octubre el precio del dólar en México es de $18,2407, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1546 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / SH",
+      "Title": "Peso mexicano retrocede ante fortalecimiento global del dólar",
+      "Description": "En la semana sumaba un retroceso de un 5.4%, su peor desempeño desde septiembre de 2020.",
+      "Url": "https://aristeguinoticias.com/0610/dinero-y-economia/peso-mexicano-retrocede-ante-fortalecimiento-global-del-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/peso-mexicano-06102023.jpg",
+      "PublishedAt": "2023-10-06T15:02:35Z",
+      "Content": "El peso mexicano se depreciaba este viernes ante un fortalecimiento global del dólar, tras un informe del mercado laboral estadounidense que superó las expectativas, subrayando la expectativa de que … [+1099 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.debate.com.mx/__export/1695762855239/sites/debate/img/2023/09/26/dolar-14.jpg_242310155.jpg",
       "PublishedAt": "2023-09-26T23:43:43Z",
       "Content": "El peso cotizó en 17.52 unidades por dólar cerca del cierre de la sesión de este martes, con un retroceso del 0.78 por ciento frente al precio de referencia del lunes, aunque durante el día llegó a d… [+1825 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 26 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 26 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-26-de-septiembre-nid26092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-26-de-ANBGMTZRW5DYFM5V5N767HZENU.jpg?auth=24bf0d887095b456e11269083ad1585ba8a76974d0ba500823e88c90dca14864&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-26T15:55:36Z",
-      "Content": "Este martes 26 de septiembre, el precio del dólar en México es de $17,3733,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2043 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Racha del dólar deja ‘en la depre’ al peso: Se cotiza en las 17.42 unidades",
-      "Description": "En ventanillas bancarias, el dólar se vende en 17.85 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/26/peso-dolar-precio-hoy-26-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xVgfhzhigA9sN2-9LVfqw3tNc90=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3VPWMVWGRNASZOW4YNUXYH7ZOY.jpg",
-      "PublishedAt": "2023-09-26T14:16:31Z",
-      "Content": "El peso mexicano se hunde en el terreno de las pérdidas debido a la buena racha que el dólar está experimentando en el mercado. \r\nDe acuerdo con datos de Bloomberg, la moneda nacional se deprecia 0.1… [+1665 chars]"
     }
   ]
 }
