@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Jack Alban",
+      "Title": "‘From somebody who has $4.65 in their bank account, thank you’: Dollar Tree shopper shares how to get 3 dinners for only $5",
+      "Description": "Food inflation keeps rising in the United States and is projected to continue into 2024, according to the USDA. As a result, throngs of Americans have been hitting up retailers they normally wouldn't be relying on for the bulk of their grocery store needs.\n\n\n…",
+      "Url": "https://www.dailydot.com/news/3-dinners-for-5-dollars-dollar-tree/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/10/Dollar-Tree-Deals.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-10-07T19:32:52Z",
+      "Content": "Food inflation keeps rising in the United States and is projected to continue into 2024, according to the USDA. As a result, throngs of Americans have been hitting up retailers they normally wouldn’t… [+5079 chars]"
+    },
     {
       "Source": {
         "Id": "cbc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
       "PublishedAt": "2023-09-15T17:48:00Z",
       "Content": "The US Dollar emerged as the victor following the European Central Bank's (ECB) dovish policy announcement on Thursday, September 14, 2023, which led to declines in both the Pound to Dollar and Euro-… [+3645 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Parliamentary questions filed on billion-dollar money laundering case, alleged Kinderland preschool abuse",
-      "Description": "Members of Parliament also submitted questions about errors on the voter list for the recent Presidential Election and the new classification for public housing flats.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-parliament-kinderland-abuse-presidential-election-3772961",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--7vy-OFV---/c_crop,h_807,w_1435,x_12,y_43/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/03/sya_7252.jpg?itok=WJNKcURr",
-      "PublishedAt": "2023-09-15T08:30:28Z",
-      "Content": "SINGAPORE: One of Singapore's biggest money laundering probes is set to be in focus in parliament, with more than 20 Members of Parliament filing questions on the matter.\r\nThe alleged abuse cases at … [+1674 chars]"
     }
   ]
 }
