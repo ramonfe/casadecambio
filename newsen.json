@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 44,
+  "TotalResults": 45,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "$270,000 Disappears From Business Owner’s Bank Account, Billion-Dollar Bank Refuses To Make Customer Whole: Report",
+      "Description": "A business owner in Southwest Florida is searching for answers after hundreds of thousands of dollars vanished from her bank account. Tiffany Allen says $270,000 was initially stolen from her family’s Truist Bank business account in five separate unauthorized…",
+      "Url": "https://dailyhodl.com/2023/10/07/270000-disappears-from-business-owners-bank-account-billion-dollar-bank-refuses-to-make-customer-whole-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/bank-dollars-disappears.jpg",
+      "PublishedAt": "2023-10-08T00:04:38Z",
+      "Content": "A business owner in Southwest Florida is searching for answers after hundreds of thousands of dollars vanished from her bank account.\r\nTiffany Allen says $270,000 was initially stolen from her family… [+2012 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/H9cUsnp1v7PokGe4d2IZVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/b339ffb139ee8be86e672c2d38746207",
       "PublishedAt": "2023-09-16T17:00:08Z",
       "Content": "Its common knowledge that the value of the U.S. dollar has fluctuated throughout the years. But now, it seems the dollar could be in serious trouble. This could be especially problematic for people w… [+5217 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Dollar surges as ECB signals pause in rate hikes, markets expect similar stance from Bank of England",
-      "Description": "Dollar surges as ECB signals pause in rate hikes, markets expect similar stance from Bank of England",
-      "Url": "https://www.investing.com/news/economy/dollar-surges-as-ecb-signals-pause-in-rate-hikes-markets-expect-similar-stance-from-bank-of-england-93CH-3175802",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
-      "PublishedAt": "2023-09-15T17:48:00Z",
-      "Content": "The US Dollar emerged as the victor following the European Central Bank's (ECB) dovish policy announcement on Thursday, September 14, 2023, which led to declines in both the Pound to Dollar and Euro-… [+3645 chars]"
     }
   ]
 }
