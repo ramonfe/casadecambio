@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 9 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este lunes 9 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-9-de-octubre-nid09102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-9-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-09T14:59:09Z",
+      "Content": "Este lunes 9 de octubre el precio del dólar en México es de $18,1837, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+1604 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.09/article/65138b23e9ff7163d4168e25.jpg",
       "PublishedAt": "2023-09-27T04:10:37Z",
       "Content": "El ministro de Economía de Argentina, Sergio Massa, lanzó este martes un esquema de dólar diferencial para los exportadores de hidrocarburos de la reserva Vaca Muerta, una medida con la que buscará i… [+2039 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Debate.com.mx"
-      },
-      "Author": "Metztli Molina Olmos",
-      "Title": "Cierre del dólar hoy 26 de septiembre de 2023 en bancos de México",
-      "Description": "El peso cotizó en 17.52 unidades por dólar cerca del cierre de la sesión de este martes, con un retroceso del 0.78 por ciento",
-      "Url": "https://www.debate.com.mx/economia/Cierre-del-dolar-hoy-26-de-septiembre-de-2023-en-bancos-de-Mexico-20230926-0225.html",
-      "UrlToImage": "https://www.debate.com.mx/__export/1695762855239/sites/debate/img/2023/09/26/dolar-14.jpg_242310155.jpg",
-      "PublishedAt": "2023-09-26T23:43:43Z",
-      "Content": "El peso cotizó en 17.52 unidades por dólar cerca del cierre de la sesión de este martes, con un retroceso del 0.78 por ciento frente al precio de referencia del lunes, aunque durante el día llegó a d… [+1825 chars]"
     }
   ]
 }
