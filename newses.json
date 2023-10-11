@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘regresa a la vida’: ‘Huele’ el piso de las 18 unidades contra el dólar",
+      "Description": "En ventanillas bancarias, el dólar se vende en 18.49 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/10/peso-dolar-precio-hoy-10-de-octubre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/YCKmEAonmLO5HTONE9E6JA7Lplc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2QHQQ6BV7REWBFJ2SEMXYVACJQ.jpg",
+      "PublishedAt": "2023-10-10T14:27:25Z",
+      "Content": "Después de un arranque de octubre complicado, el peso mexicano rompió otra vez el piso de las 18 unidades frente al dólar después de que la Reserva Federal dio señales de que mantendrá congelada su t… [+1950 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 10 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 10 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-10-de-octubre-nid10102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-10T14:19:49Z",
+      "Content": "Este martes 10 de octubre el precio del dólar en México es de $18,3482, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1511 chars]"
+    },
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Milei compara el peso argentino con \"excremento\" e incentiva una escalada del dólar paralelo",
+      "Description": "El Gobierno anunció medidas de emergencia para contener la incertidumbre del mercado cambiario.",
+      "Url": "https://actualidad.rt.com/actualidad/482946-milei-compara-peso-argentino-excremento",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.10/article/65253c3d59bf5b4f7b74a5ff.jpg",
+      "PublishedAt": "2023-10-10T13:00:54Z",
+      "Content": "El candidato ultraderechista a la presidencia de Argentina, Javier Milei, convocó a la ciudadanía a dejar de ahorrar en pesos, lo que provocó un inmediato y abrupto incremento del dólar que se comerc… [+5031 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "JOSÉ MARÍA RODRÍGUEZ",
+      "Title": "El euro/dólar ataca la parte superior del canal bajista",
+      "Description": "El mes de septiembre un mes aciago para el conjunto de las bolsas europeas con Wall Street liderando las pérdidas. Sin embargo fue un buen mes para el dólar, que se apreció un 2,50% frente a la moneda única. Leer",
+      "Url": "https://www.expansion.com/mercados/2023/10/10/65251bff468aeb1d308b4610.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/2a0b429b708005ce274b8bc56a252937/crop/722x0/1833x741/f/jpg/assets/multimedia/imagenes/2023/10/10/16969307402079.jpg",
+      "PublishedAt": "2023-10-10T10:19:44Z",
+      "Content": "Gráfico diario del euro/dólar\r\nEl mes de septiembre un mes aciago para el conjunto de las bolsas europeas con Wall Street liderando las pérdidas. Sin embargo fue un buen mes para el dólar, que se apr… [+486 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,58 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-resolucion-del-bcra-facilita-que-algunas-4TEBVYBZC5DOVAHRZ3BETGVF7U.JPG?auth=59e7f7d57b6e0c3e589a6729a70f2ed5df96f05cc34c7f776ee7eb04fa6752f5&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-28T21:39:12Z",
       "Content": "El Banco Central (BCRA) modificó una norma que trababa a las empresas el ingresos de divisas desde el exterior por el mercado bursátil, al dejar habilitado ese canal para transferencias vinculadas a … [+2831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sputniknews.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "\"Es un reto para el dólar\": así el Banco Europeo de Reconstrucción evalúa el comercio ruso en yuanes",
-      "Description": "El aumento de los negocios de Rusia, realizados en moneda china tras la imposición de sanciones occidentales contra Moscú, podría acabar socavando el dólar estadounidense, afirma el Banco Europeo para la Reconstrucción y el Desarrollo (BERD).",
-      "Url": "https://sputniknews.lat/20230928/es-un-reto-para-el-dolar-asi-el-banco-europeo-de-reconstruccion-evalua-el-comercio-ruso-en-yuanes-1144189894.html",
-      "UrlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1144189894.jpg?10373114701695913561",
-      "PublishedAt": "2023-09-28T15:06:00Z",
-      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 28 de septiembre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 28 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-28-de-septiembre-nid28092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-28-de-FOI3DCMBT5HWNEL4O2B6ZAUZQM.jpg?auth=1c25795cceb57275d013b01c265ecd580ffb492dd4485a2f993ed3a95051e1b7&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-28T15:04:34Z",
-      "Content": "Este jueves 28 de septiembre, el precio del dólar en México es de $17,7287,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en un… [+2070 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se debilita hasta 17.81 unidades por dólar previo a decisión de Banxico; BMV sube",
-      "Description": "Forbes México.\n Peso se debilita hasta 17.81 unidades por dólar previo a decisión de Banxico; BMV sube\n\nEl peso cotizaba en 17.6783 por dólar casi al final de los negocios, con un retroceso de 0.88% frente al precio de referencia de Reuters del martes, aunque…",
-      "Url": "https://www.forbes.com.mx/peso-se-debilita-hasta-17-81-unidades-por-dolar-previo-a-decision-de-banxico-bmv-sube/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0500.jpg",
-      "PublishedAt": "2023-09-27T21:42:06Z",
-      "Content": "El peso retrocedió el miércoles por tercera sesión consecutiva, ante un fortalecimiento global del dólar debido a crecientes preocupaciones de que las tasas de interés en Estados Unidos permanecerán … [+2467 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 27 de septiembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 27 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-27-de-septiembre-nid27092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-27-de-ZGNMUD2EFFBVRL2BNJMT2FENKE.jpg?auth=84e78ba0c4f27e4022f92250a600fff78ce274d5a9effa819ca5b104722cc3b7&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-27T14:29:50Z",
-      "Content": "Este miércoles 27 de septiembre, el precio del dólar en México es de $17,4758,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en… [+2157 chars]"
     }
   ]
 }
