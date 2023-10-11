@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Guerra entre Israel y Hamás: ¿Cómo puede afectar al tipo de cambio peso-dólar?",
+      "Description": "Especialistas señalan que aún es pronto para saber si habrá repercusiones en la relación entre el peso y el dólar por la guerra en Israel.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/09/guerra-entre-israel-y-hamas-como-puede-afectar-al-tipo-de-cambio-peso-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/R2EcSqxMy1KR7VzvR3gK23uwODE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YFJ2LET5XZDF3CSCCY6NWSRBPY.jpg",
+      "PublishedAt": "2023-10-10T01:12:28Z",
+      "Content": "A pesar de que el peso mexicano finalizó con ganancias este lunes, inició la sesión en terreno de pérdidas junto con varias monedas de economías emergentes que se vieron afectadas al ser consideradas… [+2095 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-27-de-ZGNMUD2EFFBVRL2BNJMT2FENKE.jpg?auth=84e78ba0c4f27e4022f92250a600fff78ce274d5a9effa819ca5b104722cc3b7&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-27T14:29:50Z",
       "Content": "Este miércoles 27 de septiembre, el precio del dólar en México es de $17,4758,de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en… [+2157 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "\"Dólar Vaca Muerta\": Argentina lanza un nuevo tipo de cambio diferencial",
-      "Description": "El ministro de Economía, Sergio Massa, busca impulsar la liquidación de unos 1.200 millones de dólares para engrosar las reservas.",
-      "Url": "https://actualidad.rt.com/actualidad/481258-gobierno-argentina-lanza-dolar-diferencial-vaca-muerta",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.09/article/65138b23e9ff7163d4168e25.jpg",
-      "PublishedAt": "2023-09-27T04:10:37Z",
-      "Content": "El ministro de Economía de Argentina, Sergio Massa, lanzó este martes un esquema de dólar diferencial para los exportadores de hidrocarburos de la reserva Vaca Muerta, una medida con la que buscará i… [+2039 chars]"
     }
   ]
 }
