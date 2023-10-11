@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cierra por debajo de 18 unidades por dólar; BMV registra mayor ganancia desde enero",
+      "Description": "Forbes México.\n Peso cierra por debajo de 18 unidades por dólar; BMV registra mayor ganancia desde enero\n\nEl peso cerró en 17.9306 por dólar, con una apreciación de 1.41% frente al precio de referencia de Reuters del lunes, aunque durante la jornada llegó a v…",
+      "Url": "https://www.forbes.com.mx/peso-cierra-por-debajo-de-18-unidades-por-dolar-bmv-registra-mayor-ganancia-desde-enero/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
+      "PublishedAt": "2023-10-10T21:53:53Z",
+      "Content": "El peso y la Bolsa Mexicana de Valores (BMV) avanzaron el martes impulsados por un mejorado ambiente para los activos de riesgo tras comentarios menos restrictivos de funcionarios de la Reserva Feder… [+2016 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xa53IKXcifRgHvWgCFe9jxT_LKs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LRY6CWITUBFTVP6MNJ5J6WFRNY.jpg",
       "PublishedAt": "2023-09-29T15:27:48Z",
       "Content": "La apreciación del peso mexicano se prolongó en la sesión de este viernes 29 de septiembre, después de que el Banco de México (Banxico) decidió mantener sin cambios la tasa de interés este jueves; si… [+1681 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 29 de septiembre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 29 de septiembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-29-de-septiembre-nid29092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-29-de-JQDIS6EHANES3M237JMYCUSG4U.jpg?auth=59b96d22bb8594d3a8b38eba5a6a57ddc3dceb3ebb9c7c89c6b56ccc68e3a796&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-29T14:11:16Z",
-      "Content": "Este viernes 29 de septiembre, el precio del dólar en México es de $17,6195, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en … [+1984 chars]"
     }
   ]
 }
