@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sopitas.com"
+      },
+      "Author": "Lucy Sanabria",
+      "Title": "¿Cómo impactaría la guerra de Israel en Gaza al peso mexicano y dólar?",
+      "Description": "¿Cómo impactaría la guerra de Israel en Gaza al peso mexicano y su tipo de cambio con el dólar? Esa es una de las preguntas que...\nThe post ¿Cómo impactaría la guerra de Israel en Gaza al peso mexicano y dólar? appeared first on Sopitas.com.",
+      "Url": "https://www.sopitas.com/noticias/israel-guerra-gaza-peso-mexicano/",
+      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2023/10/guerra-israel-dolar-peso-mexicano.jpg",
+      "PublishedAt": "2023-10-10T16:42:04Z",
+      "Content": "Lo que necesitas saber:\r\nLa guerra de Israel en Gaza podría impactar en el peso mexicano y la economía mundial si es que llega a escalar, aunque es muy pronto saber de sus repercusiones.\r\n¿Cómo impac… [+5038 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/363/5362783.jpg&wm=1&ang=0",
       "PublishedAt": "2023-09-28T23:09:56Z",
       "Content": "Luego de tres jornadas con incrementos, hoy, el dólar de ventanilla disminuyó 12 centavos y se ubicó a 17.97 pesos a la venta en Citibanamex y a 17.02 unidades a la compra. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central abrió un camino al desdoblamiento cambiario",
-      "Description": "El organismo removió una norma para facilitar el ingreso de divisas por el CCL; castigaba a las empresas que usaban ese canal con un bloqueo temporal de acceso al MULC; para algunos economistas, es el comienzo de un proceso de diferenciación de cotizaciones",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-abrio-un-camino-al-desdoblamiento-cambiario-nid28092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-resolucion-del-bcra-facilita-que-algunas-4TEBVYBZC5DOVAHRZ3BETGVF7U.JPG?auth=59e7f7d57b6e0c3e589a6729a70f2ed5df96f05cc34c7f776ee7eb04fa6752f5&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-28T21:39:12Z",
-      "Content": "El Banco Central (BCRA) modificó una norma que trababa a las empresas el ingresos de divisas desde el exterior por el mercado bursátil, al dejar habilitado ese canal para transferencias vinculadas a … [+2831 chars]"
     }
   ]
 }
