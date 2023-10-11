@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "$1000: así perdió valor el peso argentino contra el dólar blue",
+      "Description": "LA NACION comparó la cotización del dólar paralelo con el billete de 1000 pesos desde su lanzamiento en 2017 hasta hoy",
+      "Url": "https://www.lanacion.com.ar/videos/1000-asi-perdio-valor-el-peso-argentino-contra-el-dolar-blue-nid10102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolare-4TEBVYBZC5DOVAHRZ3BETGVF7U.JPG?auth=59e7f7d57b6e0c3e589a6729a70f2ed5df96f05cc34c7f776ee7eb04fa6752f5&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-10T20:13:31Z",
+      "Content": "© Copyright 2023 SA LA NACION | Todos los derechos reservados. Dirección Nacional del Derecho de Autor DNDA - EXPEDIENTE DNDA (renovación) RL-2023-95334553-APN-DNDA#MJ. Queda prohibida la reproducció… [+37 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-29-de-JQDIS6EHANES3M237JMYCUSG4U.jpg?auth=59b96d22bb8594d3a8b38eba5a6a57ddc3dceb3ebb9c7c89c6b56ccc68e3a796&width=768&quality=70&smart=false",
       "PublishedAt": "2023-09-29T14:11:16Z",
       "Content": "Este viernes 29 de septiembre, el precio del dólar en México es de $17,6195, de acuerdo con el Diario Oficial de la Federación (DOF). En tanto que se vende en ventanillas bancarias de Citibanamex en … [+1984 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY viernes 29 de septiembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de septiembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.64 por ciento, según datos de Bloomberg.El peso mexicano se depreciab…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-septiembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-09-29T11:07:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de septiembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.64 por ci… [+850 chars]"
     }
   ]
 }
