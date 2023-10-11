@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Belkis Martínez",
+      "Title": "Dólar leche: piden un tipo de cambio diferencial para acompañar la suspensión de las retenciones",
+      "Description": "Por la suba de costos, en una entidad de productores, Caprolecoba, proponen un tipo de cambio diferencial similar al que rige para la soja, con un mix de liquidación del 75% tipo de cambio oficial y un 25% al CCL",
+      "Url": "https://www.lanacion.com.ar/economia/campo/dolar-leche-piden-un-tipo-de-cambio-diferencial-para-acompanar-la-suspension-de-las-retenciones-nid10102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-sector-industrial-y-pide-por-un-dolar-leche-M32UL26E2ZBMLI6LUYN7FFXETE.jpg?auth=a88ad74228b7376be380b27729de73ba2fb806842f38699fae2384a6b1522c63&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-10T17:41:12Z",
+      "Content": "A mediados de septiembre pasado, el Gobierno anunció la suspensión las retenciones a los lácteos por 90 días, motivado por la situación de quebranto que atraviesan los tambos tras el impacto de la se… [+7728 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-09-29T11:07:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 29 de septiembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.64 por ci… [+850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Regresa dólar debajo de los $18 tras anuncio de Banxico",
-      "Description": "El dólar cerró con bajas en su valor, con lo que el peso se apreció ante anuncio monetario del Banco de México.",
-      "Url": "https://www.reforma.com/regresa-dolar-debajo-de-los-18-tras-anuncio-de-banxico/ar2683733",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/363/5362783.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-09-28T23:09:56Z",
-      "Content": "Luego de tres jornadas con incrementos, hoy, el dólar de ventanilla disminuyó 12 centavos y se ubicó a 17.97 pesos a la venta en Citibanamex y a 17.02 unidades a la compra. Crédito: AFP"
     }
   ]
 }
