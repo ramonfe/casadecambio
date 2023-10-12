@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Regresa el peso a cotizar sobre los 17 por dólar",
+      "Description": "Pese a que uno de los principales riesgos de la guerra entre Israel y Hamas para las economías será el alza del petróleo y sus efectos sobre la inflación, las señales de moderación de la Reserva Federal (Fed) dieron impulso a que los inversionistas tomaran po…",
+      "Url": "https://www.jornada.com.mx/2023/10/11/economia/027n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2023-10-11T08:55:36Z",
+      "Content": "Periódico La JornadaMiércoles 11 de octubre de 2023, p. 27\r\nPese a que uno de los principales riesgos de la guerra entre Israel y Hamas para las economías será el alza del petróleo y sus efectos sobr… [+1754 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.eluniversal.com.co/binrepository/1025x686/113c0/800d686/none/13704/JFNB/rublo-ruso_8623810_20231002115956.jpg",
       "PublishedAt": "2023-10-02T16:35:15Z",
       "Content": "El rublo se cotizó en la madrugada de este lunes 02 a 99,08 por cada billete verde, una devaluación del 1,12 % desde el cierre de la sesión el pasado viernes. La divisa no alcanzaba este listón desde… [+3131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Alejandro Durán",
-      "Title": "Banco Central intervino este viernes para moderar alza del dólar",
-      "Description": "Banco Central vendió directamente $3,9 millones en el Monex. Precio de la divisa subió ¢6,4 desde el pasado miércoles, pero es ¢0,45 menor en comparación con el cierre de la semana anterior",
-      "Url": "https://www.nacion.com/economia/indicadores/banco-central-intervino-este-viernes-para-moderar/QPWJUXZITFHY5CCENLNPE77W2Y/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/AdTorw9xaN1RhcwzaGZGExJAFO8=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/42CA5WE6QNGQLLIABRFTMOIRHQ.jpg",
-      "PublishedAt": "2023-09-29T23:12:21Z",
-      "Content": "El Banco Central de Costa Rica (BCCR) intervino en el mercado cambiario durante este viernes para frenar presiones al alza que se presentaron en el precio del dólar. La autoridad monetaria vendió $3,… [+4192 chars]"
     }
   ]
 }
