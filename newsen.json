@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: President’s Challenge got S$350,000 in donations, ComChest received S$30,000",
+      "Description": "SINGAPORE: The President’s Challenge and Community Chest have collectively received donations of more than S$380,000 (US$279,000) from individuals with names similar to those who have been charged in the",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-community-chest-presidents-challenge-charities-donations-3838286",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--qKHtQBuy--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/11/community_chest_presidents_challenge.png?itok=z5ySbmeS",
+      "PublishedAt": "2023-10-11T14:52:16Z",
+      "Content": "SINGAPORE: The Presidents Challenge and Community Chest have collectively received donations of more than S$380,000 (US$279,000) from individuals with names similar to those who have been charged in … [+1121 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2023-09-18T05:15:50Z",
       "Content": "Synlait Milk hits record low as a2 Milk says will cancel exclusive rights\r\n(Reuters) -Shares of New Zealand's Synlait Milk Ltd hit a record low on Monday after second-largest shareholder a2 Milk said… [+108 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Angela Mae",
-      "Title": "‘Rich Dad’ Robert Kiyosaki Says the Dollar Is In Trouble: What That Means for Your Money",
-      "Description": "It's common knowledge that the value of the U.S. dollar has fluctuated throughout the years. But now, it seems the dollar could be in serious trouble. This...",
-      "Url": "https://finance.yahoo.com/news/rich-dad-robert-kiyosaki-says-170008171.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/H9cUsnp1v7PokGe4d2IZVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/b339ffb139ee8be86e672c2d38746207",
-      "PublishedAt": "2023-09-16T17:00:08Z",
-      "Content": "Its common knowledge that the value of the U.S. dollar has fluctuated throughout the years. But now, it seems the dollar could be in serious trouble. This could be especially problematic for people w… [+5217 chars]"
     }
   ]
 }

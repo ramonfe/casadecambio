@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso regresa a su modo ‘fortachón’ vs. el dólar: Se cotiza en las 17.82 unidades",
+      "Description": "En ventanillas bancarias, el dólar se vende en 18.25 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/11/peso-regresa-a-su-modo-fortachon-vs-el-dolar-se-cotiza-en-las-1784-unidades/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bMkUx_K28ZqRK_M-LUCYPgoueYk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QZYTCSTL6BAF5AEFHWO7AJD5KE.jpg",
+      "PublishedAt": "2023-10-11T14:35:37Z",
+      "Content": "El peso mexicano alarga este 11 de octubre su racha de ganancias contra el dólar, que se encamina a su seguidilla con más pérdidas desde marzo.\r\nEl mercado también asimiló nuevos comentarios menos ha… [+1170 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 11 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 11 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-11-de-octubre-nid11102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-falta-de-dolares-lleva-a-postergar-AMOZMJO2IRFMDLCGGC5TXO43E4.jpg?auth=aca1f426c8f035e6652d09b6593818c0ab703836004f854d7cc2f93bf3ece2d0&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-11T14:14:59Z",
+      "Content": "Este miércoles 11 de octubre el precio del dólar en México es de $17,9917, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+1335 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2023-10-03T07:18:31Z",
       "Content": "Periódico La JornadaMartes 3 de octubre de 2023, p. 20\r\nEn un escenario en el que la tasa de interés de los bonos del Tesoro de Estados Unidos alcanzó niveles no vistos desde hace casi 16 años, debid… [+2158 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencialdigital.com"
-      },
-      "Author": "Agencias",
-      "Title": "El euro arranca octubre en retroceso y vuelve a caer a mínimos del año frente al dólar",
-      "Description": "MADRID, 2 (EUROPA PRESS) La cotización del euro frente al dólar ha registrado este primer lunes de octubre un descenso del 0,75%, hasta situarse el cambio en 1,0491 dólares, lo que supone el nivel más bajo desde el inicio del año. El...",
-      "Url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/euro-arranca-octubre-retroceso-vuelve-caer-minimos-ano-frente-dolar/20231002205248645437.html",
-      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/10/02/2023100218524587984.jpg",
-      "PublishedAt": "2023-10-02T18:52:48Z",
-      "Content": "MADRID, 2 (EUROPA PRESS)\r\n La cotización del euro frente al dólar ha registrado este primer lunes de octubre un descenso del 0,75%, hasta situarse el cambio en 1,0491 dólares, lo que supone el nivel … [+1366 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 2 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este lunes 2 de octubre; el tipo de cambio ha regresado al nivel registrado al inicio de la semana anterior",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-2-de-octubre-nid02102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-02T17:57:44Z",
-      "Content": "Según elDiario Oficial de la Federación (DOF), este lunes 2 de octubre el precio del dólar en México es de $17,7142, mientras que el que se vende por las ventanillas del Citibanamex es de un promedio… [+1609 chars]"
     }
   ]
 }
