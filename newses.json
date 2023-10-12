@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Impulsan Fed, FMI y China al peso; baja dólar a $18.37",
+      "Description": "Al menudeo el dólar se comercializó a 18.37 pesos, lo que significó un descenso de 30 centavos respecto al día anterior.",
+      "Url": "https://www.reforma.com/impulsan-fed-fmi-y-china-al-peso-baja-dolar-a-18-37/ar2690484",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/337/5336532.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-10-10T23:17:18Z",
+      "Content": "El tipo de cambio de menudeo tuvo un declive de 30 centavos, lo que le permitió terminar a la venta en 18.37 unidades y a 17.38 pesos a la compra. Crédito: AP"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Cae dólar a $18.37 y se aprecia el peso",
+      "Description": "Al menudeo el dólar se comercializó a 18.37 pesos, lo que significó un descenso de 30 centavos respecto al día anterior.",
+      "Url": "https://www.reforma.com/cae-dolar-a-18-37-y-se-aprecia-el-peso/ar2690484",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/337/5336532.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-10-10T23:17:18Z",
+      "Content": "El tipo de cambio de menudeo tuvo un declive de 30 centavos, lo que le permitió terminar a la venta en 18.37 unidades y a 17.38 pesos a la compra. Crédito: AP"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/AdTorw9xaN1RhcwzaGZGExJAFO8=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/42CA5WE6QNGQLLIABRFTMOIRHQ.jpg",
       "PublishedAt": "2023-09-29T23:12:21Z",
       "Content": "El Banco Central de Costa Rica (BCCR) intervino en el mercado cambiario durante este viernes para frenar presiones al alza que se presentaron en el precio del dólar. La autoridad monetaria vendió $3,… [+4192 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Adriana Arcos",
-      "Title": "Peso se deprecia 3.75% en septiembre, a $17.85 por dólar",
-      "Description": "El peso anotó su mayor depreciación en casi dos años al ceder 3.75% en septiembre frente al dólar, al finalizar a $17.85 al menudeo.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-3-75-en-septiembre-a-17-85-por-dolar/ar2684369",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/5/973/4972369.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-09-29T22:14:36Z",
-      "Content": "El peso cerró a $17.85 en cruces al menudeo. Crédito: Sergio Ángeles."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso amanece ‘fortachón’ frente al dólar: Se cotiza en las 17.40 unidades este viernes",
-      "Description": "El tipo de cambio se ubica este viernes 29 de septiembre en los 17.4036 pesos por billete verde.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/09/29/peso-dolar-precio-hoy-29-de-septiembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xa53IKXcifRgHvWgCFe9jxT_LKs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LRY6CWITUBFTVP6MNJ5J6WFRNY.jpg",
-      "PublishedAt": "2023-09-29T15:27:48Z",
-      "Content": "La apreciación del peso mexicano se prolongó en la sesión de este viernes 29 de septiembre, después de que el Banco de México (Banxico) decidió mantener sin cambios la tasa de interés este jueves; si… [+1681 chars]"
     }
   ]
 }
