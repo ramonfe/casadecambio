@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Fiebre por el dólar. Cuando el peso argentino se imprimía en Nueva York y tenía la cara de George Washington",
+      "Description": "El extraño origen de los primeros billetes argentinos, con próceres extranjeros, canguros y dioses de la mitología griega",
+      "Url": "https://www.lanacion.com.ar/lifestyle/fiebre-por-el-dolar-cuando-el-peso-argentino-se-imprimia-en-nueva-york-y-tenia-la-cara-de-george-nid11102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-primer-billete-argentino-impreso-en-los-LKQG67GDXJFBZFZK455Z4SJNRI.jpg?auth=b443bcad444d721df6ddf1655dedbcc574a43e0fdae089862888755ee3d17cc4&width=1920&height=1282&quality=70&smart=false&focal=282,179",
+      "PublishedAt": "2023-10-11T15:42:21Z",
+      "Content": "11 de octubre de 202312:42\r\nFue, de alguna manera, lo más cerca que estuvo la Argentina de la dolarización. En 1827, cinco años después de que comenzase a circular el papel moneda en el país, el bill… [+8484 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RFdxtRRMz6yTOFCbqyKpX5AU4o4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C4XJ5UJIVJEDVKBMZXVHBCQVGM.jpg",
       "PublishedAt": "2023-10-03T13:53:34Z",
       "Content": "El peso mexicano profundiza sus pérdidas frente al dólar este 3 de octubre ante el rally alcista del billete verde que recibió otro impulso más cuando una nueva voz de la Fed aseguro que el Banco Cen… [+1218 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El dólar se fortalece y pega a la moneda mexicana",
-      "Description": "En un escenario en el que la tasa de interés de los bonos del Tesoro de Estados Unidos alcanzó niveles no vistos desde hace casi 16 años, debido a la expectativa de que la Reserva Federal (Fed) subirá de nuevo los rendimientos este año, el peso mexicano fue l…",
-      "Url": "https://www.jornada.com.mx/2023/10/03/economia/020n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-10-03T07:18:31Z",
-      "Content": "Periódico La JornadaMartes 3 de octubre de 2023, p. 20\r\nEn un escenario en el que la tasa de interés de los bonos del Tesoro de Estados Unidos alcanzó niveles no vistos desde hace casi 16 años, debid… [+2158 chars]"
     }
   ]
 }
