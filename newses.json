@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Suba del dólar: Marra se desligó del incremento en la moneda y responsabilizó al Gobierno",
+      "Description": "“Es responsabilidad del Gobierno, ¿te crees que tuvo ese incremento porque yo puse un tuit o por lo que dijo Javier Milei de los plazos fijos?”, apuntó el candidato a la jefatura de gobierno porteña por La Libertad Avanza (LLA)",
+      "Url": "https://www.lanacion.com.ar/economia/suba-del-dolar-marra-se-desligo-del-incremento-en-la-moneda-y-responsabilizo-al-gobierno-nid11102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/suba-del-dolar-marra-se-desligo-del-incremento-en-ZJ2FVGZKINHNRIO75BXPGFSM2M.jpg?auth=bf0f4998482b58da00444199304aedf2a3a9b96b4c61e5b647f2468205bc07db&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-11T13:22:11Z",
+      "Content": "Ayer, cuando el dólar superó la barrera de los $1000, distintos actores de la política y la economía apuntaron contra el candidato presidencialJavier Milei y parte de su equipo por considerar que est… [+934 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-02T17:57:44Z",
       "Content": "Según elDiario Oficial de la Federación (DOF), este lunes 2 de octubre el precio del dólar en México es de $17,7142, mientras que el que se vende por las ventanillas del Citibanamex es de un promedio… [+1609 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": "EFE",
-      "Title": "Divisas internacionales: el rublo ruso y el euro caen con respecto al dólar",
-      "Description": "El rublo se cotizó en la madrugada de este lunes 02 a 99,08 por cada billete verde, una devaluación del 1,12 % desde el cierre de la sesión el pasado viernes. La divisa no alcanzaba este listón desde que el Banco Central de Rusia (BCR) subiera el pasado 15 de…",
-      "Url": "https://www.eluniversal.com.co/economica/divisas-internacionales-el-rublo-ruso-y-el-euro-caen-con-respecto-al-dolar-BF9135726",
-      "UrlToImage": "https://www.eluniversal.com.co/binrepository/1025x686/113c0/800d686/none/13704/JFNB/rublo-ruso_8623810_20231002115956.jpg",
-      "PublishedAt": "2023-10-02T16:35:15Z",
-      "Content": "El rublo se cotizó en la madrugada de este lunes 02 a 99,08 por cada billete verde, una devaluación del 1,12 % desde el cierre de la sesión el pasado viernes. La divisa no alcanzaba este listón desde… [+3131 chars]"
     }
   ]
 }
