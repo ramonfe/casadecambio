@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar alcanza su valor más bajo en el 2023",
+      "Description": "El precio del dólar cerró este miércoles 11 de octubre en ¢532,66, cifra que está ¢0,43 por debajo del anterior valor mínimo del año",
+      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-alcanza-su-valor-mas-bajo/NAJC3THP5VCEJLPNFPINYWXKSQ/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/HsH7j2fENL9ILo60Eq97e5SEg2k=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/LNLAQESYGNDL7JA5CREANVFNTA.jpg",
+      "PublishedAt": "2023-10-11T23:27:29Z",
+      "Content": "El tipo de cambio del dólar alcanzó su nivel más bajo del año 2023 este miércoles 11 de octubre, cerrando en ¢532,66 en el Mercado de Monedas Extranjeras (Monex). La cifra representa una disminución … [+3762 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-3-de-3YJXLYJ6OZDS7CUKFHURO5YU4M.jpg?auth=37c9b920fd6a03f5e6c71444968f3529ba9e424420101ad7681a668d07b81072&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-03T17:14:57Z",
       "Content": "Este martes 3 de octubre el precio del dólar en México es de $17,5920, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1583 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Eso no está ‘fetch’, peso: Profundiza pérdidas vs. el dólar y se cotiza en las 17.74 unidades",
-      "Description": "Las monedas de mercados emergentes, como el peso mexicano, sufren por el rally alcista del billete verde.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/03/peso-dolar-precio-hoy-3-de-octubre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RFdxtRRMz6yTOFCbqyKpX5AU4o4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C4XJ5UJIVJEDVKBMZXVHBCQVGM.jpg",
-      "PublishedAt": "2023-10-03T13:53:34Z",
-      "Content": "El peso mexicano profundiza sus pérdidas frente al dólar este 3 de octubre ante el rally alcista del billete verde que recibió otro impulso más cuando una nueva voz de la Fed aseguro que el Banco Cen… [+1218 chars]"
     }
   ]
 }
