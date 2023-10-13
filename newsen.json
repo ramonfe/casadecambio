@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Punch"
+      },
+      "Author": "Adetutu Sobowale",
+      "Title": "Naira-dollar exchange rate falls to N1,040 in parallel market",
+      "Description": "The exchange rate between the naira and the dollar has dropped to N1,040 in the parallel market. The ongoing trend of demand surpassing supply seems to be a contributing factor. Forex traders report inflow quotes ranging from N1,035 to N1,045 per dollar, indi…",
+      "Url": "https://punchng.com/naira-dollar-exchange-rate-falls-to-n1040-in-parallel-market/",
+      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/04015026/Naira-Dollar.jpg",
+      "PublishedAt": "2023-10-12T05:29:32Z",
+      "Content": "The exchange rate between the naira and the dollar has dropped to N1,040 in the parallel market.\r\nThe ongoing trend of demand surpassing supply seems to be a contributing factor. Forex traders report… [+294 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2017-02/2017-02-24T005845Z_1006950001_LYNXMPED1N02U_RTROPTP_2_CBUSINESS-US-GLOBAL-FOREX.JPG",
       "PublishedAt": "2023-09-18T08:41:17Z",
       "Content": "LONDON/SINGAPORE, Sept 18 (Reuters) - The U.S. dollar\r\nhovered near a six-month high on Monday as traders looked ahead\r\nto interest rate decisions from the Federal Reserve, the Bank of\r\nEngland and t… [+3146 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "CHINA'S YUAN EXCHANGE RATE VERSUS DOLLAR WILL SHOW 'POSITIVE CHA…",
-      "Description": "(marketscreener.com) \n CHINA'S YUAN EXCHANGE RATE VERSUS DOLLAR WILL SHOW 'POSITIVE CHANGES' AFTER 'BOTTOMING OUT' - CHINA C.BANK PUBLICATION\n https://www.marketscreener.com/news/latest/CHINA-S-YUAN-EXCHANGE-RATE-VERSUS-DOLLAR-WILL-SHOW-POSITIVE-CHA-8230--448…",
-      "Url": "https://www.marketscreener.com/news/latest/CHINA-S-YUAN-EXCHANGE-RATE-VERSUS-DOLLAR-WILL-SHOW-POSITIVE-CHA-8230--44862049/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2023-09-18T05:15:50Z",
-      "Content": "Synlait Milk hits record low as a2 Milk says will cancel exclusive rights\r\n(Reuters) -Shares of New Zealand's Synlait Milk Ltd hit a record low on Monday after second-largest shareholder a2 Milk said… [+108 chars]"
     }
   ]
 }
