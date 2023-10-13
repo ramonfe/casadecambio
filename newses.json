@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 12 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 12 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-12-de-octubre-nid12102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-12T14:40:05Z",
+      "Content": "Este jueves 12 de octubre el precio del dólar en México es de $17,8420, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1572 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1944.jpg",
       "PublishedAt": "2023-10-03T22:18:36Z",
       "Content": "El peso retrocedió este martes por segunda sesión consecutiva y perforó la barrera de las 18 unidades por dólar, mientras que la Bolsa Mexicana de Valores (BMV) encabezó las pérdidas de la región, ar… [+2190 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "AFP",
-      "Title": "La moneda rusa vuelve a caer y supera los 100 rublos por dólar",
-      "Description": "La moneda rusa se hundió de nuevo el martes y se cambiaba a más de 100 rublos por dólar, pese a los esfuerzos del banco central para frenar la inflación y la caída de la...",
-      "Url": "https://www.elmundo.es/economia/2023/10/03/651c5b0ce85ece052d8b45c4.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/d71a348ca2db970d573bd1269c31fdef/crop/15x0/1009x663/f/jpg/assets/multimedia/imagenes/2023/10/03/16963569350998.jpg",
-      "PublishedAt": "2023-10-03T18:22:27Z",
-      "Content": "La moneda rusa se hundió de nuevo el martes y se cambiaba a más de 100 rublos por dólar, pese a los esfuerzos del banco central para frenar la inflación y la caída de la divisa nacional.\r\nEl rublo, b… [+1180 chars]"
     }
   ]
 }
