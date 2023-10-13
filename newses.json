@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Presume AMLO la fuerza del peso frente al dólar",
+      "Description": "La moneda nacional permanece estable y tras “un ajuste” en la paridad con el dólar estadunidense, regresó el “superpeso” al situarse de nueva cuenta por debajo de los 18 pesos, puntualizó el presidente Andrés Manuel López Obrador.",
+      "Url": "https://www.jornada.com.mx/2023/10/12/economia/025n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2023-10-12T09:01:12Z",
+      "Content": "Periódico La JornadaJueves 12 de octubre de 2023, p. 25\r\nLa moneda nacional permanece estable y tras un ajuste en la paridad con el dólar estadunidense, regresó el superpeso al situarse de nueva cuen… [+2016 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/d71a348ca2db970d573bd1269c31fdef/crop/15x0/1009x663/f/jpg/assets/multimedia/imagenes/2023/10/03/16963569350998.jpg",
       "PublishedAt": "2023-10-03T18:22:27Z",
       "Content": "La moneda rusa se hundió de nuevo el martes y se cambiaba a más de 100 rublos por dólar, pese a los esfuerzos del banco central para frenar la inflación y la caída de la divisa nacional.\r\nEl rublo, b… [+1180 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 3 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 3 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-3-de-octubre-nid03102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-3-de-3YJXLYJ6OZDS7CUKFHURO5YU4M.jpg?auth=37c9b920fd6a03f5e6c71444968f3529ba9e424420101ad7681a668d07b81072&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-03T17:14:57Z",
-      "Content": "Este martes 3 de octubre el precio del dólar en México es de $17,5920, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1583 chars]"
     }
   ]
 }
