@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Plazo Fijo: el Banco Central subirá la tasa de interés en medio del alza del dólar y de la inflación",
+      "Description": "La tasa de plazo fijo rinde actualmente 9,7% mensual, por debajo de la inflación",
+      "Url": "https://www.lanacion.com.ar/economia/plazo-fijo-el-banco-central-subira-la-tasa-de-interes-en-medio-del-alza-del-dolar-y-de-la-inflacion-nid12102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dola-ESQIPCFE6JAWDIBSWHFG4IZ6P4.jpg?auth=c9429b452970955c11cb1f154f05918d42fb3f5507bed8bff66acc82cc896689&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-12T16:03:22Z",
+      "Content": "En medio de una semana de altísima volatilidad cambiaria y tras conocerse hoy a la tarde el dato de inflación de septiembre (estaría cerca de 12%), el Banco Central aplicaría una nueva suba de tasas … [+3265 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20231004/imag/foto_0000000120231004093253/BANCO_CENTRAL_FACHADA.jpeg",
       "PublishedAt": "2023-10-04T12:31:00Z",
       "Content": "Al igual que en la entrega pasada, las expectativas de inflación de las empresas continúan reduciéndose luego de varios meses estancadas. Así lo reveló la Encuesta de Determinantes y Expectativas de … [+2298 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso pierde y cruza barrera de las 18 unidades por dólar; BMV también cae",
-      "Description": "Forbes México.\n Peso pierde y cruza barrera de las 18 unidades por dólar; BMV también cae\n\nEl peso sufrió su mayor descalabro diario desde mediados de marzo y acumula una pérdida del 3.8% en las últimas dos jornadas.\nPeso pierde y cruza barrera de las 18 unid…",
-      "Url": "https://www.forbes.com.mx/peso-pierde-y-cruza-barrera-de-las-18-unidades-por-dolar-bmv-tambien-cae/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1944.jpg",
-      "PublishedAt": "2023-10-03T22:18:36Z",
-      "Content": "El peso retrocedió este martes por segunda sesión consecutiva y perforó la barrera de las 18 unidades por dólar, mientras que la Bolsa Mexicana de Valores (BMV) encabezó las pérdidas de la región, ar… [+2190 chars]"
     }
   ]
 }
