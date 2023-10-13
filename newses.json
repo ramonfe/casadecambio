@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Catalina Vergara",
+      "Title": "Alza reciente del dólar: Santander estima que además de fundamentales hay \"sobrerreacción\" y anticipa que cerrará el año en $875",
+      "Description": "En su “Panorama Económico Mensual” de octubre, los economistas del banco realizaron una radiografía a los efectos que podría tener en la economía las condiciones financieras internacionales.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/alza-reciente-del-dolar-santander-estima-que-ademas-de-fundamentales",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231012/imag/foto_0000000120231012165503/Santander_RTRS.jpg",
+      "PublishedAt": "2023-10-12T19:54:00Z",
+      "Content": "La economía chilena mira con atención la situación del precio del petróleo en el mercado internacional y la reciente depreciación del tipo de cambio que sacude al mercado cambiario nacional. Ante ell… [+4929 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/SLTJ9kjoxQwt5aLu9KfTQO6wOxU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RYUB7CWHVVALPGTP2LN2WDR7TM.jpg",
       "PublishedAt": "2023-10-04T15:02:10Z",
       "Content": "El peso mexicano encontró algo de oxígeno frente al dólar en el inicio de la sesión de este 4 de octubre... pero después todo se derrumbó y ya se cotiza por arriba de las 18 unidades por billete verd… [+823 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Catalina Vergara",
-      "Title": "Sondeo del Banco Central: expectativas de inflación de los empresarios continúan reduciéndose, pero preocupa alza del dólar",
-      "Description": "La Encuesta de Determinantes y Expectativas de Precios (EDEP) revela que los directivos de empresas ven la inflación en un 5% en 12 meses.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/sondeo-del-banco-central-expectativas-de-inflacion-de-los-empresarios",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231004/imag/foto_0000000120231004093253/BANCO_CENTRAL_FACHADA.jpeg",
-      "PublishedAt": "2023-10-04T12:31:00Z",
-      "Content": "Al igual que en la entrega pasada, las expectativas de inflación de las empresas continúan reduciéndose luego de varios meses estancadas. Así lo reveló la Encuesta de Determinantes y Expectativas de … [+2298 chars]"
     }
   ]
 }
