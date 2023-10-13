@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Vang Shuiming tries again for bail with 24-hour tracking, fails",
+      "Description": "The judge reminded Vang Shuiming that if a bail application has already been rejected before, a court will be \"extremely reluctant\" to grant bail in subsequent applications unless there are material changes to the facts or circumstances.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-vang-shui-ming-bail-review-rejected-3840326",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
+      "PublishedAt": "2023-10-12T08:43:45Z",
+      "Content": "In order for the High Court to exercise its revisionary powers, it has to be satisfied that there was a serious injustice arising out of a decision in the lower court.\r\nJustice Hoong said he did not … [+2290 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2017-03/2017-03-30T103534Z_1_LYNXMPED2T0NH_RTROPTP_2_GERMANY-BUSINESS.JPG",
       "PublishedAt": "2023-09-18T15:01:32Z",
       "Content": "NEW YORK, Sept 18 (Reuters) - The U.S. dollar held\r\nsteady against a basket of currencies on Monday, hovering near a\r\nsix-month high as traders looked ahead to interest rate\r\ndecisions this week from… [+3236 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar hovers near six-month high before key central bank decisions",
-      "Description": "(marketscreener.com) The U.S. dollar\nhovered near a six-month high on Monday as traders looked ahead\nto interest rate decisions from the Federal Reserve, the Bank of\nEngland and the Bank of Japan this week.\n The euro was roughly flat against the dollar at\n$1.…",
-      "Url": "https://www.marketscreener.com/news/latest/Dollar-hovers-near-six-month-high-before-key-central-bank-decisions--44863564/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2017-02/2017-02-24T005845Z_1006950001_LYNXMPED1N02U_RTROPTP_2_CBUSINESS-US-GLOBAL-FOREX.JPG",
-      "PublishedAt": "2023-09-18T08:41:17Z",
-      "Content": "LONDON/SINGAPORE, Sept 18 (Reuters) - The U.S. dollar\r\nhovered near a six-month high on Monday as traders looked ahead\r\nto interest rate decisions from the Federal Reserve, the Bank of\r\nEngland and t… [+3146 chars]"
     }
   ]
 }
