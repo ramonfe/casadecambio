@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: siguen las ventas de reservas y el Banco Central perdió esta semana US$540 millones en intervenciones",
+      "Description": "A una semana de las elecciones, la entidad ya duplica los montos sacrificados en la misma tarea en la semana previa a las PASO",
+      "Url": "https://www.lanacion.com.ar/economia/reservas-siguen-las-ventas-y-el-banco-central-perdio-esta-semana-us540-millones-en-intervenciones-nid12102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-vuelve-a-vender-IIWTPFNGIJGMTJBBVHRFDER4ZQ.JPG?auth=5495d4f1740324982c8fef813d088207a1cc563d27a5bc0f0804f75bb1619c78&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-12T21:50:15Z",
+      "Content": "El Banco Central (BCRA) cerró sus intervenciones sobre el mercado cambiario esta semana perdiendo unos US$540 millones, tras haber tendido que aportar hoy otros US$120 millones. Fue al cabo de una jo… [+2955 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-04T15:49:00Z",
       "Content": "Este miércoles 4 de octubre el precio del dólar en México es de $17,9025, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+1594 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, ya: Supera el techo de las 18 unidades contra el dólar",
-      "Description": "En ventanilla bancaria, el dólar se vende en 18.52 pesos por cada billete verde, esto de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/04/peso-dolar-precio-hoy-4-de-octubre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/SLTJ9kjoxQwt5aLu9KfTQO6wOxU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RYUB7CWHVVALPGTP2LN2WDR7TM.jpg",
-      "PublishedAt": "2023-10-04T15:02:10Z",
-      "Content": "El peso mexicano encontró algo de oxígeno frente al dólar en el inicio de la sesión de este 4 de octubre... pero después todo se derrumbó y ya se cotiza por arriba de las 18 unidades por billete verd… [+823 chars]"
     }
   ]
 }
