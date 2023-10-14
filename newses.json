@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso abre al alza y opera bajo el umbral de 18 unidades por dólar",
+      "Description": "Forbes México.\n Peso abre al alza y opera bajo el umbral de 18 unidades por dólar\n\nEl peso cotizaba en 17.8815 unidades por dólar, con una ganancia de un 0.46% frente al precio de referencia de Reuters del jueves.\nPeso abre al alza y opera bajo el umbral de 1…",
+      "Url": "https://www.forbes.com.mx/peso-abre-al-alza-y-opera-bajo-el-umbral-de-18-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1944.jpg",
+      "PublishedAt": "2023-10-13T14:48:02Z",
+      "Content": "El peso se apreciaba el viernes, en línea con la mayoría de las monedas de la región, luego de una estabilización del dólar en el mercado global gracias a comentarios de funcionarios de la Reserva Fe… [+1340 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Diego Yañez Martínez, Sofía Diamante",
+      "Title": "Nuevas medidas del Banco Central para contener la demanda del dólar",
+      "Description": "Nuevas medidas del Banco Central para contener la demanda del dólar",
+      "Url": "https://www.lanacion.com.ar/economia/nuevas-medidas-del-banco-central-para-contener-la-demanda-del-dolar-nid13102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/sustainableportfoliomanagementlongtermwealthmanag-52HZZLDN7NBMXJSOXOTMVCXJL4.JPG?auth=af59d3c40ea64e1a8c74884e3e16fe4fd22d624d7f8f3de69be85b1363bdb5f3&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-13T14:03:43Z",
+      "Content": "El Banco Central (BCRA) tomó nuevas medidas con las que busca contener la demanda del dólar. A través de dos comunicados, realizado ayer por la noche, la entidad monetaria dispuso limitar la tenencia… [+1135 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-central-dela-republica-SJWGLPQ7R5GDLEKRLQQAKXYHJI.jpg?auth=f47a30094496921ffa68af27bc57150ec761fa39c563d0476422914a96a1102a&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-05T19:32:09Z",
       "Content": "El Banco Central (BCRA) logró hoy cortar la seguidilla de ventas padecidas en las últimas 48 horas en la rueda que marcó el debut oficial del denominado dólar Vaca Muerta, al cerrar sus intervencione… [+3102 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano vuelve a caer; rompe barrera de 18 por dólar",
-      "Description": "La moneda nacional cotizaba en 18.08 por dólar, con una pérdida del 0.76% frente al precio de referencia del miércoles.",
-      "Url": "https://aristeguinoticias.com/0510/dinero-y-economia/peso-mexicano-vuelve-a-caer-rompe-barrera-de-18-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/peso-dolar-tipo-cambio-moneda-051023-1.jpg",
-      "PublishedAt": "2023-10-05T15:55:49Z",
-      "Content": "El peso mexicano se depreciaba el jueves un día antes de un esperado informe de empleo en Estados Unidos, que ofrecería nuevas pistas sobre si la mayor economía del mundo es lo suficientemente fuerte… [+1695 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, jueves 5 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 5 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-5-de-octubre-nid05102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-cuanto-esta-la-moneda-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-05T15:05:40Z",
-      "Content": "Este jueves 5 de octubre el precio del dólar en México es de $18.0170, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1737 chars]"
     }
   ]
 }
