@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Francisco Rivera",
+      "Title": "‘Mala suerte’ para el peso en viernes 13: vuelve a las 18 unidades por dólar",
+      "Description": "Forbes México.\n ‘Mala suerte’ para el peso en viernes 13: vuelve a las 18 unidades por dólar\n\nEl peso se deprecia 0.42% e hila dos sesiones con pérdidas; inflación y huelga automotriz en EU, e Israel, los principales factores.\n‘Mala suerte’ para el peso en vi…",
+      "Url": "https://www.forbes.com.mx/mala-suerte-para-el-peso-en-viernes-13-vuelve-a-las-18-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-dolar-FER_0412.webp",
+      "PublishedAt": "2023-10-13T22:45:13Z",
+      "Content": "El peso hiló este viernes dos sesiones con depreciaciones frente al dólar y volvió al nivel de las 18 unidades por billete verde.\r\nLa divisa estadounidense se vendió al cierre de la jornada en 18.068… [+2334 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-06T15:18:33Z",
       "Content": "Este viernes 6 de octubre el precio del dólar en México es de $18,2407, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1546 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / SH",
-      "Title": "Peso mexicano retrocede ante fortalecimiento global del dólar",
-      "Description": "En la semana sumaba un retroceso de un 5.4%, su peor desempeño desde septiembre de 2020.",
-      "Url": "https://aristeguinoticias.com/0610/dinero-y-economia/peso-mexicano-retrocede-ante-fortalecimiento-global-del-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/peso-mexicano-06102023.jpg",
-      "PublishedAt": "2023-10-06T15:02:35Z",
-      "Content": "El peso mexicano se depreciaba este viernes ante un fortalecimiento global del dólar, tras un informe del mercado laboral estadounidense que superó las expectativas, subrayando la expectativa de que … [+1099 chars]"
     }
   ]
 }
