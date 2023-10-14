@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY viernes 13 de octubre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 13 de octubre el tipo de cambio interbancario, se ubica en 17.90 pesos por unidad, con una pérdida de 0.43 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba a…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-octubre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-10-13T11:01:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 13 de octubre el tipo de cambiointerbancario, se ubica en 17.90 pesos por unidad, con una pérdida de 0.43 por ciento… [+864 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-cuanto-esta-la-moneda-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-05T15:05:40Z",
       "Content": "Este jueves 5 de octubre el precio del dólar en México es de $18.0170, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1737 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, 4 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 4 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-4-de-octubre-nid04102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-04T15:49:00Z",
-      "Content": "Este miércoles 4 de octubre el precio del dólar en México es de $17,9025, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+1594 chars]"
     }
   ]
 }
