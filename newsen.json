@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investor's Business Daily"
+      },
+      "Author": "Investor's Business Daily",
+      "Title": "Dollar General Pulls A Hail Mary, Spikes After 10-Week Dive; But Analysts Say 'No Quick Fix'",
+      "Description": "Dollar General stock popped early Friday after the discount retailer tapped a former CEO to retake the reigns, updated its guidance.",
+      "Url": "https://www.investors.com/news/dollar-general-pulls-a-hail-mary-spikes-after-10-week-dive/",
+      "UrlToImage": "https://www.investors.com/wp-content/uploads/2019/01/Stock-DollarGeneral-04-company.jpg",
+      "PublishedAt": "2023-10-13T20:05:06Z",
+      "Content": "Dollar General (DG) late Thursday said it tapped former CEO Todd Vasos to help it navigate through its current downturn. Dollar General stock soared Friday on the news and updated guidance. However, … [+3369 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://economictimes.indiatimes.com/thumb/msid-103764315,width-1070,height-580,imgsize-69954,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2023-09-18T15:40:23Z",
       "Content": "The U.S. dollar held steady against a basket of currencies on Monday, hovering near a six-month high as traders looked ahead to interest rate decisions this week from the Federal Reserve, the Bank of… [+3103 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar steady as week of key central bank decisions kicks off",
-      "Description": "(marketscreener.com) The U.S. dollar held\nsteady against a basket of currencies on Monday, hovering near a\nsix-month high as traders looked ahead to interest rate\ndecisions this week from the Federal Reserve, the Bank of\nEngland and the Bank of Japan.\n Curren…",
-      "Url": "https://www.marketscreener.com/quote/currency/EURO-US-DOLLAR-EUR-USD-4591/news/Dollar-steady-as-week-of-key-central-bank-decisions-kicks-off-44868305/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2017-03/2017-03-30T103534Z_1_LYNXMPED2T0NH_RTROPTP_2_GERMANY-BUSINESS.JPG",
-      "PublishedAt": "2023-09-18T15:01:32Z",
-      "Content": "NEW YORK, Sept 18 (Reuters) - The U.S. dollar held\r\nsteady against a basket of currencies on Monday, hovering near a\r\nsix-month high as traders looked ahead to interest rate\r\ndecisions this week from… [+3236 chars]"
     }
   ]
 }
