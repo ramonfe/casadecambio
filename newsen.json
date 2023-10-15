@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": "Alex Harring",
+      "Title": "Javier Milei: The Argentine presidential candidate wants to abolish the country's central bank and move to the U.S. dollar",
+      "Description": "Javier Milei has seen surprising levels of support in his campaign.",
+      "Url": "https://www.cnbc.com/2023/10/14/javier-milei-argentine-presidential-candidate-wants-to-abolish-central-bank.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/107285692-1691998194224-gettyimages-1597590935-AFP_33R28FQ.jpeg?v=1697284801&w=1920&h=1080",
+      "PublishedAt": "2023-10-14T12:00:01Z",
+      "Content": "Ultra-right libertarian candidate Javier Milei celebrates the results of Argentina's primary elections, Aug. 13, 2023.\r\nA leading presidential candidate in Argentina has drastic changes in mind for t… [+6183 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2017-03/2017-03-10T122624Z_1_LYNXMPED290VT_RTROPTP_2_ECB-POLICY.JPG",
       "PublishedAt": "2023-09-18T20:00:34Z",
       "Content": "NEW YORK, Sept 18 (Reuters) -\r\nThe U.S. dollar eased against a basket of currencies on\r\nMonday but remained near a six-month high in muted trading as\r\ntraders awaited interest rate decisions this wee… [+3089 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar steady as week of key central bank decisions kicks off",
-      "Description": "Resilient U.S. growth has fueled a rebound in the dollar in recent weeks though the rally will likely be tested by a gauntlet of data and Wednesday's Federal Reserve interest rate decision",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-steady-as-week-of-key-central-bank-decisions-kicks-off/articleshow/103764286.cms",
-      "UrlToImage": "https://economictimes.indiatimes.com/thumb/msid-103764315,width-1070,height-580,imgsize-69954,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2023-09-18T15:40:23Z",
-      "Content": "The U.S. dollar held steady against a basket of currencies on Monday, hovering near a six-month high as traders looked ahead to interest rate decisions this week from the Federal Reserve, the Bank of… [+3103 chars]"
     }
   ]
 }
