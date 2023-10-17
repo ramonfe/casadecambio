@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso abre segunda quincena de octubre debajo de las 18 unidades vs. el dólar",
+      "Description": "En ventanillas bancarias, el dólar se vende en 18.46 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/16/peso-dolar-precio-hoy-16-de-octubre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bk768Xbzn-ARLA8vddIPkS9hdNI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LNIUZLRHW5FURICVLOE7RAR7H4.jpg",
+      "PublishedAt": "2023-10-16T15:51:47Z",
+      "Content": "El peso mexicano arranca la segunda quincena de octubre con avances frente al dólar gracias a un mayor apetito por el riesgo, mientras los mercados siguen atentos a las últimas noticias del conflicto… [+1383 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/2a0b429b708005ce274b8bc56a252937/crop/722x0/1833x741/f/jpg/assets/multimedia/imagenes/2023/10/10/16969307402079.jpg",
       "PublishedAt": "2023-10-10T10:19:44Z",
       "Content": "Gráfico diario del euro/dólar\r\nEl mes de septiembre un mes aciago para el conjunto de las bolsas europeas con Wall Street liderando las pérdidas. Sin embargo fue un buen mes para el dólar, que se apr… [+486 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Guerra entre Israel y Hamás: ¿Cómo puede afectar al tipo de cambio peso-dólar?",
-      "Description": "Especialistas señalan que aún es pronto para saber si habrá repercusiones en la relación entre el peso y el dólar por la guerra en Israel.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/09/guerra-entre-israel-y-hamas-como-puede-afectar-al-tipo-de-cambio-peso-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/R2EcSqxMy1KR7VzvR3gK23uwODE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YFJ2LET5XZDF3CSCCY6NWSRBPY.jpg",
-      "PublishedAt": "2023-10-10T01:12:28Z",
-      "Content": "A pesar de que el peso mexicano finalizó con ganancias este lunes, inició la sesión en terreno de pérdidas junto con varias monedas de economías emergentes que se vieron afectadas al ser consideradas… [+2095 chars]"
     }
   ]
 }
