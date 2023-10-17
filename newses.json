@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La moneda de dólar que podría valer mucho más por un error: cómo identificarla",
+      "Description": "Un numismático descubrió que los ‘dólares Cheerios’ tenían detalles que los hacían más caros y especiales por encima de otros que circulan en el mercado",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-dolar-que-podria-valer-mucho-mas-por-un-error-como-identificarla-nid16102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-dolar-sacagawea-salio-en-varias-KV2X43SWMBB45IR25VQDQVQ2PA.jpg?auth=e3d1598f35c3ac0df66619a17508958bf38a89153f305e85c2850728ea03b473&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-16T18:04:14Z",
+      "Content": "Un error en las plumas hizo que monedas de un dólar de Sacagawea, que se distribuyeron en cajas de cereales Cheerios, valieran más de 10.000 dólares entre los numismáticos. Sin embargo, años más tard… [+2896 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.10/article/65253c3d59bf5b4f7b74a5ff.jpg",
       "PublishedAt": "2023-10-10T13:00:54Z",
       "Content": "El candidato ultraderechista a la presidencia de Argentina, Javier Milei, convocó a la ciudadanía a dejar de ahorrar en pesos, lo que provocó un inmediato y abrupto incremento del dólar que se comerc… [+5031 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "JOSÉ MARÍA RODRÍGUEZ",
-      "Title": "El euro/dólar ataca la parte superior del canal bajista",
-      "Description": "El mes de septiembre un mes aciago para el conjunto de las bolsas europeas con Wall Street liderando las pérdidas. Sin embargo fue un buen mes para el dólar, que se apreció un 2,50% frente a la moneda única. Leer",
-      "Url": "https://www.expansion.com/mercados/2023/10/10/65251bff468aeb1d308b4610.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/2a0b429b708005ce274b8bc56a252937/crop/722x0/1833x741/f/jpg/assets/multimedia/imagenes/2023/10/10/16969307402079.jpg",
-      "PublishedAt": "2023-10-10T10:19:44Z",
-      "Content": "Gráfico diario del euro/dólar\r\nEl mes de septiembre un mes aciago para el conjunto de las bolsas europeas con Wall Street liderando las pérdidas. Sin embargo fue un buen mes para el dólar, que se apr… [+486 chars]"
     }
   ]
 }
