@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Al peso le ‘pega el frío’: Se cotiza en las 17.95 unidades vs. el dólar",
+      "Description": "Un reforzamiento a la idea de que la Fed mantendrá su tasa alta por más tiempo contribuyó a un fortalecimiento del dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/17/peso-dolar-precio-hoy-17-de-octubre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ok-CoZTm7OnMcQov41Ubzx6W_GQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4W272MZAO5CTBEVJVJMVAP765A.jpg",
+      "PublishedAt": "2023-10-17T14:45:13Z",
+      "Content": "Al peso mexicano no le duró nada el gusto y este martes superó momentáneamente la barrera de las 18 unidades frente al dólar, después de que datos económicos en Estados Unidos reforzaron la idea de q… [+1729 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede y opera en el umbral de 18 unidades por dólar; BMV también cae",
+      "Description": "Forbes México.\n Peso retrocede y opera en el umbral de 18 unidades por dólar; BMV también cae\n\nEl peso cotizaba en 18.0594 por dólar, con un retroceso de 1.05% frente al precio de referencia de Reuters del lunes.\nPeso retrocede y opera en el umbral de 18 unid…",
+      "Url": "https://www.forbes.com.mx/peso-retrocede-y-opera-en-el-umbral-de-18-unidades-por-dolar-bmv-tambien-cae/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9178.webp",
+      "PublishedAt": "2023-10-17T14:39:03Z",
+      "Content": "El peso anotaba un notable descenso este martes poco después del comienzo de las cotizaciones, tras conocerse unas ventas minoristas en Estados Unidos por encima de las expectativas que reavivaron lo… [+2092 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 17 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 17 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-17-de-octubre-nid17102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-17T14:14:30Z",
+      "Content": "Este martes 17 de octubre el precio del dólar en México es de $17,9568, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1535 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2023/10/guerra-israel-dolar-peso-mexicano.jpg",
       "PublishedAt": "2023-10-10T16:42:04Z",
       "Content": "Lo que necesitas saber:\r\nLa guerra de Israel en Gaza podría impactar en el peso mexicano y la economía mundial si es que llega a escalar, aunque es muy pronto saber de sus repercusiones.\r\n¿Cómo impac… [+5038 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘regresa a la vida’: ‘Huele’ el piso de las 18 unidades contra el dólar",
-      "Description": "En ventanillas bancarias, el dólar se vende en 18.49 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/10/peso-dolar-precio-hoy-10-de-octubre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/YCKmEAonmLO5HTONE9E6JA7Lplc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2QHQQ6BV7REWBFJ2SEMXYVACJQ.jpg",
-      "PublishedAt": "2023-10-10T14:27:25Z",
-      "Content": "Después de un arranque de octubre complicado, el peso mexicano rompió otra vez el piso de las 18 unidades frente al dólar después de que la Reserva Federal dio señales de que mantendrá congelada su t… [+1950 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 10 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 10 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-10-de-octubre-nid10102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-10T14:19:49Z",
-      "Content": "Este martes 10 de octubre el precio del dólar en México es de $18,3482, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1511 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "Milei compara el peso argentino con \"excremento\" e incentiva una escalada del dólar paralelo",
-      "Description": "El Gobierno anunció medidas de emergencia para contener la incertidumbre del mercado cambiario.",
-      "Url": "https://actualidad.rt.com/actualidad/482946-milei-compara-peso-argentino-excremento",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.10/article/65253c3d59bf5b4f7b74a5ff.jpg",
-      "PublishedAt": "2023-10-10T13:00:54Z",
-      "Content": "El candidato ultraderechista a la presidencia de Argentina, Javier Milei, convocó a la ciudadanía a dejar de ahorrar en pesos, lo que provocó un inmediato y abrupto incremento del dólar que se comerc… [+5031 chars]"
     }
   ]
 }
