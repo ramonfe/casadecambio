@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: ni quitando a los bancos del mostrador el Banco Central logró dejar de vender reservas",
+      "Description": "La entidad que conduce Miguel Pesce debió aportar otros US$95 millones al mercado y ya perdió más de US$800 millones en el mes sólo en este tipo de intervenciones; las tenencias brutas cayeron por debajo de los US$25.000 millones",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-ni-quitando-a-los-bancos-del-mostrador-el-banco-central-logro-dejar-de-vender-reservas-nid17102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-no-puede-dejar-de-perder-HT5EE7ORPZBBHN4STRHXYIYU3M.JPG?auth=0d79169d837b982f691f65de1a51b992b08d5506ca3693db1efb56c47ce5f675&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-17T21:59:46Z",
+      "Content": "El Banco Central (BCRA) debió aportar al mercado cambiario oficial otros US$95 millones de sus muy raquíticas reservas para atender los pedidos de compra de divisas que habían superado todos los filt… [+3208 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-sector-industrial-y-pide-por-un-dolar-leche-M32UL26E2ZBMLI6LUYN7FFXETE.jpg?auth=a88ad74228b7376be380b27729de73ba2fb806842f38699fae2384a6b1522c63&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-10T17:41:12Z",
       "Content": "A mediados de septiembre pasado, el Gobierno anunció la suspensión las retenciones a los lácteos por 90 días, motivado por la situación de quebranto que atraviesan los tambos tras el impacto de la se… [+7728 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sopitas.com"
-      },
-      "Author": "Lucy Sanabria",
-      "Title": "¿Cómo impactaría la guerra de Israel en Gaza al peso mexicano y dólar?",
-      "Description": "¿Cómo impactaría la guerra de Israel en Gaza al peso mexicano y su tipo de cambio con el dólar? Esa es una de las preguntas que...\nThe post ¿Cómo impactaría la guerra de Israel en Gaza al peso mexicano y dólar? appeared first on Sopitas.com.",
-      "Url": "https://www.sopitas.com/noticias/israel-guerra-gaza-peso-mexicano/",
-      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2023/10/guerra-israel-dolar-peso-mexicano.jpg",
-      "PublishedAt": "2023-10-10T16:42:04Z",
-      "Content": "Lo que necesitas saber:\r\nLa guerra de Israel en Gaza podría impactar en el peso mexicano y la economía mundial si es que llega a escalar, aunque es muy pronto saber de sus repercusiones.\r\n¿Cómo impac… [+5038 chars]"
     }
   ]
 }
