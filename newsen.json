@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Moneycontrol"
+      },
+      "Author": "Moneycontrol News",
+      "Title": "HDFC Bank Q2 results, dollar pares gain, global equities cheer more | Market Minutes",
+      "Description": "In this episode of Market Minutes, Lovisha Darad discusses about how the markets are expected to fare amid the second quarterly earnings season. HDFC Bank and Jio Financial Services reported positive net profit growth year-on-year (YoY) in Q2FY24 on October 1…",
+      "Url": "https://www.moneycontrol.com/news/podcast/hdfc-bank-q2-results-dollar-pares-gain-global-equities-cheer-more-market-minutes-11544541.html",
+      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/market-minutes-1-6-770x433.jpeg",
+      "PublishedAt": "2023-10-17T02:59:00Z",
+      "Content": "In this episode of Market Minutes, Lovisha Darad discusses about how the markets are expected to fare amid the second quarterly earnings season. HDFC Bank and Jio Financial Services reported positive… [+625 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "CNBC"
       },
       "Author": "Alex Harring",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB2A045_L.jpg",
       "PublishedAt": "2023-09-20T08:21:09Z",
       "Content": "The Bangladesh Bank is taking disciplinary measures against ten financial institutions for reportedly selling US dollars at inflated prices. The central bank sent letters to these banks on Tuesday, s… [+1730 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar eases as traders eye upcoming central bank decisions",
-      "Description": "(marketscreener.com) \n \n \n NEW YORK, Sept 18 -\n The U.S. dollar eased against a basket of currencies on\nMonday but remained near a six-month high in muted trading as\ntraders awaited interest rate decisions this week by the Federal\nReserve, Bank of England and…",
-      "Url": "https://www.marketscreener.com/news/latest/Dollar-eases-as-traders-eye-upcoming-central-bank-decisions--44869728/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2017-03/2017-03-10T122624Z_1_LYNXMPED290VT_RTROPTP_2_ECB-POLICY.JPG",
-      "PublishedAt": "2023-09-18T20:00:34Z",
-      "Content": "NEW YORK, Sept 18 (Reuters) -\r\nThe U.S. dollar eased against a basket of currencies on\r\nMonday but remained near a six-month high in muted trading as\r\ntraders awaited interest rate decisions this wee… [+3089 chars]"
     }
   ]
 }
