@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Bloomberg",
+      "Title": "El Banco Central tendrá en cuenta el fuerte avance del dólar en su reunión de Política Monetaria de la próxima semana",
+      "Description": "Las autoridades “revisan constantemente las implicaciones de estos elementos en las proyecciones de inflación\", indicó en comentarios a Bloomberg.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/el-banco-central-tendra-en-cuenta-el-fuerte-avance-del-dolar-en-su",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231018/imag/foto_0000000220231018135411.jpg",
+      "PublishedAt": "2023-10-18T16:47:00Z",
+      "Content": "El Banco Central de Chile señaló que considerará el alza muy importante que ha tenido el dólar frente al peso en la Reunión de Política Monetaria del 25 y 26 de octubre.\r\nEl panorama internacional es… [+1522 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2023-10-10T21:53:53Z",
       "Content": "El peso y la Bolsa Mexicana de Valores (BMV) avanzaron el martes impulsados por un mejorado ambiente para los activos de riesgo tras comentarios menos restrictivos de funcionarios de la Reserva Feder… [+2016 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "$1000: así perdió valor el peso argentino contra el dólar blue",
-      "Description": "LA NACION comparó la cotización del dólar paralelo con el billete de 1000 pesos desde su lanzamiento en 2017 hasta hoy",
-      "Url": "https://www.lanacion.com.ar/videos/1000-asi-perdio-valor-el-peso-argentino-contra-el-dolar-blue-nid10102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolare-4TEBVYBZC5DOVAHRZ3BETGVF7U.JPG?auth=59e7f7d57b6e0c3e589a6729a70f2ed5df96f05cc34c7f776ee7eb04fa6752f5&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-10T20:13:31Z",
-      "Content": "© Copyright 2023 SA LA NACION | Todos los derechos reservados. Dirección Nacional del Derecho de Autor DNDA - EXPEDIENTE DNDA (renovación) RL-2023-95334553-APN-DNDA#MJ. Queda prohibida la reproducció… [+37 chars]"
     }
   ]
 }
