@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Roberto Casado",
+      "Title": "La paridad euro-dólar abriría un abismo del 20% para la Bolsa española",
+      "Description": "Hace poco más de un año, el euro tocó su mínimo frente a la moneda estadounidense desde 2002, al caer claramente por debajo de la paridad, hasta 0,96 dólares. Prueba del regreso de",
+      "Url": "https://www.expansion.com/mercados/2023/10/18/652ff6ac468aeb846a8b45ec.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/d4b825f22e2cc39b718d346a4a8db472/crop/51x0/1236x791/f/jpg/assets/multimedia/imagenes/2023/10/18/16976343148605.jpg",
+      "PublishedAt": "2023-10-18T18:35:42Z",
+      "Content": "El presidente estadounidense Joe Biden se reunió ayer en Tel Aviv con el primer ministro israelí Benjamin Netanyahu.\r\n Avi Ohayon/Israel Gpo / Zuma Pre Avi Ohayon/Israel Gpo / Zuma Pre\r\nEl conflicto … [+588 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/337/5336532.jpg&wm=1&ang=0",
       "PublishedAt": "2023-10-10T23:17:18Z",
       "Content": "El tipo de cambio de menudeo tuvo un declive de 30 centavos, lo que le permitió terminar a la venta en 18.37 unidades y a 17.38 pesos a la compra. Crédito: AP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cierra por debajo de 18 unidades por dólar; BMV registra mayor ganancia desde enero",
-      "Description": "Forbes México.\n Peso cierra por debajo de 18 unidades por dólar; BMV registra mayor ganancia desde enero\n\nEl peso cerró en 17.9306 por dólar, con una apreciación de 1.41% frente al precio de referencia de Reuters del lunes, aunque durante la jornada llegó a v…",
-      "Url": "https://www.forbes.com.mx/peso-cierra-por-debajo-de-18-unidades-por-dolar-bmv-registra-mayor-ganancia-desde-enero/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2023-10-10T21:53:53Z",
-      "Content": "El peso y la Bolsa Mexicana de Valores (BMV) avanzaron el martes impulsados por un mejorado ambiente para los activos de riesgo tras comentarios menos restrictivos de funcionarios de la Reserva Feder… [+2016 chars]"
     }
   ]
 }
