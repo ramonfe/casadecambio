@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: gracias al litio, el Banco Central volvió a comprar reservas luego de siete ruedas",
+      "Description": "Esos aportes mineros, y una demanda que se mantiene reprimida, le permitieron alzarse con unos US$58 millones por sus intervenciones en el mercado",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-gracias-al-litio-el-banco-central-volvio-a-comprar-reservas-luego-de-siete-ruedas-nid19102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/edificio-del-banco-2XMSPUD2B5FO5MIX5J3CCY4YLY.jpg?auth=7a05fe48f4218288320217904a3fa5c4a9ce93313236adfbf1014e2033095902&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-19T22:23:14Z",
+      "Content": "El Banco Central (BCRA) logró quedarse hoy con unos US$58 millones por sus intervenciones sobre el mercado cambiario oficial y cortar, de esa manera, con una racha negativa que llevaba siete ruedas y… [+2784 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-falta-de-dolares-lleva-a-postergar-AMOZMJO2IRFMDLCGGC5TXO43E4.jpg?auth=aca1f426c8f035e6652d09b6593818c0ab703836004f854d7cc2f93bf3ece2d0&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-11T14:14:59Z",
       "Content": "Este miércoles 11 de octubre el precio del dólar en México es de $17,9917, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+1335 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Suba del dólar: Marra se desligó del incremento en la moneda y responsabilizó al Gobierno",
-      "Description": "“Es responsabilidad del Gobierno, ¿te crees que tuvo ese incremento porque yo puse un tuit o por lo que dijo Javier Milei de los plazos fijos?”, apuntó el candidato a la jefatura de gobierno porteña por La Libertad Avanza (LLA)",
-      "Url": "https://www.lanacion.com.ar/economia/suba-del-dolar-marra-se-desligo-del-incremento-en-la-moneda-y-responsabilizo-al-gobierno-nid11102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/suba-del-dolar-marra-se-desligo-del-incremento-en-ZJ2FVGZKINHNRIO75BXPGFSM2M.jpg?auth=bf0f4998482b58da00444199304aedf2a3a9b96b4c61e5b647f2468205bc07db&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-11T13:22:11Z",
-      "Content": "Ayer, cuando el dólar superó la barrera de los $1000, distintos actores de la política y la economía apuntaron contra el candidato presidencialJavier Milei y parte de su equipo por considerar que est… [+934 chars]"
     }
   ]
 }
