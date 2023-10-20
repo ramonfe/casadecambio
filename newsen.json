@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Accused with Singapore properties worth S$115m may face forgery charges",
+      "Description": "There is evidence that Su Jianfeng knowingly submitted forged documents to banks as supporting documents of the source of the money received in Singapore bank accounts, says an investigation officer.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-bail-additional-forgery-charges-documents-banks-funds-3857536",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--uJFgHi4m--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/18/su_jianfeng.png?itok=6FwW2nli",
+      "PublishedAt": "2023-10-19T07:00:35Z",
+      "Content": "SINGAPORE: One of the 10 people charged in Singapore's largest money-laundering probe may face additional forgery charges for allegedly submitting forged documents to banks to hide the source of fund… [+2158 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2023-09-21T16:30:48Z",
       "Content": "ANALYST RECOMMENDATIONS : DFS, Ocado, Oracle, Snowflake, Truist..."
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Hannah Levitt, Bloomberg",
-      "Title": "JPMorgan’s Jamie Dimon says Fed may have to hike more because central bank started ‘a day late and a dollar short’ and now is just ‘catching up’",
-      "Description": "“Odds are higher that they will have to go higher than they are today,” Dimon said. “I’m talking about four months from now, six months from now — that inflation will be at 4% and it won’t be coming down for a whole bunch of reasons.”",
-      "Url": "https://fortune.com/2023/09/21/jpmorgan-jamie-dimon-fed-hike-more-central-bank-inflation-china-ai/",
-      "UrlToImage": "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1678008275-e1695288085106.jpg?resize=1200,600",
-      "PublishedAt": "2023-09-21T09:25:20Z",
-      "Content": "JPMorgan Chase &amp; Co. Chief Executive Officer Jamie Dimon said the Federal Reserve may have to keep increasing its benchmark interest rate in the coming months to combat persistent inflation. The … [+2409 chars]"
     }
   ]
 }
