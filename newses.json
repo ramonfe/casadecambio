@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Precio de dólar HOY 19 de octubre al cierre: Peso se deprecia por tercera sesión; acumula pérdida de 2.5%",
+      "Description": "El pesocotizó en 18.31 unidades por dólar cerca del cierre de la sesión de este jueves, con una depreciación del 0.43 por ciento frente al precio de referencia del miércoles.En las últimas tres sesiones acumula una pérdida del 2.5 por ciento.La divisa mexican…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-de-octubre-de-2023-al-cierre-en-mexico",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/02/03/tipo-de-cambio-peso-dolar-89.jpg",
+      "PublishedAt": "2023-10-19T21:00:00Z",
+      "Content": "El peso cotizó en 18.31 unidades por dólar cerca del cierre de la sesión de este jueves, con una depreciación del 0.43 por ciento frente al precio de referencia del miércoles. En las últimas tres ses… [+833 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/suba-del-dolar-marra-se-desligo-del-incremento-en-ZJ2FVGZKINHNRIO75BXPGFSM2M.jpg?auth=bf0f4998482b58da00444199304aedf2a3a9b96b4c61e5b647f2468205bc07db&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-11T13:22:11Z",
       "Content": "Ayer, cuando el dólar superó la barrera de los $1000, distintos actores de la política y la economía apuntaron contra el candidato presidencialJavier Milei y parte de su equipo por considerar que est… [+934 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Regresa el peso a cotizar sobre los 17 por dólar",
-      "Description": "Pese a que uno de los principales riesgos de la guerra entre Israel y Hamas para las economías será el alza del petróleo y sus efectos sobre la inflación, las señales de moderación de la Reserva Federal (Fed) dieron impulso a que los inversionistas tomaran po…",
-      "Url": "https://www.jornada.com.mx/2023/10/11/economia/027n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-10-11T08:55:36Z",
-      "Content": "Periódico La JornadaMiércoles 11 de octubre de 2023, p. 27\r\nPese a que uno de los principales riesgos de la guerra entre Israel y Hamas para las economías será el alza del petróleo y sus efectos sobr… [+1754 chars]"
     }
   ]
 }
