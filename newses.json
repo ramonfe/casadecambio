@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Roberto Casado y Tamara Vázquez",
+      "Title": "¿Qué consecuencias tendría una nueva paridad euro-dólar?",
+      "Description": "El conflicto en Oriente Próximo hace que bancos como JPMorgan esperen una depreciación adicional de la moneda única. El Ibex de momento escapa del ajuste.",
+      "Url": "https://videos.expansion.com/v/0_ztc3lyv6-que-consecuencias-tendria-una-nueva-paridad-euro-dolar",
+      "UrlToImage": "https://ak.uecdn.es/p/111/thumbnail/entry_id/0_ztc3lyv6/width/630/height/354/cache_st/20231020151931",
+      "PublishedAt": "2023-10-20T14:48:56Z",
+      "Content": "ROBERTO CASADO Y TAMARA VÁZQUEZ |\r\nEl conflicto en Oriente Próximo hace que bancos como JPMorgan esperen una depreciación adicional de la moneda única. El Ibex de momento escapa del ajuste.\r\nOct 20, … [+14 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 20 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 20 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-20-de-octubre-nid20102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-20T14:38:51Z",
+      "Content": "Este viernes 20 de octubre el precio del dólar en México es de $18,2873, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+1715 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/HsH7j2fENL9ILo60Eq97e5SEg2k=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/LNLAQESYGNDL7JA5CREANVFNTA.jpg",
       "PublishedAt": "2023-10-11T23:27:29Z",
       "Content": "El tipo de cambio del dólar alcanzó su nivel más bajo del año 2023 este miércoles 11 de octubre, cerrando en ¢532,66 en el Mercado de Monedas Extranjeras (Monex). La cifra representa una disminución … [+3762 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Fiebre por el dólar. Cuando el peso argentino se imprimía en Nueva York y tenía la cara de George Washington",
-      "Description": "El extraño origen de los primeros billetes argentinos, con próceres extranjeros, canguros y dioses de la mitología griega",
-      "Url": "https://www.lanacion.com.ar/lifestyle/fiebre-por-el-dolar-cuando-el-peso-argentino-se-imprimia-en-nueva-york-y-tenia-la-cara-de-george-nid11102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-primer-billete-argentino-impreso-en-los-LKQG67GDXJFBZFZK455Z4SJNRI.jpg?auth=b443bcad444d721df6ddf1655dedbcc574a43e0fdae089862888755ee3d17cc4&width=1920&height=1282&quality=70&smart=false&focal=282,179",
-      "PublishedAt": "2023-10-11T15:42:21Z",
-      "Content": "11 de octubre de 202312:42\r\nFue, de alguna manera, lo más cerca que estuvo la Argentina de la dolarización. En 1827, cinco años después de que comenzase a circular el papel moneda en el país, el bill… [+8484 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso regresa a su modo ‘fortachón’ vs. el dólar: Se cotiza en las 17.82 unidades",
-      "Description": "En ventanillas bancarias, el dólar se vende en 18.25 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/11/peso-regresa-a-su-modo-fortachon-vs-el-dolar-se-cotiza-en-las-1784-unidades/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bMkUx_K28ZqRK_M-LUCYPgoueYk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QZYTCSTL6BAF5AEFHWO7AJD5KE.jpg",
-      "PublishedAt": "2023-10-11T14:35:37Z",
-      "Content": "El peso mexicano alarga este 11 de octubre su racha de ganancias contra el dólar, que se encamina a su seguidilla con más pérdidas desde marzo.\r\nEl mercado también asimiló nuevos comentarios menos ha… [+1170 chars]"
     }
   ]
 }
