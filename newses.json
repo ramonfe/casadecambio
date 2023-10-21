@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY viernes 20 de octubre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de octubre el tipo de cambio interbancario, se ubica en 18.35 pesos por unidad, con un alza de 0.15 por ciento, según datos de Bloomberg.El peso mexicano continuaba ayer ano…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-octubre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-10-20T11:05:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de octubre el tipo de cambio interbancario, se ubica en 18.35 pesos por unidad, con un alza de 0.15 por ciento, s… [+763 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bMkUx_K28ZqRK_M-LUCYPgoueYk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QZYTCSTL6BAF5AEFHWO7AJD5KE.jpg",
       "PublishedAt": "2023-10-11T14:35:37Z",
       "Content": "El peso mexicano alarga este 11 de octubre su racha de ganancias contra el dólar, que se encamina a su seguidilla con más pérdidas desde marzo.\r\nEl mercado también asimiló nuevos comentarios menos ha… [+1170 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 11 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 11 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-11-de-octubre-nid11102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-falta-de-dolares-lleva-a-postergar-AMOZMJO2IRFMDLCGGC5TXO43E4.jpg?auth=aca1f426c8f035e6652d09b6593818c0ab703836004f854d7cc2f93bf3ece2d0&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-11T14:14:59Z",
-      "Content": "Este miércoles 11 de octubre el precio del dólar en México es de $17,9917, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+1335 chars]"
     }
   ]
 }
