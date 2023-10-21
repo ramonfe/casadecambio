@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CryptoSlate"
+      },
+      "Author": "Mike Dalton",
+      "Title": "FBI charges six individuals in multimillion-dollar Bitcoin money-laundering scheme",
+      "Description": "The Federal Bureau of Investigation (FBI) has charged six individuals in connection to an unlicensed money-transmitting business involving crypto as a money laundering tool. Court filings dated Oct. 18 indicate that the accused individuals worked to convert B…",
+      "Url": "https://cryptoslate.com/fbi-charges-six-individuals-in-multimillion-dollar-bitcoin-money-laundering-scheme/",
+      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2021/07/fbi-warning-cryptoscam.jpg",
+      "PublishedAt": "2023-10-20T21:50:56Z",
+      "Content": "The Federal Bureau of Investigation (FBI) has charged six individuals in connection to an unlicensed money-transmitting business involving crypto as a money laundering tool.\r\nCourt filings dated Oct.… [+3024 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
       "PublishedAt": "2023-09-22T02:52:58Z",
       "Content": "3,417,843 Equity Shares of Ishan International Limited are subject to a Lock-Up Agreement Ending on 22-SEP-2023."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Commentary: What can Singapore do to prevent another billion-dollar money laundering case?",
-      "Description": "Despite rigorous checks in place, financial criminals can evade detection by exploiting human nature, say Terence Lam and Ng Shi Zhen of the Institute of Singapore Chartered Accountants.",
-      "Url": "https://www.channelnewsasia.com/commentary/billion-dollar-money-laundering-case-singapore-aml-regulation-accountant-3788331",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--yRaUgYxQ--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/16/GCB raid comp (1)_0.jpg?itok=G3o1MJLI",
-      "PublishedAt": "2023-09-21T22:00:00Z",
-      "Content": "SINGAPORE: Recent raids conducted by the Singapore Police Force saw the seizure and freezing of S$2.4 billion (US$1.8 billion) in cash and assets, and charges of money laundering and forgery pressed … [+1729 chars]"
     }
   ]
 }
