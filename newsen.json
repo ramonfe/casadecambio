@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Saving money to buy a house? Your dollar goes half as far as it did at the end of 2020, new data shows - NBC News",
+      "Description": "Saving money to buy a house? Your dollar goes half as far as it did at the end of 2020, new data showsNBC News View Full Coverage on Google News ...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172063747",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-21T14:13:29Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": "nbc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/BAJAJ-FINANCE-759x435.jpg",
       "PublishedAt": "2023-09-25T03:02:24Z",
       "Content": "Shares of Bajaj Finance will remain in focus on September 25 after Moneycontrol exclusively reported citing sources that the company was planning a mega fund raise to the tune of $800 million- $1 bil… [+1993 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Billion-Dollar Bank Terminating Cash Transactions in All Branches in Abrupt Shift to Digital-Only Era",
-      "Description": "A bank with more than $250 billion in total assets says it will soon terminate cash transactions in all of its branches. The Australia-based Macquarie Bank says it will launch a plan to eliminate all cash, check and phone payment services in January, shifting…",
-      "Url": "https://dailyhodl.com/2023/09/22/billion-dollar-bank-terminating-cash-transactions-in-all-branches-in-abrupt-shift-to-digital-only-era/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/bank-cash-terminate.jpg",
-      "PublishedAt": "2023-09-23T00:04:50Z",
-      "Content": "A bank with more than $250 billion in total assets says it will soon terminate cash transactions in all of its branches.\r\nThe Australia-based Macquarie Bank says it will launch a plan to eliminate al… [+1796 chars]"
     }
   ]
 }
