@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Dólar se vende a $18.68; peso se deprecia en la semana",
+      "Description": "Con los mercados atentos al conflicto en Medio Oriente, el tipo de cambio terminó la semana con un balance desfavorable para el peso.",
+      "Url": "https://www.reforma.com/dolar-se-vende-a-18-68-peso-se-deprecia-en-la-semana/ar2696652",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/311/5310701.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-10-20T23:26:22Z",
+      "Content": "En ventanillas de Citibanamex, el tipo de cambio vio un retroceso de 13 centavos a 18.68 unidades a la venta y 17.68 pesos a la compra. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-12T14:40:05Z",
       "Content": "Este jueves 12 de octubre el precio del dólar en México es de $17,8420, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1572 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Presume AMLO la fuerza del peso frente al dólar",
-      "Description": "La moneda nacional permanece estable y tras “un ajuste” en la paridad con el dólar estadunidense, regresó el “superpeso” al situarse de nueva cuenta por debajo de los 18 pesos, puntualizó el presidente Andrés Manuel López Obrador.",
-      "Url": "https://www.jornada.com.mx/2023/10/12/economia/025n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-10-12T09:01:12Z",
-      "Content": "Periódico La JornadaJueves 12 de octubre de 2023, p. 25\r\nLa moneda nacional permanece estable y tras un ajuste en la paridad con el dólar estadunidense, regresó el superpeso al situarse de nueva cuen… [+2016 chars]"
     }
   ]
 }
