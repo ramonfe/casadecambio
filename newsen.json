@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": "nbc-news",
+        "Name": "NBC News"
+      },
+      "Author": "Marley Jay, Jasmine Cui",
+      "Title": "Saving money to buy a house? Your dollar goes half as far as it did at the end of 2020, new data shows",
+      "Description": "Homebuyers are facing a tough market. Climbing mortgage rates and increased home prices have resulted in buyers’ dollars going about half as far now as they did in 2022.",
+      "Url": "https://www.nbcnews.com/business/real-estate/home-prices-high-mortgage-rates-how-much-money-to-afford-rcna120801",
+      "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-10/221020-home-sales-al-1433-481d18.jpg",
+      "PublishedAt": "2023-10-21T13:04:00Z",
+      "Content": "A tough market for home buyers keeps getting tougher as the combination of rising prices and climbing mortgage rates makes it even harder to afford a home, new data shows.\r\nIn spite of these challeng… [+3792 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/bank-cash-terminate.jpg",
       "PublishedAt": "2023-09-23T00:04:50Z",
       "Content": "A bank with more than $250 billion in total assets says it will soon terminate cash transactions in all of its branches.\r\nThe Australia-based Macquarie Bank says it will launch a plan to eliminate al… [+1796 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": "Reuters",
-      "Title": "DOLLAR/YEN RISES AFTER BANK OF JAPAN MAINTAINS NEGATIVE INTEREST…",
-      "Description": "(marketscreener.com) \n DOLLAR/YEN RISES AFTER BANK OF JAPAN MAINTAINS NEGATIVE INTEREST RATE POLICY\n https://www.marketscreener.com/news/latest/DOLLAR-YEN-RISES-AFTER-BANK-OF-JAPAN-MAINTAINS-NEGATIVE-INTEREST-8230--44900855/?utm_medium=RSS&utm_content=20230921",
-      "Url": "https://www.marketscreener.com/news/latest/DOLLAR-YEN-RISES-AFTER-BANK-OF-JAPAN-MAINTAINS-NEGATIVE-INTEREST-8230--44900855/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2023-09-22T02:52:58Z",
-      "Content": "3,417,843 Equity Shares of Ishan International Limited are subject to a Lock-Up Agreement Ending on 22-SEP-2023."
     }
   ]
 }
