@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Dólar Elecciones 2023: a cuánto cotiza el tipo de cambio bitcoin tras el cierre de urnas",
+      "Description": "Los valores que se negocian promedio de $1150, cotización que viene con marcada caída en las últimas horas",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-elecciones-2023-a-cuanto-cotiza-el-tipo-de-cambio-bitcoin-tras-el-cierre-de-urnas-nid22102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-elecciones-2023-como-cotizan-al-cerrar-las-GIYNDBBAFFAEJJS4DVXNY5RFGM.jpg?auth=4b5171704018c3f878f5ed9612c12b4fd897a26fd4238de7d3a5cee3b68ed945&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-22T22:47:12Z",
+      "Content": "A pesar de que hasta el lunes los mercados financieros permanecen cerrados, la expectativa que genera el resultado de las urnas pueden seguirse de cerca mediante el dólar cripto. Se trata de una coti… [+4663 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dola-ESQIPCFE6JAWDIBSWHFG4IZ6P4.jpg?auth=c9429b452970955c11cb1f154f05918d42fb3f5507bed8bff66acc82cc896689&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-12T16:03:22Z",
       "Content": "En medio de una semana de altísima volatilidad cambiaria y tras conocerse hoy a la tarde el dato de inflación de septiembre (estaría cerca de 12%), el Banco Central aplicaría una nueva suba de tasas … [+3265 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 12 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 12 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-12-de-octubre-nid12102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-12T14:40:05Z",
-      "Content": "Este jueves 12 de octubre el precio del dólar en México es de $17,8420, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1572 chars]"
     }
   ]
 }
