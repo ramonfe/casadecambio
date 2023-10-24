@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar y reservas: tras las elecciones, el Banco Central hizo hoy la mayor compra de divisas desde la última devaluación",
+      "Description": "Se quedó con US$195 millones por sus intervenciones sobre el mercado; jornada tranquila en los bancos",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-y-reservas-tras-las-elecciones-el-banco-central-hizo-hoy-la-mayor-compra-de-divisas-desde-la-nid23102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-hizo-la-mayor-compra-de-reservas-EODYXKANZ5DEZFLY4ZMA55OKBU.JPG?auth=6028ba8174fc0fdfb02c43709ccf69fe0eecde035eae917e353c62c69e205c98&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-23T21:08:31Z",
+      "Content": "El temido día después de las elecciones presidenciales resultó ser mucho más tranquilo que lo previsto en principio: bajó notablemente la concurrencia de gente a los bancos para hacer retiros y hasta… [+3891 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/sustainableportfoliomanagementlongtermwealthmanag-52HZZLDN7NBMXJSOXOTMVCXJL4.JPG?auth=af59d3c40ea64e1a8c74884e3e16fe4fd22d624d7f8f3de69be85b1363bdb5f3&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-13T14:03:43Z",
       "Content": "El Banco Central (BCRA) tomó nuevas medidas con las que busca contener la demanda del dólar. A través de dos comunicados, realizado ayer por la noche, la entidad monetaria dispuso limitar la tenencia… [+1135 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY viernes 13 de octubre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 13 de octubre el tipo de cambio interbancario, se ubica en 17.90 pesos por unidad, con una pérdida de 0.43 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba a…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-octubre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-10-13T11:01:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 13 de octubre el tipo de cambiointerbancario, se ubica en 17.90 pesos por unidad, con una pérdida de 0.43 por ciento… [+864 chars]"
     }
   ]
 }
