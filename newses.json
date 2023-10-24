@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "JOSÉ MARÍA RODRÍGUEZ",
+      "Title": "El euro/dólar ataca la parte superior del canal bajista",
+      "Description": "Este jueves se reúne el Consejo del Banco Central Europeo (BCE) y en teoría decidirá mantener el precio del dinero en el 4,5%. En este sentido ahora mismo los futuros de los fondos",
+      "Url": "https://www.expansion.com/mercados/2023/10/23/65362fb6e5fdea355a8b4575.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/3f1dcca228cf38b864aa4430c4643c3f/crop/0x0/1869x769/resize/1200/f/jpg/assets/multimedia/imagenes/2023/10/23/16980496951235.jpg",
+      "PublishedAt": "2023-10-23T10:10:04Z",
+      "Content": "Gráfico diario del euro/dólar desde mediados de mayo\r\nEl euro/dólar se encuentra encajado dentro de un impecable canal bajista desde los máximos anuales de mediados de julio, en los 1,127580.\r\nEste j… [+439 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20231012/imag/foto_0000000120231012165503/Santander_RTRS.jpg",
       "PublishedAt": "2023-10-12T19:54:00Z",
       "Content": "La economía chilena mira con atención la situación del precio del petróleo en el mercado internacional y la reciente depreciación del tipo de cambio que sacude al mercado cambiario nacional. Ante ell… [+4929 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Plazo Fijo: el Banco Central subirá la tasa de interés en medio del alza del dólar y de la inflación",
-      "Description": "La tasa de plazo fijo rinde actualmente 9,7% mensual, por debajo de la inflación",
-      "Url": "https://www.lanacion.com.ar/economia/plazo-fijo-el-banco-central-subira-la-tasa-de-interes-en-medio-del-alza-del-dolar-y-de-la-inflacion-nid12102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dola-ESQIPCFE6JAWDIBSWHFG4IZ6P4.jpg?auth=c9429b452970955c11cb1f154f05918d42fb3f5507bed8bff66acc82cc896689&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-12T16:03:22Z",
-      "Content": "En medio de una semana de altísima volatilidad cambiaria y tras conocerse hoy a la tarde el dato de inflación de septiembre (estaría cerca de 12%), el Banco Central aplicaría una nueva suba de tasas … [+3265 chars]"
     }
   ]
 }
