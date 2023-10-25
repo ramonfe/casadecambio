@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 24 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 24 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-24-de-octubre-nid24102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-24T14:53:45Z",
+      "Content": "Este martes 24 de octubre el precio del dólar en México es de $18,1218, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1682 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-13-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-13T15:01:33Z",
       "Content": "Este viernes 13 de octubre, el precio del dólar en México es de $17,9132, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+1901 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso abre al alza y opera bajo el umbral de 18 unidades por dólar",
-      "Description": "Forbes México.\n Peso abre al alza y opera bajo el umbral de 18 unidades por dólar\n\nEl peso cotizaba en 17.8815 unidades por dólar, con una ganancia de un 0.46% frente al precio de referencia de Reuters del jueves.\nPeso abre al alza y opera bajo el umbral de 1…",
-      "Url": "https://www.forbes.com.mx/peso-abre-al-alza-y-opera-bajo-el-umbral-de-18-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1944.jpg",
-      "PublishedAt": "2023-10-13T14:48:02Z",
-      "Content": "El peso se apreciaba el viernes, en línea con la mayoría de las monedas de la región, luego de una estabilización del dólar en el mercado global gracias a comentarios de funcionarios de la Reserva Fe… [+1340 chars]"
     }
   ]
 }
