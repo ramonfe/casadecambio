@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Nublarrones’ para el peso: Extiende caída con el dólar y se cotiza en las 18.28 unidades",
+      "Description": "En ventanillas bancarias, el dólar se vende en 18.74 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/25/peso-dolar-precio-hoy-25-de-octubre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xxyo3MeRaaQRWBPoHz758PYEPQA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I2NA7YE6QFGNFIJTIIKQQVNK2E.jpg",
+      "PublishedAt": "2023-10-25T16:33:11Z",
+      "Content": "El peso mexicano extiende sus pérdidas frente al dólar mientras el mercado aún aguanta la respiración por la publicación del PIB de Estados Unidos para el tercer trimestre, que se conocerá el 26 de o… [+1282 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-16-de-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-16T14:13:08Z",
       "Content": "Este lunes 16 de octubre el precio del dólar en México es de $18,0362, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1454 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Vuelve al peso plusvalía; corta dólar 3 semanas con alzas",
-      "Description": "Entre el 6 y el 13 de octubre, el tipo de cambio registró una reducción de 15 centavos en su valor al cerrar a 18.49 pesos.",
-      "Url": "https://www.reforma.com/vuelve-al-peso-plusvalia-corta-dolar-3-semanas-con-alzas/ar2692526",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/423/5422553.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-10-13T23:37:30Z",
-      "Content": "Al menudeo, en la jornada, el dólar subió seis centavos a 18.49 pesos a la venta y a 17.50 pesos a la compra. Crédito: AP"
     }
   ]
 }

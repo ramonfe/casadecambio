@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Bank of Canada holds rate at 5%, US dollar surges against loonie",
+      "Description": "Bank of Canada holds rate at 5%, US dollar surges against loonie",
+      "Url": "https://www.investing.com/news/economy/bank-of-canada-holds-rate-at-5-us-dollar-surges-against-loonie-93CH-3208926",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_4_800x533_L_1413112066.jpg",
+      "PublishedAt": "2023-10-25T16:47:57Z",
+      "Content": "The Bank of Canada (BOC) decided to maintain its overnight rate at 5% on Wednesday, in light of a slowing economy and the need to moderate spending and price pressures through monetary policy. This d… [+2188 chars]"
+    },
     {
       "Source": {
         "Id": null,
