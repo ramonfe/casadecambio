@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Precio de dólar HOY 25 de octubre al cierre: Peso retrocede ante alza de datos PIB en EU",
+      "Description": "Elpeso cotizó en 18.36 unidades por dólarcerca del cierre de la sesión de este miércoles, con un retroceso del 0.45 por ciento frente al precio de referencia del martes, hilando su segunda sesión de pérdidas.La divisa mexicana retrocedió ante un fortalecimien…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-de-octubre-de-2023-al-cierre-en-mexico",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2020/09/29/tipo-de-cambio-peso-dolar-22.jpg",
+      "PublishedAt": "2023-10-25T20:57:00Z",
+      "Content": "El peso cotizó en 18.36 unidades por dólar cerca del cierre de la sesión de este miércoles, con un retroceso del 0.45 por ciento frente al precio de referencia del martes, hilando su segunda sesión d… [+736 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bk768Xbzn-ARLA8vddIPkS9hdNI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LNIUZLRHW5FURICVLOE7RAR7H4.jpg",
       "PublishedAt": "2023-10-16T15:51:47Z",
       "Content": "El peso mexicano arranca la segunda quincena de octubre con avances frente al dólar gracias a un mayor apetito por el riesgo, mientras los mercados siguen atentos a las últimas noticias del conflicto… [+1383 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 16 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este lunes 16 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-16-de-octubre-nid16102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-16-de-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-16T14:13:08Z",
-      "Content": "Este lunes 16 de octubre el precio del dólar en México es de $18,0362, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1454 chars]"
     }
   ]
 }
