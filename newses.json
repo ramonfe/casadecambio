@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 25 de octubre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 25 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-25-de-octubre-nid25102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-25T15:00:33Z",
+      "Content": "Este miércoles 25 de octubre el precio del dólar en México es de $18,2842, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+1463 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/423/5422553.jpg&wm=1&ang=0",
       "PublishedAt": "2023-10-13T23:37:30Z",
       "Content": "Al menudeo, en la jornada, el dólar subió seis centavos a 18.49 pesos a la venta y a 17.50 pesos a la compra. Crédito: AP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Francisco Rivera",
-      "Title": "‘Mala suerte’ para el peso en viernes 13: vuelve a las 18 unidades por dólar",
-      "Description": "Forbes México.\n ‘Mala suerte’ para el peso en viernes 13: vuelve a las 18 unidades por dólar\n\nEl peso se deprecia 0.42% e hila dos sesiones con pérdidas; inflación y huelga automotriz en EU, e Israel, los principales factores.\n‘Mala suerte’ para el peso en vi…",
-      "Url": "https://www.forbes.com.mx/mala-suerte-para-el-peso-en-viernes-13-vuelve-a-las-18-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-dolar-FER_0412.webp",
-      "PublishedAt": "2023-10-13T22:45:13Z",
-      "Content": "El peso hiló este viernes dos sesiones con depreciaciones frente al dólar y volvió al nivel de las 18 unidades por billete verde.\r\nLa divisa estadounidense se vendió al cierre de la jornada en 18.068… [+2334 chars]"
     }
   ]
 }
