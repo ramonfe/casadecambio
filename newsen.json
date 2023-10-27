@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://i.insider.com/651338f251acc80019f0db69?width=1200&format=jpeg",
       "PublishedAt": "2023-09-27T18:11:24Z",
       "Content": "Dollar General sign and a person dressed as Mr. Monopoly, \"Milburn Pennybags.\"Jakub Porzycki/NurPhoto via Getty Images; MANDEL NGAN/AFP via Getty Images\r\n<ul><li>During the pandemic, more people with… [+3418 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Finbold.com"
-      },
-      "Author": "Vahid Karaahmetovic",
-      "Title": "What’s going on with Mexican peso vs. Dollar (USD/MXN)?",
-      "Description": "In the Forex markets, the US dollar (USD) has been climbing against the Mexican peso (MXN), after facing a few … Continued\nThe post What’s going on with Mexican peso vs. Dollar (USD/MXN)? appeared first on Finbold.",
-      "Url": "https://finbold.com/whats-going-on-with-mexican-peso-vs-dollar-usd-mxn/",
-      "UrlToImage": "https://finbold.com/app/uploads/2023/09/Whats-going-on-with-Mexican-peso-vs.-Dollar-USDMXN.jpg",
-      "PublishedAt": "2023-09-26T11:49:16Z",
-      "Content": "In the Forex markets, the US dollar (USD) has been climbing against the Mexican peso (MXN), after facing a few minor bumps along the way. \r\nThis upward trajectory is driven by a confluence of factors… [+2669 chars]"
     }
   ]
 }
