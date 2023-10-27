@@ -12,8 +12,8 @@
 		{
 			"bank_id": 15,
 			"bank_name": "BANJERCITO",
-			"buy": 17.28,
-			"sell": 18.78,
+			"buy": 17.05,
+			"sell": 18.55,
 			"date": "2022-05-02 17:10:09",
 			"prev_sell": 17.65,
 			"prev_buy": 15.95
@@ -30,8 +30,8 @@
 		{
 			"bank_id": 28,
 			"bank_name": "BANCAMIFEL",
-			"buy": 17.05,
-			"sell": 18.55,
+			"buy": 17.8,
+			"sell": 18.7,
 			"date": "2023-08-21 10:50:08",
 			"prev_sell": 18.70,
 			"prev_buy": 17.80
