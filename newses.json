@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "PIB de EU ‘arrea’ al peso: Gana al dólar y se cotiza en las 18.19 unidades",
+      "Description": "En ventanillas bancarias, el dólar se vende en 18.62 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/26/peso-dolar-precio-hoy-26-de-octubre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/aldc0nZcfhBd5ZFufGlz7c1LuQI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5EEQTECPUFAY3LAZBVM65LEZUY.jpg",
+      "PublishedAt": "2023-10-26T15:04:02Z",
+      "Content": "El peso mexicano comenzó este 26 de octubre con ganancias frente al dólar, después de que se dio a conocer que la economía en Estados Unidos creció 4.9 por ciento en el tercer trimestre, mucho mejor … [+1785 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ok-CoZTm7OnMcQov41Ubzx6W_GQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4W272MZAO5CTBEVJVJMVAP765A.jpg",
       "PublishedAt": "2023-10-17T14:45:13Z",
       "Content": "Al peso mexicano no le duró nada el gusto y este martes superó momentáneamente la barrera de las 18 unidades frente al dólar, después de que datos económicos en Estados Unidos reforzaron la idea de q… [+1729 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede y opera en el umbral de 18 unidades por dólar; BMV también cae",
-      "Description": "Forbes México.\n Peso retrocede y opera en el umbral de 18 unidades por dólar; BMV también cae\n\nEl peso cotizaba en 18.0594 por dólar, con un retroceso de 1.05% frente al precio de referencia de Reuters del lunes.\nPeso retrocede y opera en el umbral de 18 unid…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-y-opera-en-el-umbral-de-18-unidades-por-dolar-bmv-tambien-cae/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9178.webp",
-      "PublishedAt": "2023-10-17T14:39:03Z",
-      "Content": "El peso anotaba un notable descenso este martes poco después del comienzo de las cotizaciones, tras conocerse unas ventas minoristas en Estados Unidos por encima de las expectativas que reavivaron lo… [+2092 chars]"
     }
   ]
 }
