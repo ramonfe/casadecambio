@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 26 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 26 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-26-de-octubre-nid26102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-26T14:55:36Z",
+      "Content": "Este jueves 26 de octubre el precio del dólar en México es de $18,3122, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1369 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9178.webp",
       "PublishedAt": "2023-10-17T14:39:03Z",
       "Content": "El peso anotaba un notable descenso este martes poco después del comienzo de las cotizaciones, tras conocerse unas ventas minoristas en Estados Unidos por encima de las expectativas que reavivaron lo… [+2092 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 17 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 17 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-17-de-octubre-nid17102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-17T14:14:30Z",
-      "Content": "Este martes 17 de octubre el precio del dólar en México es de $17,9568, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1535 chars]"
     }
   ]
 }
