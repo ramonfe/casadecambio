@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Benjamín Pescio",
+      "Title": "Dólar abre plano a la espera del PIB estadounidense y con el mercado atento al anuncio de tasas del Banco Central",
+      "Description": "El tipo de cambio cerró este miércoles en mínimos de casi tres semanas, gracias a tres bajas consecutivas.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoynjk3",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231026/imag/foto_0000000920231026081317/A_UNO_1406837.jpg",
+      "PublishedAt": "2023-10-26T11:46:00Z",
+      "Content": "El dólar abrió plano este jueves, presionado en sentidos opuestos desde el mercado externo y con la atención fija en la decisión de política monetaria del Banco Central de Chile, la que se conocerá u… [+1897 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
       "PublishedAt": "2023-10-17T14:14:30Z",
       "Content": "Este martes 17 de octubre el precio del dólar en México es de $17,9568, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1535 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La moneda de dólar que podría valer mucho más por un error: cómo identificarla",
-      "Description": "Un numismático descubrió que los ‘dólares Cheerios’ tenían detalles que los hacían más caros y especiales por encima de otros que circulan en el mercado",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-dolar-que-podria-valer-mucho-mas-por-un-error-como-identificarla-nid16102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-dolar-sacagawea-salio-en-varias-KV2X43SWMBB45IR25VQDQVQ2PA.jpg?auth=e3d1598f35c3ac0df66619a17508958bf38a89153f305e85c2850728ea03b473&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-16T18:04:14Z",
-      "Content": "Un error en las plumas hizo que monedas de un dólar de Sacagawea, que se distribuyeron en cajas de cereales Cheerios, valieran más de 10.000 dólares entre los numismáticos. Sin embargo, años más tard… [+2896 chars]"
     }
   ]
 }

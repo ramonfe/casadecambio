@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Financial Post Staff",
+      "Title": "Live news: Canadian dollar drops after Bank of Canada holds rates — what it means for you",
+      "Description": "The Financial Post brings you the top business stories as they happen for October 26, 2023. Read on for breaking news you need to know.",
+      "Url": "https://financialpost.com/news/live-news-top-business-stories-october-26-2023",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/10/canadian-dollar-vw1026.jpg",
+      "PublishedAt": "2023-10-26T11:30:21Z",
+      "Content": "The Canadian dollar is falling after the Bank of Canada announced another rate pause and forecast weaker economic growth.Photo by Paul Chiasson/The Canadian Press\r\nArticle content\r\nTodays top headlin… [+10992 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://finbold.com/app/uploads/2023/09/Whats-going-on-with-Mexican-peso-vs.-Dollar-USDMXN.jpg",
       "PublishedAt": "2023-09-26T11:49:16Z",
       "Content": "In the Forex markets, the US dollar (USD) has been climbing against the Mexican peso (MXN), after facing a few minor bumps along the way. \r\nThis upward trajectory is driven by a confluence of factors… [+2669 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Asia Stocks Fall as Treasury Yields, Dollar Higher: Markets Wrap - Yahoo Finance",
-      "Description": "Asia Stocks Fall as Treasury Yields, Dollar Higher: Markets WrapYahoo Finance Stock market today: Asian shares dip with eyes on China economy, US shutdownThe Associated Press Stock Market Today: Dow, S&P Live Updates for September 26Bloomberg Asian shares sub…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171897679",
-      "UrlToImage": null,
-      "PublishedAt": "2023-09-26T06:53:33Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
