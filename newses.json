@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dólar: el Banco Central prorrogó hasta fin de noviembre una medida que afecta a los bancos",
+      "Description": "Ayer se decidió que las entidades financieras no podrán sumar más dólares de los que tenían hasta el 13 de octubre, sin previa autorización; la medida no afecta a los pequeños ahorristas",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-prorrogo-hasta-fin-de-noviembre-una-medida-que-afecta-a-los-bancos-nid27102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/se-decidio-ayer-en-una-reunion-del-directorio-del-2XGX4Z2CARH2NAYHI63RWIXRFI.jpg?auth=1618303bc032edbae1b9037a4da57560250b054a83544786946117824e24b1ec&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-27T14:45:50Z",
+      "Content": "Luego de que se confirmara que la Argentina tendrá balotaje el próximo 19 de noviembre, el Banco Central (BCRA) decidió prorrogar hasta el próximo 30 de noviembre la Comunicación 7863. En la misma, s… [+2632 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 27 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 27 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-27-de-octubre-nid27102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-27T14:13:32Z",
+      "Content": "Este viernes 27 de octubre el precio del dólar en México es de $18,2178, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+1709 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-18T14:49:22Z",
       "Content": "Este miércoles 18 de octubre el precio del dólar en México es de $17,9097, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+1441 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: ni quitando a los bancos del mostrador el Banco Central logró dejar de vender reservas",
-      "Description": "La entidad que conduce Miguel Pesce debió aportar otros US$95 millones al mercado y ya perdió más de US$800 millones en el mes sólo en este tipo de intervenciones; las tenencias brutas cayeron por debajo de los US$25.000 millones",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-ni-quitando-a-los-bancos-del-mostrador-el-banco-central-logro-dejar-de-vender-reservas-nid17102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-no-puede-dejar-de-perder-HT5EE7ORPZBBHN4STRHXYIYU3M.JPG?auth=0d79169d837b982f691f65de1a51b992b08d5506ca3693db1efb56c47ce5f675&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-17T21:59:46Z",
-      "Content": "El Banco Central (BCRA) debió aportar al mercado cambiario oficial otros US$95 millones de sus muy raquíticas reservas para atender los pedidos de compra de divisas que habían superado todos los filt… [+3208 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Al peso le ‘pega el frío’: Se cotiza en las 17.95 unidades vs. el dólar",
-      "Description": "Un reforzamiento a la idea de que la Fed mantendrá su tasa alta por más tiempo contribuyó a un fortalecimiento del dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/17/peso-dolar-precio-hoy-17-de-octubre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ok-CoZTm7OnMcQov41Ubzx6W_GQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4W272MZAO5CTBEVJVJMVAP765A.jpg",
-      "PublishedAt": "2023-10-17T14:45:13Z",
-      "Content": "Al peso mexicano no le duró nada el gusto y este martes superó momentáneamente la barrera de las 18 unidades frente al dólar, después de que datos económicos en Estados Unidos reforzaron la idea de q… [+1729 chars]"
     }
   ]
 }
