@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,19 +366,6 @@
       "UrlToImage": "https://www.nzherald.co.nz/resizer/JagutZFpG4m3Uxpiv25AMuPJ5QI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LYMNMPCZCJDN7NZEDPM2PSIJFE.JPG",
       "PublishedAt": "2023-09-28T01:43:10Z",
       "Content": "Reserve Bank governor Adrian Orr says the transition to a higher level of foreign reserves will take place over a number of years. Photo / Jed BradleyThe Reserve Bank of New Zealand (RBNZ) is slowly … [+3360 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Cork Gaines",
-      "Title": "Inflation pushed the wealthy to shop at dollar stores. Now even those places are seeing people get tighter with their money.",
-      "Description": "Even the wealthy now shop at dollar stores due to inflation. But those businesses are still struggling after\nattracting affluent customers.",
-      "Url": "https://www.businessinsider.com/inflation-is-so-bad-wealthy-shopping-at-dollar-stores-2023-9",
-      "UrlToImage": "https://i.insider.com/651338f251acc80019f0db69?width=1200&format=jpeg",
-      "PublishedAt": "2023-09-27T18:11:24Z",
-      "Content": "Dollar General sign and a person dressed as Mr. Monopoly, \"Milburn Pennybags.\"Jakub Porzycki/NurPhoto via Getty Images; MANDEL NGAN/AFP via Getty Images\r\n<ul><li>During the pandemic, more people with… [+3418 chars]"
     }
   ]
 }
