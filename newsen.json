@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,19 +353,6 @@
       "UrlToImage": "https://netstorage-legit.akamaized.net/images/0f6fd3c3f2a5fea2.png",
       "PublishedAt": "2023-09-29T09:39:57Z",
       "Content": "<ul><li>Davido has clapped back at his critics amid a recent drama between him and some netizens over Nigerian politics</li><li>The DMW label owner, in a recent update, revealed he had arrived in Aus… [+2461 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "New Zealand Herald"
-      },
-      "Author": "Jenée Tibshraeny",
-      "Title": "Reserve Bank builds war chest of foreign reserves to support the dollar if there’s a crisis",
-      "Description": "A closer look at why the Reserve Bank is accumulating billions in foreign reserves.",
-      "Url": "https://www.nzherald.co.nz/business/reserve-bank-builds-war-chest-of-foreign-reserves-to-support-the-dollar-if-theres-a-crisis/QDDRGJO5HNDNTPRULSHJR42YDQ/",
-      "UrlToImage": "https://www.nzherald.co.nz/resizer/JagutZFpG4m3Uxpiv25AMuPJ5QI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/LYMNMPCZCJDN7NZEDPM2PSIJFE.JPG",
-      "PublishedAt": "2023-09-28T01:43:10Z",
-      "Content": "Reserve Bank governor Adrian Orr says the transition to a higher level of foreign reserves will take place over a number of years. Photo / Jed BradleyThe Reserve Bank of New Zealand (RBNZ) is slowly … [+3360 chars]"
     }
   ]
 }
