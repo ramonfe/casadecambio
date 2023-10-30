@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Pays $29,500,000 Fine Over ‘Massive Fraud’, Allowing Criminals to Access $300,000,000",
+      "Description": "The Federal Reserve and New York Department of Financial Services are hitting a US bank with a multi-million dollar fine for violating the Bank Secrecy Act. The agencies say Metropolitan Commercial Bank (MCB) will pay a total of $29.5 million in penalties for…",
+      "Url": "https://dailyhodl.com/2023/10/28/billion-dollar-bank-pays-29500000-fine-for-massive-fraud-allowing-criminals-to-access-300000000/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/bank-dollar-fine.jpg",
+      "PublishedAt": "2023-10-29T00:04:37Z",
+      "Content": "The Federal Reserve and New York Department of Financial Services are hitting a US bank with a multi-million dollar fine for violating the Bank Secrecy Act.\r\nThe agencies say Metropolitan Commercial … [+1422 chars]"
+    },
     {
       "Source": {
         "Id": null,
