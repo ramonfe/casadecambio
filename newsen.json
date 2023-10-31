@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar holds near 150 yen as central bank policy, data deluge awaited",
+      "Description": "The BOJ kicks off its two-day monetary policy meeting on Monday, leading a week which will also see interest rate decisions from the U.S. Federal Reserve and the Bank of England.",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-holds-near-150-yen-as-central-bank-policy-data-deluge-awaited/articleshow/104810153.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-104810209,width-1200,height-630,imgsize-18774,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2023-10-30T02:36:43Z",
+      "Content": "SINGAPORE - The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alongside other major cen… [+3062 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/bank-account-cash.jpg",
       "PublishedAt": "2023-10-01T00:04:59Z",
       "Content": "A bank with about $670 billion in total assets will pay a multi-million-dollar fine after admitting to misleading credit card customers for years.\r\nThe Australian Securities and Investments Commissio… [+1978 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Vang Shuiming fails in latest bid for bail, will claim trial",
-      "Description": "The value of assets seized in relation to Vang Shuiming's case is one of the highest among the 10 people charged.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-vang-shuiming-denied-bail-claims-trial-3808311",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--zmAjAQdf--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/29/vang shuiming.png?itok=PmZaSkjF",
-      "PublishedAt": "2023-09-29T09:42:00Z",
-      "Content": "SINGAPORE: A man implicated in a massive transnational money laundering case has failed in his latest bid for bail, with a judge in Singapore saying he is a \"high flight risk\" who might have accompli… [+5359 chars]"
     }
   ]
 }
