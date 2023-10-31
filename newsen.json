@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Iowa State Bank Cuts Stock Position in Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "Iowa State Bank lessened its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 3.0% during the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The institutional invest…",
+      "Url": "https://www.etfdailynews.com/2023/10/30/iowa-state-bank-cuts-stock-position-in-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
+      "PublishedAt": "2023-10-30T16:30:48Z",
+      "Content": "Iowa State Bank lessened its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 3.0% during the second quarter, according to the company in its most recent disclosure with the Securi… [+5978 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--K1cFVESO--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/03/screenshot_2023-10-03_at_1.22.13_pm.png?itok=l90e2jy3",
       "PublishedAt": "2023-10-03T05:29:13Z",
       "Content": "She then gave an update on the total value of assets seized or issued with prohibition of disposal orders.\r\nThe police had last said on Sep 20 that the total value stood at more than S$2.4 billion. S… [+3757 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "David Chau",
-      "Title": "Live: ASX set to tumble, Australian dollar falls to 11-month low ahead of Reserve Bank decision",
-      "Description": "The local share market is likely to fall sharply in morning trade as investors bet on interest rates staying higher for longer, while the value of the Australian dollar, gold and oil suffered heavy losses. Follow the latest updates in our live blog.",
-      "Url": "https://www.abc.net.au/news/2023-10-03/asx-markets-business-live-news/102927212",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/32ad9f6bb18cedd086f88e3c452834ac?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
-      "PublishedAt": "2023-10-02T21:03:23Z",
-      "Content": "Good morning! David Chau here, with your latest finance updates.\r\nThe Australian share market is set to fall sharply this morning, with ASX futures down 1.4%.\r\nIt looks like markets are increasingly … [+1501 chars]"
     }
   ]
 }
