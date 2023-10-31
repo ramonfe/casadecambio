@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY lunes 30 de octubre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 deoctubre el tipo de cambio interbancario, se ubica en 18.03 pesos por unidad, con unapérdida de 0.45 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el v…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-octubre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-10-30T12:03:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 de octubre el tipo de cambiointerbancario, se ubica en 18.03 pesos por unidad, con una pérdida de 0.45 por ciento… [+786 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/d4b825f22e2cc39b718d346a4a8db472/crop/51x0/1236x791/f/jpg/assets/multimedia/imagenes/2023/10/18/16976343148605.jpg",
       "PublishedAt": "2023-10-18T18:35:42Z",
       "Content": "El presidente estadounidense Joe Biden se reunió ayer en Tel Aviv con el primer ministro israelí Benjamin Netanyahu.\r\n Avi Ohayon/Israel Gpo / Zuma Pre Avi Ohayon/Israel Gpo / Zuma Pre\r\nEl conflicto … [+588 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Bloomberg",
-      "Title": "El Banco Central tendrá en cuenta el fuerte avance del dólar en su reunión de Política Monetaria de la próxima semana",
-      "Description": "Las autoridades “revisan constantemente las implicaciones de estos elementos en las proyecciones de inflación\", indicó en comentarios a Bloomberg.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/el-banco-central-tendra-en-cuenta-el-fuerte-avance-del-dolar-en-su",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231018/imag/foto_0000000220231018135411.jpg",
-      "PublishedAt": "2023-10-18T16:47:00Z",
-      "Content": "El Banco Central de Chile señaló que considerará el alza muy importante que ha tenido el dólar frente al peso en la Reunión de Política Monetaria del 25 y 26 de octubre.\r\nEl panorama internacional es… [+1522 chars]"
     }
   ]
 }
