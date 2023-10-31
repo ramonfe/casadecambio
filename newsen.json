@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar holds near 150 yen as central bank policy, data deluge awaited",
+      "Description": "Dollar holds near 150 yen as central bank policy, data deluge awaited",
+      "Url": "https://www.investing.com/news/economy/dollar-holds-near-150-yen-as-central-bank-policy-data-deluge-awaited-3212848",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
+      "PublishedAt": "2023-10-30T01:36:48Z",
+      "Content": "By Rae Wee\r\nSINGAPORE (Reuters) - The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alo… [+3105 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar holds near 150 yen as central bank policy, data deluge awaited",
+      "Description": "SINGAPORE : The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alongside other major central bank meetings and a slew of economic data releases glob…",
+      "Url": "https://www.channelnewsasia.com/business/dollar-holds-near-150-yen-central-bank-policy-data-deluge-awaited-3882331",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--xPfs9Ao3--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-30t013249z_1_lynxmpej9t01d_rtroptp_3_cenbank-digitalcurrencies.jpg?itok=rjyCqmy0",
+      "PublishedAt": "2023-10-30T01:32:49Z",
+      "Content": "SINGAPORE : The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alongside other major cen… [+3127 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--zmAjAQdf--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/29/vang shuiming.png?itok=PmZaSkjF",
       "PublishedAt": "2023-09-29T09:42:00Z",
       "Content": "SINGAPORE: A man implicated in a massive transnational money laundering case has failed in his latest bid for bail, with a judge in Singapore saying he is a \"high flight risk\" who might have accompli… [+5359 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG"
-      },
-      "Author": "Olumide Alake",
-      "Title": "Drama As Davido Replies Critics After Heated Exchange, Brags About Million Dollar Deal in Australia",
-      "Description": "Davido has arrived in Australia after his heated exchange with some netizens over Nigeria's politics. The DMW label boss bragged about the money he was about to make",
-      "Url": "https://www.legit.ng/entertainment/celebrities/1556242-davido-replies-critics-heated-exchange-brags-million-dollars-deal-austrialia/",
-      "UrlToImage": "https://netstorage-legit.akamaized.net/images/0f6fd3c3f2a5fea2.png",
-      "PublishedAt": "2023-09-29T09:39:57Z",
-      "Content": "<ul><li>Davido has clapped back at his critics amid a recent drama between him and some netizens over Nigerian politics</li><li>The DMW label owner, in a recent update, revealed he had arrived in Aus… [+2461 chars]"
     }
   ]
 }
