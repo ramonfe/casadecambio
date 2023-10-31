@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 30 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este lunes 30 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-30-de-octubre-nid30102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-30T14:38:57Z",
+      "Content": "Este lunes 30 de octubre el precio del dólar en México es de $18,0752, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1583 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9754.webp",
       "PublishedAt": "2023-10-18T23:12:22Z",
       "Content": "El peso se depreció por segunda sesión consecutiva en medio de una mayor aversión al riesgo global derivada de la guerra entre Israel y Hamás.\r\nEl dólar estadounidense se vendió al cierre de la jorna… [+2169 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Roberto Casado",
-      "Title": "La paridad euro-dólar abriría un abismo del 20% para la Bolsa española",
-      "Description": "Hace poco más de un año, el euro tocó su mínimo frente a la moneda estadounidense desde 2002, al caer claramente por debajo de la paridad, hasta 0,96 dólares. Prueba del regreso de",
-      "Url": "https://www.expansion.com/mercados/2023/10/18/652ff6ac468aeb846a8b45ec.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/d4b825f22e2cc39b718d346a4a8db472/crop/51x0/1236x791/f/jpg/assets/multimedia/imagenes/2023/10/18/16976343148605.jpg",
-      "PublishedAt": "2023-10-18T18:35:42Z",
-      "Content": "El presidente estadounidense Joe Biden se reunió ayer en Tel Aviv con el primer ministro israelí Benjamin Netanyahu.\r\n Avi Ohayon/Israel Gpo / Zuma Pre Avi Ohayon/Israel Gpo / Zuma Pre\r\nEl conflicto … [+588 chars]"
     }
   ]
 }

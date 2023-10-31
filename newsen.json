@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "US dollar slides ahead of central bank meetings, key data this week",
+      "Description": "The U.S. dollar fell on Monday, dropping to a two-week low against the yen, as traders looked ahead to several major central bank meetings and a slew of major economic data releases this week.",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/us-dollar-slides-ahead-of-central-bank-meetings-key-data-this-week/articleshow/104831901.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-104831922,width-1200,height-630,imgsize-69954,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2023-10-30T14:55:42Z",
+      "Content": "The U.S. dollar fell on Monday, dropping to a two-week low against the yen, as traders looked ahead to several major central bank meetings and a slew of major economic data releases this week.The Ban… [+2053 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/32ad9f6bb18cedd086f88e3c452834ac?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485",
       "PublishedAt": "2023-10-02T21:03:23Z",
       "Content": "Good morning! David Chau here, with your latest finance updates.\r\nThe Australian share market is set to fall sharply this morning, with ASX futures down 1.4%.\r\nIt looks like markets are increasingly … [+1501 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Billion-Dollar Bank Fined $9,650,000 for Misleading Customers, Charging 186,000 Accounts With Hidden Fees and Interest",
-      "Description": "A bank with about $670 billion in total assets will pay a multi-million-dollar fine after admitting to misleading credit card customers for years. The Australian Securities and Investments Commission (ASIC) says Australia and New Zealand Banking Group Limited…",
-      "Url": "https://dailyhodl.com/2023/09/30/billion-dollar-bank-fined-9650000-for-misleading-customers-charging-186000-accounts-with-hidden-fees-and-interest/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/bank-account-cash.jpg",
-      "PublishedAt": "2023-10-01T00:04:59Z",
-      "Content": "A bank with about $670 billion in total assets will pay a multi-million-dollar fine after admitting to misleading credit card customers for years.\r\nThe Australian Securities and Investments Commissio… [+1978 chars]"
     }
   ]
 }
