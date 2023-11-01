@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY martes 31 de octubre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de octubre el tipo de cambio interbancario, se ubica en 17.96 pesos por unidad, con una pérdida de 0.47 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba po…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-octubre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
+      "PublishedAt": "2023-10-31T12:06:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de octubre el tipo de cambiointerbancario, se ubica en 17.96 pesos por unidad, con una pérdida de 0.47 por ciento… [+853 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-19T14:52:49Z",
       "Content": "Este jueves 19 de octubre el precio del dólar en México es de $18,2440, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1788 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso hila dos retrocesos y se aleja del piso de las 18 unidades por dólar",
-      "Description": "Forbes México.\n Peso hila dos retrocesos y se aleja del piso de las 18 unidades por dólar\n\nLa moneda se deprecia 1.26% en medio de una mayor aversión al riesgo global derivada de la guerra entre Israel y Hamás.\nPeso hila dos retrocesos y se aleja del piso de …",
-      "Url": "https://www.forbes.com.mx/peso-hila-dos-retrocesos-y-se-aleja-del-piso-de-las-18-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9754.webp",
-      "PublishedAt": "2023-10-18T23:12:22Z",
-      "Content": "El peso se depreció por segunda sesión consecutiva en medio de una mayor aversión al riesgo global derivada de la guerra entre Israel y Hamás.\r\nEl dólar estadounidense se vendió al cierre de la jorna… [+2169 chars]"
     }
   ]
 }
