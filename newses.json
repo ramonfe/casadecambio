@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Dólar llega a $18.03; tiene peso peor resultado en 23 meses",
+      "Description": "El peso tuvo su mayor depreciación en 23 meses en mercado internacional con una pérdida de 61.07 centavos en octubre, a $18.0334 por dólar.",
+      "Url": "https://www.reforma.com/dolar-llega-a-18-03-tiene-peso-peor-resultado-en-23-meses/ar2702821",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583199.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-10-31T22:00:19Z",
+      "Content": "En la jornada, el tipo de cambio disminuyó 1.63 centavos en el mercado internacional de divisas o Foreign Exchange Market (Forex) a 18.0334 pesos. Crédito: AFP"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Precio de dólar HOY 31 de octubre al cierre: Peso mexicano cae más del 3.5% en octubre",
+      "Description": "Elpeso cotizó en 18.04 unidades por dólarcerca del cierre de la sesión de este martes, conuna apreciaciónde 0.2 por ciento frente al precio de referencia de lunes. Pero en el mes perdió 3.71 por cientoLa divisa mexicana y la bolsa culminaron un nuevo mes de p…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-de-octubre-de-2023-al-cierre-en-mexico",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/01/18/tipo-de-cambio-peso-dolar-80.jpg",
+      "PublishedAt": "2023-10-31T22:00:00Z",
+      "Content": "El peso cotizó en 18.04 unidades por dólar cerca del cierre de la sesión de este martes, con una apreciación de 0.2 por ciento frente al precio de referencia de lunes. Pero en el mes perdió 3.71 por … [+947 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-20T14:38:51Z",
       "Content": "Este viernes 20 de octubre el precio del dólar en México es de $18,2873, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+1715 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY viernes 20 de octubre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de octubre el tipo de cambio interbancario, se ubica en 18.35 pesos por unidad, con un alza de 0.15 por ciento, según datos de Bloomberg.El peso mexicano continuaba ayer ano…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-octubre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-10-20T11:05:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de octubre el tipo de cambio interbancario, se ubica en 18.35 pesos por unidad, con un alza de 0.15 por ciento, s… [+763 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: gracias al litio, el Banco Central volvió a comprar reservas luego de siete ruedas",
-      "Description": "Esos aportes mineros, y una demanda que se mantiene reprimida, le permitieron alzarse con unos US$58 millones por sus intervenciones en el mercado",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-gracias-al-litio-el-banco-central-volvio-a-comprar-reservas-luego-de-siete-ruedas-nid19102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/edificio-del-banco-2XMSPUD2B5FO5MIX5J3CCY4YLY.jpg?auth=7a05fe48f4218288320217904a3fa5c4a9ce93313236adfbf1014e2033095902&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-19T22:23:14Z",
-      "Content": "El Banco Central (BCRA) logró quedarse hoy con unos US$58 millones por sus intervenciones sobre el mercado cambiario oficial y cortar, de esa manera, con una racha negativa que llevaba siete ruedas y… [+2784 chars]"
     }
   ]
 }
