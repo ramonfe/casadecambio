@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 31 de octubre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 31 de octubre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-31-de-octubre-nid31102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-31T14:57:58Z",
+      "Content": "Este martes 31 de octubre el precio del dólar en México es de $18,0640, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1711 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/02/03/tipo-de-cambio-peso-dolar-89.jpg",
       "PublishedAt": "2023-10-19T21:00:00Z",
       "Content": "El peso cotizó en 18.31 unidades por dólar cerca del cierre de la sesión de este jueves, con una depreciación del 0.43 por ciento frente al precio de referencia del miércoles. En las últimas tres ses… [+833 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 19 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 19 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-19-de-octubre-nid19102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-19T14:52:49Z",
-      "Content": "Este jueves 19 de octubre el precio del dólar en México es de $18,2440, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1788 chars]"
     }
   ]
 }
