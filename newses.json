@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Asústalo, panteón: Peso abre la sesión de Halloween con ganancias vs. el dólar",
+      "Description": "En ventanillas bancarias, el dólar se vende en 18.51 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/31/peso-dolar-precio-hoy-31-de-octubre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/q3s2XtP4889x0eg4l-cBnIdsWDY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HLVEKSL4J5FFBN6ZBMR52FOGBI.jpg",
+      "PublishedAt": "2023-10-31T15:26:45Z",
+      "Content": "El peso mexicano está asustando al dólar este 31 de octubre, mientras que en México se dio a conocer que el PIB creció 0.9 por ciento en el tercer trimestre, según la estimación oportuna del Institut… [+1315 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/edificio-del-banco-2XMSPUD2B5FO5MIX5J3CCY4YLY.jpg?auth=7a05fe48f4218288320217904a3fa5c4a9ce93313236adfbf1014e2033095902&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-19T22:23:14Z",
       "Content": "El Banco Central (BCRA) logró quedarse hoy con unos US$58 millones por sus intervenciones sobre el mercado cambiario oficial y cortar, de esa manera, con una racha negativa que llevaba siete ruedas y… [+2784 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Precio de dólar HOY 19 de octubre al cierre: Peso se deprecia por tercera sesión; acumula pérdida de 2.5%",
-      "Description": "El pesocotizó en 18.31 unidades por dólar cerca del cierre de la sesión de este jueves, con una depreciación del 0.43 por ciento frente al precio de referencia del miércoles.En las últimas tres sesiones acumula una pérdida del 2.5 por ciento.La divisa mexican…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-19-de-octubre-de-2023-al-cierre-en-mexico",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/02/03/tipo-de-cambio-peso-dolar-89.jpg",
-      "PublishedAt": "2023-10-19T21:00:00Z",
-      "Content": "El peso cotizó en 18.31 unidades por dólar cerca del cierre de la sesión de este jueves, con una depreciación del 0.43 por ciento frente al precio de referencia del miércoles. En las últimas tres ses… [+833 chars]"
     }
   ]
 }
