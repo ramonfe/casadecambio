@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Above the Law"
+      },
+      "Author": "Howard Bashman",
+      "Title": "“Pa. Supreme Court race between Carolyn Carluccio and Dan McCaffery has turned into a multi-million dollar showdown; Campaign finance reports released last week show Republican Carolyn Carluccio and Democrat Dan McCaffery have spent millions on ad buys to fill Pennsylvanians’ mailboxes and airwaves”",
+      "Description": "“Pa. Supreme Court race between Carolyn Carluccio and Dan McCaffery has turned into a multi-million dollar showdown; Campaign finance reports released last week show Republican Carolyn Carluccio and Democrat Dan McCaffery have spent millions on ad buys to fil…",
+      "Url": "https://howappealing.abovethelaw.com/2023/10/30/#212262",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-31T02:02:29Z",
+      "Content": "“Kansas judge blocks new abortion pill reversal law and old clinic regulations statutes”: Jason Alatidd of The Topeka Capital-Journal has this report.\r\nAnd Rachel Mipro of Kansas Reflector has a repo… [+4190 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--pOT82EpS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/17/IMG_2682.jpeg?itok=Wds0Oai5",
       "PublishedAt": "2023-10-03T08:19:00Z",
       "Content": "Mrs Teo noted that one question raised by MPs was whether Singapore works with foreign governments to verify the information provided by applicants for immigration passes.\r\nWhere the agencies have su… [+2816 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Singapore police began ‘comprehensive intelligence probe’ in early 2022",
-      "Description": "SINGAPORE: In early 2022, Singapore police acted on tip-offs regarding various suspicious activities and launched a “comprehensive, coordinated intelligence probe” into what would eventually become a massive, transnational billi",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-police-intelligence-probe-2022-3816371",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--K1cFVESO--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/03/screenshot_2023-10-03_at_1.22.13_pm.png?itok=l90e2jy3",
-      "PublishedAt": "2023-10-03T05:29:13Z",
-      "Content": "She then gave an update on the total value of assets seized or issued with prohibition of disposal orders.\r\nThe police had last said on Sep 20 that the total value stood at more than S$2.4 billion. S… [+3757 chars]"
     }
   ]
 }
