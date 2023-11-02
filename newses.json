@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 1 de noviembre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 1 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-1-de-noviembre-nid01112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-11-01T14:11:43Z",
+      "Content": "Este miércoles 1 de noviembre el precio del dólar en México es de $18,0368, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+1809 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://ak.uecdn.es/p/111/thumbnail/entry_id/0_ztc3lyv6/width/630/height/354/cache_st/20231020151931",
       "PublishedAt": "2023-10-20T14:48:56Z",
       "Content": "ROBERTO CASADO Y TAMARA VÁZQUEZ |\r\nEl conflicto en Oriente Próximo hace que bancos como JPMorgan esperen una depreciación adicional de la moneda única. El Ibex de momento escapa del ajuste.\r\nOct 20, … [+14 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 20 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 20 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-20-de-octubre-nid20102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-20T14:38:51Z",
-      "Content": "Este viernes 20 de octubre el precio del dólar en México es de $18,2873, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+1715 chars]"
     }
   ]
 }
