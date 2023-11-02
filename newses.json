@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso se aprecia por quinto día seguido; cotiza por debajo de las 18 unidades por dólar",
+      "Description": "El peso mexicano se apreció1.51 por ciento frente al precio de referencia del martes, cotizando en 17.76 por dólar estadunidense al cierre de mercados de este miércoles 1 de noviembre de 2023.La divisa nacional avanzó luego de que la Reserva Federal (Fed) de …",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-miercoles-1-de-noviembre-2023-peso-cierra-en-17-76",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/01/fed-hawkish-postura-banco-central.jpg",
+      "PublishedAt": "2023-11-01T22:30:00Z",
+      "Content": "El peso mexicano se apreció 1.51 por ciento frente al precio de referencia del martes, cotizando en 17.76 por dólar estadunidense al cierre de mercados de este miércoles 1 de noviembre de 2023.\r\nLa d… [+936 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/allanamiento-en-la-empresa-de-viajes-y-cambio-3HXTQ3O7DRBW5OJBPAZM3IWKUY.JPG?auth=2f8d3e675104ca4a00ca5209280394d7dc15e6049211ccb031b7f27f42cf748f&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-20T18:58:04Z",
       "Content": "En el último día hábil para el mercado financiero y cambiario antes de las elecciones, una operación conjunta de la Unidad de Información Financiera (UIF) y de la Comisión Nacional de Valores (CNV) i… [+5088 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Roberto Casado y Tamara Vázquez",
-      "Title": "¿Qué consecuencias tendría una nueva paridad euro-dólar?",
-      "Description": "El conflicto en Oriente Próximo hace que bancos como JPMorgan esperen una depreciación adicional de la moneda única. El Ibex de momento escapa del ajuste.",
-      "Url": "https://videos.expansion.com/v/0_ztc3lyv6-que-consecuencias-tendria-una-nueva-paridad-euro-dolar",
-      "UrlToImage": "https://ak.uecdn.es/p/111/thumbnail/entry_id/0_ztc3lyv6/width/630/height/354/cache_st/20231020151931",
-      "PublishedAt": "2023-10-20T14:48:56Z",
-      "Content": "ROBERTO CASADO Y TAMARA VÁZQUEZ |\r\nEl conflicto en Oriente Próximo hace que bancos como JPMorgan esperen una depreciación adicional de la moneda única. El Ibex de momento escapa del ajuste.\r\nOct 20, … [+14 chars]"
     }
   ]
 }
