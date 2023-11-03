@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 2 de noviembre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 2 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-2-de-noviembre-nid02112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-11-02T15:11:44Z",
+      "Content": "Este jueves 2 de noviembre el precio del dólar en México es de $18,0368, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+1430 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/311/5310701.jpg&wm=1&ang=0",
       "PublishedAt": "2023-10-20T23:26:22Z",
       "Content": "En ventanillas de Citibanamex, el tipo de cambio vio un retroceso de 13 centavos a 18.68 unidades a la venta y 17.68 pesos a la compra. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Pablo Fernández Blanco, Francisco Jueguen",
-      "Title": "El Gobierno apunta a un banco y a un empresario icónico de los 90 por la disparada del dólar",
-      "Description": "El Gobierno apunta a un banco y a un empresario icónico de los 90 por la disparada del dólar",
-      "Url": "https://www.lanacion.com.ar/economia/el-gobierno-apunta-a-un-banco-y-a-un-empresario-iconico-de-los-90-por-la-disparada-del-dolar-nid20102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/allanamiento-en-la-empresa-de-viajes-y-cambio-3HXTQ3O7DRBW5OJBPAZM3IWKUY.JPG?auth=2f8d3e675104ca4a00ca5209280394d7dc15e6049211ccb031b7f27f42cf748f&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-20T18:58:04Z",
-      "Content": "En el último día hábil para el mercado financiero y cambiario antes de las elecciones, una operación conjunta de la Unidad de Información Financiera (UIF) y de la Comisión Nacional de Valores (CNV) i… [+5088 chars]"
     }
   ]
 }
