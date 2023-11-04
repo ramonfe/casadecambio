@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 3 de noviembre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 3 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-3-de-noviembre-nid03112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-11-03T15:09:53Z",
+      "Content": "Este viernes 3 de noviembre el precio del dólar en México es de $17,9305, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+1781 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-elecciones-2023-como-cotizan-al-cerrar-las-GIYNDBBAFFAEJJS4DVXNY5RFGM.jpg?auth=4b5171704018c3f878f5ed9612c12b4fd897a26fd4238de7d3a5cee3b68ed945&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-22T22:47:12Z",
       "Content": "A pesar de que hasta el lunes los mercados financieros permanecen cerrados, la expectativa que genera el resultado de las urnas pueden seguirse de cerca mediante el dólar cripto. Se trata de una coti… [+4663 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Dólar se vende a $18.68; peso se deprecia en la semana",
-      "Description": "Con los mercados atentos al conflicto en Medio Oriente, el tipo de cambio terminó la semana con un balance desfavorable para el peso.",
-      "Url": "https://www.reforma.com/dolar-se-vende-a-18-68-peso-se-deprecia-en-la-semana/ar2696652",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/311/5310701.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-10-20T23:26:22Z",
-      "Content": "En ventanillas de Citibanamex, el tipo de cambio vio un retroceso de 13 centavos a 18.68 unidades a la venta y 17.68 pesos a la compra. Crédito: AFP"
     }
   ]
 }
