@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,32 +366,6 @@
       "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
       "PublishedAt": "2023-10-04T07:46:22Z",
       "Content": "Port Sudan — The Sudanese Pound (SDG) once again faced a significant depreciation against foreign currencies this week. Exchange rates for the US Dollar surged, with reports indicating prices exceedi… [+1672 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT",
-      "Title": "Ruble exchange rate to dollar doesn’t matter – Kremlin",
-      "Description": "The Russian government does not see a weakening ruble as a threat to macroeconomic stability, the Kremlin spokesman has said Read Full Article at RT.com",
-      "Url": "https://www.rt.com/business/583962-ruble-dollar-exchange-rate/",
-      "UrlToImage": "https://mf.b37mrtl.ru/files/2023.10/article/651c249385f54056ca354c85.jpg",
-      "PublishedAt": "2023-10-03T15:11:24Z",
-      "Content": "The Russian currency’s continued backslide against the US dollar is not a reason for concern, Kremlin spokesperson Dmitry Peskov stated on Tuesday, calling such worries a “remnant of the past.”\r\nThe … [+1190 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "10 suspects in billion-dollar money laundering case not on Interpol list; other Singaporeans, PRs being probed: Josephine Teo",
-      "Description": "SINGAPORE:  The 10 people who have been arrested and charged in relation to a multi-billion dollar money laundering probe all hold either employment passes or dependent’s pa",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-suspects-interpol-3816951",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--pOT82EpS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/17/IMG_2682.jpeg?itok=Wds0Oai5",
-      "PublishedAt": "2023-10-03T08:19:00Z",
-      "Content": "Mrs Teo noted that one question raised by MPs was whether Singapore works with foreign governments to verify the information provided by applicants for immigration passes.\r\nWhere the agencies have su… [+2816 chars]"
     }
   ]
 }
