@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,19 +353,6 @@
       "UrlToImage": "https://images.mktw.net/im-862916/social",
       "PublishedAt": "2023-10-05T17:22:24Z",
       "Content": "Since Melanie Bajrovic left the bar industry and became a millionaire real estate investor, shes usually in bed by 10 p.m.Its a change after almost two decades working in bars, first in the kitchen, … [+5760 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "AllAfrica - Top Africa News"
-      },
-      "Author": "radiodabanga@gmail.com (Dabanga)",
-      "Title": "Sudanese Pound Declines Further As Dollar Exchange Rates Rise Again",
-      "Description": "[Dabanga] Port Sudan -- The Sudanese Pound (SDG) once again faced a significant depreciation against foreign currencies this week. Exchange rates for the US Dollar surged, with reports indicating prices exceeding SDG850 in the parallel market.",
-      "Url": "https://allafrica.com/stories/202310040107.html",
-      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "PublishedAt": "2023-10-04T07:46:22Z",
-      "Content": "Port Sudan — The Sudanese Pound (SDG) once again faced a significant depreciation against foreign currencies this week. Exchange rates for the US Dollar surged, with reports indicating prices exceedi… [+1672 chars]"
     }
   ]
 }
