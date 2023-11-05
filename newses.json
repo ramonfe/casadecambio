@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Baja dólar a $17.89; logra peso mayor plusvalía desde 2021",
+      "Description": "El dólar disminuyó 67 centavos en la semana y así el peso tuvo su mayor avance desde el 26 de noviembre y 3 de diciembre de 2021.",
+      "Url": "https://www.reforma.com/baja-dolar-a-17-89-logra-peso-mayor-plusvalia-desde-2021/ar2704756",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/440/5439154.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-11-03T23:17:19Z",
+      "Content": "La moneda local le quitó 30 centavos al dólar de menudeo este viernes, al terminar a 17.89 unidades a la venta en Citibanamex. Crédito: AP"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/3f1dcca228cf38b864aa4430c4643c3f/crop/0x0/1869x769/resize/1200/f/jpg/assets/multimedia/imagenes/2023/10/23/16980496951235.jpg",
       "PublishedAt": "2023-10-23T10:10:04Z",
       "Content": "Gráfico diario del euro/dólar desde mediados de mayo\r\nEl euro/dólar se encuentra encajado dentro de un impecable canal bajista desde los máximos anuales de mediados de julio, en los 1,127580.\r\nEste j… [+439 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Melisa Reinhold",
-      "Title": "Dólar Elecciones 2023: a cuánto cotiza el tipo de cambio bitcoin tras el cierre de urnas",
-      "Description": "Los valores que se negocian promedio de $1150, cotización que viene con marcada caída en las últimas horas",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-elecciones-2023-a-cuanto-cotiza-el-tipo-de-cambio-bitcoin-tras-el-cierre-de-urnas-nid22102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-elecciones-2023-como-cotizan-al-cerrar-las-GIYNDBBAFFAEJJS4DVXNY5RFGM.jpg?auth=4b5171704018c3f878f5ed9612c12b4fd897a26fd4238de7d3a5cee3b68ed945&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-22T22:47:12Z",
-      "Content": "A pesar de que hasta el lunes los mercados financieros permanecen cerrados, la expectativa que genera el resultado de las urnas pueden seguirse de cerca mediante el dólar cripto. Se trata de una coti… [+4663 chars]"
     }
   ]
 }
