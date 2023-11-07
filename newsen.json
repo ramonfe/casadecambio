@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,32 +327,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/10/Dollar-Tree-Deals.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-10-07T19:32:52Z",
       "Content": "Food inflation keeps rising in the United States and is projected to continue into 2024, according to the USDA. As a result, throngs of Americans have been hitting up retailers they normally wouldn’t… [+5079 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cbc-news",
-        "Name": "CBC News"
-      },
-      "Author": null,
-      "Title": "RCMP documents detail alleged multi-billion dollar money laundering scheme in GTA",
-      "Description": "Newly released documents show Canadian involvement in an international investigation of an alleged money laundering ring in the Greater Toronto Area that authorities believe is linked to a man accused of laundering money for terrorists.",
-      "Url": "https://www.cbc.ca/news/politics/ortis-docs-gta-laundering-1.6987682",
-      "UrlToImage": "https://i.cbc.ca/1.6977710.1695668086!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-secrets-20191022.jpg",
-      "PublishedAt": "2023-10-05T21:09:03Z",
-      "Content": "Newly released documents show Canadian involvement in an international investigation of an alleged money laundering ring in the Greater Toronto Area that authorities believe is linked to a man accuse… [+3816 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MarketWatch"
-      },
-      "Author": "Jennifer Weiss",
-      "Title": "Money Matters: How this bartender built a multimillion-dollar real estate portfolio",
-      "Description": "Melanie Bajrovic created enough passive income streams to quit the bar industry",
-      "Url": "https://www.marketwatch.com/story/how-this-bartender-built-a-multimillion-dollar-real-estate-portfolio-7c186c8c",
-      "UrlToImage": "https://images.mktw.net/im-862916/social",
-      "PublishedAt": "2023-10-05T17:22:24Z",
-      "Content": "Since Melanie Bajrovic left the bar industry and became a millionaire real estate investor, shes usually in bed by 10 p.m.Its a change after almost two decades working in bars, first in the kitchen, … [+5760 chars]"
     }
   ]
 }
