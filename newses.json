@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano corta su racha ganadora y cae ante el dólar",
+      "Description": "La moneda nacional había hilado el viernes siete días consecutivos de ganancias.",
+      "Url": "https://aristeguinoticias.com/0611/dinero-y-economia/peso-mexicano-corta-su-racha-ganadora-y-cae-ante-el-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2021/04/Peso-Dolar-Tipo-Cambio-Finanzas.jpg",
+      "PublishedAt": "2023-11-06T16:33:23Z",
+      "Content": "El peso mexicano bajaba el lunes ante el dólar, en un freno a su racha alcista luego de haber marcado en la sesión anterior su mejor desempeño semanal desde junio del 2021, ante la expectativa de que… [+1117 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-hizo-la-mayor-compra-de-reservas-EODYXKANZ5DEZFLY4ZMA55OKBU.JPG?auth=6028ba8174fc0fdfb02c43709ccf69fe0eecde035eae917e353c62c69e205c98&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-23T21:08:31Z",
       "Content": "El temido día después de las elecciones presidenciales resultó ser mucho más tranquilo que lo previsto en principio: bajó notablemente la concurrencia de gente a los bancos para hacer retiros y hasta… [+3891 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Empújale, peso: Abre la semana ganando al dólar y se cotiza en las 18.13 unidades",
-      "Description": "En ventanillas bancarias, el dólar se vende en 18.62 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/23/peso-dolar-precio-hoy-23-de-octubre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/e5v9kcePsPHFgCFBvXemWXzJAYc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JRBSTT3O7JFMPD4QKABCUJXWXI.jpg",
-      "PublishedAt": "2023-10-23T15:06:30Z",
-      "Content": "El peso mexicano abre la semana ganando al dólar, esto mientras el rendimiento de los bonos del Tesoro de Estados Unidos rebasó un nivel no visto desde hace 16 años.\r\nAdemás, en México se reveló el d… [+2117 chars]"
     }
   ]
 }
