@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "DailyFX"
+      },
+      "Author": "Zain Vawda",
+      "Title": "Australian Dollar Price Action Setups: AUD/USD, GBP/AUD Post RBA Hike",
+      "Description": "The RBA followed through with a rate hike this morning and yet the Aussie Dollar weakened. Where to next for GBP/AUD and AUD/USD?",
+      "Url": "https://www.dailyfx.com/news/australian-dollar-price-action-setups-aud-usd-gbp-aud-post-rba-hike-20231107.html",
+      "UrlToImage": "https://a.c-dn.net/b/2X4nRi/238623168.jpg",
+      "PublishedAt": "2023-11-07T20:30:06Z",
+      "Content": "AUSTRALIAN DOLLAR PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Bitcoin (BTC/USD) Forecast: Open Interest Surge to Ignite a Fresh Bout of Volatility?\r\nSupercharge your trading prowess with an in-depth anal… [+3820 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Above the Law"
       },
       "Author": "Howard Bashman",
@@ -314,19 +327,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/bank-dollars-disappears.jpg",
       "PublishedAt": "2023-10-08T00:04:38Z",
       "Content": "A business owner in Southwest Florida is searching for answers after hundreds of thousands of dollars vanished from her bank account.\r\nTiffany Allen says $270,000 was initially stolen from her family… [+2012 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Jack Alban",
-      "Title": "‘From somebody who has $4.65 in their bank account, thank you’: Dollar Tree shopper shares how to get 3 dinners for only $5",
-      "Description": "Food inflation keeps rising in the United States and is projected to continue into 2024, according to the USDA. As a result, throngs of Americans have been hitting up retailers they normally wouldn't be relying on for the bulk of their grocery store needs.\n\n\n…",
-      "Url": "https://www.dailydot.com/news/3-dinners-for-5-dollars-dollar-tree/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/10/Dollar-Tree-Deals.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-10-07T19:32:52Z",
-      "Content": "Food inflation keeps rising in the United States and is projected to continue into 2024, according to the USDA. As a result, throngs of Americans have been hitting up retailers they normally wouldn’t… [+5079 chars]"
     }
   ]
 }
