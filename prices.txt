@@ -6,8 +6,8 @@
 			"buy": 16.35,
 			"sell": 18.05,			
 			"date": "2022-05-02 17:10:09",
-			"prev_sell": 17.65,
-			"prev_buy": 15.95
+			"prev_buy": 16.35,
+			"prev_sell": 18.05			
 		},
 		{
 			"bank_id": 15,
