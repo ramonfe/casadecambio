@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este martes 7 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 7 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-martes-7-de-noviembre-nid07112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-11-07T15:20:39Z",
+      "Content": "Este martes 7 de noviembre el precio del dólar en México es de $17,5308, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2053 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20231024/imag/foto_0000000620231024081923/A_UNO_1510978.jpg",
       "PublishedAt": "2023-10-24T11:43:00Z",
       "Content": "El dólar abrió a la baja este martes, a contracorriente de las presiones externas y en una semana donde las apuestas de cara a la reunión del Banco Central de Chile han devuelto una cuota de oxígeno … [+1290 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar y reservas: tras las elecciones, el Banco Central hizo hoy la mayor compra de divisas desde la última devaluación",
-      "Description": "Se quedó con US$195 millones por sus intervenciones sobre el mercado; jornada tranquila en los bancos",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-y-reservas-tras-las-elecciones-el-banco-central-hizo-hoy-la-mayor-compra-de-divisas-desde-la-nid23102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-hizo-la-mayor-compra-de-reservas-EODYXKANZ5DEZFLY4ZMA55OKBU.JPG?auth=6028ba8174fc0fdfb02c43709ccf69fe0eecde035eae917e353c62c69e205c98&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-23T21:08:31Z",
-      "Content": "El temido día después de las elecciones presidenciales resultó ser mucho más tranquilo que lo previsto en principio: bajó notablemente la concurrencia de gente a los bancos para hacer retiros y hasta… [+3891 chars]"
     }
   ]
 }
