@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Sydney Lake",
+      "Title": "SoCal housing is so unaffordable that billionaire philanthropist MacKenzie Scott has made yet another multi-million dollar donation to fix the problem",
+      "Description": "Scott donated $15 million to Culver City, Calif.-based Century Housing.",
+      "Url": "https://fortune.com/2023/11/08/southern-california-housing-billionaire-mackenzie-scott-donation/",
+      "UrlToImage": "https://content.fortune.com/wp-content/uploads/2023/11/Mackenzie-Scott-GettyImages-902233088.jpg?resize=1200,600",
+      "PublishedAt": "2023-11-08T22:09:19Z",
+      "Content": "MacKenzie Scott is the gift that keeps on givingliterally. The billionaire ex-wife of Amazon founder Jeff Bezos has made it her mission to offload much of the fortune she gained from their divorce, a… [+3492 chars]"
+    },
     {
       "Source": {
         "Id": null,

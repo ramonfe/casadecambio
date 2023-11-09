@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede ante dólar fortalecido por expectativas sobre tasas en EU",
+      "Description": "Forbes México.\n Peso retrocede ante dólar fortalecido por expectativas sobre tasas en EU\n\nEl peso se deprecia 0.40% al cierre de la jornada de este miércoles, de acuerdo con datos de Banxico.\nPeso retrocede ante dólar fortalecido por expectativas sobre tasas …",
+      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-dolar-fortalecido-por-expectativas-sobre-tasas-en-eu/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2023-11-08T22:15:55Z",
+      "Content": "El peso se depreció frente a un dólar fortalecido tras comentarios de autoridades de la Reserva Federal de Estados Unidos (Fed), que han puesto en duda el fin del ciclo de alzas de tasas de interés e… [+1324 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-10-25T13:35:00Z",
       "Content": "Al iniciar operaciones HOY 25 de octubre, el dólar se vendía hasta en 19.20 pesos en ventanilla en bancos. En tanto, el tipo de cambio interbancario se ubica en 18.37 unidades por dólar, con una pérd… [+3335 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 24 de octubre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 24 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-24-de-octubre-nid24102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-24T14:53:45Z",
-      "Content": "Este martes 24 de octubre el precio del dólar en México es de $18,1218, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1682 chars]"
     }
   ]
 }
