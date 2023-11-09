@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este miércoles 8 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 8 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-miercoles-8-de-noviembre-nid08112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-11-08T14:19:37Z",
+      "Content": "Este miércoles 8 de noviembre el precio del dólar en México es de $17,5097, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+1728 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-24T14:53:45Z",
       "Content": "Este martes 24 de octubre el precio del dólar en México es de $18,1218, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1682 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Dólar abre a la baja cerca de $930 entre apuestas sobre el anuncio de política monetaria de esta semana del Banco Central",
-      "Description": "El tipo de cambio retrocedía a pesar de que el cobre bajaba y un índice del precio del dólar global aumentaba.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy3",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231024/imag/foto_0000000620231024081923/A_UNO_1510978.jpg",
-      "PublishedAt": "2023-10-24T11:43:00Z",
-      "Content": "El dólar abrió a la baja este martes, a contracorriente de las presiones externas y en una semana donde las apuestas de cara a la reunión del Banco Central de Chile han devuelto una cuota de oxígeno … [+1290 chars]"
     }
   ]
 }
