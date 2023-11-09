@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "IMF economist warns of risks in global finance system, suggests safety net for dollar liquidity",
+      "Description": "IMF economist warns of risks in global finance system, suggests safety net for dollar liquidity",
+      "Url": "https://www.investing.com/news/economy/imf-economist-warns-of-risks-in-global-finance-system-suggests-safety-net-for-dollar-liquidity-93CH-3227522",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
+      "PublishedAt": "2023-11-08T19:43:36Z",
+      "Content": "The global financial system faces looming risks, including an escalating dependence on the U.S. dollar and the compartmentalization of global trade, warned Pierre-Olivier Gourinchas, chief economist … [+1430 chars]"
+    },
     {
       "Source": {
         "Id": null,
