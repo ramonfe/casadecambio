@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,19 +314,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--qKHtQBuy--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/11/community_chest_presidents_challenge.png?itok=z5ySbmeS",
       "PublishedAt": "2023-10-11T14:52:16Z",
       "Content": "SINGAPORE: The Presidents Challenge and Community Chest have collectively received donations of more than S$380,000 (US$279,000) from individuals with names similar to those who have been charged in … [+1121 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "$270,000 Disappears From Business Owner’s Bank Account, Billion-Dollar Bank Refuses To Make Customer Whole: Report",
-      "Description": "A business owner in Southwest Florida is searching for answers after hundreds of thousands of dollars vanished from her bank account. Tiffany Allen says $270,000 was initially stolen from her family’s Truist Bank business account in five separate unauthorized…",
-      "Url": "https://dailyhodl.com/2023/10/07/270000-disappears-from-business-owners-bank-account-billion-dollar-bank-refuses-to-make-customer-whole-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/bank-dollars-disappears.jpg",
-      "PublishedAt": "2023-10-08T00:04:38Z",
-      "Content": "A business owner in Southwest Florida is searching for answers after hundreds of thousands of dollars vanished from her bank account.\r\nTiffany Allen says $270,000 was initially stolen from her family… [+2012 chars]"
     }
   ]
 }
