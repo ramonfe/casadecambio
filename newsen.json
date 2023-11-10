@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": "espn",
+        "Name": "ESPN"
+      },
+      "Author": "Kalan Hooks",
+      "Title": "Cam Newton reveals Jimmy Clausen's million-dollar price tag for jersey number",
+      "Description": "Newton, the Panthers' career passing leader, admitted that donning No. 1 was not his first choice.",
+      "Url": "https://www.espn.com/nfl/story/_/id/38851266/cam-newton-jimmy-clausen-carolina-panthers-jersey",
+      "UrlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1109%2Fr1250722_1296x729_16%2D9.jpg",
+      "PublishedAt": "2023-11-09T16:52:36Z",
+      "Content": "The No. 1 jersey Cam Newton wore with the Carolina Panthers was not his first choice.\r\nWhen the Auburn Tigers standout quarterback was drafted as the No. 1 pick in 2011, he hoped to keep the jersey n… [+1416 chars]"
+    },
     {
       "Source": {
         "Id": "fortune",
