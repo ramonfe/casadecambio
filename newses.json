@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este jueves 9 de noviembre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 9 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-jueves-9-de-noviembre-nid09112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-09T14:18:04Z",
+      "Content": "Este jueves 9 de noviembre el precio del dólar en México es de $17,5017, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-25T15:00:33Z",
       "Content": "Este miércoles 25 de octubre el precio del dólar en México es de $18,2842, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+1463 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elchapuzasinformatico.com"
-      },
-      "Author": "Borja Rodríguez",
-      "Title": "Steam dice adiós a comprar juegos baratos: estandariza el dólar en 27 países con moneda regional",
-      "Description": "La semana pasada anunciábamos que los precios de los juegos de Steam para Argentina y Turquía han llegado a triplicar su precio, ahora las cosas se complican eliminando cualquier moneda regional. Que Steam forzara a los estudios a subir los precios de sus jue…",
-      "Url": "https://elchapuzasinformatico.com/?p=529182",
-      "UrlToImage": "https://elchapuzasinformatico.com/wp-content/uploads/2023/10/Steam-democratiza-dolar-divisa-frente-a-moneda-regional-1.jpg",
-      "PublishedAt": "2023-10-25T13:39:49Z",
-      "Content": "La semana pasada anunciábamos que los precios de los juegos de Steam para Argentina y Turquía han llegado a triplicar su precio, ahora las cosas se complican eliminando cualquier moneda regional. Que… [+4209 chars]"
     }
   ]
 }
