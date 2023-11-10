@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY jueves 9 de noviembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 9 de noviembre el tipo de cambio interbancario, se ubica en 17.55 pesos por unidad, con una pérdida de 0.10 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-noviembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-11-09T12:12:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 9 de noviembre el tipo de cambiointerbancario, se ubica en 17.55 pesos por unidad, con una pérdida de 0.10 por cient… [+845 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://elchapuzasinformatico.com/wp-content/uploads/2023/10/Steam-democratiza-dolar-divisa-frente-a-moneda-regional-1.jpg",
       "PublishedAt": "2023-10-25T13:39:49Z",
       "Content": "La semana pasada anunciábamos que los precios de los juegos de Steam para Argentina y Turquía han llegado a triplicar su precio, ahora las cosas se complican eliminando cualquier moneda regional. Que… [+4209 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY 25 de octubre: Peso se debilita; atento a economía de EU",
-      "Description": "Al iniciar operaciones HOY 25 de octubre, el dólar se vendía hasta en 19.20 pesos en ventanilla en bancos. En tanto, el tipo de cambio interbancario se ubica en 18.37 unidades por dólar, con una pérdida de 0.71 por ciento frente al precio de referencia de aye…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-octubre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/19/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-10-25T13:35:00Z",
-      "Content": "Al iniciar operaciones HOY 25 de octubre, el dólar se vendía hasta en 19.20 pesos en ventanilla en bancos. En tanto, el tipo de cambio interbancario se ubica en 18.37 unidades por dólar, con una pérd… [+3335 chars]"
     }
   ]
 }
