@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 10 de noviembre",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 10 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-10-de-noviembre-nid10112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-10T14:14:11Z",
+      "Content": "Este viernes 10 de noviembre el precio del dólar en México es de $17,4888, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2144 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20231026/imag/foto_0000000920231026081317/A_UNO_1406837.jpg",
       "PublishedAt": "2023-10-26T11:46:00Z",
       "Content": "El dólar abrió plano este jueves, presionado en sentidos opuestos desde el mercado externo y con la atención fija en la decisión de política monetaria del Banco Central de Chile, la que se conocerá u… [+1897 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "El peso suma dos sesiones con pérdidas ante un dólar fortalecido",
-      "Description": "Forbes México.\n El peso suma dos sesiones con pérdidas ante un dólar fortalecido\n\nEl peso se deprecia 0.49% mientras el mercado espera la publicación de datos económicos de EU importantes.\nEl peso suma dos sesiones con pérdidas ante un dólar fortalecido\nForbe…",
-      "Url": "https://www.forbes.com.mx/el-peso-suma-dos-sesiones-con-perdidas-ante-un-dolar-fortalecido/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2023-10-25T22:01:06Z",
-      "Content": "El peso se depreció por segundo día consecutivo ante el fortalecimiento global del dólar, en un mercado con la mirada puesta en la publicación del PIB de Estados Unidos el jueves.\r\nEl dólar estadouni… [+2125 chars]"
     }
   ]
 }
