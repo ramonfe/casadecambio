@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘anda dormido’ ante el dólar: Se cotiza en las 17.83 unidades",
+      "Description": "En ventanillas bancarias, el dólar se vende en 18.32 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/10/peso-dolar-precio-hoy-10-de-noviembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/glbejnpvjcvdCEjNSgNMzDEL20s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YWSGNAW7DZCTRGOI6EWZGREJ34.jpg",
+      "PublishedAt": "2023-11-10T15:32:56Z",
+      "Content": "El peso mexicano está atrapado en el terreno de las pérdidas contra el dólar, con los inversionistas percibiendo un tono menos restrictivo por parte del Banco de México (Banxico), y la Reserva Federa… [+1416 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-26T14:55:36Z",
       "Content": "Este jueves 26 de octubre el precio del dólar en México es de $18,3122, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1369 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Benjamín Pescio",
-      "Title": "Dólar abre plano a la espera del PIB estadounidense y con el mercado atento al anuncio de tasas del Banco Central",
-      "Description": "El tipo de cambio cerró este miércoles en mínimos de casi tres semanas, gracias a tres bajas consecutivas.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoynjk3",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231026/imag/foto_0000000920231026081317/A_UNO_1406837.jpg",
-      "PublishedAt": "2023-10-26T11:46:00Z",
-      "Content": "El dólar abrió plano este jueves, presionado en sentidos opuestos desde el mercado externo y con la atención fija en la decisión de política monetaria del Banco Central de Chile, la que se conocerá u… [+1897 chars]"
     }
   ]
 }
