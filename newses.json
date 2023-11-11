@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Precio de dólar HOY 9 de noviembre al cierre: Peso cae con fuerza tras ajuste en mensaje de Banxico",
+      "Description": "El peso cotizó en 17.85 unidades por dólarcerca del cierre de la sesión de este jueves, con una depreciación del 1.85 por ciento frente al precio de referencia del miércoles. Cotizando en niveles no vistos desde el 26 de octubre.La divisa mexicana cayó con fu…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-de-noviembre-de-2023-al-cierre-en-mexico",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2020/11/23/tipo-de-cambio-peso-dolar-60.jpg",
+      "PublishedAt": "2023-11-09T23:01:00Z",
+      "Content": "El peso cotizó en 17.85 unidades por dólar cerca del cierre de la sesión de este jueves, con una depreciación del 1.85 por ciento frente al precio de referencia del miércoles. Cotizando en niveles no… [+1080 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2020/09/29/tipo-de-cambio-peso-dolar-22.jpg",
       "PublishedAt": "2023-10-25T20:57:00Z",
       "Content": "El peso cotizó en 18.36 unidades por dólar cerca del cierre de la sesión de este miércoles, con un retroceso del 0.45 por ciento frente al precio de referencia del martes, hilando su segunda sesión d… [+736 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Nublarrones’ para el peso: Extiende caída con el dólar y se cotiza en las 18.28 unidades",
-      "Description": "En ventanillas bancarias, el dólar se vende en 18.74 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/25/peso-dolar-precio-hoy-25-de-octubre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xxyo3MeRaaQRWBPoHz758PYEPQA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I2NA7YE6QFGNFIJTIIKQQVNK2E.jpg",
-      "PublishedAt": "2023-10-25T16:33:11Z",
-      "Content": "El peso mexicano extiende sus pérdidas frente al dólar mientras el mercado aún aguanta la respiración por la publicación del PIB de Estados Unidos para el tercer trimestre, que se conocerá el 26 de o… [+1282 chars]"
     }
   ]
 }
