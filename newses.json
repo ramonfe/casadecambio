@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Baja dólar a $18.08; vuelve depreciación semanal al peso",
+      "Description": "Después de dos semanas con apreciación el peso regresó las minusvalías y el dólar bajó para venderse en 18.08 pesos.",
+      "Url": "https://www.reforma.com/baja-dolar-a-18-08-vuelve-depreciacion-semanal-al-peso/ar2708771",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/405/5404890.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-11-10T22:09:58Z",
+      "Content": "El balance semanal fue negativo para la moneda local a pesar de que en la jornada, el tipo de cambio retrocedió 24 centavos en Citibanamex. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/aldc0nZcfhBd5ZFufGlz7c1LuQI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5EEQTECPUFAY3LAZBVM65LEZUY.jpg",
       "PublishedAt": "2023-10-26T15:04:02Z",
       "Content": "El peso mexicano comenzó este 26 de octubre con ganancias frente al dólar, después de que se dio a conocer que la economía en Estados Unidos creció 4.9 por ciento en el tercer trimestre, mucho mejor … [+1785 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 26 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 26 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-26-de-octubre-nid26102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-26T14:55:36Z",
-      "Content": "Este jueves 26 de octubre el precio del dólar en México es de $18,3122, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1369 chars]"
     }
   ]
 }
