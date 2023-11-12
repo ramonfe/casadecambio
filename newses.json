@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Peso mitiga las pérdidas; dólar cierra en $17.64",
+      "Description": "El peso mexicano se apreció este viernes 16 centavos ante el dólar y consiguió recortar su pérdida semanal, un día después que el Banco de México (BdeM) mantuvo estable la tasa de interés, pero desde la Reserva Federal se dieron señales de que los incrementos…",
+      "Url": "https://www.jornada.com.mx/2023/11/11/economia/017n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2023/11/11/fotos/017n1eco-1.jpg",
+      "PublishedAt": "2023-11-11T10:17:41Z",
+      "Content": "Periódico La JornadaSábado 11 de noviembre de 2023, p. 17\r\nEl peso mexicano se apreció este viernes 16 centavos ante el dólar y consiguió recortar su pérdida semanal, un día después que el Banco de M… [+3257 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-27T14:13:32Z",
       "Content": "Este viernes 27 de octubre el precio del dólar en México es de $18,2178, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+1709 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "PIB de EU ‘arrea’ al peso: Gana al dólar y se cotiza en las 18.19 unidades",
-      "Description": "En ventanillas bancarias, el dólar se vende en 18.62 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/26/peso-dolar-precio-hoy-26-de-octubre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/aldc0nZcfhBd5ZFufGlz7c1LuQI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5EEQTECPUFAY3LAZBVM65LEZUY.jpg",
-      "PublishedAt": "2023-10-26T15:04:02Z",
-      "Content": "El peso mexicano comenzó este 26 de octubre con ganancias frente al dólar, después de que se dio a conocer que la economía en Estados Unidos creció 4.9 por ciento en el tercer trimestre, mucho mejor … [+1785 chars]"
     }
   ]
 }
