@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,32 +340,6 @@
       "UrlToImage": "https://www.investors.com/wp-content/uploads/2019/01/Stock-DollarGeneral-04-company.jpg",
       "PublishedAt": "2023-10-13T20:05:06Z",
       "Content": "Dollar General (DG) late Thursday said it tapped former CEO Todd Vasos to help it navigate through its current downturn. Dollar General stock soared Friday on the news and updated guidance. However, … [+3369 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Vang Shuiming tries again for bail with 24-hour tracking, fails",
-      "Description": "The judge reminded Vang Shuiming that if a bail application has already been rejected before, a court will be \"extremely reluctant\" to grant bail in subsequent applications unless there are material changes to the facts or circumstances.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-vang-shui-ming-bail-review-rejected-3840326",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SYaLm0_C--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/vang_canninghill_piers.jpg?itok=mDQFpq_t",
-      "PublishedAt": "2023-10-12T08:43:45Z",
-      "Content": "In order for the High Court to exercise its revisionary powers, it has to be satisfied that there was a serious injustice arising out of a decision in the lower court.\r\nJustice Hoong said he did not … [+2290 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Punch"
-      },
-      "Author": "Adetutu Sobowale",
-      "Title": "Naira-dollar exchange rate falls to N1,040 in parallel market",
-      "Description": "The exchange rate between the naira and the dollar has dropped to N1,040 in the parallel market. The ongoing trend of demand surpassing supply seems to be a contributing factor. Forex traders report inflow quotes ranging from N1,035 to N1,045 per dollar, indi…",
-      "Url": "https://punchng.com/naira-dollar-exchange-rate-falls-to-n1040-in-parallel-market/",
-      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/04015026/Naira-Dollar.jpg",
-      "PublishedAt": "2023-10-12T05:29:32Z",
-      "Content": "The exchange rate between the naira and the dollar has dropped to N1,040 in the parallel market.\r\nThe ongoing trend of demand surpassing supply seems to be a contributing factor. Forex traders report… [+294 chars]"
     }
   ]
 }
