@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Bangladesh central bank insists on fixed dollar rate amid currency crisis",
+      "Description": "Bangladesh central bank insists on fixed dollar rate amid currency crisis",
+      "Url": "https://www.investing.com/news/forex-news/bangladesh-central-bank-insists-on-fixed-dollar-rate-amid-currency-crisis-93CH-3232792",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI7N017_L.jpg",
+      "PublishedAt": "2023-11-13T17:34:39Z",
+      "Content": "Bangladesh's central bank has reaffirmed its stance on maintaining a fixed exchange rate for the US dollar, as part of its ongoing efforts to stabilize the local currency and manage the dollar crisis… [+1401 chars]"
+    },
     {
       "Source": {
         "Id": null,

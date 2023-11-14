@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso mexicano se ‘la canta’ al dólar: Arranca la semana en las 17.58 unidades",
+      "Description": "En ventanilla bancaria, el precio del billete verde es de 18.07 unidades por cada uno, según los datos reportados por Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/13/peso-dolar-precio-hoy-13-de-noviembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mTX1vrxgLGOKRTPH1_COLvU8J_U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/43U7IZYTU5ENRDZVE7UPCHMLIQ.jpg",
+      "PublishedAt": "2023-11-13T17:04:05Z",
+      "Content": "La especulación en torno a los futuros pasos de la Reserva Federal y que esta pueda mostrarse más restrictiva continúan haciendo eco en el mercado cambiario, llevando al dólar a operar en el terreno … [+1318 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-10-30T12:03:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 de octubre el tipo de cambiointerbancario, se ubica en 18.03 pesos por unidad, con una pérdida de 0.45 por ciento… [+786 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Baja dólar a $18.56 y se aprecia peso en la semana",
-      "Description": "Hoy, la disminución del dólar contribuyó para que el peso terminara la semana con un balance favorable en el mercado de cambios.",
-      "Url": "https://www.reforma.com/baja-dolar-a-18-56-y-se-aprecia-peso-en-la-semana/ar2700932",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/514/5513040.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-10-28T00:02:46Z",
-      "Content": "En la jornada de hoy, al menudeo, el tipo de cambio disminuyó su valor seis centavos, pues en Citibanamex se vendió a 18.56 pesos y se compró a 17.56 unidades. Crédito: AP"
     }
   ]
 }
