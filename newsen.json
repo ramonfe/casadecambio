@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,19 +340,6 @@
       "UrlToImage": "https://image.cnbcfm.com/api/v1/image/107285692-1691998194224-gettyimages-1597590935-AFP_33R28FQ.jpeg?v=1697284801&w=1920&h=1080",
       "PublishedAt": "2023-10-14T12:00:01Z",
       "Content": "Ultra-right libertarian candidate Javier Milei celebrates the results of Argentina's primary elections, Aug. 13, 2023.\r\nA leading presidential candidate in Argentina has drastic changes in mind for t… [+6183 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investor's Business Daily"
-      },
-      "Author": "Investor's Business Daily",
-      "Title": "Dollar General Pulls A Hail Mary, Spikes After 10-Week Dive; But Analysts Say 'No Quick Fix'",
-      "Description": "Dollar General stock popped early Friday after the discount retailer tapped a former CEO to retake the reigns, updated its guidance.",
-      "Url": "https://www.investors.com/news/dollar-general-pulls-a-hail-mary-spikes-after-10-week-dive/",
-      "UrlToImage": "https://www.investors.com/wp-content/uploads/2019/01/Stock-DollarGeneral-04-company.jpg",
-      "PublishedAt": "2023-10-13T20:05:06Z",
-      "Content": "Dollar General (DG) late Thursday said it tapped former CEO Todd Vasos to help it navigate through its current downturn. Dollar General stock soared Friday on the news and updated guidance. However, … [+3369 chars]"
     }
   ]
 }
