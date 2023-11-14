@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano arranca la semana perdiendo frente al dólar",
+      "Description": "La moneda nacional cotizaba en 17.52 unidades por dólar, con pérdidas del 0.44% frente al precio de referencia del viernes.",
+      "Url": "https://aristeguinoticias.com/1311/dinero-y-economia/peso-mexicano-arranca-la-semana-perdiendo-frente-al-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/05/Bolsa-Mexicana-de-Valores-tipo-de-cambio-020523-1.jpg",
+      "PublishedAt": "2023-11-13T15:07:30Z",
+      "Content": "El peso mexicano arrancaba el lunes con pérdidas en una jornada con pocos datos macroeconómicos y en la que los inversionistas centraban su atención en los datos de inflación estadounidense y de la E… [+1865 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/514/5513040.jpg&wm=1&ang=0",
       "PublishedAt": "2023-10-28T00:02:46Z",
       "Content": "En la jornada de hoy, al menudeo, el tipo de cambio disminuyó su valor seis centavos, pues en Citibanamex se vendió a 18.56 pesos y se compró a 17.56 unidades. Crédito: AP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Dólar: el Banco Central prorrogó hasta fin de noviembre una medida que afecta a los bancos",
-      "Description": "Ayer se decidió que las entidades financieras no podrán sumar más dólares de los que tenían hasta el 13 de octubre, sin previa autorización; la medida no afecta a los pequeños ahorristas",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-prorrogo-hasta-fin-de-noviembre-una-medida-que-afecta-a-los-bancos-nid27102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/se-decidio-ayer-en-una-reunion-del-directorio-del-2XGX4Z2CARH2NAYHI63RWIXRFI.jpg?auth=1618303bc032edbae1b9037a4da57560250b054a83544786946117824e24b1ec&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-27T14:45:50Z",
-      "Content": "Luego de que se confirmara que la Argentina tendrá balotaje el próximo 19 de noviembre, el Banco Central (BCRA) decidió prorrogar hasta el próximo 30 de noviembre la Comunicación 7863. En la misma, s… [+2632 chars]"
     }
   ]
 }
