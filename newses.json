@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el mercado apuesta que mañana se descongela el tipo de cambio oficial, que acumularía un retraso del 38%",
+      "Description": "Hubo hoy operaciones pactadas para liquidar mañana a $353,50, considerando el ajuste de $3 que el ministro Massa había anticipado en su paso por LN+",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-mercado-apuesta-que-manana-se-descongela-el-tipo-de-cambio-oficial-que-acumularia-un-nid14112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/viene-un-ajuste-y-el-regreso-a-las-4TEBVYBZC5DOVAHRZ3BETGVF7U.JPG?auth=59e7f7d57b6e0c3e589a6729a70f2ed5df96f05cc34c7f776ee7eb04fa6752f5&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-14T20:20:47Z",
+      "Content": "Exactamente tres meses después de haberlo dispuesto, aunque mientras convalidaba a la vez más y más tipos de cambios diferenciales, el Gobierno procederá mañana a mover el tipo de cambio oficial que … [+5565 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
       "PublishedAt": "2023-10-31T12:06:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de octubre el tipo de cambiointerbancario, se ubica en 17.96 pesos por unidad, con una pérdida de 0.47 por ciento… [+853 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 30 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este lunes 30 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-30-de-octubre-nid30102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-30T14:38:57Z",
-      "Content": "Este lunes 30 de octubre el precio del dólar en México es de $18,0752, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1583 chars]"
     }
   ]
 }
