@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,19 +353,6 @@
       "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/market-minutes-1-6-770x433.jpeg",
       "PublishedAt": "2023-10-17T02:59:00Z",
       "Content": "In this episode of Market Minutes, Lovisha Darad discusses about how the markets are expected to fare amid the second quarterly earnings season. HDFC Bank and Jio Financial Services reported positive… [+625 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": "Alex Harring",
-      "Title": "Javier Milei: The Argentine presidential candidate wants to abolish the country's central bank and move to the U.S. dollar",
-      "Description": "Javier Milei has seen surprising levels of support in his campaign.",
-      "Url": "https://www.cnbc.com/2023/10/14/javier-milei-argentine-presidential-candidate-wants-to-abolish-central-bank.html",
-      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/107285692-1691998194224-gettyimages-1597590935-AFP_33R28FQ.jpeg?v=1697284801&w=1920&h=1080",
-      "PublishedAt": "2023-10-14T12:00:01Z",
-      "Content": "Ultra-right libertarian candidate Javier Milei celebrates the results of Argentina's primary elections, Aug. 13, 2023.\r\nA leading presidential candidate in Argentina has drastic changes in mind for t… [+6183 chars]"
     }
   ]
 }
