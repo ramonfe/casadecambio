@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dólar hoy: luego de tres meses congelado, el tipo de cambio oficial retomó el crawling peg",
+      "Description": "Esta cotización se negocia a $353,05, un avance diario de $2,95 (0,8%); el Gobierno retomó, así, el crawling peg, es decir, las microdevaluaciones diarias",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-luego-de-tres-meses-congelado-el-tipo-de-cambio-oficial-retomo-el-crawling-peg-nid15112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-miercoles-15-632LC6ULW5A3PKEJG4PH4VN4AE.jpg?auth=652d9ec07d9b1c8e05492d59d66aa602d3028f205b85c1e0c775ebed695928ed&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-15T13:40:49Z",
+      "Content": "Hoy, el dólar oficial mayorista retomó el crawling peg (microdevaluaciones diarias). Se trata del primer movimiento que registra después de permanecer tres meses congelado en los $350, una decisión d… [+2297 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=true",
       "PublishedAt": "2023-10-31T14:57:58Z",
       "Content": "Este martes 31 de octubre el precio del dólar en México es de $18,0640, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1711 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY martes 31 de octubre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de octubre el tipo de cambio interbancario, se ubica en 17.96 pesos por unidad, con una pérdida de 0.47 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba po…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-octubre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-1.jpg",
-      "PublishedAt": "2023-10-31T12:06:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de octubre el tipo de cambiointerbancario, se ubica en 17.96 pesos por unidad, con una pérdida de 0.47 por ciento… [+853 chars]"
     }
   ]
 }
