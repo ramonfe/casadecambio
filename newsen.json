@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "AllAfrica - Top Africa News"
+      },
+      "Author": null,
+      "Title": "Nigeria: Tinubu Secures Multi-Billion Dollar in Infrastructure Funding From Islamic Bank",
+      "Description": "[Leadership] President Bola Tinubu, on Monday night, in Mecca, Saudi Arabia, advanced negotiations concerning a multi-billion dollar infrastructure finance facility from the Islamic Development Bank to fund a multi-sectoral portfolio of infrastructure project…",
+      "Url": "https://allafrica.com/stories/202311150060.html",
+      "UrlToImage": "https://cdn09.allafrica.com/download/pic/main/main/csiid/00640744:04b664a528d239ae3824518a0b614b0c:arc614x376:w1200.jpg",
+      "PublishedAt": "2023-11-15T06:02:33Z",
+      "Content": "President Bola Tinubu, on Monday night, in Mecca, Saudi Arabia, advanced negotiations concerning a multi-billion dollar infrastructure finance facility from the Islamic Development Bank to fund a mul… [+3617 chars]"
+    },
     {
       "Source": {
         "Id": null,
