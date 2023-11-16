@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Borderperiodismo.com"
+      },
+      "Author": "#BorderPeriodismo",
+      "Title": "El Banco Central comenzó con las devaluaciones diarias: el dólar oficial subió $3",
+      "Description": "Hoy, el peso argentino experimentó una baja del 1,38 % a 355 por cada dólar. Esto sucedió acorde a la aplicación por parte del Banco Central (BCRA) de una devaluación diaria (crawling peg) que se dará durante los siguientes meses con razón de lograr devaluaci…",
+      "Url": "https://borderperiodismo.com/2023/11/15/el-banco-central-comenzo-con-las-devaluaciones-diarias-subio-3-el-dolar-oficial/",
+      "UrlToImage": "https://borderperiodismo.com/wp-content/uploads/2023/11/Boceto-2023-11-15T113428.814.png",
+      "PublishedAt": "2023-11-15T14:35:26Z",
+      "Content": "Hoy, el peso argentino experimentó una baja del 1,38 % a 355 por cada dólar. Esto sucedió acorde a la aplicación por parte del Banco Central (BCRA) de una devaluación diaria (crawling peg) que se dar… [+1955 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este miércoles 15 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 15 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-miercoles-15-de-noviembre-nid15112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-15T14:16:51Z",
+      "Content": "Este miércoles 15 de noviembre el precio del dólar en México es de $17,3917, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2151 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/01/18/tipo-de-cambio-peso-dolar-80.jpg",
       "PublishedAt": "2023-10-31T22:00:00Z",
       "Content": "El peso cotizó en 18.04 unidades por dólar cerca del cierre de la sesión de este martes, con una apreciación de 0.2 por ciento frente al precio de referencia de lunes. Pero en el mes perdió 3.71 por … [+947 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Asústalo, panteón: Peso abre la sesión de Halloween con ganancias vs. el dólar",
-      "Description": "En ventanillas bancarias, el dólar se vende en 18.51 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/10/31/peso-dolar-precio-hoy-31-de-octubre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/q3s2XtP4889x0eg4l-cBnIdsWDY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HLVEKSL4J5FFBN6ZBMR52FOGBI.jpg",
-      "PublishedAt": "2023-10-31T15:26:45Z",
-      "Content": "El peso mexicano está asustando al dólar este 31 de octubre, mientras que en México se dio a conocer que el PIB creció 0.9 por ciento en el tercer trimestre, según la estimación oportuna del Institut… [+1315 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 31 de octubre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 31 de octubre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-31-de-octubre-nid31102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-10-31T14:57:58Z",
-      "Content": "Este martes 31 de octubre el precio del dólar en México es de $18,0640, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1711 chars]"
     }
   ]
 }
