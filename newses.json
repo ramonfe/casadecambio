@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso llega ‘indeciso’ a la quincena: Se cotiza en las 17.33 unidades frente al dólar",
+      "Description": "El dólar estadounidense se cotiza en un precio de 17.77 pesos en ventanilla bancaria, según cifras de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/15/peso-dolar-precio-hoy-15-de-noviembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZtKOJ847WMO9M0Wp1Bc0ygbX03o=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DNX26ZYXYVBVNFJWUGGMMDQ5KI.jpeg",
+      "PublishedAt": "2023-11-15T16:53:16Z",
+      "Content": "El peso mexicano opera con movimientos marginales frente al dólar después de que se dieron a conocer los datos de la inflación al productor, en los que el componente subyacente se situó en una tasa a… [+1419 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583199.jpg&wm=1&ang=0",
       "PublishedAt": "2023-10-31T22:00:19Z",
       "Content": "En la jornada, el tipo de cambio disminuyó 1.63 centavos en el mercado internacional de divisas o Foreign Exchange Market (Forex) a 18.0334 pesos. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Precio de dólar HOY 31 de octubre al cierre: Peso mexicano cae más del 3.5% en octubre",
-      "Description": "Elpeso cotizó en 18.04 unidades por dólarcerca del cierre de la sesión de este martes, conuna apreciaciónde 0.2 por ciento frente al precio de referencia de lunes. Pero en el mes perdió 3.71 por cientoLa divisa mexicana y la bolsa culminaron un nuevo mes de p…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-de-octubre-de-2023-al-cierre-en-mexico",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/01/18/tipo-de-cambio-peso-dolar-80.jpg",
-      "PublishedAt": "2023-10-31T22:00:00Z",
-      "Content": "El peso cotizó en 18.04 unidades por dólar cerca del cierre de la sesión de este martes, con una apreciación de 0.2 por ciento frente al precio de referencia de lunes. Pero en el mes perdió 3.71 por … [+947 chars]"
     }
   ]
 }
