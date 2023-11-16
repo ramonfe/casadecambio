@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Descongelaron el dólar oficial y el Banco Central se alzó con la mayor compra de reservas del mes",
+      "Description": "La divisa cerró a $352,95 y el volumen saltó 60% ante el anunciado final del tipo de cambio diferencial exportador; si bien está previsto para el viernes, se mantiene en suspenso según el resultado electoral del domingo",
+      "Url": "https://www.lanacion.com.ar/economia/descongelaron-el-dolar-oficial-y-el-banco-central-se-alzo-con-la-mayor-compra-de-reservas-del-mes-nid15112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-hizo-la-mayor-recompra-de-NLMFH6PJUZA3RGGXLU2Y6Y2C24.JPG?auth=5845c119b51c9d493abc5e936674c3b58e361247361901f8c8384fe5901f7865&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-15T19:59:01Z",
+      "Content": "El Gobierno cumplió con uno de los puntos que había pactado con el Fondo Monetario Internacional (FMI) y luego de tres meses descongeló el dólar oficial. Hoy, el tipo de cambio mayoristasubió de $350… [+3734 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=true",
       "PublishedAt": "2023-11-01T14:11:43Z",
       "Content": "Este miércoles 1 de noviembre el precio del dólar en México es de $18,0368, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+1809 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Dólar llega a $18.03; tiene peso peor resultado en 23 meses",
-      "Description": "El peso tuvo su mayor depreciación en 23 meses en mercado internacional con una pérdida de 61.07 centavos en octubre, a $18.0334 por dólar.",
-      "Url": "https://www.reforma.com/dolar-llega-a-18-03-tiene-peso-peor-resultado-en-23-meses/ar2702821",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/584/5583199.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-10-31T22:00:19Z",
-      "Content": "En la jornada, el tipo de cambio disminuyó 1.63 centavos en el mercado internacional de divisas o Foreign Exchange Market (Forex) a 18.0334 pesos. Crédito: AFP"
     }
   ]
 }
