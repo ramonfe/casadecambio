@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Accused at risk of cancer, say lawyers who suggest 24-hour surveillance",
+      "Description": "Su Baolin's lawyers alleged that Changi Prison's Complex Medical Centre does not provide adequate care for their client, who has a congenital heart condition.",
+      "Url": "https://www.channelnewsasia.com/singapore/su-baolin-bail-billion-dollar-money-laundering-probe-gastric-cancer-3922086",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
+      "PublishedAt": "2023-11-15T10:00:00Z",
+      "Content": "Wednesday's hearing began after a lengthy delay due to technical difficulties.\r\nSu, who appeared in court via video link from hospital, could not hear the Mandarin interpreter who was speaking to him… [+1641 chars]"
+    },
     {
       "Source": {
         "Id": null,
