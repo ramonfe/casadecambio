@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY jueves 16 de noviembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 16 de noviembre el tipo de cambiointerbancario, se ubica en 17.29 pesos por unidad, con una pérdida de 0.03 por ciento, según datos de Bloomberg.El peso mexicano cotizaba con l…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-16-noviembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-11-16T12:25:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 16 de noviembre el tipo de cambio interbancario, se ubica en 17.29 pesos por unidad, con una pérdida de 0.03 por cie… [+750 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/01/fed-hawkish-postura-banco-central.jpg",
       "PublishedAt": "2023-11-01T22:30:00Z",
       "Content": "El peso mexicano se apreció 1.51 por ciento frente al precio de referencia del martes, cotizando en 17.76 por dólar estadunidense al cierre de mercados de este miércoles 1 de noviembre de 2023.\r\nLa d… [+936 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 1 de noviembre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 1 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-1-de-noviembre-nid01112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-11-01T14:11:43Z",
-      "Content": "Este miércoles 1 de noviembre el precio del dólar en México es de $18,0368, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+1809 chars]"
     }
   ]
 }
