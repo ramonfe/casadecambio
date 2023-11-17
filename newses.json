@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este jueves 16 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 16 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-jueves-16-de-noviembre-nid16112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-16T14:00:07Z",
+      "Content": "Este jueves 16 de noviembre el precio del dólar en México es de $17,3387, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2215 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=true",
       "PublishedAt": "2023-11-02T15:11:44Z",
       "Content": "Este jueves 2 de noviembre el precio del dólar en México es de $18,0368, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+1430 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso se aprecia por quinto día seguido; cotiza por debajo de las 18 unidades por dólar",
-      "Description": "El peso mexicano se apreció1.51 por ciento frente al precio de referencia del martes, cotizando en 17.76 por dólar estadunidense al cierre de mercados de este miércoles 1 de noviembre de 2023.La divisa nacional avanzó luego de que la Reserva Federal (Fed) de …",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-miercoles-1-de-noviembre-2023-peso-cierra-en-17-76",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/01/fed-hawkish-postura-banco-central.jpg",
-      "PublishedAt": "2023-11-01T22:30:00Z",
-      "Content": "El peso mexicano se apreció 1.51 por ciento frente al precio de referencia del martes, cotizando en 17.76 por dólar estadunidense al cierre de mercados de este miércoles 1 de noviembre de 2023.\r\nLa d… [+936 chars]"
     }
   ]
 }
