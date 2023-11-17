@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Accused will not leave daughters behind, argues lawyer in bail hearing",
+      "Description": "The judge said the police force and the entire population of Singapore should not be expected to ensure Wang Baosen did not abscond.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-wang-baosen-bail-rejected-love-daughters-3925066",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--ucL4SD2y--/c_crop,h_679,w_1208,x_25,y_1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/16/wang_baosen.png?itok=vzCKpUdd",
+      "PublishedAt": "2023-11-16T09:42:17Z",
+      "Content": "PROSECUTION OBJECTS\r\nDeputy Public Prosecutor Foo Shi Hao objected to the bail application, saying Mr Kang was attempting to have a \"second bite at the cherry\" when there were no real new facts.\r\nHe … [+3080 chars]"
+    },
     {
       "Source": {
         "Id": null,
