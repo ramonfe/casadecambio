@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--S-UpZUrP--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/18/wang_dehai_0.png?itok=181nPBlD",
       "PublishedAt": "2023-10-18T09:04:18Z",
       "Content": "SINGAPORE: A man accused of laundering illegal onlline gambling proceeds from a Philippines-based operation aimed at Chinese punters was allegedly roped into the syndicate as early as 2012, an invest… [+2740 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Moneycontrol"
-      },
-      "Author": "Moneycontrol News",
-      "Title": "HDFC Bank Q2 results, dollar pares gain, global equities cheer more | Market Minutes",
-      "Description": "In this episode of Market Minutes, Lovisha Darad discusses about how the markets are expected to fare amid the second quarterly earnings season. HDFC Bank and Jio Financial Services reported positive net profit growth year-on-year (YoY) in Q2FY24 on October 1…",
-      "Url": "https://www.moneycontrol.com/news/podcast/hdfc-bank-q2-results-dollar-pares-gain-global-equities-cheer-more-market-minutes-11544541.html",
-      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/09/market-minutes-1-6-770x433.jpeg",
-      "PublishedAt": "2023-10-17T02:59:00Z",
-      "Content": "In this episode of Market Minutes, Lovisha Darad discusses about how the markets are expected to fare amid the second quarterly earnings season. HDFC Bank and Jio Financial Services reported positive… [+625 chars]"
     }
   ]
 }
