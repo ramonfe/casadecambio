@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 17 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 17 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-17-de-noviembre-nid17112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-17T14:04:01Z",
+      "Content": "Este viernes 17 de noviembre el precio del dólar en México es de $17,2708, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2282 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20231106/imag/foto_0000000320231106093352.jpg",
       "PublishedAt": "2023-11-06T12:33:00Z",
       "Content": "En línea con una inflación que continúa cediendo, los precios de venta para las empresas siguen en senda de desaceleración, según revela la Encuesta de Determinantes y Expectativas de Precios (EDEP),… [+2463 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Baja dólar a $17.89; logra peso mayor plusvalía desde 2021",
-      "Description": "El dólar disminuyó 67 centavos en la semana y así el peso tuvo su mayor avance desde el 26 de noviembre y 3 de diciembre de 2021.",
-      "Url": "https://www.reforma.com/baja-dolar-a-17-89-logra-peso-mayor-plusvalia-desde-2021/ar2704756",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/440/5439154.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-11-03T23:17:19Z",
-      "Content": "La moneda local le quitó 30 centavos al dólar de menudeo este viernes, al terminar a 17.89 unidades a la venta en Citibanamex. Crédito: AP"
     }
   ]
 }
