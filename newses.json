@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Ivonne Valdés",
+      "Title": "Cancilleres de Rusia y Venezuela buscan cómo dejar de usar el dólar como moneda del intercambio comercial",
+      "Description": "El canciller de Rusia, Sergey Lavrov, y su homólogo de Venezuela, Yván Gil, se reunieron este jueves en Moscú para revisar el intercambio comercial entre los dos países y acordaron estudiar cómo dejar de usar el dólar estadounidense como moneda de pago.",
+      "Url": "https://cnnespanol.cnn.com/2023/11/16/canciller-rusia-venezuela-dejar-dolar-intercambio-comercial-orix/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/cancilleres-rusia-venezuela-e1700191886762.jpeg?quality=100&strip=info",
+      "PublishedAt": "2023-11-17T03:32:22Z",
+      "Content": "(CNN en Español) -- El canciller de Rusia, Sergey Lavrov, y su homólogo de Venezuela, Yván Gil, se reunieron este jueves en Moscú para revisar el intercambio comercial entre los dos países y acordaro… [+3610 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/440/5439154.jpg&wm=1&ang=0",
       "PublishedAt": "2023-11-03T23:17:19Z",
       "Content": "La moneda local le quitó 30 centavos al dólar de menudeo este viernes, al terminar a 17.89 unidades a la venta en Citibanamex. Crédito: AP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 3 de noviembre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este viernes 3 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-3-de-noviembre-nid03112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-11-03T15:09:53Z",
-      "Content": "Este viernes 3 de noviembre el precio del dólar en México es de $17,9305, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+1781 chars]"
     }
   ]
 }
