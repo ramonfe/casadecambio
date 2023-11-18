@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "‘El Buen Fin’ del peso frente al dólar: Se enfila a ganar la semana con avance de 3%",
+      "Description": "En ventanillas bancarias, el dólar se vende en 17.65 pesos de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/17/peso-dolar-precio-hoy-17-de-noviembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/uXyF9JJn3pnfpwHz3-yuwc_l10E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6P5V2GKNRVFOFOQMU5OBQIZXXM.jpg",
+      "PublishedAt": "2023-11-17T15:22:57Z",
+      "Content": "El peso mexicano se encarrila a cerrar la semana con ganancias frente al dólar gracias a la especulación de que la Reserva Federal no aplicará más aumentos a la tasa de interés y que incluso, podría … [+2409 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=true",
       "PublishedAt": "2023-11-06T15:08:25Z",
       "Content": "Este lunes 6 de noviembre el precio del dólar en México es de $17,4117, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1640 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Catalina Vergara",
-      "Title": "Sondeo del Banco Central: precios de venta de empresas disminuyen “levemente”, pero el dólar sigue pesando",
-      "Description": "Las expectativas de inflación se mantienen, esperando un 5% para los próximos 12 meses.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/sondeo-del-banco-central-precios-de-venta-de-empresas-disminuyen",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231106/imag/foto_0000000320231106093352.jpg",
-      "PublishedAt": "2023-11-06T12:33:00Z",
-      "Content": "En línea con una inflación que continúa cediendo, los precios de venta para las empresas siguen en senda de desaceleración, según revela la Encuesta de Determinantes y Expectativas de Precios (EDEP),… [+2463 chars]"
     }
   ]
 }
