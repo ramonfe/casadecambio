@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,32 +353,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--uJFgHi4m--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/18/su_jianfeng.png?itok=6FwW2nli",
       "PublishedAt": "2023-10-19T07:00:35Z",
       "Content": "SINGAPORE: One of the 10 people charged in Singapore's largest money-laundering probe may face additional forgery charges for allegedly submitting forged documents to banks to hide the source of fund… [+2158 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Couple with S$325 million in assets seized in billion-dollar money laundering case seek bail",
-      "Description": "The court heard new details including how Lin Baoying obtained multiple passports and the overseas assets held by Zhang Ruijin.",
-      "Url": "https://www.channelnewsasia.com/singapore/china-couple-325-million-assets-seek-bail-zhang-ruijin-lin-baoying-billion-dollar-money-laundering-3855036",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--KMpi_Vc7--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/18/Lin Baoying zhang ruijin.jpg?itok=msOvfaqO",
-      "PublishedAt": "2023-10-18T09:37:02Z",
-      "Content": "SINGAPORE: A couple, among the 10 people charged in a S$2.8 billion (US$2 billion) money laundering probe, turned to court on Wednesday (Oct 18) to seek bail.\r\nThe combined assets between Chinese nat… [+5736 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: How a man wanted in China came to be in 'safer' Singapore",
-      "Description": "<![CDATA[ Wang Dehai purportedly has substantial wealth overseas, including two houses in China worth about S$1 million, a S$3 million house in Cyprus and over S$10 million in Hong Kong bank accounts. ]]>",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-how-man-wanted-china-came-be-safer-singapore-3854936",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--S-UpZUrP--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/10/18/wang_dehai_0.png?itok=181nPBlD",
-      "PublishedAt": "2023-10-18T09:04:18Z",
-      "Content": "SINGAPORE: A man accused of laundering illegal onlline gambling proceeds from a Philippines-based operation aimed at Chinese punters was allegedly roped into the syndicate as early as 2012, an invest… [+2740 chars]"
     }
   ]
 }
