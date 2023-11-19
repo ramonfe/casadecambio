@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia y AFP",
+      "Title": "Dólar se vende a $17.65; peso registra plusvalía en semana",
+      "Description": "En bancos el tipo de cambio disminuyó 43 centavos en la semana a 17.65 pesos en medio de especulaciones sobre la política monetaria de Fed.",
+      "Url": "https://www.reforma.com/dolar-se-vende-a-17-65-peso-registra-plusvalia-en-semana/ar2712648",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-11-17T23:18:16Z",
+      "Content": "En la sesión, el tipo de cambio en el mercado minorista se ofreció a 17.65 unidades y se adquirió a 16.62 pesos. Crédito: AP"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2021/04/Peso-Dolar-Tipo-Cambio-Finanzas.jpg",
       "PublishedAt": "2023-11-06T16:33:23Z",
       "Content": "El peso mexicano bajaba el lunes ante el dólar, en un freno a su racha alcista luego de haber marcado en la sesión anterior su mejor desempeño semanal desde junio del 2021, ante la expectativa de que… [+1117 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este lunes 6 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 6 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-lunes-6-de-noviembre-nid06112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-11-06T15:08:25Z",
-      "Content": "Este lunes 6 de noviembre el precio del dólar en México es de $17,4117, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1640 chars]"
     }
   ]
 }
