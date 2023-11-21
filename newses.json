@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Felipe Gazcón",
+      "Title": "Peso ‘huele’ el piso de las 17 unidades vs. el dólar: Se cotiza en 17.08",
+      "Description": "En ventanillas bancarias, el dólar se vende en 17.65 unidades cada uno, de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/20/peso-dolar-precio-hoy-20-de-noviembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/E4Nl2HOkxyu8FySLYqyhDQ5kjAE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PBFCQEA6VFHCHPKCDAVCID6UY4.jpg",
+      "PublishedAt": "2023-11-20T19:12:15Z",
+      "Content": "El peso mexicano se acerca a romper el piso de las 17 unidades frente al dólar este 20 de noviembre, día del Aniversario de la Revolución Mexicana.\r\nDe acuerdo con datos de Bloomberg, la moneda nacio… [+1690 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2023-11-08T22:15:55Z",
       "Content": "El peso se depreció frente a un dólar fortalecido tras comentarios de autoridades de la Reserva Federal de Estados Unidos (Fed), que han puesto en duda el fin del ciclo de alzas de tasas de interés e… [+1324 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este miércoles 8 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 8 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-miercoles-8-de-noviembre-nid08112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=true",
-      "PublishedAt": "2023-11-08T14:19:37Z",
-      "Content": "Este miércoles 8 de noviembre el precio del dólar en México es de $17,5097, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+1728 chars]"
     }
   ]
 }
