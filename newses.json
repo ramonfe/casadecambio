@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY lunes 20 de noviembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de noviembre el tipo de cambio interbancario, se ubica en 17.19 pesos por unidad, con una pérdida de 0.23 por ciento, según datos de Bloomberg.El peso mexicano continuaba av…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-20-noviembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2023-11-20T12:26:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de noviembre el tipo de cambiointerbancario, se ubica en 17.19 pesos por unidad, con una pérdida de 0.23 por cien… [+813 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=true",
       "PublishedAt": "2023-11-07T15:20:39Z",
       "Content": "Este martes 7 de noviembre el precio del dólar en México es de $17,5308, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2053 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano corta su racha ganadora y cae ante el dólar",
-      "Description": "La moneda nacional había hilado el viernes siete días consecutivos de ganancias.",
-      "Url": "https://aristeguinoticias.com/0611/dinero-y-economia/peso-mexicano-corta-su-racha-ganadora-y-cae-ante-el-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2021/04/Peso-Dolar-Tipo-Cambio-Finanzas.jpg",
-      "PublishedAt": "2023-11-06T16:33:23Z",
-      "Content": "El peso mexicano bajaba el lunes ante el dólar, en un freno a su racha alcista luego de haber marcado en la sesión anterior su mejor desempeño semanal desde junio del 2021, ante la expectativa de que… [+1117 chars]"
     }
   ]
 }
