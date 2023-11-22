@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,19 +327,6 @@
       "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-10/221020-home-sales-al-1433-481d18.jpg",
       "PublishedAt": "2023-10-21T13:04:00Z",
       "Content": "A tough market for home buyers keeps getting tougher as the combination of rising prices and climbing mortgage rates makes it even harder to afford a home, new data shows.\r\nIn spite of these challeng… [+3792 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CryptoSlate"
-      },
-      "Author": "Mike Dalton",
-      "Title": "FBI charges six individuals in multimillion-dollar Bitcoin money-laundering scheme",
-      "Description": "The Federal Bureau of Investigation (FBI) has charged six individuals in connection to an unlicensed money-transmitting business involving crypto as a money laundering tool. Court filings dated Oct. 18 indicate that the accused individuals worked to convert B…",
-      "Url": "https://cryptoslate.com/fbi-charges-six-individuals-in-multimillion-dollar-bitcoin-money-laundering-scheme/",
-      "UrlToImage": "https://cryptoslate.com/wp-content/uploads/2021/07/fbi-warning-cryptoscam.jpg",
-      "PublishedAt": "2023-10-20T21:50:56Z",
-      "Content": "The Federal Bureau of Investigation (FBI) has charged six individuals in connection to an unlicensed money-transmitting business involving crypto as a money laundering tool.\r\nCourt filings dated Oct.… [+3024 chars]"
     }
   ]
 }
