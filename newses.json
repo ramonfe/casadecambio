@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso termina cediendo 0.44% frente al dólar tras una jornada de altas y bajas",
+      "Description": "El peso mexicano se depreció 0.44 por ciento frente al precio de referencia del lunes, y cotizó en17.18 unidades por dólar estadunidense al cierre de mercados de estemartes 21 de noviembre de 2023.La divisa nacional retrocedió después de que minutas del más r…",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-martes-21-de-noviembre-de-2023-peso-cierra-en-17-18",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/21/junta-banco-central-estadunidense-mostro.jpg",
+      "PublishedAt": "2023-11-21T22:27:00Z",
+      "Content": "El peso mexicano se depreció 0.44 por ciento frente al precio de referencia del lunes, y cotizó en 17.18 unidades por dólar estadunidense al cierre de mercados de este martes 21 de noviembre de 2023.… [+1101 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-11-10T12:12:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 10 de noviembre el tipo de cambiointerbancario, se ubica en 17.93 pesos por unidad, con un alza de 0.68 por ciento, … [+831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Precio de dólar HOY 9 de noviembre al cierre: Peso cae con fuerza tras ajuste en mensaje de Banxico",
-      "Description": "El peso cotizó en 17.85 unidades por dólarcerca del cierre de la sesión de este jueves, con una depreciación del 1.85 por ciento frente al precio de referencia del miércoles. Cotizando en niveles no vistos desde el 26 de octubre.La divisa mexicana cayó con fu…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-de-noviembre-de-2023-al-cierre-en-mexico",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2020/11/23/tipo-de-cambio-peso-dolar-60.jpg",
-      "PublishedAt": "2023-11-09T23:01:00Z",
-      "Content": "El peso cotizó en 17.85 unidades por dólar cerca del cierre de la sesión de este jueves, con una depreciación del 1.85 por ciento frente al precio de referencia del miércoles. Cotizando en niveles no… [+1080 chars]"
     }
   ]
 }
