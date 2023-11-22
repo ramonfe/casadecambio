@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nicekicks.com"
+      },
+      "Author": "Matt Halfhill",
+      "Title": "Feds: James Whitner, Owner of Social Status & A Ma Maniere, Involved in Multi-Million Dollar International Money Laundering Scheme",
+      "Description": "Federal agents allege that James Whitner, Charlotte-based entrepreneur and owner of retail store chains Social Status, A Ma Maniere, APB, and Prosper, played a central role in an extensive international money laundering operation involving Chinese money couri…",
+      "Url": "https://www.nicekicks.com/federal-investigators-allege-social-status-money-laundering/",
+      "UrlToImage": "https://www.nicekicks.com/files/2023/11/F_YiKeYW4AAPG9q.jpg",
+      "PublishedAt": "2023-11-21T15:51:31Z",
+      "Content": "Federal agents allege that James Whitner, Charlotte-based entrepreneur and owner of retail store chains Social Status, A Ma Maniere, APB, and Prosper, played a central role in an extensive internatio… [+3377 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sneaker News"
+      },
+      "Author": "Jovani Hernandez",
+      "Title": "James Whitner Violated Sneaker Contract In Multimillion Dollar, International Money Laundering Operation",
+      "Description": "James Whitner – founder and frontman of The Whitaker Group – has been named in a court document detailing an international money laundering scheme worth millions of...\n\n© Sneaker News, 2023. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post James Whitne…",
+      "Url": "http://sneakernews.com/2023/11/21/james-whitner-money-laundering-case/",
+      "UrlToImage": "https://sneakernews.com/wp-content/uploads/2021/11/James-Whitner-Is-Clear-On-Why-Hes-Here-52.jpeg",
+      "PublishedAt": "2023-11-21T15:30:22Z",
+      "Content": "James Whitner  founder and frontman of The Whitaker Group  has been named in a court document detailing an international money laundering scheme worth millions of dollars.\r\nThe report was filed throu… [+2222 chars]"
+    },
     {
       "Source": {
         "Id": null,

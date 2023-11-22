@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso regresa ‘dormido’ del puente frente al dólar: Se cotiza en las 17.12 unidades",
+      "Description": "El precio del dólar en ventanillas bancarias es de 17.59 pesos cada uno, de acuerdo con los datos reportados por Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/21/peso-dolar-precio-hoy-21-de-noviembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/cLvS5Fg62_n9ZOCLNnD7YMRRg2Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3HPUYNXIC5B43M7V5Y7OKBHBG4.jpg",
+      "PublishedAt": "2023-11-21T15:30:42Z",
+      "Content": "El peso mexicano muestra una depreciación marginal en el inicio de la jornada de este 21 de diciembre, a la par de que se presenta un debilitamiento para el dólar, esto ante la expectativa de que la … [+1437 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-09T14:18:04Z",
       "Content": "Este jueves 9 de noviembre el precio del dólar en México es de $17,5017, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2222 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY jueves 9 de noviembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 9 de noviembre el tipo de cambio interbancario, se ubica en 17.55 pesos por unidad, con una pérdida de 0.10 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-9-noviembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-11-09T12:12:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 9 de noviembre el tipo de cambiointerbancario, se ubica en 17.55 pesos por unidad, con una pérdida de 0.10 por cient… [+845 chars]"
     }
   ]
 }
