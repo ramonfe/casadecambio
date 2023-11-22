@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este martes 21 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 21 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-martes-21-de-noviembre-nid21112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-21T14:00:03Z",
+      "Content": "Este martes 21 de noviembre el precio del dólar en México es de $17,2175, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2257 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-11-09T12:12:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 9 de noviembre el tipo de cambiointerbancario, se ubica en 17.55 pesos por unidad, con una pérdida de 0.10 por cient… [+845 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante dólar fortalecido por expectativas sobre tasas en EU",
-      "Description": "Forbes México.\n Peso retrocede ante dólar fortalecido por expectativas sobre tasas en EU\n\nEl peso se deprecia 0.40% al cierre de la jornada de este miércoles, de acuerdo con datos de Banxico.\nPeso retrocede ante dólar fortalecido por expectativas sobre tasas …",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-dolar-fortalecido-por-expectativas-sobre-tasas-en-eu/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2023-11-08T22:15:55Z",
-      "Content": "El peso se depreció frente a un dólar fortalecido tras comentarios de autoridades de la Reserva Federal de Estados Unidos (Fed), que han puesto en duda el fin del ciclo de alzas de tasas de interés e… [+1324 chars]"
     }
   ]
 }
