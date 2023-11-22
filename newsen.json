@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Mexican peso pauses rally against U.S. dollar amid market anticipation",
+      "Description": "Mexican peso pauses rally against U.S. dollar amid market anticipation",
+      "Url": "https://www.investing.com/news/forex-news/mexican-peso-pauses-rally-against-us-dollar-amid-market-anticipation-93CH-3240383",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI7L03X_L.jpg",
+      "PublishedAt": "2023-11-21T16:48:27Z",
+      "Content": "The Mexican peso's recent surge against the US dollar took a breather today with the USD/MXN pair ticking up to 17.18, despite a general weakness in the dollar across Forex markets. Investors are clo… [+1782 chars]"
+    },
     {
       "Source": {
         "Id": null,
