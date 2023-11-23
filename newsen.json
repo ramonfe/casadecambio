@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Cointelegraph",
+      "Title": "New Zealand dollar stablecoin goes live through local crypto exchange",
+      "Description": "New Zealand dollar stablecoin goes live through local crypto exchange",
+      "Url": "https://www.investing.com/news/cryptocurrency-news/new-zealand-dollar-stablecoin-goes-live-through-local-crypto-exchange-3240649",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556527948.jpg",
+      "PublishedAt": "2023-11-22T04:00:08Z",
+      "Content": "We encourage you to use comments to engage with other users, share your perspective and ask questions of authors and each other. However, in order to maintain the high level of discourse we’ve all co… [+2321 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/bank-dollar-fine.jpg",
       "PublishedAt": "2023-10-29T00:04:37Z",
       "Content": "The Federal Reserve and New York Department of Financial Services are hitting a US bank with a multi-million dollar fine for violating the Bank Secrecy Act.\r\nThe agencies say Metropolitan Commercial … [+1422 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Dollar General Co. (NYSE:DG) Shares Sold by Bank of New York Mellon Corp",
-      "Description": "Bank of New York Mellon Corp decreased its holdings in Dollar General Co. (NYSE:DG – Free Report) by 3.9% in the second quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The fund owned 1,880,451 shares of…",
-      "Url": "https://www.etfdailynews.com/2023/10/28/dollar-general-co-nysedg-shares-sold-by-bank-of-new-york-mellon-corp/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2023-10-28T15:12:48Z",
-      "Content": "Bank of New York Mellon Corp decreased its holdings in Dollar General Co. (NYSE:DG – Free Report) by 3.9% in the second quarter, according to the company in its most recent filing with the Securities… [+6025 chars]"
     }
   ]
 }
