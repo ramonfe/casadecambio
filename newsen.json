@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "InvestorsObserver"
+      },
+      "Author": "InvestorsObserver",
+      "Title": "Local exchange Easy Crypto introduces New Zealand dollar stablecoin",
+      "Description": "2023-11-22 00:38:45 ET           Local cryptocurrency exchange Easy Crypto has launched a stablecoin tied to NZD in collaboration with an Australian blockchain company, Labrys.           Announcing not 1 but 2 launches! First up a new stablecoin for Ki...",
+      "Url": "https://www.investorsobserver.com/news/qm-news/7765394858449457",
+      "UrlToImage": "https://s3.amazonaws.com/images.investorsobserver.com/io-logo-800x450.jpg",
+      "PublishedAt": "2023-11-22T00:38:45Z",
+      "Content": "News Home\r\n 2023-11-22 00:38:45 ET\r\nLocal cryptocurrency exchange Easy Crypto has launched a stablecoin tied to NZD in collaboration with an Australian blockchain company, Labrys.\r\nEasy Crypto and La… [+1718 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "DAVID BILLER Associated Press, DANIEL POLITI Associated Press",
+      "Title": "After the dollar-loving Milei wins the presidency, Argentines anxiously watch the exchange rate",
+      "Description": "The exchange rate is top of mind for millions of Argentines coping with triple-digit inflation",
+      "Url": "https://abcnews.go.com/International/wireStory/after-dollar-loving-milei-wins-presidency-argentines-anxiously-105078891",
+      "UrlToImage": "https://i.abcnewsfe.com/a/9ef1e0c7-ca2d-42cb-9709-0a9b498c0ba5/wirestory_bb61f9e9a6108ba0ced63f89b2cfd431_16x9.jpg?w=992",
+      "PublishedAt": "2023-11-22T00:06:51Z",
+      "Content": "BUENOS AIRES, Argentina -- As soon as Leandro Francisco Diana woke up Tuesday, he reached for his phone like many Argentines on the first business day after the election victory of President-elect Ja… [+5765 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/10/canadian-dollar-vw1026.jpg",
       "PublishedAt": "2023-10-26T11:30:21Z",
       "Content": "The Canadian dollar is falling after the Bank of Canada announced another rate pause and forecast weaker economic growth.Photo by Paul Chiasson/The Canadian Press\r\nArticle content\r\nTodays top headlin… [+10992 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Bank of Canada holds rate at 5%, US dollar surges against loonie",
-      "Description": "Bank of Canada holds rate at 5%, US dollar surges against loonie",
-      "Url": "https://www.investing.com/news/economy/bank-of-canada-holds-rate-at-5-us-dollar-surges-against-loonie-93CH-3208926",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_4_800x533_L_1413112066.jpg",
-      "PublishedAt": "2023-10-25T16:47:57Z",
-      "Content": "The Bank of Canada (BOC) decided to maintain its overnight rate at 5% on Wednesday, in light of a slowing economy and the need to moderate spending and price pressures through monetary policy. This d… [+2188 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Saving money to buy a house? Your dollar goes half as far as it did at the end of 2020, new data shows - NBC News",
-      "Description": "Saving money to buy a house? Your dollar goes half as far as it did at the end of 2020, new data showsNBC News View Full Coverage on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172063747",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-21T14:13:29Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
