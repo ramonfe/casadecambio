@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "gglover@insider.com (George Glover)",
+      "Title": "The US dollar is central to Argentina's plan to fix its broken economy. There's just one hitch.",
+      "Description": "Argentina's new president Javier Milei wants to adopt the greenback to tame sky-high inflation. Here's why his plan won't work.",
+      "Url": "https://www.businessinsider.com/dollarization-us-dollar-peso-argentina-javier-milei-inflation-recession-economy-2023-11",
+      "UrlToImage": "https://i.insider.com/655b688e22cf74a5739a010a?width=1200&format=jpeg",
+      "PublishedAt": "2023-11-22T13:06:51Z",
+      "Content": "Right-wing economist Javier Milei won Argentina's presidential runoff Sunday and that means the country could soon ditch the peso for the US dollar.\r\nAdopting the greenback was one of his core polici… [+3764 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-104810209,width-1200,height-630,imgsize-18774,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2023-10-30T02:36:43Z",
       "Content": "SINGAPORE - The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alongside other major cen… [+3062 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar holds near 150 yen as central bank policy, data deluge awaited",
-      "Description": "Dollar holds near 150 yen as central bank policy, data deluge awaited",
-      "Url": "https://www.investing.com/news/economy/dollar-holds-near-150-yen-as-central-bank-policy-data-deluge-awaited-3212848",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
-      "PublishedAt": "2023-10-30T01:36:48Z",
-      "Content": "By Rae Wee\r\nSINGAPORE (Reuters) - The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alo… [+3105 chars]"
     }
   ]
 }
