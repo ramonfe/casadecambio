@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "GBP/USD exchange rate dips amid rising dollar demand",
+      "Description": "GBP/USD exchange rate dips amid rising dollar demand",
+      "Url": "https://www.investing.com/news/forex-news/gbpusd-exchange-rate-dips-amid-rising-dollar-demand-93CH-3240706",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB750ML_L.jpg",
+      "PublishedAt": "2023-11-22T07:02:03Z",
+      "Content": "The GBP/USD exchange rate experienced a slight decline today, dropping 0.09% to 1.2525 as the dollar saw renewed demand in the morning trading session in Europe. This minor retreat comes after the cu… [+1524 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
       "PublishedAt": "2023-10-30T01:36:48Z",
       "Content": "By Rae Wee\r\nSINGAPORE (Reuters) - The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alo… [+3105 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Dollar holds near 150 yen as central bank policy, data deluge awaited",
-      "Description": "SINGAPORE : The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alongside other major central bank meetings and a slew of economic data releases glob…",
-      "Url": "https://www.channelnewsasia.com/business/dollar-holds-near-150-yen-central-bank-policy-data-deluge-awaited-3882331",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--xPfs9Ao3--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-30t013249z_1_lynxmpej9t01d_rtroptp_3_cenbank-digitalcurrencies.jpg?itok=rjyCqmy0",
-      "PublishedAt": "2023-10-30T01:32:49Z",
-      "Content": "SINGAPORE : The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alongside other major cen… [+3127 chars]"
     }
   ]
 }
