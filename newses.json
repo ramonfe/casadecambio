@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: no reacciona la oferta exportadora y el Banco Central tiene dificultades para comprar de reservas",
+      "Description": "El nuevo esquema 50/50 para exportadores no tracciona, lo que mantiene el volumen operado en mínimos niveles",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-no-reacciona-la-oferta-exportadora-y-el-banco-central-tiene-dificultades-para-comprar-de-nid22112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-fachada-del-banco-central-en-el-microcentro-MP2YXB4FJNBCVFLJDJ2ATP36AI.JPG?auth=caaf1abe5f4efb91286d733606457a9acd3f0ca4a320cc350f293822ef918e10&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-22T20:04:48Z",
+      "Content": "El nuevo dólar exportador, nacido al calor de las gestiones vinculadas a la transición y luego de que el Gobierno saliente se negara a aceptar el pedido del presidente electo, Javier Milei, de aceler… [+3412 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/405/5404890.jpg&wm=1&ang=0",
       "PublishedAt": "2023-11-10T22:09:58Z",
       "Content": "El balance semanal fue negativo para la moneda local a pesar de que en la jornada, el tipo de cambio retrocedió 24 centavos en Citibanamex. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘anda dormido’ ante el dólar: Se cotiza en las 17.83 unidades",
-      "Description": "En ventanillas bancarias, el dólar se vende en 18.32 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/10/peso-dolar-precio-hoy-10-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/glbejnpvjcvdCEjNSgNMzDEL20s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YWSGNAW7DZCTRGOI6EWZGREJ34.jpg",
-      "PublishedAt": "2023-11-10T15:32:56Z",
-      "Content": "El peso mexicano está atrapado en el terreno de las pérdidas contra el dólar, con los inversionistas percibiendo un tono menos restrictivo por parte del Banco de México (Banxico), y la Reserva Federa… [+1416 chars]"
     }
   ]
 }
