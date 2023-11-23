@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cointelegraph"
+      },
+      "Author": "Cointelegraph By Derek Andersen",
+      "Title": "New Zealand dollar stablecoin goes live through local crypto exchange",
+      "Description": "Easy Crypto launched the aptly named New Zealand Dollar Stablecoin (NZDD) in partnership with an Australian blockchain development firm.",
+      "Url": "https://cointelegraph.com/news/new-zealand-dollar-stablecoin-goes-live",
+      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/e576a535-daea-4781-92f5-f52eba67078f.jpg",
+      "PublishedAt": "2023-11-22T02:17:01Z",
+      "Content": "A New Zealand dollar-pegged stablecoin has gone live through a partnership with New Zealand crypto exchange Easy Crypto and Australian blockchain development firm Labrys.\r\nIn a Nov. 22 announcement, … [+1925 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2023-10-28T15:12:48Z",
       "Content": "Bank of New York Mellon Corp decreased its holdings in Dollar General Co. (NYSE:DG – Free Report) by 3.9% in the second quarter, according to the company in its most recent filing with the Securities… [+6025 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Financial Post Staff",
-      "Title": "Live news: Canadian dollar drops after Bank of Canada holds rates — what it means for you",
-      "Description": "The Financial Post brings you the top business stories as they happen for October 26, 2023. Read on for breaking news you need to know.",
-      "Url": "https://financialpost.com/news/live-news-top-business-stories-october-26-2023",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/10/canadian-dollar-vw1026.jpg",
-      "PublishedAt": "2023-10-26T11:30:21Z",
-      "Content": "The Canadian dollar is falling after the Bank of Canada announced another rate pause and forecast weaker economic growth.Photo by Paul Chiasson/The Canadian Press\r\nArticle content\r\nTodays top headlin… [+10992 chars]"
     }
   ]
 }
