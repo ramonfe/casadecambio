@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Roberto Noguez",
+      "Title": "Peso cerrará más fuerte 2023 frente al dólar: encuesta de Citibanamex",
+      "Description": "Forbes México.\n Peso cerrará más fuerte 2023 frente al dólar: encuesta de Citibanamex\n\nAnalistas consultados prevén que el dólar se ubique en 17.85 pesos, y no en 18 unidades, como consideraron en el sondeo previo, pero para 2024 ven un peso más débil. \nPeso …",
+      "Url": "https://www.forbes.com.mx/peso-cerrara-mas-fuerte-2023-frente-al-dolar-encuesta-de-citibanamex/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero03-e1691444514162.webp",
+      "PublishedAt": "2023-11-21T23:56:48Z",
+      "Content": "En las últimas semanas el peso mexicano se ha vuelto a fortalecer frente a su par estadounidense, de hecho, analistas han mejorado sus estimaciones para el tipo de cambio al cierre de este año, de 18… [+2794 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-10T14:14:11Z",
       "Content": "Este viernes 10 de noviembre el precio del dólar en México es de $17,4888, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2144 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY viernes 10 de noviembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 10 de noviembre el tipo de cambio interbancario, se ubica en 17.93 pesos por unidad, con un alza de 0.68 por ciento, según datos de Bloomberg.El peso mexicano subía ayer ligera…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-10-noviembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-11-10T12:12:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 10 de noviembre el tipo de cambiointerbancario, se ubica en 17.93 pesos por unidad, con un alza de 0.68 por ciento, … [+831 chars]"
     }
   ]
 }
