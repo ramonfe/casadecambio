@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "US dollar dips against Mexican peso amid mixed economic signals",
+      "Description": "US dollar dips against Mexican peso amid mixed economic signals",
+      "Url": "https://www.investing.com/news/forex-news/us-dollar-dips-against-mexican-peso-amid-mixed-economic-signals-93CH-3241967",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEAB106U_L.jpg",
+      "PublishedAt": "2023-11-23T09:26:25Z",
+      "Content": "The US dollar experienced a second consecutive day of decline against the Mexican peso, trading around 17.18, as investors weighed a mix of US economic data. Treasury bond yields climbed following an… [+1383 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
       "PublishedAt": "2023-10-30T16:30:48Z",
       "Content": "Iowa State Bank lessened its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 3.0% during the second quarter, according to the company in its most recent disclosure with the Securi… [+5978 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "US dollar slides ahead of central bank meetings, key data this week",
-      "Description": "The U.S. dollar fell on Monday, dropping to a two-week low against the yen, as traders looked ahead to several major central bank meetings and a slew of major economic data releases this week.",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/us-dollar-slides-ahead-of-central-bank-meetings-key-data-this-week/articleshow/104831901.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-104831922,width-1200,height-630,imgsize-69954,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2023-10-30T14:55:42Z",
-      "Content": "The U.S. dollar fell on Monday, dropping to a two-week low against the yen, as traders looked ahead to several major central bank meetings and a slew of major economic data releases this week.The Ban… [+2053 chars]"
     }
   ]
 }
