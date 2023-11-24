@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza tras datos de inflación local y declive global del dólar",
+      "Description": "Forbes México.\n Peso avanza tras datos de inflación local y declive global del dólar\n\nEl peso cotizaba en 17.1594 por dólar, con una ganancia de 0.11% frente al precio de referencia de Reuters del miércoles, en una sesión que se anticipaba de actividad limita…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-tras-datos-de-inflacion-local-y-declive-global-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-peso-dinero-_ACH0046.jpg",
+      "PublishedAt": "2023-11-23T14:17:43Z",
+      "Content": "El peso se apreciaba este jueves ante un debilitamiento global del dólar y luego de que datos mostraron que si bien la inflación general repuntó en la primera quincena de noviembre, el índice subyace… [+832 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 23 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para la este jueves 23 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-23-de-noviembre-nid23112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-23-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-23T14:11:01Z",
+      "Content": "Este jueves 23 de noviembre, el precio del dólar en México es de $17,2133, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2106 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-13T14:56:55Z",
       "Content": "Este lunes 13 de noviembre el precio del dólar en México es de $17,7480, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2183 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Peso mitiga las pérdidas; dólar cierra en $17.64",
-      "Description": "El peso mexicano se apreció este viernes 16 centavos ante el dólar y consiguió recortar su pérdida semanal, un día después que el Banco de México (BdeM) mantuvo estable la tasa de interés, pero desde la Reserva Federal se dieron señales de que los incrementos…",
-      "Url": "https://www.jornada.com.mx/2023/11/11/economia/017n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/2023/11/11/fotos/017n1eco-1.jpg",
-      "PublishedAt": "2023-11-11T10:17:41Z",
-      "Content": "Periódico La JornadaSábado 11 de noviembre de 2023, p. 17\r\nEl peso mexicano se apreció este viernes 16 centavos ante el dólar y consiguió recortar su pérdida semanal, un día después que el Banco de M… [+3257 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Baja dólar a $18.08; vuelve depreciación semanal al peso",
-      "Description": "Después de dos semanas con apreciación el peso regresó las minusvalías y el dólar bajó para venderse en 18.08 pesos.",
-      "Url": "https://www.reforma.com/baja-dolar-a-18-08-vuelve-depreciacion-semanal-al-peso/ar2708771",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/405/5404890.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-11-10T22:09:58Z",
-      "Content": "El balance semanal fue negativo para la moneda local a pesar de que en la jornada, el tipo de cambio retrocedió 24 centavos en Citibanamex. Crédito: AFP"
     }
   ]
 }

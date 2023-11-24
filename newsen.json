@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Argentina hikes taxes on dollar savings and bank card purchases ahead of Milei taking power",
+      "Description": "Argentina hikes taxes on dollar savings and bank card purchases ahead of Milei taking power",
+      "Url": "https://www.investing.com/news/forex-news/argentina-hikes-taxes-on-dollar-savings-and-bank-card-purchases-ahead-of-milei-taking-power-3242153",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEE6H00L_L.jpg",
+      "PublishedAt": "2023-11-23T14:42:11Z",
+      "Content": "(Reuters) - Argentina on Thursday raised taxes on U.S. dollar purchases destined for savings or made with bank cards to protect the central bank's limited reserves, weeks before President-elect Javie… [+835 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-10-31T02:02:29Z",
       "Content": "“Kansas judge blocks new abortion pill reversal law and old clinic regulations statutes”: Jason Alatidd of The Topeka Capital-Journal has this report.\r\nAnd Rachel Mipro of Kansas Reflector has a repo… [+4190 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Iowa State Bank Cuts Stock Position in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Iowa State Bank lessened its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 3.0% during the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The institutional invest…",
-      "Url": "https://www.etfdailynews.com/2023/10/30/iowa-state-bank-cuts-stock-position-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
-      "PublishedAt": "2023-10-30T16:30:48Z",
-      "Content": "Iowa State Bank lessened its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 3.0% during the second quarter, according to the company in its most recent disclosure with the Securi… [+5978 chars]"
     }
   ]
 }
