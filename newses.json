@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso anda bien ‘agradecido’ con el dólar: Se cotiza en las 17.17 unidades",
+      "Description": "En ventanillas bancarias, el dólar se vende en un precio de 17.61 pesos cada uno, de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/23/peso-dolar-precio-hoy-23-de-noviembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Nsc2v6VWDIznyUcDNQIPPeS6Jag=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SXCBRX3WGJAKNGKK26GOJEH7QY.jpg",
+      "PublishedAt": "2023-11-23T17:31:11Z",
+      "Content": "El peso mexicano reporta poco movimientos en una sesión ante una baja liquidez en el mercado debido al feriado del día de Acción de Gracias en EU y después de la publicación de cifras de inflación en… [+1708 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/05/Bolsa-Mexicana-de-Valores-tipo-de-cambio-020523-1.jpg",
       "PublishedAt": "2023-11-13T15:07:30Z",
       "Content": "El peso mexicano arrancaba el lunes con pérdidas en una jornada con pocos datos macroeconómicos y en la que los inversionistas centraban su atención en los datos de inflación estadounidense y de la E… [+1865 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este lunes 13 de noviembre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este lunes 13 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-lunes-13-de-noviembre-nid13112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-13T14:56:55Z",
-      "Content": "Este lunes 13 de noviembre el precio del dólar en México es de $17,7480, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2183 chars]"
     }
   ]
 }
