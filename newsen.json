@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DailyFX"
+      },
+      "Author": "Zain Vawda",
+      "Title": "Australian Dollar Price Action Setups: AUD/USD, GBP/AUD",
+      "Description": "RBA Minutes keep the Aussie Dollar supported. Technical outlook and potential setups for both AUDUSD and GBPAUD.",
+      "Url": "https://www.dailyfx.com/news/australian-dollar-price-action-setups-aud-usd-gbp-aud-20231123.html",
+      "UrlToImage": "https://a.c-dn.net/b/1H9fJA/shutterstock_303515057.jpg",
+      "PublishedAt": "2023-11-23T00:00:38Z",
+      "Content": "AUD/USD, GBP/AUD PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Gold Price Forecast: Rejection at $2000 Level Leaves the Door Open for a Move Lower\r\nTrade Smarter - Sign up for the DailyFX Newsletter\r\nRecei… [+4983 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-104831922,width-1200,height-630,imgsize-69954,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2023-10-30T14:55:42Z",
       "Content": "The U.S. dollar fell on Monday, dropping to a two-week low against the yen, as traders looked ahead to several major central bank meetings and a slew of major economic data releases this week.The Ban… [+2053 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar holds near 150 yen as central bank policy, data deluge awaited",
-      "Description": "The BOJ kicks off its two-day monetary policy meeting on Monday, leading a week which will also see interest rate decisions from the U.S. Federal Reserve and the Bank of England.",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-holds-near-150-yen-as-central-bank-policy-data-deluge-awaited/articleshow/104810153.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-104810209,width-1200,height-630,imgsize-18774,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2023-10-30T02:36:43Z",
-      "Content": "SINGAPORE - The dollar inched broadly higher in cautious trade on Monday and held near 150 yen as traders looked to a policy decision by the Bank of Japan later in the week, alongside other major cen… [+3062 chars]"
     }
   ]
 }
