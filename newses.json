@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso mexicano ‘le pellizca’ unos centavos al dólar: Cotiza en las 17.10 unidades",
+      "Description": "El peso mexicano reanuda sus ganancias en la última jornada bursátil de la semana y le 'pellizca' a dólar unos centavos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/24/peso-mexicano-le-pellizca-unos-centavos-al-dolar-cotiza-en-las-1710-unidades/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mTX1vrxgLGOKRTPH1_COLvU8J_U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/43U7IZYTU5ENRDZVE7UPCHMLIQ.jpg",
+      "PublishedAt": "2023-11-24T16:40:23Z",
+      "Content": "El peso mexicano reanuda sus ganancias en la última jornada bursátil de la semana, a la par que el dólar estadounidense refleja un debilitamiento ante la expectativa de que la Fed ya no subirá su tas… [+1911 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-14T14:19:27Z",
       "Content": "Este martes 14 de noviembre el precio del dólar en México es de $17,6138, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2154 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso mexicano se ‘la canta’ al dólar: Arranca la semana en las 17.58 unidades",
-      "Description": "En ventanilla bancaria, el precio del billete verde es de 18.07 unidades por cada uno, según los datos reportados por Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/13/peso-dolar-precio-hoy-13-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mTX1vrxgLGOKRTPH1_COLvU8J_U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/43U7IZYTU5ENRDZVE7UPCHMLIQ.jpg",
-      "PublishedAt": "2023-11-13T17:04:05Z",
-      "Content": "La especulación en torno a los futuros pasos de la Reserva Federal y que esta pueda mostrarse más restrictiva continúan haciendo eco en el mercado cambiario, llevando al dólar a operar en el terreno … [+1318 chars]"
     }
   ]
 }
