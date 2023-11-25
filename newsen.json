@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DailyFX"
+      },
+      "Author": "Zain Vawda",
+      "Title": "US Dollar Price Action Setups: DXY, EUR/USD, GBP/USD",
+      "Description": "Breaking down USD pairs for potential setups heading into the weekend. Will we get a return of liquidity and an explosive end to the week?",
+      "Url": "https://www.dailyfx.com/news/us-dollar-price-action-setups-dxy-eur-usd-gbp-usd-20231123.html",
+      "UrlToImage": "https://a.c-dn.net/b/4qJw9W/shutterstock_213692761.jpg",
+      "PublishedAt": "2023-11-23T23:30:24Z",
+      "Content": "DXY, EUR/USD, GBP/USD PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Bitcoin Steady as Coinbase (Coin) Emerges as Winner from Binance Saga\r\nRecommended by Zain Vawda\r\nThe Fundamentals of Trend Trading\r\nUS D… [+4081 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://a.c-dn.net/b/2X4nRi/238623168.jpg",
       "PublishedAt": "2023-11-07T20:30:06Z",
       "Content": "AUSTRALIAN DOLLAR PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Bitcoin (BTC/USD) Forecast: Open Interest Surge to Ignite a Fresh Bout of Volatility?\r\nSupercharge your trading prowess with an in-depth anal… [+3820 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Above the Law"
-      },
-      "Author": "Howard Bashman",
-      "Title": "“Pa. Supreme Court race between Carolyn Carluccio and Dan McCaffery has turned into a multi-million dollar showdown; Campaign finance reports released last week show Republican Carolyn Carluccio and Democrat Dan McCaffery have spent millions on ad buys to fill Pennsylvanians’ mailboxes and airwaves”",
-      "Description": "“Pa. Supreme Court race between Carolyn Carluccio and Dan McCaffery has turned into a multi-million dollar showdown; Campaign finance reports released last week show Republican Carolyn Carluccio and Democrat Dan McCaffery have spent millions on ad buys to fil…",
-      "Url": "https://howappealing.abovethelaw.com/2023/10/30/#212262",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-31T02:02:29Z",
-      "Content": "“Kansas judge blocks new abortion pill reversal law and old clinic regulations statutes”: Jason Alatidd of The Topeka Capital-Journal has this report.\r\nAnd Rachel Mipro of Kansas Reflector has a repo… [+4190 chars]"
     }
   ]
 }
