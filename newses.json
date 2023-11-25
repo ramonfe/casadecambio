@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este viernes 24 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para la este viernes 24 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-viernes-24-de-noviembre-nid24112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-24T13:54:53Z",
+      "Content": "Este viernes 24 de noviembre el precio del dólar en México es de $17,1787, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2294 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mTX1vrxgLGOKRTPH1_COLvU8J_U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/43U7IZYTU5ENRDZVE7UPCHMLIQ.jpg",
       "PublishedAt": "2023-11-13T17:04:05Z",
       "Content": "La especulación en torno a los futuros pasos de la Reserva Federal y que esta pueda mostrarse más restrictiva continúan haciendo eco en el mercado cambiario, llevando al dólar a operar en el terreno … [+1318 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano arranca la semana perdiendo frente al dólar",
-      "Description": "La moneda nacional cotizaba en 17.52 unidades por dólar, con pérdidas del 0.44% frente al precio de referencia del viernes.",
-      "Url": "https://aristeguinoticias.com/1311/dinero-y-economia/peso-mexicano-arranca-la-semana-perdiendo-frente-al-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/05/Bolsa-Mexicana-de-Valores-tipo-de-cambio-020523-1.jpg",
-      "PublishedAt": "2023-11-13T15:07:30Z",
-      "Content": "El peso mexicano arrancaba el lunes con pérdidas en una jornada con pocos datos macroeconómicos y en la que los inversionistas centraban su atención en los datos de inflación estadounidense y de la E… [+1865 chars]"
     }
   ]
 }
