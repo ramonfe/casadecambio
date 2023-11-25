@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "NYT",
+      "Title": "Binance Founder Pleads Guilty to Violating Money Laundering Rules [4.3 billion dollar fine!]",
+      "Description": "Changpeng Zhao, the founder of Binance, the largest cryptocurrency exchange in the world, pleaded guilty to money laundering violations, the government said on Tuesday, a stunning blow to the most powerful and influential figure in the global crypto industry.…",
+      "Url": "https://freerepublic.com/focus/f-news/4199043/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2023-11-24T17:36:24Z",
+      "Content": "Skip to comments.\r\nBinance Founder Pleads Guilty to Violating Money Laundering Rules [4.3 billion dollar fine!]NYT ^\r\n | 11/21/23\r\n | David Yaffe-Bellany, Emily Flitter, Matthew Goldstein. Glenn Thru… [+2485 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://usrimg-full.fark.net/2/2K/fark_2KUmB78X0HjDDUcMk5Wpv_8Gcn8.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1699851600&Signature=7Xphn25WiZwzjGOjFzhjQP%2BG6vA%3D",
       "PublishedAt": "2023-11-08T16:59:01Z",
       "Content": "edmo:This is what they already have, built in 2019. I think I see where voters, even Texans, might be coming from here.\r\n[Fark user image 850x485]\r\nIn mrs edmo's hometown, they passed a thing a few y… [+248 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DailyFX"
-      },
-      "Author": "Zain Vawda",
-      "Title": "Australian Dollar Price Action Setups: AUD/USD, GBP/AUD Post RBA Hike",
-      "Description": "The RBA followed through with a rate hike this morning and yet the Aussie Dollar weakened. Where to next for GBP/AUD and AUD/USD?",
-      "Url": "https://www.dailyfx.com/news/australian-dollar-price-action-setups-aud-usd-gbp-aud-post-rba-hike-20231107.html",
-      "UrlToImage": "https://a.c-dn.net/b/2X4nRi/238623168.jpg",
-      "PublishedAt": "2023-11-07T20:30:06Z",
-      "Content": "AUSTRALIAN DOLLAR PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Bitcoin (BTC/USD) Forecast: Open Interest Surge to Ignite a Fresh Bout of Volatility?\r\nSupercharge your trading prowess with an in-depth anal… [+3820 chars]"
     }
   ]
 }
