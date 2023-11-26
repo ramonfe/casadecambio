@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Baja dólar a $17.55; suma peso dos semanas con apreciación",
+      "Description": "El dólar cedió seis centavos en la jornada a 17.55, con lo que el peso se anotó una plusvalía de 10 centavos entre el 17 y 24 de noviembre.",
+      "Url": "https://www.reforma.com/baja-dolar-a-17-55-suma-peso-dos-semanas-con-apreciacion/ar2716248",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/363/5362788.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-11-24T23:44:35Z",
+      "Content": "En la jornada, al menudeo, el tipo de cambio cedió seis centavos a 17.55 pesos a la venta en Citibanamex, segundo día con baja, y a 16.56 pesos a la compra. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/viene-un-ajuste-y-el-regreso-a-las-4TEBVYBZC5DOVAHRZ3BETGVF7U.JPG?auth=59e7f7d57b6e0c3e589a6729a70f2ed5df96f05cc34c7f776ee7eb04fa6752f5&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-14T20:20:47Z",
       "Content": "Exactamente tres meses después de haberlo dispuesto, aunque mientras convalidaba a la vez más y más tipos de cambios diferenciales, el Gobierno procederá mañana a mover el tipo de cambio oficial que … [+5565 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 14 de noviembre",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 14 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-14-de-noviembre-nid14112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-14T14:19:27Z",
-      "Content": "Este martes 14 de noviembre el precio del dólar en México es de $17,6138, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2154 chars]"
     }
   ]
 }
