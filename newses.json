@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se ‘aprovecha’ del dólar y le da la vuelta: Cotiza en 17.03 unidades este lunes",
+      "Description": "El peso mexicano sigue avanzando hacia el piso de las 17 unidades, aprovechando el debilitamiento del dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/27/peso-dolar-precio-hoy-27-de-noviembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/n2KCpH-XhM6C2HEE6Y6Fbh-0ZQw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JLV7IKVDLFEWRAYXWRBFNVINFA.jpg",
+      "PublishedAt": "2023-11-27T16:40:16Z",
+      "Content": "Con la expectativa de que la Fed ya no suba su tasa de interés este año y comience a hacer recortes el 2024, la moneda mexicana sigue avanzando hacia el piso de las 17 unidades, aprovechando el debil… [+1692 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-15T14:16:51Z",
       "Content": "Este miércoles 15 de noviembre el precio del dólar en México es de $17,3917, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2151 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Dólar hoy: luego de tres meses congelado, el tipo de cambio oficial retomó el crawling peg",
-      "Description": "Esta cotización se negocia a $353,05, un avance diario de $2,95 (0,8%); el Gobierno retomó, así, el crawling peg, es decir, las microdevaluaciones diarias",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-luego-de-tres-meses-congelado-el-tipo-de-cambio-oficial-retomo-el-crawling-peg-nid15112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-miercoles-15-632LC6ULW5A3PKEJG4PH4VN4AE.jpg?auth=652d9ec07d9b1c8e05492d59d66aa602d3028f205b85c1e0c775ebed695928ed&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-15T13:40:49Z",
-      "Content": "Hoy, el dólar oficial mayorista retomó el crawling peg (microdevaluaciones diarias). Se trata del primer movimiento que registra después de permanecer tres meses congelado en los $350, una decisión d… [+2297 chars]"
     }
   ]
 }
