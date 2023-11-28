@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Peso retrocede ante dólar, tras comentarios de Heath",
+      "Description": "Peso se depreció y registró su peor desempeño en la región, luego que subgobernador de Banxico dijo que tasa de interés puede bajar en 2024.",
+      "Url": "https://www.reforma.com/peso-retrocede-ante-dolar-tras-comentarios-de-heath/ar2717502",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/457/5456647.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-11-27T22:37:09Z",
+      "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (27 noviembre 2023) .-16:33 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://borderperiodismo.com/wp-content/uploads/2023/11/Boceto-2023-11-15T113428.814.png",
       "PublishedAt": "2023-11-15T14:35:26Z",
       "Content": "Hoy, el peso argentino experimentó una baja del 1,38 % a 355 por cada dólar. Esto sucedió acorde a la aplicación por parte del Banco Central (BCRA) de una devaluación diaria (crawling peg) que se dar… [+1955 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este miércoles 15 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 15 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-miercoles-15-de-noviembre-nid15112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-15T14:16:51Z",
-      "Content": "Este miércoles 15 de noviembre el precio del dólar en México es de $17,3917, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2151 chars]"
     }
   ]
 }
