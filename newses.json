@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza ante un dólar debilitado tras datos económicos de EU",
+      "Description": "Forbes México.\n Peso avanza ante un dólar debilitado tras datos económicos de EU\n\nIndicadores económicos de Estados Unidos publicados este martes fueron considerados negativos por el mercado.\nPeso avanza ante un dólar debilitado tras datos económicos de EU\nFo…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-ante-un-dolar-debilitado-tras-datos-economicos-de-eu/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-pesos-economia-_ACH0064.jpg",
+      "PublishedAt": "2023-11-28T22:41:30Z",
+      "Content": "El peso avanzó ante un debilitamiento global del dólar tras una sesión marcada por la publicación de cifras del mercado inmobiliario y la confianza de los consumidores estadounidenses.\r\nDurante la jo… [+1014 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/lizUtBSYcBWX4MesqB7tTcbVvDY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GSCUWW6SKVHZNAAEU477UWCV5E.jpeg",
       "PublishedAt": "2023-11-16T16:52:47Z",
       "Content": "El peso mexicano anticipaba una quinta sesión consecutiva de avances frente al dólar, que sufrió' por un incremento mayor al esperado en las solicitudes iniciales de subsidio por desempleo en Estados… [+1526 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este jueves 16 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 16 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-jueves-16-de-noviembre-nid16112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-16T14:00:07Z",
-      "Content": "Este jueves 16 de noviembre el precio del dólar en México es de $17,3387, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2215 chars]"
     }
   ]
 }
