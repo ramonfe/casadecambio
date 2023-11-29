@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este martes 28 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 28 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-martes-28-de-noviembre-nid28112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-28T14:41:03Z",
+      "Content": "Este martes 28 de noviembre, el precio del dólar en México es de $17,1555, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2241 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-hizo-la-mayor-recompra-de-NLMFH6PJUZA3RGGXLU2Y6Y2C24.JPG?auth=5845c119b51c9d493abc5e936674c3b58e361247361901f8c8384fe5901f7865&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-15T19:59:01Z",
       "Content": "El Gobierno cumplió con uno de los puntos que había pactado con el Fondo Monetario Internacional (FMI) y luego de tres meses descongeló el dólar oficial. Hoy, el tipo de cambio mayoristasubió de $350… [+3734 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso llega ‘indeciso’ a la quincena: Se cotiza en las 17.33 unidades frente al dólar",
-      "Description": "El dólar estadounidense se cotiza en un precio de 17.77 pesos en ventanilla bancaria, según cifras de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/15/peso-dolar-precio-hoy-15-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZtKOJ847WMO9M0Wp1Bc0ygbX03o=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DNX26ZYXYVBVNFJWUGGMMDQ5KI.jpeg",
-      "PublishedAt": "2023-11-15T16:53:16Z",
-      "Content": "El peso mexicano opera con movimientos marginales frente al dólar después de que se dieron a conocer los datos de la inflación al productor, en los que el componente subyacente se situó en una tasa a… [+1419 chars]"
     }
   ]
 }
