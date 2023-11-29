@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso amanece con ‘frío’ y pierde frente al dólar: Cotiza en 17.18 unidades",
+      "Description": "El peso mexicano extiende sus retrocesos frente al dólar de EU, mientras los inversionistas esperan más información económica y de la Fed.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/28/peso-amanece-con-frio-y-pierde-frente-al-dolar-cotiza-en-1718-unidades/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/yP7_2clMBqHqR4Jrupp0GODLIXo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/VWHBHEO7JJDQXLEUX5UH4YCX5M.jpeg",
+      "PublishedAt": "2023-11-28T16:06:23Z",
+      "Content": "El peso mexicano extiende sus retrocesos frente al dólar estadounidense, mientras los inversionistas están a la espera de más información económica, así como declaraciones por parte de formuladores d… [+1612 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-11-16T12:25:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 16 de noviembre el tipo de cambio interbancario, se ubica en 17.29 pesos por unidad, con una pérdida de 0.03 por cie… [+750 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Descongelaron el dólar oficial y el Banco Central se alzó con la mayor compra de reservas del mes",
-      "Description": "La divisa cerró a $352,95 y el volumen saltó 60% ante el anunciado final del tipo de cambio diferencial exportador; si bien está previsto para el viernes, se mantiene en suspenso según el resultado electoral del domingo",
-      "Url": "https://www.lanacion.com.ar/economia/descongelaron-el-dolar-oficial-y-el-banco-central-se-alzo-con-la-mayor-compra-de-reservas-del-mes-nid15112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-hizo-la-mayor-recompra-de-NLMFH6PJUZA3RGGXLU2Y6Y2C24.JPG?auth=5845c119b51c9d493abc5e936674c3b58e361247361901f8c8384fe5901f7865&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-15T19:59:01Z",
-      "Content": "El Gobierno cumplió con uno de los puntos que había pactado con el Fondo Monetario Internacional (FMI) y luego de tres meses descongeló el dólar oficial. Hoy, el tipo de cambio mayoristasubió de $350… [+3734 chars]"
     }
   ]
 }
