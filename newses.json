@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Baja marginal del peso mexicano frente al dólar",
+      "Description": "Luego de acercarse nuevamente al nivel de 17 unidades por dólar durante la apertura de este lunes, el peso mexicano dio media vuelta para cerrar en 17.1245 unidades por dólar spot, debido al temor de los inversionistas de que podría reducirse el diferencial c…",
+      "Url": "https://www.jornada.com.mx/2023/11/28/economia/021n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2023-11-28T08:59:07Z",
+      "Content": "Periódico La JornadaMartes 28 de noviembre de 2023, p. 21\r\nLuego de acercarse nuevamente al nivel de 17 unidades por dólar durante la apertura de este lunes, el peso mexicano dio media vuelta para ce… [+974 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZtKOJ847WMO9M0Wp1Bc0ygbX03o=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DNX26ZYXYVBVNFJWUGGMMDQ5KI.jpeg",
       "PublishedAt": "2023-11-15T16:53:16Z",
       "Content": "El peso mexicano opera con movimientos marginales frente al dólar después de que se dieron a conocer los datos de la inflación al productor, en los que el componente subyacente se situó en una tasa a… [+1419 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Borderperiodismo.com"
-      },
-      "Author": "#BorderPeriodismo",
-      "Title": "El Banco Central comenzó con las devaluaciones diarias: el dólar oficial subió $3",
-      "Description": "Hoy, el peso argentino experimentó una baja del 1,38 % a 355 por cada dólar. Esto sucedió acorde a la aplicación por parte del Banco Central (BCRA) de una devaluación diaria (crawling peg) que se dará durante los siguientes meses con razón de lograr devaluaci…",
-      "Url": "https://borderperiodismo.com/2023/11/15/el-banco-central-comenzo-con-las-devaluaciones-diarias-subio-3-el-dolar-oficial/",
-      "UrlToImage": "https://borderperiodismo.com/wp-content/uploads/2023/11/Boceto-2023-11-15T113428.814.png",
-      "PublishedAt": "2023-11-15T14:35:26Z",
-      "Content": "Hoy, el peso argentino experimentó una baja del 1,38 % a 355 por cada dólar. Esto sucedió acorde a la aplicación por parte del Banco Central (BCRA) de una devaluación diaria (crawling peg) que se dar… [+1955 chars]"
     }
   ]
 }
