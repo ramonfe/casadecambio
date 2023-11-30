@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": "Shreyashi Sanyal",
+      "Title": "New Zealand dollar jumps 1% as central bank holds rates, warns of more hikes",
+      "Description": "The central bank noted that inflation remained too high and said monetary policy will need to remain restrictive in order to control it.",
+      "Url": "https://www.cnbc.com/2023/11/29/new-zealand-dollar-spikes-as-rbnz-holds-rates-warns-of-more-hikes.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/101367997-151945889.jpg?v=1633489613&w=1920&h=1080",
+      "PublishedAt": "2023-11-29T03:12:20Z",
+      "Content": "Pedestrians walk past the Reserve Bank of New Zealand headquarters in Wellington, New Zealand, on Thursday, Sept. 13, 2012.\r\nThe New Zealand dollar jumped 1% to nearly 0.62 against the U.S. dollar af… [+1102 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_800x533_L_1414427815.jpg",
       "PublishedAt": "2023-11-08T19:43:36Z",
       "Content": "The global financial system faces looming risks, including an escalating dependence on the U.S. dollar and the compartmentalization of global trade, warned Pierre-Olivier Gourinchas, chief economist … [+1430 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Texas voters decide that building another multi-million dollar high school football stadium, might not be the best use of tax payers money. But a fabulous new art center for the kids along with a few new schools is. I guess it must be opposite day [Interesting]",
-      "Description": "Texas voters decide that building another multi-million dollar high school football stadium, might not be the best use of tax payers money. But a fabulous new art center for the kids along with a few new schools is. I guess it must be opposite day",
-      "Url": "https://www.fark.com/comments/13049190/Texas-voters-decide-that-building-another-multi-million-dollar-high-school-football-stadium-might-not-be-best-use-of-tax-payers-money-But-a-fabulous-new-art-center-for-kids-along-with-a-few-new-schools-is-I-guess-it-must-be-opposite-day",
-      "UrlToImage": "https://usrimg-full.fark.net/2/2K/fark_2KUmB78X0HjDDUcMk5Wpv_8Gcn8.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1699851600&Signature=7Xphn25WiZwzjGOjFzhjQP%2BG6vA%3D",
-      "PublishedAt": "2023-11-08T16:59:01Z",
-      "Content": "edmo:This is what they already have, built in 2019. I think I see where voters, even Texans, might be coming from here.\r\n[Fark user image 850x485]\r\nIn mrs edmo's hometown, they passed a thing a few y… [+248 chars]"
     }
   ]
 }
