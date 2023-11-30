@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CoinDesk"
+      },
+      "Author": "Oliver Knight",
+      "Title": "Troubled Crypto Exchange Zipmex Proposes to Pay Creditors 3.35 Cents on the Dollar: Bloomberg",
+      "Description": "The Singapore-based firm has proposed to pay creditors 3.35 cents on the dollar in its latest restructuring plan, according to Bloomberg, which cites people familiar with the matter.",
+      "Url": "https://www.coindesk.com/business/2023/11/29/troubled-crypto-exchange-zipmex-proposes-to-pay-creditors-335-cents-on-the-dollar-bloomberg/",
+      "UrlToImage": "https://www.coindesk.com/resizer/LcLnErWAjCzPfPFAsUndX1JwPMs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YO3AEVNBIFA6PLG6T6VWUAZS64.jpg",
+      "PublishedAt": "2023-11-29T10:02:20Z",
+      "Content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+595 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1109%2Fr1250722_1296x729_16%2D9.jpg",
       "PublishedAt": "2023-11-09T16:52:36Z",
       "Content": "The No. 1 jersey Cam Newton wore with the Carolina Panthers was not his first choice.\r\nWhen the Auburn Tigers standout quarterback was drafted as the No. 1 pick in 2011, he hoped to keep the jersey n… [+1416 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Sydney Lake",
-      "Title": "SoCal housing is so unaffordable that billionaire philanthropist MacKenzie Scott has made yet another multi-million dollar donation to fix the problem",
-      "Description": "Scott donated $15 million to Culver City, Calif.-based Century Housing.",
-      "Url": "https://fortune.com/2023/11/08/southern-california-housing-billionaire-mackenzie-scott-donation/",
-      "UrlToImage": "https://content.fortune.com/wp-content/uploads/2023/11/Mackenzie-Scott-GettyImages-902233088.jpg?resize=1200,600",
-      "PublishedAt": "2023-11-08T22:09:19Z",
-      "Content": "MacKenzie Scott is the gift that keeps on givingliterally. The billionaire ex-wife of Amazon founder Jeff Bezos has made it her mission to offload much of the fortune she gained from their divorce, a… [+3492 chars]"
     }
   ]
 }
