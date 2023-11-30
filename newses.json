@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 29 de noviembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 29 de noviembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-29-de-noviembre-nid29112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-29T14:23:49Z",
+      "Content": "Este miércoles 29 de noviembre, el precio del dólar en México es de $17,1357, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2442 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/cancilleres-rusia-venezuela-e1700191886762.jpeg?quality=100&strip=info",
       "PublishedAt": "2023-11-17T03:32:22Z",
       "Content": "(CNN en Español) -- El canciller de Rusia, Sergey Lavrov, y su homólogo de Venezuela, Yván Gil, se reunieron este jueves en Moscú para revisar el intercambio comercial entre los dos países y acordaro… [+3610 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Dólar le pone un ‘estate quieto’ al peso: Se cotiza en las 17.31 unidades",
-      "Description": "El precio del dólar en ventanilla bancaria es de 17.71 pesos cada uno, según datos de Citibamamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/16/peso-dolar-precio-hoy-16-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/lizUtBSYcBWX4MesqB7tTcbVvDY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GSCUWW6SKVHZNAAEU477UWCV5E.jpeg",
-      "PublishedAt": "2023-11-16T16:52:47Z",
-      "Content": "El peso mexicano anticipaba una quinta sesión consecutiva de avances frente al dólar, que sufrió' por un incremento mayor al esperado en las solicitudes iniciales de subsidio por desempleo en Estados… [+1526 chars]"
     }
   ]
 }
