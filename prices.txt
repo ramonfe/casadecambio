@@ -3,7 +3,7 @@
         {
             "bank_id": 3,
             "bank_name": "SANTANDER",
-            "buy": 16.21,
+            "buy": 16.10,
             "sell": 17.8,
             "date": "2022-05-02 17:10:09",
             "prev_buy": 16.10,
@@ -21,8 +21,8 @@
         {
             "bank_id": 28,
             "bank_name": "BANCAMIFEL",
-            "buy": 16.5,
-            "sell": 17.4,
+            "buy": 16.9,
+            "sell": 17.8,
             "date": "2023-08-21 10:50:08",
             "prev_buy": 16.9,
             "prev_sell": 17.8
