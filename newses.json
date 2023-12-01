@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY jueves 30 de noviembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 de noviembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.72 por ciento, según datos de Bloomberg.El peso mexicano retrocedía ay…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-30-noviembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-11-30T12:14:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 de noviembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.72 por cie… [+775 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-17T14:04:01Z",
       "Content": "Este viernes 17 de noviembre el precio del dólar en México es de $17,2708, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2282 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Ivonne Valdés",
-      "Title": "Cancilleres de Rusia y Venezuela buscan cómo dejar de usar el dólar como moneda del intercambio comercial",
-      "Description": "El canciller de Rusia, Sergey Lavrov, y su homólogo de Venezuela, Yván Gil, se reunieron este jueves en Moscú para revisar el intercambio comercial entre los dos países y acordaron estudiar cómo dejar de usar el dólar estadounidense como moneda de pago.",
-      "Url": "https://cnnespanol.cnn.com/2023/11/16/canciller-rusia-venezuela-dejar-dolar-intercambio-comercial-orix/",
-      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/cancilleres-rusia-venezuela-e1700191886762.jpeg?quality=100&strip=info",
-      "PublishedAt": "2023-11-17T03:32:22Z",
-      "Content": "(CNN en Español) -- El canciller de Rusia, Sergey Lavrov, y su homólogo de Venezuela, Yván Gil, se reunieron este jueves en Moscú para revisar el intercambio comercial entre los dos países y acordaro… [+3610 chars]"
     }
   ]
 }
