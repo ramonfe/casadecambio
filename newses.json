@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Dólar se vende $17.84; se aprecia peso en noviembre",
+      "Description": "Después de tres meses con minusvalías para el peso, el dólar bajó 65 centavos a 17.84 unidades, generando apreciación para el peso.",
+      "Url": "https://www.reforma.com/dolar-se-vende-17-84-se-aprecia-peso-en-noviembre/ar2719557",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/514/5513040.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-11-30T23:08:37Z",
+      "Content": "02 MIN 00 SEG\r\nErnesto Sarabia\r\nCd. de México (30 noviembre 2023) .-17:07 hrs"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
       "PublishedAt": "2023-11-17T23:18:16Z",
       "Content": "En la sesión, el tipo de cambio en el mercado minorista se ofreció a 17.65 unidades y se adquirió a 16.62 pesos. Crédito: AP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "‘El Buen Fin’ del peso frente al dólar: Se enfila a ganar la semana con avance de 3%",
-      "Description": "En ventanillas bancarias, el dólar se vende en 17.65 pesos de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/17/peso-dolar-precio-hoy-17-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/uXyF9JJn3pnfpwHz3-yuwc_l10E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6P5V2GKNRVFOFOQMU5OBQIZXXM.jpg",
-      "PublishedAt": "2023-11-17T15:22:57Z",
-      "Content": "El peso mexicano se encarrila a cerrar la semana con ganancias frente al dólar gracias a la especulación de que la Reserva Federal no aplicará más aumentos a la tasa de interés y que incluso, podría … [+2409 chars]"
     }
   ]
 }
