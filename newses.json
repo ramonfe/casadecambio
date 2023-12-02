@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso acumula en el año ganancia de 10.9% frente al dólar",
+      "Description": "Noviembre fue un mes de fuertes alzas en los mercados financieros en el mundo. Con un dólar como el principal perdedor en el penúltimo mes de 2023, el peso y el mercado accionario mexicano le supieron sacar provecho.",
+      "Url": "https://www.jornada.com.mx/2023/12/01/economia/018n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/2023/12/01/fotos/018n1eco-1.jpg",
+      "PublishedAt": "2023-12-01T08:32:10Z",
+      "Content": "Periódico La JornadaViernes 1º de diciembre de 2023, p. 18\r\nNoviembre fue un mes de fuertes alzas en los mercados financieros en el mundo. Con un dólar como el principal perdedor en el penúltimo mes … [+2990 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2023-11-20T12:26:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 20 de noviembre el tipo de cambiointerbancario, se ubica en 17.19 pesos por unidad, con una pérdida de 0.23 por cien… [+813 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia y AFP",
-      "Title": "Dólar se vende a $17.65; peso registra plusvalía en semana",
-      "Description": "En bancos el tipo de cambio disminuyó 43 centavos en la semana a 17.65 pesos en medio de especulaciones sobre la política monetaria de Fed.",
-      "Url": "https://www.reforma.com/dolar-se-vende-a-17-65-peso-registra-plusvalia-en-semana/ar2712648",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-11-17T23:18:16Z",
-      "Content": "En la sesión, el tipo de cambio en el mercado minorista se ofreció a 17.65 unidades y se adquirió a 16.62 pesos. Crédito: AP"
     }
   ]
 }
