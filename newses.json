@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso inicia diciembre con el pie derecho: gana 1.20% ante un débil dólar",
+      "Description": "Forbes México.\n Peso inicia diciembre con el pie derecho: gana 1.20% ante un débil dólar\n\nEl dólar se debilitó después de que el presidente de la Fed prometió actuar con cautela respecto a las tasas de interés en EU.\nPeso inicia diciembre con el pie derecho: …",
+      "Url": "https://www.forbes.com.mx/peso-inicia-diciembre-con-el-pie-derecho-gana-1-20-ante-un-debil-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2023-12-01T22:28:00Z",
+      "Content": "El peso se apreció este viernes ante un debilitamiento global del dólar, después de que el presidente de la Reserva Federal (Fed), Jerome Powell, prometió actuar con cautela respecto a las tasas de i… [+1579 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/E4Nl2HOkxyu8FySLYqyhDQ5kjAE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PBFCQEA6VFHCHPKCDAVCID6UY4.jpg",
       "PublishedAt": "2023-11-20T19:12:15Z",
       "Content": "El peso mexicano se acerca a romper el piso de las 17 unidades frente al dólar este 20 de noviembre, día del Aniversario de la Revolución Mexicana.\r\nDe acuerdo con datos de Bloomberg, la moneda nacio… [+1690 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este lunes 20 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 20 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-lunes-20-de-noviembre-nid20112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-20T14:38:37Z",
-      "Content": "Este lunes 20 de noviembre el precio del dólar en México es de $17,2708, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2308 chars]"
     }
   ]
 }
