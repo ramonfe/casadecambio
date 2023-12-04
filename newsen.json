@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "Confounded Interest",
+      "Title": "Cryptos Soar After Largest Inflows In Two Years As US Dollar Purchasing Power DOWN -16.5% Since Covid (M2 Money UP 35.3%)",
+      "Description": "Joe Biden has a new name: the crypt keeper. As in the person through his economic screw-ups is causing a massive inflow to cryptos. Anticipation of an eventual US spot Bitcoin ETF – which Bloomberg’s analysts assign a 90% probability of being approved by the …",
+      "Url": "https://freerepublic.com/focus/f-bloggers/4200960/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2023-12-03T17:40:17Z",
+      "Content": "Skip to comments.\r\nCryptos Soar After Largest Inflows In Two Years As US Dollar Purchasing Power DOWN -16.5% Since Covid (M2 Money UP 35.3%) Confounded Interest ^\r\n | 12/03/2023\r\n | Anthony B. Sander… [+3726 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI7N017_L.jpg",
       "PublishedAt": "2023-11-13T17:34:39Z",
       "Content": "Bangladesh's central bank has reaffirmed its stance on maintaining a fixed exchange rate for the US dollar, as part of its ongoing efforts to stabilize the local currency and manage the dollar crisis… [+1401 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Commerce Bank Decreases Stock Holdings in Dollar General Co. (NYSE:DG)",
-      "Description": "Commerce Bank decreased its holdings in Dollar General Co. (NYSE:DG – Free Report) by 52.6% in the second quarter, Holdings Channel.com reports. The institutional investor owned 16,145 shares of the company’s stock after selling 17,932 shares during the perio…",
-      "Url": "https://www.etfdailynews.com/2023/11/12/commerce-bank-decreases-stock-holdings-in-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2023-11-12T13:10:41Z",
-      "Content": "Commerce Bank decreased its holdings in Dollar General Co. (NYSE:DG – Free Report) by 52.6% in the second quarter, Holdings Channel.com reports. The institutional investor owned 16,145 shares of the … [+5567 chars]"
     }
   ]
 }
