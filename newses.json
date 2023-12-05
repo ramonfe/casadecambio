@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "El nuevo dólar: cuáles serían los efectos de un tipo de cambio a $650",
+      "Description": "Si el tipo de cambio mayorista alcanza un valor menor al esperable, podrían seguir el cepo y la brecha cambiaria, pero tendría un menor impacto en la inflación",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/el-nuevo-dolar-cuales-serian-los-efectos-de-un-tipo-de-cambio-a-650-nid04122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/podria-converger-el-dolar-hasta-los-F2ZJ3WN6CJHT7IVXEMUVM22HDI.jpg?auth=f76205d40a201a5f907bd517a1e3d52bb4cd3c2adf20ebaef7bb850c241119a2&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-04T15:11:18Z",
+      "Content": "En los últimos cuatro años, el dólar mayorista se fue atrasando hasta alcanzar niveles mínimos desde la unificación cambiaria de 2015. Si bien la estrategia del Gobierno era que esta cotización sirvi… [+3900 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/cLvS5Fg62_n9ZOCLNnD7YMRRg2Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3HPUYNXIC5B43M7V5Y7OKBHBG4.jpg",
       "PublishedAt": "2023-11-21T15:30:42Z",
       "Content": "El peso mexicano muestra una depreciación marginal en el inicio de la jornada de este 21 de diciembre, a la par de que se presenta un debilitamiento para el dólar, esto ante la expectativa de que la … [+1437 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este martes 21 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 21 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-martes-21-de-noviembre-nid21112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-21T14:00:03Z",
-      "Content": "Este martes 21 de noviembre el precio del dólar en México es de $17,2175, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2257 chars]"
     }
   ]
 }
