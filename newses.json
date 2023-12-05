@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 4 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 4 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-4-de-diciembre-nid04122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-04T13:59:36Z",
+      "Content": "Este lunes 4 de diciembre, el precio del dólar en México es de $17,2143, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2284 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-21T14:00:03Z",
       "Content": "Este martes 21 de noviembre el precio del dólar en México es de $17,2175, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2257 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Felipe Gazcón",
-      "Title": "Peso ‘huele’ el piso de las 17 unidades vs. el dólar: Se cotiza en 17.08",
-      "Description": "En ventanillas bancarias, el dólar se vende en 17.65 unidades cada uno, de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/20/peso-dolar-precio-hoy-20-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/E4Nl2HOkxyu8FySLYqyhDQ5kjAE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PBFCQEA6VFHCHPKCDAVCID6UY4.jpg",
-      "PublishedAt": "2023-11-20T19:12:15Z",
-      "Content": "El peso mexicano se acerca a romper el piso de las 17 unidades frente al dólar este 20 de noviembre, día del Aniversario de la Revolución Mexicana.\r\nDe acuerdo con datos de Bloomberg, la moneda nacio… [+1690 chars]"
     }
   ]
 }
