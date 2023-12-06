@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 5 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 5 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-5-de-diciembre-nid05122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-05T14:20:41Z",
+      "Content": "Este martes 5 de diciembre, el precio del dólar en México es de $17,406, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2104 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-no-pudo-extender-su-racha-recomprando-LE65XPNXL5GOJCJLRAIJM5TAIQ.JPG?auth=d01e1cd191207b10896ca34cb86ef18182d4d36fd3e639befe28d6228a6dd243&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-21T19:47:32Z",
       "Content": "El Banco Central (BCRA) no pudo mantener su racha compradora de reservas en la jornada debut del nuevo dólar exportador, un tipo de cambio que ronda los $618\r\n tomando en cuenta que permite a los ben… [+3287 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso regresa ‘dormido’ del puente frente al dólar: Se cotiza en las 17.12 unidades",
-      "Description": "El precio del dólar en ventanillas bancarias es de 17.59 pesos cada uno, de acuerdo con los datos reportados por Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/21/peso-dolar-precio-hoy-21-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/cLvS5Fg62_n9ZOCLNnD7YMRRg2Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3HPUYNXIC5B43M7V5Y7OKBHBG4.jpg",
-      "PublishedAt": "2023-11-21T15:30:42Z",
-      "Content": "El peso mexicano muestra una depreciación marginal en el inicio de la jornada de este 21 de diciembre, a la par de que se presenta un debilitamiento para el dólar, esto ante la expectativa de que la … [+1437 chars]"
     }
   ]
 }
