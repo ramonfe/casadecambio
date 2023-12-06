@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "El nuevo dólar: en el principal sector económico ya piensan en los efectos de un tipo de cambio a $650",
+      "Description": "Ruralistas consultados indicaron que ese valor “viene bien” si ayuda a achicar la brecha cambiaria; destacaron que se necesita una paridad unificada",
+      "Url": "https://www.lanacion.com.ar/economia/campo/el-nuevo-dolar-en-el-principal-sector-economico-ya-piensan-en-los-efectos-de-un-tipo-de-cambio-a-650-nid05122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-el-sector-agro-vienen-reclamando-por-la-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-05T15:50:56Z",
+      "Content": "En el campo comenzaron a hacerse eco de las declaraciones del futuro ministro del Interior, Guillermo Francos, que el último fin de semana dijo que el dólar a 600, 650 pesos sería razonable.En la dir… [+4857 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘toma aire’ después de caída frente al dólar: Se cotiza en las 17.44 unidades",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.91 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/05/precio-dolar-precio-hoy-5-de-diciembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/hfVTQaVOP2-nAdwiBg6REmxlBxU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Y5G7FGXWGFFKVNLPWFEWCGPIPQ.jpg",
+      "PublishedAt": "2023-12-05T15:44:09Z",
+      "Content": "El peso mexicano arranca las operaciones de este martes con un avance moderado frente al dólar, mientras el mercado está a la espera de la publicación de información económica relevante, como el repo… [+1343 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/21/junta-banco-central-estadunidense-mostro.jpg",
       "PublishedAt": "2023-11-21T22:27:00Z",
       "Content": "El peso mexicano se depreció 0.44 por ciento frente al precio de referencia del lunes, y cotizó en 17.18 unidades por dólar estadunidense al cierre de mercados de este martes 21 de noviembre de 2023.… [+1101 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Melisa Reinhold",
-      "Title": "Dólar: el mercado le puso valor al tipo de cambio oficial para después de que Milei asuma",
-      "Description": "Los contratos de cobertura registraron fuertes ajustes, con alzas de hasta un 18,44% para diciembre y del 20,11% para enero",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-el-mercado-le-puso-valor-al-tipo-de-cambio-oficial-para-despues-de-que-milei-asuma-nid21112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/para-el-cierre-de-diciembre-luego-de-que-javier-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-21T21:42:42Z",
-      "Content": "El mercado de futuros descuenta que en diciembre habrá una corrección cambiaria. Este martes, primera rueda hábil tras el triunfo de Javier Milei en el balotaje, los contratos de dólar futuro se disp… [+3362 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El Banco Central no pudo sostener la recompra de reservas, en el debut del dólar 50/50",
-      "Description": "Cerró sus intervenciones sobre la plaza oficial con saldo neutro, en una rueda de paupérrimo volumen",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-no-pudo-sostener-la-recompra-de-reservas-en-el-debut-del-dolar-5050-nid21112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-no-pudo-extender-su-racha-recomprando-LE65XPNXL5GOJCJLRAIJM5TAIQ.JPG?auth=d01e1cd191207b10896ca34cb86ef18182d4d36fd3e639befe28d6228a6dd243&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-21T19:47:32Z",
-      "Content": "El Banco Central (BCRA) no pudo mantener su racha compradora de reservas en la jornada debut del nuevo dólar exportador, un tipo de cambio que ronda los $618\r\n tomando en cuenta que permite a los ben… [+3287 chars]"
     }
   ]
 }
