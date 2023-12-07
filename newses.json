@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso inicia sus ‘preposadas’: Gana 12 centavos al dólar tras datos de empleo en EU",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.83 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/06/peso-dolar-precio-hoy-6-de-diciembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/02FIDpicqfquc8UBQ-Xlk0gGXIs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KMYJ4JESIVFYTLRRQZF7LAD2QM.jpg",
+      "PublishedAt": "2023-12-06T16:30:54Z",
+      "Content": "Los recientes datos sobre el desempeño del mercado laboral de Estados Unidos apuntan a un mayor enfriamiento, lo que sostiene la idea de los operadores acerca de que la Reserva Federal no necesitará … [+1493 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-22T14:05:19Z",
       "Content": "Este miércoles 22 de noviembre, el precio del dólar en México es de $17,2102, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2241 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Roberto Noguez",
-      "Title": "Peso cerrará más fuerte 2023 frente al dólar: encuesta de Citibanamex",
-      "Description": "Forbes México.\n Peso cerrará más fuerte 2023 frente al dólar: encuesta de Citibanamex\n\nAnalistas consultados prevén que el dólar se ubique en 17.85 pesos, y no en 18 unidades, como consideraron en el sondeo previo, pero para 2024 ven un peso más débil. \nPeso …",
-      "Url": "https://www.forbes.com.mx/peso-cerrara-mas-fuerte-2023-frente-al-dolar-encuesta-de-citibanamex/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero03-e1691444514162.webp",
-      "PublishedAt": "2023-11-21T23:56:48Z",
-      "Content": "En las últimas semanas el peso mexicano se ha vuelto a fortalecer frente a su par estadounidense, de hecho, analistas han mejorado sus estimaciones para el tipo de cambio al cierre de este año, de 18… [+2794 chars]"
     }
   ]
 }
