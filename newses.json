@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 6 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 6 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-6-de-diciembre-nid06122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-06T14:24:24Z",
+      "Content": "Este miércoles 6 de diciembre, el precio del dólar en México es de $17,4215, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2156 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero03-e1691444514162.webp",
       "PublishedAt": "2023-11-21T23:56:48Z",
       "Content": "En las últimas semanas el peso mexicano se ha vuelto a fortalecer frente a su par estadounidense, de hecho, analistas han mejorado sus estimaciones para el tipo de cambio al cierre de este año, de 18… [+2794 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso termina cediendo 0.44% frente al dólar tras una jornada de altas y bajas",
-      "Description": "El peso mexicano se depreció 0.44 por ciento frente al precio de referencia del lunes, y cotizó en17.18 unidades por dólar estadunidense al cierre de mercados de estemartes 21 de noviembre de 2023.La divisa nacional retrocedió después de que minutas del más r…",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-martes-21-de-noviembre-de-2023-peso-cierra-en-17-18",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/21/junta-banco-central-estadunidense-mostro.jpg",
-      "PublishedAt": "2023-11-21T22:27:00Z",
-      "Content": "El peso mexicano se depreció 0.44 por ciento frente al precio de referencia del lunes, y cotizó en 17.18 unidades por dólar estadunidense al cierre de mercados de este martes 21 de noviembre de 2023.… [+1101 chars]"
     }
   ]
 }
