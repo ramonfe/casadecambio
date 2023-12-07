@@ -3,8 +3,8 @@
         {
             "bank_id": 3,
             "bank_name": "SANTANDER",
-            "buy": 16.15,
-            "sell": 18.85,
+            "buy": 16.2,
+            "sell": 17.9,
             "date": "2022-05-02 17:10:09",
             "prev_buy": 16.10,
             "prev_sell": 17.80
@@ -12,8 +12,8 @@
         {
             "bank_id": 15,
             "bank_name": "BANJERCITO",
-            "buy": 16.29,
-            "sell": 17.79,
+            "buy": 16.3,
+            "sell": 17.8,
             "date": "2022-05-02 17:10:09",
             "prev_buy": 16.18,
             "prev_sell": 17.68
@@ -21,8 +21,8 @@
         {
             "bank_id": 28,
             "bank_name": "BANCAMIFEL",
-            "buy": 16.9,
-            "sell": 17.8,
+            "buy": 16.8,
+            "sell": 17.7,
             "date": "2023-08-21 10:50:08",
             "prev_buy": 16.9,
             "prev_sell": 17.8
