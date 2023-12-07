@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "'America is in serious trouble': Robert Kiyosaki warns the US is broke, bankrupt, and our dollar is 'trash' — says that printing money to solve problems can't go on much longer. Is he right?",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_97de4375-ac94-4ee4-abc1-eba5692c9939",
+      "UrlToImage": null,
+      "PublishedAt": "2023-12-06T11:00:00Z",
+      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
       "PublishedAt": "2023-11-14T13:28:52Z",
       "Content": "1ST Source Bank trimmed its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 7.7% in the second quarter, according to the company in its most recent filing with the Securities and … [+6008 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Bangladesh central bank insists on fixed dollar rate amid currency crisis",
-      "Description": "Bangladesh central bank insists on fixed dollar rate amid currency crisis",
-      "Url": "https://www.investing.com/news/forex-news/bangladesh-central-bank-insists-on-fixed-dollar-rate-amid-currency-crisis-93CH-3232792",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI7N017_L.jpg",
-      "PublishedAt": "2023-11-13T17:34:39Z",
-      "Content": "Bangladesh's central bank has reaffirmed its stance on maintaining a fixed exchange rate for the US dollar, as part of its ongoing efforts to stabilize the local currency and manage the dollar crisis… [+1401 chars]"
     }
   ]
 }
