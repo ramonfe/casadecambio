@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "Verdaderofalso",
+      "Title": "Con los fondos conseguidos, Caputo podría liquidar el Banco Central y lanzar la dolarización a $1.000 pesos por dólar",
+      "Description": "El plan de estabilización de Milei contempla una liberación del mercado cambiario en dos etapas, y una profunda reestructuración del Banco Central con fondos de hasta US$ 25.000 millones que vendrían del exterior. Con esta maniobra, el próximo Gobierno le abr…",
+      "Url": "https://www.meneame.net/m/actualidad/fondos-conseguidos-caputo-podria-liquidar-banco-central-lanzar-1",
+      "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
+      "PublishedAt": "2023-12-07T08:16:11Z",
+      "Content": "#1 La \"devaluación\"de 350 a 1000 pesos el dólar no es más que llevar el \"dólar oficial\" al precio de libre mercado. Lo debería haber hecho el gobierno anterior, pero lo hace el nuevo el primer día y … [+145 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-fachada-del-banco-central-en-el-microcentro-MP2YXB4FJNBCVFLJDJ2ATP36AI.JPG?auth=caaf1abe5f4efb91286d733606457a9acd3f0ca4a320cc350f293822ef918e10&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-22T20:04:48Z",
       "Content": "El nuevo dólar exportador, nacido al calor de las gestiones vinculadas a la transición y luego de que el Gobierno saliente se negara a aceptar el pedido del presidente electo, Javier Milei, de aceler… [+3412 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 22 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 22 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-22-de-noviembre-nid22112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-22T14:05:19Z",
-      "Content": "Este miércoles 22 de noviembre, el precio del dólar en México es de $17,2102, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2241 chars]"
     }
   ]
 }
