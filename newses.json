@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 7 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 7 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-7-de-diciembre-nid07122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-7-de-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-07T14:38:20Z",
+      "Content": "Este jueves 7 de diciembre, el precio del dólar en México es de $17,2685, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2123 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-23-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-23T14:11:01Z",
       "Content": "Este jueves 23 de noviembre, el precio del dólar en México es de $17,2133, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2106 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: no reacciona la oferta exportadora y el Banco Central tiene dificultades para comprar de reservas",
-      "Description": "El nuevo esquema 50/50 para exportadores no tracciona, lo que mantiene el volumen operado en mínimos niveles",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-no-reacciona-la-oferta-exportadora-y-el-banco-central-tiene-dificultades-para-comprar-de-nid22112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-fachada-del-banco-central-en-el-microcentro-MP2YXB4FJNBCVFLJDJ2ATP36AI.JPG?auth=caaf1abe5f4efb91286d733606457a9acd3f0ca4a320cc350f293822ef918e10&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-22T20:04:48Z",
-      "Content": "El nuevo dólar exportador, nacido al calor de las gestiones vinculadas a la transición y luego de que el Gobierno saliente se negara a aceptar el pedido del presidente electo, Javier Milei, de aceler… [+3412 chars]"
     }
   ]
 }
