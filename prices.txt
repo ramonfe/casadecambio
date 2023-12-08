@@ -21,8 +21,8 @@
         {
             "bank_id": 28,
             "bank_name": "BANCAMIFEL",
-            "buy": 16.8,
-            "sell": 17.7,
+            "buy": 17.,
+            "sell": 17.9,
             "date": "2023-08-21 10:50:08",
             "prev_buy": 16.9,
             "prev_sell": 17.8
