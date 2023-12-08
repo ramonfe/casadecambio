@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar General warns of constrained consumer spending heading into 2024 - Yahoo Finance",
+      "Description": "Dollar General warns of constrained consumer spending heading into 2024Yahoo Finance Dollar General gains on better-than-feared Q3 resultsSeeking Alpha Dollar General's Same-Store Sales Decline Less Than FearedYahoo Finance Facing fines, cluttered aisles and …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172444921",
+      "UrlToImage": null,
+      "PublishedAt": "2023-12-07T20:33:09Z",
+      "Content": "Any given program, when running, is obsolete."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--ucL4SD2y--/c_crop,h_679,w_1208,x_25,y_1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/16/wang_baosen.png?itok=vzCKpUdd",
       "PublishedAt": "2023-11-16T09:42:17Z",
       "Content": "PROSECUTION OBJECTS\r\nDeputy Public Prosecutor Foo Shi Hao objected to the bail application, saying Mr Kang was attempting to have a \"second bite at the cherry\" when there were no real new facts.\r\nHe … [+3080 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Accused at risk of cancer, say lawyers who suggest 24-hour surveillance",
-      "Description": "Su Baolin's lawyers alleged that Changi Prison's Complex Medical Centre does not provide adequate care for their client, who has a congenital heart condition.",
-      "Url": "https://www.channelnewsasia.com/singapore/su-baolin-bail-billion-dollar-money-laundering-probe-gastric-cancer-3922086",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
-      "PublishedAt": "2023-11-15T10:00:00Z",
-      "Content": "Wednesday's hearing began after a lengthy delay due to technical difficulties.\r\nSu, who appeared in court via video link from hospital, could not hear the Mandarin interpreter who was speaking to him… [+1641 chars]"
     }
   ]
 }
