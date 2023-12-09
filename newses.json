@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 8 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 8 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-8-de-diciembre-nid08122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-08T13:31:07Z",
+      "Content": "Este viernes 8 de diciembre, el precio del dólar en México es de $17,4197, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2207 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-24T13:54:53Z",
       "Content": "Este viernes 24 de noviembre el precio del dólar en México es de $17,1787, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2294 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso anda bien ‘agradecido’ con el dólar: Se cotiza en las 17.17 unidades",
-      "Description": "En ventanillas bancarias, el dólar se vende en un precio de 17.61 pesos cada uno, de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/23/peso-dolar-precio-hoy-23-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Nsc2v6VWDIznyUcDNQIPPeS6Jag=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SXCBRX3WGJAKNGKK26GOJEH7QY.jpg",
-      "PublishedAt": "2023-11-23T17:31:11Z",
-      "Content": "El peso mexicano reporta poco movimientos en una sesión ante una baja liquidez en el mercado debido al feriado del día de Acción de Gracias en EU y después de la publicación de cifras de inflación en… [+1708 chars]"
     }
   ]
 }
