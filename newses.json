@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY viernes 8 de diciembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de diciembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.30 por ciento, según datos de Bloomberg.El peso mexicano cambiaba de te…",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-8-diciembre-2023-mexico-tipo-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2023-12-08T12:17:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de diciembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.30 por cien… [+847 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Nsc2v6VWDIznyUcDNQIPPeS6Jag=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SXCBRX3WGJAKNGKK26GOJEH7QY.jpg",
       "PublishedAt": "2023-11-23T17:31:11Z",
       "Content": "El peso mexicano reporta poco movimientos en una sesión ante una baja liquidez en el mercado debido al feriado del día de Acción de Gracias en EU y después de la publicación de cifras de inflación en… [+1708 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza tras datos de inflación local y declive global del dólar",
-      "Description": "Forbes México.\n Peso avanza tras datos de inflación local y declive global del dólar\n\nEl peso cotizaba en 17.1594 por dólar, con una ganancia de 0.11% frente al precio de referencia de Reuters del miércoles, en una sesión que se anticipaba de actividad limita…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-tras-datos-de-inflacion-local-y-declive-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-peso-dinero-_ACH0046.jpg",
-      "PublishedAt": "2023-11-23T14:17:43Z",
-      "Content": "El peso se apreciaba este jueves ante un debilitamiento global del dólar y luego de que datos mostraron que si bien la inflación general repuntó en la primera quincena de noviembre, el índice subyace… [+832 chars]"
     }
   ]
 }
