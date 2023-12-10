@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Dólar llega a $17.77; peso con mayor minusvalía en 4 semanas",
+      "Description": "Entre el 1 y 8 de diciembre el dólar aumentó 17 centavos, por debajo de su alza de 19 centavos observada entre el 3 y el 10 de noviembre.",
+      "Url": "https://www.reforma.com/dolar-llega-a-17-77-peso-con-mayor-minusvalia-en-4-semanas/ar2724055",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/529/5528157.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-12-08T23:31:25Z",
+      "Content": "Al menudeo, el tipo de cambio disminuyó su valor 12 centavos hoy en Citibanamex ya que se ofreció a 17.77 pesos y se recibió a 16.81 unidades. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mTX1vrxgLGOKRTPH1_COLvU8J_U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/43U7IZYTU5ENRDZVE7UPCHMLIQ.jpg",
       "PublishedAt": "2023-11-24T16:40:23Z",
       "Content": "El peso mexicano reanuda sus ganancias en la última jornada bursátil de la semana, a la par que el dólar estadounidense refleja un debilitamiento ante la expectativa de que la Fed ya no subirá su tas… [+1911 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este viernes 24 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para la este viernes 24 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-viernes-24-de-noviembre-nid24112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-24T13:54:53Z",
-      "Content": "Este viernes 24 de noviembre el precio del dólar en México es de $17,1787, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2294 chars]"
     }
   ]
 }
