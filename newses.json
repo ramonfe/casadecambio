@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso busca un ‘milagro guadalupano’ frente al dólar: Se cotiza en las 17.36 unidades",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.83 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/12/peso-dolar-precio-hoy-dia-de-la-virgen-de-guadalupe-12-de-diciembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/82W5LvYLGGxtIK4YpyhuZoar0FM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LGPCHJZUDBB5RFVCLY62KEE24Y.jpg",
+      "PublishedAt": "2023-12-12T15:36:25Z",
+      "Content": "El peso mexicano avanza frente al dólar este 12 de diciembre, luego de que la inflación en Estados Unidos durante noviembre se mantuvo en línea con lo esperado, al situarse en 3.1 por ciento.\r\nA pesa… [+1748 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/457/5456647.jpg&wm=1&ang=0",
       "PublishedAt": "2023-11-27T22:37:09Z",
       "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (27 noviembre 2023) .-16:33 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se ‘aprovecha’ del dólar y le da la vuelta: Cotiza en 17.03 unidades este lunes",
-      "Description": "El peso mexicano sigue avanzando hacia el piso de las 17 unidades, aprovechando el debilitamiento del dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/11/27/peso-dolar-precio-hoy-27-de-noviembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/n2KCpH-XhM6C2HEE6Y6Fbh-0ZQw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JLV7IKVDLFEWRAYXWRBFNVINFA.jpg",
-      "PublishedAt": "2023-11-27T16:40:16Z",
-      "Content": "Con la expectativa de que la Fed ya no suba su tasa de interés este año y comience a hacer recortes el 2024, la moneda mexicana sigue avanzando hacia el piso de las 17 unidades, aprovechando el debil… [+1692 chars]"
     }
   ]
 }
