@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 12 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 12 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-12-de-diciembre-nid12122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-12T14:48:58Z",
+      "Content": "Este martes 12 de diciembre, el precio del dólar en México es de $17,5308, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2216 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/n2KCpH-XhM6C2HEE6Y6Fbh-0ZQw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JLV7IKVDLFEWRAYXWRBFNVINFA.jpg",
       "PublishedAt": "2023-11-27T16:40:16Z",
       "Content": "Con la expectativa de que la Fed ya no suba su tasa de interés este año y comience a hacer recortes el 2024, la moneda mexicana sigue avanzando hacia el piso de las 17 unidades, aprovechando el debil… [+1692 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza el peso mexicano este lunes 27 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 27 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-el-peso-mexicano-este-lunes-27-de-noviembre-nid27112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-27T14:30:05Z",
-      "Content": "Este lunes 27 de noviembre el precio del dólar en México es de $17,1268, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2455 chars]"
     }
   ]
 }
