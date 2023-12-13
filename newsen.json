@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Bonds Gain and Dollar Drops With CPI Data to Come: Markets Wrap - Yahoo Finance",
+      "Description": "Bonds Gain and Dollar Drops With CPI Data to Come: Markets WrapYahoo Finance What to Watch for in the US CPI ReportBloomberg Television Stocks rise as dollar eases ahead of U.S. inflation dataReuters Inflation expected to have cooled further last month as ene…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172474421",
+      "UrlToImage": null,
+      "PublishedAt": "2023-12-12T12:13:49Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nicekicks.com/files/2023/11/F_YiKeYW4AAPG9q.jpg",
       "PublishedAt": "2023-11-21T15:51:31Z",
       "Content": "Federal agents allege that James Whitner, Charlotte-based entrepreneur and owner of retail store chains Social Status, A Ma Maniere, APB, and Prosper, played a central role in an extensive internatio… [+3377 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sneaker News"
-      },
-      "Author": "Jovani Hernandez",
-      "Title": "James Whitner Violated Sneaker Contract In Multimillion Dollar, International Money Laundering Operation",
-      "Description": "James Whitner – founder and frontman of The Whitaker Group – has been named in a court document detailing an international money laundering scheme worth millions of...\n\n© Sneaker News, 2023. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post James Whitne…",
-      "Url": "http://sneakernews.com/2023/11/21/james-whitner-money-laundering-case/",
-      "UrlToImage": "https://sneakernews.com/wp-content/uploads/2021/11/James-Whitner-Is-Clear-On-Why-Hes-Here-52.jpeg",
-      "PublishedAt": "2023-11-21T15:30:22Z",
-      "Content": "James Whitner  founder and frontman of The Whitaker Group  has been named in a court document detailing an international money laundering scheme worth millions of dollars.\r\nThe report was filed throu… [+2222 chars]"
     }
   ]
 }
