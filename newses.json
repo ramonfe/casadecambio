@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El Gobierno de Milei devalúa la moneda argentina en más del 50%, a 800 pesos por dólar",
+      "Description": "El gobierno del ultraliberal Javier Milei devaluó más de 50% la moneda, al establecer el tipo de cambio oficial en 800 pesos por dólar frente a 391 del jueves, anunció el ministro de Economía, Luis Caputo , quien advirtió que Argentina está en riesgo de hiper…",
+      "Url": "https://www.abc.es/internacional/gobierno-milei-devalua-moneda-argentina-800-pesos-20231212235810-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2023/12/12/milei-kKbG--1024x512@abc.jpg",
+      "PublishedAt": "2023-12-12T22:58:11Z",
+      "Content": "El gobierno del ultraliberal Javier Milei devaluó más de 50% la moneda, al establecer el tipo de cambio oficial en 800 pesos por dólar frente a 391 del jueves, anunció el ministro de Economía, Luis C… [+2104 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-28T14:41:03Z",
       "Content": "Este martes 28 de noviembre, el precio del dólar en México es de $17,1555, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2241 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Baja marginal del peso mexicano frente al dólar",
-      "Description": "Luego de acercarse nuevamente al nivel de 17 unidades por dólar durante la apertura de este lunes, el peso mexicano dio media vuelta para cerrar en 17.1245 unidades por dólar spot, debido al temor de los inversionistas de que podría reducirse el diferencial c…",
-      "Url": "https://www.jornada.com.mx/2023/11/28/economia/021n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-11-28T08:59:07Z",
-      "Content": "Periódico La JornadaMartes 28 de noviembre de 2023, p. 21\r\nLuego de acercarse nuevamente al nivel de 17 unidades por dólar durante la apertura de este lunes, el peso mexicano dio media vuelta para ce… [+974 chars]"
     }
   ]
 }
