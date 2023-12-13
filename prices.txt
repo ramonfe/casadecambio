@@ -12,8 +12,8 @@
         {
             "bank_id": 15,
             "bank_name": "BANJERCITO",
-            "buy": 16.42,
-            "sell": 17.92,
+            "buy": 16.32,
+            "sell": 17.82,
             "date": "2022-05-02 17:10:09",
             "prev_buy": 16.42,
             "prev_sell": 17.92
