@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El Tiempo (Colombia)",
+      "Title": "La moneda de centavo de dólar que tiene un error de fabricación y podría valer una fortuna",
+      "Description": "En un video en TikTok, una usuaria compartió un curiosa caso; la respuesta de un profesional y la explicación detrás de la “marca” que no está",
+      "Url": "https://www.lanacion.com.ar/lifestyle/en-las-redes/la-moneda-de-centavo-de-dolar-que-tiene-un-error-de-fabricacion-y-podria-valer-una-fortuna-nid12122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-centavo-de-dolar-que-tiene-un-error-57LIRTZT55BUDESLGS5UFXVITU.jpg?auth=f7dbf7c4d80d4cdd4739f2599e707e94b29eddb6cf8ec8ddd66890544a4b4998&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-12T21:27:20Z",
+      "Content": "Cada vez son más las personas que se dan el tiempo de revisar los centavos que reciben en el día a día, y es que con suerte podrían tener en sus manos una moneda muy valiosa que intercambiar con algú… [+1969 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2023-11-28T08:59:07Z",
       "Content": "Periódico La JornadaMartes 28 de noviembre de 2023, p. 21\r\nLuego de acercarse nuevamente al nivel de 17 unidades por dólar durante la apertura de este lunes, el peso mexicano dio media vuelta para ce… [+974 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Peso retrocede ante dólar, tras comentarios de Heath",
-      "Description": "Peso se depreció y registró su peor desempeño en la región, luego que subgobernador de Banxico dijo que tasa de interés puede bajar en 2024.",
-      "Url": "https://www.reforma.com/peso-retrocede-ante-dolar-tras-comentarios-de-heath/ar2717502",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/457/5456647.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-11-27T22:37:09Z",
-      "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (27 noviembre 2023) .-16:33 hrs"
     }
   ]
 }
