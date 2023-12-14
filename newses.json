@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "El Banco Central justificó el nuevo dólar y dio más precisiones sobre sus desafíos",
+      "Description": "El organismo emitió un comunicado en el que da detalles de la política monetaria y cambiaria que implementará la gestión a cargo de Santiago Bausili",
+      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-justifico-el-nuevo-dolar-y-dio-mas-precisiones-sobre-sus-desafios-nid13122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-publico-un-comunicado-en-el-que-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-13T04:12:44Z",
+      "Content": "En la primera hora de este miércoles, el Banco Central de la República Argentina (BCRA) emitió un comunicado en el que explica las medidas que se pondrán en marcha en el gobierno de Javier Milei y qu… [+1992 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
       "PublishedAt": "2023-11-29T14:23:49Z",
       "Content": "Este miércoles 29 de noviembre, el precio del dólar en México es de $17,1357, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2442 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante un dólar debilitado tras datos económicos de EU",
-      "Description": "Forbes México.\n Peso avanza ante un dólar debilitado tras datos económicos de EU\n\nIndicadores económicos de Estados Unidos publicados este martes fueron considerados negativos por el mercado.\nPeso avanza ante un dólar debilitado tras datos económicos de EU\nFo…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-ante-un-dolar-debilitado-tras-datos-economicos-de-eu/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-pesos-economia-_ACH0064.jpg",
-      "PublishedAt": "2023-11-28T22:41:30Z",
-      "Content": "El peso avanzó ante un debilitamiento global del dólar tras una sesión marcada por la publicación de cifras del mercado inmobiliario y la confianza de los consumidores estadounidenses.\r\nDurante la jo… [+1014 chars]"
     }
   ]
 }
