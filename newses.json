@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 13 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 13 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-13-de-diciembre-nid13122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-13T15:29:52Z",
+      "Content": "Este miércoles 13 de diciembre, el precio del dólar en México es de $17,4470, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2219 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-11-30T12:14:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 30 de noviembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.72 por cie… [+775 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 29 de noviembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 29 de noviembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-29-de-noviembre-nid29112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-29T14:23:49Z",
-      "Content": "Este miércoles 29 de noviembre, el precio del dólar en México es de $17,1357, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2442 chars]"
     }
   ]
 }
