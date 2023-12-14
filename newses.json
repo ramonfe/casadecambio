@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "Pacomeco",
+      "Title": "El Gobierno de Milei devalúa la moneda argentina en más del 50%, a 800 pesos por dólar",
+      "Description": "El gobierno del ultraliberal Javier Milei devaluó más de 50% la moneda, al establecer el tipo de cambio oficial en 800 pesos por dólar frente a 391 del jueves, anunció el ministro de Economía, Luis Caputo, quien advirtió que Argentina está en riesgo de hiperi…",
+      "Url": "https://www.meneame.net/m/actualidad/gobierno-milei-devalua-moneda-argentina-mas-50-800-pesos-dolar",
+      "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
+      "PublishedAt": "2023-12-13T00:26:58Z",
+      "Content": "Oh sorpresa! imprimir dinero durante 40 años no se soluciona en un día sino que sigue una tendencia!"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-pesos-economia-_ACH0064.jpg",
       "PublishedAt": "2023-11-28T22:41:30Z",
       "Content": "El peso avanzó ante un debilitamiento global del dólar tras una sesión marcada por la publicación de cifras del mercado inmobiliario y la confianza de los consumidores estadounidenses.\r\nDurante la jo… [+1014 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "Dolarizar Argentina, ‘che’: ¿Por qué no le conviene a Milei sustituir el peso por el dólar?",
-      "Description": "¿Por qué es casi imposible que Milei reemplace al peso argentino por el dólar? ¿Qué puede hacer para lograrlo? Acá te explicamos todo sobre la economía de Argentina.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2023/11/28/dolarizar-argentina-che-por-que-no-le-conviene-a-javier-milei-sustituir-el-peso-por-el-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZAthuA01scR1Ltj6VGFSZkNP-MA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TRLWOZKSJFAIFFPXFFHSYGWCZY.jpeg",
-      "PublishedAt": "2023-11-28T19:06:25Z",
-      "Content": "Javier Milei fue elegido presidente de Argentina sobre la base de una radical promesa: reemplazar el inflacionario peso argentino por la estabilidad del dólar estadounidense. Sin embargo, los informe… [+4522 chars]"
     }
   ]
 }
