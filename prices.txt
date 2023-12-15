@@ -3,8 +3,8 @@
         {
             "bank_id": 3,
             "bank_name": "SANTANDER",
-            "buy": 16.2,
-            "sell": 17.9,
+            "buy": "<a href = 'https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free' >Ver Precio</a>",
+            "sell": "<a href = 'https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free' >Ver Precio</a>",
             "date": "2022-05-02 17:10:09",
             "prev_buy": 16.3,
             "prev_sell": 18.0
@@ -12,8 +12,8 @@
         {
             "bank_id": 15,
             "bank_name": "BANJERCITO",
-            "buy": 16.38,
-            "sell": 17.88,
+            "buy": "<a href = 'https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free' >Ver Precio</a>",
+            "sell": "<a href = 'https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free' >Ver Precio</a>",
             "date": "2022-05-02 17:10:09",
             "prev_buy": 16.42,
             "prev_sell": 17.92
@@ -21,8 +21,8 @@
         {
             "bank_id": 28,
             "bank_name": "BANCAMIFEL",
-            "buy": 16.9,
-            "sell": 17.8,
+            "buy": "<a href = 'https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free' >Ver Precio</a>",
+            "sell": "<a href = 'https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free' >Ver Precio</a>",
             "date": "2023-08-21 10:50:08",
             "prev_buy": 16.9,
             "prev_sell": 17.8
@@ -30,8 +30,8 @@
         {
             "bank_id": 4,
             "bank_name": "HSBC",
-            "buy": 16.98,
-            "sell": 17.71,
+            "buy": "<a href = 'https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free' >Ver Precio</a>",
+            "sell": "<a href = 'https://play.google.com/store/apps/details?id=com.dolar.ramonfelix.free' >Ver Precio</a>",
             "date": "2022-05-02 17:10:09",
             "prev_buy": 16.98,
             "prev_sell": 17.72
