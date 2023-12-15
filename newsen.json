@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Sterling firms on dollar, all eyes on Bank of England",
+      "Description": "(marketscreener.com) Sterling was on the front\nfoot against the dollar on Thursday ahead of a Bank of England\nmeeting at which analysts expect rate-setters to push back on\nexpectations of early cuts in 2024, a different stance from the\nFederal Reserve a day e…",
+      "Url": "https://www.marketscreener.com/quote/currency/US-DOLLAR-BRITISH-POUND-U-12684800/news/Sterling-firms-on-dollar-all-eyes-on-Bank-of-England-45568196/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2023-12-14T09:37:11Z",
+      "Content": "LONDON, Dec 14 (Reuters) - Sterling was on the front\r\nfoot against the dollar on Thursday ahead of a Bank of England\r\nmeeting at which analysts expect rate-setters to push back on\r\nexpectations of ea… [+2625 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI7L03X_L.jpg",
       "PublishedAt": "2023-11-21T16:48:27Z",
       "Content": "The Mexican peso's recent surge against the US dollar took a breather today with the USD/MXN pair ticking up to 17.18, despite a general weakness in the dollar across Forex markets. Investors are clo… [+1782 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nicekicks.com"
-      },
-      "Author": "Matt Halfhill",
-      "Title": "Feds: James Whitner, Owner of Social Status & A Ma Maniere, Involved in Multi-Million Dollar International Money Laundering Scheme",
-      "Description": "Federal agents allege that James Whitner, Charlotte-based entrepreneur and owner of retail store chains Social Status, A Ma Maniere, APB, and Prosper, played a central role in an extensive international money laundering operation involving Chinese money couri…",
-      "Url": "https://www.nicekicks.com/federal-investigators-allege-social-status-money-laundering/",
-      "UrlToImage": "https://www.nicekicks.com/files/2023/11/F_YiKeYW4AAPG9q.jpg",
-      "PublishedAt": "2023-11-21T15:51:31Z",
-      "Content": "Federal agents allege that James Whitner, Charlotte-based entrepreneur and owner of retail store chains Social Status, A Ma Maniere, APB, and Prosper, played a central role in an extensive internatio… [+3377 chars]"
     }
   ]
 }
