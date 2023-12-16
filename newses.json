@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 15 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 15 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-15-de-diciembre-nid15122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-15T16:05:20Z",
+      "Content": "Este viernes 15 de diciembre, el precio del dólar en México es de $17,5308, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2395 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2023/12/01/fotos/018n1eco-1.jpg",
       "PublishedAt": "2023-12-01T08:32:10Z",
       "Content": "Periódico La JornadaViernes 1º de diciembre de 2023, p. 18\r\nNoviembre fue un mes de fuertes alzas en los mercados financieros en el mundo. Con un dólar como el principal perdedor en el penúltimo mes … [+2990 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Dólar se vende $17.84; se aprecia peso en noviembre",
-      "Description": "Después de tres meses con minusvalías para el peso, el dólar bajó 65 centavos a 17.84 unidades, generando apreciación para el peso.",
-      "Url": "https://www.reforma.com/dolar-se-vende-17-84-se-aprecia-peso-en-noviembre/ar2719557",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/514/5513040.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-11-30T23:08:37Z",
-      "Content": "02 MIN 00 SEG\r\nErnesto Sarabia\r\nCd. de México (30 noviembre 2023) .-17:07 hrs"
     }
   ]
 }
