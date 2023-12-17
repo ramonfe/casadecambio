@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Dólar se vende a $17.65; vuelve plusvalía semanal al peso",
+      "Description": "Entre el 8 y 15 de diciembre, el dólar bajó doce centavos a 17.65 pesos, después de dos semanas con aumentos.",
+      "Url": "https://www.reforma.com/dolar-se-vende-a-17-65-vuelve-plusvalia-semanal-al-peso/ar2727600",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/467/5466978.jpg&wm=1&ang=0",
+      "PublishedAt": "2023-12-15T23:31:36Z",
+      "Content": "En la semana, el tipo de cambio de menudeo disminuyó su valor 12 centavos a 17.65 pesos a la venta en Citibanamex y a 16.69 unidades a la compra. Crédito: AP"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Dólar fuerte ‘echa a perder’ fin de semana del peso",
+      "Description": "Forbes México.\n Dólar fuerte ‘echa a perder’ fin de semana del peso\n\nLuego de tres jornadas de avances, el peso retrocede ante el fortalecimiento global del dólar.\nDólar fuerte ‘echa a perder’ fin de semana del peso\nForbes Staff",
+      "Url": "https://www.forbes.com.mx/dolar-fuerte-echa-a-perder-fin-de-semana-del-peso/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
+      "PublishedAt": "2023-12-15T23:22:54Z",
+      "Content": "El peso se depreció después de tres jornadas de ganancias, ante un fortalecimiento global del dólar al final de una semana cargada de decisiones de política monetaria de distintos bancos centrales, m… [+1678 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2023-12-01T22:28:00Z",
       "Content": "El peso se apreció este viernes ante un debilitamiento global del dólar, después de que el presidente de la Reserva Federal (Fed), Jerome Powell, prometió actuar con cautela respecto a las tasas de i… [+1579 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este viernes 1 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 1 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-viernes-1-de-diciembre-nid01122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-01T13:37:38Z",
-      "Content": "Este viernes 1° de diciembre, el precio del dólar en México es de $17,3730, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2256 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso acumula en el año ganancia de 10.9% frente al dólar",
-      "Description": "Noviembre fue un mes de fuertes alzas en los mercados financieros en el mundo. Con un dólar como el principal perdedor en el penúltimo mes de 2023, el peso y el mercado accionario mexicano le supieron sacar provecho.",
-      "Url": "https://www.jornada.com.mx/2023/12/01/economia/018n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/2023/12/01/fotos/018n1eco-1.jpg",
-      "PublishedAt": "2023-12-01T08:32:10Z",
-      "Content": "Periódico La JornadaViernes 1º de diciembre de 2023, p. 18\r\nNoviembre fue un mes de fuertes alzas en los mercados financieros en el mundo. Con un dólar como el principal perdedor en el penúltimo mes … [+2990 chars]"
     }
   ]
 }
