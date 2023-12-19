@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso está en un ‘estira y afloja’ con el dólar: Se cotiza en las 17.18 unidades",
+      "Description": "Según cifras de Citibanamex, en ventanillas bancarias el precio del billete verde es de 17.65 pesos cada uno.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/18/peso-dolar-precio-hoy-18-de-diciembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/FPcNgn7tWUOGJvta70J0fmCkbZI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UREFZNMGUZEXVJSOSCCRJHFROI.jpg",
+      "PublishedAt": "2023-12-18T17:26:59Z",
+      "Content": "El peso mexicano está en una sesión de estira y afloja este lunes después de haber alcanzado un mínimo de 17.14 unidades la semana previa, cuando se vio impulsado por una postura monetaria menos rest… [+1428 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/podria-converger-el-dolar-hasta-los-F2ZJ3WN6CJHT7IVXEMUVM22HDI.jpg?auth=f76205d40a201a5f907bd517a1e3d52bb4cd3c2adf20ebaef7bb850c241119a2&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-04T15:11:18Z",
       "Content": "En los últimos cuatro años, el dólar mayorista se fue atrasando hasta alcanzar niveles mínimos desde la unificación cambiaria de 2015. Si bien la estrategia del Gobierno era que esta cotización sirvi… [+3900 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 4 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 4 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-4-de-diciembre-nid04122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-04T13:59:36Z",
-      "Content": "Este lunes 4 de diciembre, el precio del dólar en México es de $17,2143, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2284 chars]"
     }
   ]
 }
