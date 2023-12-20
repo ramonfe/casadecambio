@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ya ‘huele’ el terreno de las 16 unidades contra el dólar: Así cotiza este martes",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.55 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/19/peso-dolar-precio-hoy-19-de-diciembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/D98We3dI87i6HogIuKu_8b9XPSo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HM35MHMOUFCQJNBLJECZ7SPRIM.jpg",
+      "PublishedAt": "2023-12-19T15:59:41Z",
+      "Content": "El peso mexicano se acerca al terreno de las 16 unidades contra el dólar a medida que continúa la especulación que la Fed podría comenzar con sus recortes de tasas el próximo año, mientras que el Ban… [+1461 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-el-sector-agro-vienen-reclamando-por-la-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-05T15:50:56Z",
       "Content": "En el campo comenzaron a hacerse eco de las declaraciones del futuro ministro del Interior, Guillermo Francos, que el último fin de semana dijo que el dólar a 600, 650 pesos sería razonable.En la dir… [+4857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘toma aire’ después de caída frente al dólar: Se cotiza en las 17.44 unidades",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.91 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/05/precio-dolar-precio-hoy-5-de-diciembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/hfVTQaVOP2-nAdwiBg6REmxlBxU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Y5G7FGXWGFFKVNLPWFEWCGPIPQ.jpg",
-      "PublishedAt": "2023-12-05T15:44:09Z",
-      "Content": "El peso mexicano arranca las operaciones de este martes con un avance moderado frente al dólar, mientras el mercado está a la espera de la publicación de información económica relevante, como el repo… [+1343 chars]"
     }
   ]
 }

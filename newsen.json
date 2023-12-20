@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Brooke Sjoberg",
+      "Title": "‘10 dollar tip???’: Gas station attendant says customers often leave their ‘extra money’ after paying for gas, she takes it as a ‘tip’",
+      "Description": "Gas prices have been to all kinds of extremes over the past few years, from the lowest lows to the highest highs some areas have seen in decades. \n\n\nThat familiar ache at the pump is a real pain point for many drivers—except, apparently, the ones leaving thei…",
+      "Url": "https://www.dailydot.com/news/gas-station-extra-money/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/12/gas-station-extra-money.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-12-19T16:00:00Z",
+      "Content": "Gas prices have been to all kinds of extremes over the past few years, from the lowest lows to the highest highs some areas have seen in decades. \r\nThat familiar ache at the pump is a real pain point… [+2198 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.amazonaws.com/images.investorsobserver.com/io-logo-800x450.jpg",
       "PublishedAt": "2023-11-22T00:38:45Z",
       "Content": "News Home\r\n 2023-11-22 00:38:45 ET\r\nLocal cryptocurrency exchange Easy Crypto has launched a stablecoin tied to NZD in collaboration with an Australian blockchain company, Labrys.\r\nEasy Crypto and La… [+1718 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "DAVID BILLER Associated Press, DANIEL POLITI Associated Press",
-      "Title": "After the dollar-loving Milei wins the presidency, Argentines anxiously watch the exchange rate",
-      "Description": "The exchange rate is top of mind for millions of Argentines coping with triple-digit inflation",
-      "Url": "https://abcnews.go.com/International/wireStory/after-dollar-loving-milei-wins-presidency-argentines-anxiously-105078891",
-      "UrlToImage": "https://i.abcnewsfe.com/a/9ef1e0c7-ca2d-42cb-9709-0a9b498c0ba5/wirestory_bb61f9e9a6108ba0ced63f89b2cfd431_16x9.jpg?w=992",
-      "PublishedAt": "2023-11-22T00:06:51Z",
-      "Content": "BUENOS AIRES, Argentina -- As soon as Leandro Francisco Diana woke up Tuesday, he reached for his phone like many Argentines on the first business day after the election victory of President-elect Ja… [+5765 chars]"
     }
   ]
 }
