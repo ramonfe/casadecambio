@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "Dólar abre estable tras baja de tasas del Banco Central y en medio de apreciación global de la divisa",
+      "Description": "El ente rector bajó la tasa de referencia en 75 puntos bases la Tasa de Política Monetaria, más de lo que esperaba una mayoría.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-dxzmw",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231220/imag/foto_0000000120231220083601/foto_0000000120220113092716.jpg",
+      "PublishedAt": "2023-12-20T11:35:00Z",
+      "Content": "El precio del dólar comenzó sus operaciones con leves variaciones en el mercado cambiario chileno de este miércoles, tras conocerse la decisión del Banco Central de bajar la tasa de referencia en 75 … [+1290 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/02FIDpicqfquc8UBQ-Xlk0gGXIs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KMYJ4JESIVFYTLRRQZF7LAD2QM.jpg",
       "PublishedAt": "2023-12-06T16:30:54Z",
       "Content": "Los recientes datos sobre el desempeño del mercado laboral de Estados Unidos apuntan a un mayor enfriamiento, lo que sostiene la idea de los operadores acerca de que la Reserva Federal no necesitará … [+1493 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 6 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 6 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-6-de-diciembre-nid06122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-06T14:24:24Z",
-      "Content": "Este miércoles 6 de diciembre, el precio del dólar en México es de $17,4215, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2156 chars]"
     }
   ]
 }
