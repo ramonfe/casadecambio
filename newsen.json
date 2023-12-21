@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "First National Bank Sioux Falls Acquires 783 Shares of Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "First National Bank Sioux Falls increased its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 16.2% during the third quarter, according to the company in its most recent disclosure with the SEC. The institutional investor owned 5,622 sh…",
+      "Url": "https://www.etfdailynews.com/2023/12/20/first-national-bank-sioux-falls-acquires-783-shares-of-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
+      "PublishedAt": "2023-12-20T14:02:48Z",
+      "Content": "First National Bank Sioux Falls increased its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 16.2% during the third quarter, according to the company in its most recent disclo… [+6811 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPED2E02E_L.jpg",
       "PublishedAt": "2023-11-22T06:56:41Z",
       "Content": "The Mexican peso showed resilience in the Asian session today, trading near 17.2000 against the US dollar, which found itself under pressure despite an index position of 103.60. The greenback's chall… [+1588 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Cointelegraph",
-      "Title": "New Zealand dollar stablecoin goes live through local crypto exchange",
-      "Description": "New Zealand dollar stablecoin goes live through local crypto exchange",
-      "Url": "https://www.investing.com/news/cryptocurrency-news/new-zealand-dollar-stablecoin-goes-live-through-local-crypto-exchange-3240649",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556527948.jpg",
-      "PublishedAt": "2023-11-22T04:00:08Z",
-      "Content": "We encourage you to use comments to engage with other users, share your perspective and ask questions of authors and each other. However, in order to maintain the high level of discourse we’ve all co… [+2321 chars]"
     }
   ]
 }
