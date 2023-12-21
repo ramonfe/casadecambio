@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se acerca a las 16 unidades por dólar pese a ‘ligeras’ pérdidas: Así cotiza hoy miércoles",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.49 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/20/peso-dolar-precio-hoy-20-de-diciembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/82W5LvYLGGxtIK4YpyhuZoar0FM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LGPCHJZUDBB5RFVCLY62KEE24Y.jpg",
+      "PublishedAt": "2023-12-20T15:40:14Z",
+      "Content": "La moneda mexicana inició este miércoles reportando ligeros retrocesos a medida que el dólar norteamericano comenzó a retomar parte de su fortaleza, luego de haberse ubicado durante dos sesiones en t… [+1674 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
       "PublishedAt": "2023-12-07T08:16:11Z",
       "Content": "#1 La \"devaluación\"de 350 a 1000 pesos el dólar no es más que llevar el \"dólar oficial\" al precio de libre mercado. Lo debería haber hecho el gobierno anterior, pero lo hace el nuevo el primer día y … [+145 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso inicia sus ‘preposadas’: Gana 12 centavos al dólar tras datos de empleo en EU",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.83 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/06/peso-dolar-precio-hoy-6-de-diciembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/02FIDpicqfquc8UBQ-Xlk0gGXIs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KMYJ4JESIVFYTLRRQZF7LAD2QM.jpg",
-      "PublishedAt": "2023-12-06T16:30:54Z",
-      "Content": "Los recientes datos sobre el desempeño del mercado laboral de Estados Unidos apuntan a un mayor enfriamiento, lo que sostiene la idea de los operadores acerca de que la Reserva Federal no necesitará … [+1493 chars]"
     }
   ]
 }
