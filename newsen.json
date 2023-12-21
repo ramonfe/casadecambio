@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Khabarhub.com"
+      },
+      "Author": "Khabarhub",
+      "Title": "Rising cases of dollar exchange fraud: Kathmandu Valley faces wave of looting incidents",
+      "Description": "KATHMANDU, Dec 20: Incidents of looting under the guise of dollar exchange are witnessing a surge in the Kathmandu Valley. The District Police Range, Kathmandu, has reported the presence of a criminal racket engaged in fraudulent activities related to dollar …",
+      "Url": "https://english.khabarhub.com/2023/20/331503/",
+      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2021/05/Jail-_-Arrest-_-Prison.jpg",
+      "PublishedAt": "2023-12-20T07:25:22Z",
+      "Content": "KATHMANDU, Dec 20: Incidents of looting under the guise of dollar exchange are witnessing a surge in the Kathmandu Valley. The District Police Range, Kathmandu, has reported the presence of a crimina… [+1385 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/e576a535-daea-4781-92f5-f52eba67078f.jpg",
       "PublishedAt": "2023-11-22T02:17:01Z",
       "Content": "A New Zealand dollar-pegged stablecoin has gone live through a partnership with New Zealand crypto exchange Easy Crypto and Australian blockchain development firm Labrys.\r\nIn a Nov. 22 announcement, … [+1925 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "InvestorsObserver"
-      },
-      "Author": "InvestorsObserver",
-      "Title": "Local exchange Easy Crypto introduces New Zealand dollar stablecoin",
-      "Description": "2023-11-22 00:38:45 ET           Local cryptocurrency exchange Easy Crypto has launched a stablecoin tied to NZD in collaboration with an Australian blockchain company, Labrys.           Announcing not 1 but 2 launches! First up a new stablecoin for Ki...",
-      "Url": "https://www.investorsobserver.com/news/qm-news/7765394858449457",
-      "UrlToImage": "https://s3.amazonaws.com/images.investorsobserver.com/io-logo-800x450.jpg",
-      "PublishedAt": "2023-11-22T00:38:45Z",
-      "Content": "News Home\r\n 2023-11-22 00:38:45 ET\r\nLocal cryptocurrency exchange Easy Crypto has launched a stablecoin tied to NZD in collaboration with an Australian blockchain company, Labrys.\r\nEasy Crypto and La… [+1718 chars]"
     }
   ]
 }
