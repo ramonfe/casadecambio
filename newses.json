@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso repunta; se acerca a 16 unidades por dólar",
+      "Description": "El peso se apreció este martes 0.60 por ciento, equivalente a 10.29 centavos, para cerrar en 17.0666 unidades por dólar spot.",
+      "Url": "https://www.jornada.com.mx/2023/12/20/economia/021n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/2023/12/20/fotos/021n2eco-1.jpg",
+      "PublishedAt": "2023-12-20T09:59:50Z",
+      "Content": "Periódico La JornadaMiércoles 20 de diciembre de 2023, p. 21\r\nEl peso se apreció este martes 0.60 por ciento, equivalente a 10.29 centavos, para cerrar en 17.0666 unidades por dólar spot.\r\nEl rally p… [+3277 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-06T14:24:24Z",
       "Content": "Este miércoles 6 de diciembre, el precio del dólar en México es de $17,4215, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex … [+2156 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "El nuevo dólar: en el principal sector económico ya piensan en los efectos de un tipo de cambio a $650",
-      "Description": "Ruralistas consultados indicaron que ese valor “viene bien” si ayuda a achicar la brecha cambiaria; destacaron que se necesita una paridad unificada",
-      "Url": "https://www.lanacion.com.ar/economia/campo/el-nuevo-dolar-en-el-principal-sector-economico-ya-piensan-en-los-efectos-de-un-tipo-de-cambio-a-650-nid05122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-el-sector-agro-vienen-reclamando-por-la-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-05T15:50:56Z",
-      "Content": "En el campo comenzaron a hacerse eco de las declaraciones del futuro ministro del Interior, Guillermo Francos, que el último fin de semana dijo que el dólar a 600, 650 pesos sería razonable.En la dir… [+4857 chars]"
     }
   ]
 }

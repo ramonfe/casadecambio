@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Finextra"
+      },
+      "Author": "Editorial Team",
+      "Title": "US Bank hit with multi-million dollar fines over prepaid card programme for the unemployed",
+      "Description": "The Office of the Comptroller of the Currency (OCC) today assessed a $15 million civil money penalty against U.S. Bank, National Association, Cincinnati, Ohio, for violations of law relating to the bank’s administration of a prepaid card program to distribute…",
+      "Url": "https://www.finextra.com/pressarticle/99198/us-bank-hit-with-multi-million-dollar-fines-over-prepaid-card-programme-for-the-unemployed",
+      "UrlToImage": "https://www.finextra.com/about/finextra-logo.png",
+      "PublishedAt": "2023-12-20T09:40:00Z",
+      "Content": "Source: OCC\r\nThe Office of the Comptroller of the Currency (OCC) today assessed a $15 million civil money penalty against U.S. Bank, National Association, Cincinnati, Ohio, for violations of law rela… [+854 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556527948.jpg",
       "PublishedAt": "2023-11-22T04:00:08Z",
       "Content": "We encourage you to use comments to engage with other users, share your perspective and ask questions of authors and each other. However, in order to maintain the high level of discourse we’ve all co… [+2321 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cointelegraph"
-      },
-      "Author": "Cointelegraph By Derek Andersen",
-      "Title": "New Zealand dollar stablecoin goes live through local crypto exchange",
-      "Description": "Easy Crypto launched the aptly named New Zealand Dollar Stablecoin (NZDD) in partnership with an Australian blockchain development firm.",
-      "Url": "https://cointelegraph.com/news/new-zealand-dollar-stablecoin-goes-live",
-      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/e576a535-daea-4781-92f5-f52eba67078f.jpg",
-      "PublishedAt": "2023-11-22T02:17:01Z",
-      "Content": "A New Zealand dollar-pegged stablecoin has gone live through a partnership with New Zealand crypto exchange Easy Crypto and Australian blockchain development firm Labrys.\r\nIn a Nov. 22 announcement, … [+1925 chars]"
     }
   ]
 }
