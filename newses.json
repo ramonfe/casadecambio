@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 20 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 20 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-20-de-diciembre-nid20122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-20T16:59:31Z",
+      "Content": "Este miércoles 20 de diciembre, el precio del dólar en México es de $17,0652, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2428 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-7-de-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-07T14:38:20Z",
       "Content": "Este jueves 7 de diciembre, el precio del dólar en México es de $17,2685, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2123 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "Verdaderofalso",
-      "Title": "Con los fondos conseguidos, Caputo podría liquidar el Banco Central y lanzar la dolarización a $1.000 pesos por dólar",
-      "Description": "El plan de estabilización de Milei contempla una liberación del mercado cambiario en dos etapas, y una profunda reestructuración del Banco Central con fondos de hasta US$ 25.000 millones que vendrían del exterior. Con esta maniobra, el próximo Gobierno le abr…",
-      "Url": "https://www.meneame.net/m/actualidad/fondos-conseguidos-caputo-podria-liquidar-banco-central-lanzar-1",
-      "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
-      "PublishedAt": "2023-12-07T08:16:11Z",
-      "Content": "#1 La \"devaluación\"de 350 a 1000 pesos el dólar no es más que llevar el \"dólar oficial\" al precio de libre mercado. Lo debería haber hecho el gobierno anterior, pero lo hace el nuevo el primer día y … [+145 chars]"
     }
   ]
 }
