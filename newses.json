@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso méxicano: a cuánto cotiza la moneda hoy, jueves 21 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 21 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-21-de-diciembre-nid21122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-21T15:15:06Z",
+      "Content": "Este jueves 21 de diciembre, el precio del dólar en México es de $17,0673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2180 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2023-12-08T12:17:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de diciembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.30 por cien… [+847 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: sobre el cierre de la rueda, el Banco Central soltó el mayorista, que saltó $20,6",
-      "Description": "Lo hizo para no perder más reservas, ya había liquidado unos US$199 millones más, y evitar que los bancos sigan especulando con el tipo de cambio diferido a $495; sin embargo, el valor de la cotización de referencia se mantuvo",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-sobre-el-cierre-de-la-rueda-el-banco-central-solto-el-mayorista-que-salto-206-nid07122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-solto-el-dolar-oficial-en-la-ultima-parte-CL5ZE63GIRFZVIGMQMBW6HLFZM.JPG?auth=127e0749b85e44019a043af97473a811f786645b438140d3cd15473ec8e2105c&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-07T19:21:42Z",
-      "Content": "El modo desensillar hasta que aclare en el que entró la economía luego del balotaje se mantuvo inalterable en la última rueda de mercado de la administración Fernández: los bancos siguieron desarmand… [+3423 chars]"
     }
   ]
 }
