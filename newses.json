@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY jueves 21 de diciembre de 2023: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 17.08 pesos por unidad, con una pérdida de 0.38 por ciento, según datos de Bloomberg.El peso mexicano operaba errát…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-diciembre-2023-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2023-12-21T12:14:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 17.08 pesos por unidad, con una pérdida de 0.38 por cie… [+856 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-solto-el-dolar-oficial-en-la-ultima-parte-CL5ZE63GIRFZVIGMQMBW6HLFZM.JPG?auth=127e0749b85e44019a043af97473a811f786645b438140d3cd15473ec8e2105c&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-07T19:21:42Z",
       "Content": "El modo desensillar hasta que aclare en el que entró la economía luego del balotaje se mantuvo inalterable en la última rueda de mercado de la administración Fernández: los bancos siguieron desarmand… [+3423 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 7 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 7 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-7-de-diciembre-nid07122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-7-de-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-07T14:38:20Z",
-      "Content": "Este jueves 7 de diciembre, el precio del dólar en México es de $17,2685, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2123 chars]"
     }
   ]
 }
