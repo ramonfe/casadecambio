@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se quita el frío’ y le da la vuelta al dólar: Se cotiza en las 17.04 unidades",
+      "Description": "El tipo de cambio muestra una apreciación de 0.33 por ciento o 5.65 centavos este jueves, al colocarse en un nivel de 17.0480 pesos por billete verde.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/21/peso-dolar-precio-hoy-21-de-diciembre-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/W_LZ6HQYlK63_tvAjlSOYDNuh-E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MXJUH67NCBHMRLJEAGP2EZQFYA.jpg",
+      "PublishedAt": "2023-12-21T16:36:07Z",
+      "Content": "La moneda mexicana vuelve al terreno de ganancias a medida que los inversionistas asimilan la última revisión del PIB del tercer trimestre en Estados Unidos, mientras que en México destaca el reporte… [+1607 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-08T13:31:07Z",
       "Content": "Este viernes 8 de diciembre, el precio del dólar en México es de $17,4197, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2207 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY viernes 8 de diciembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de diciembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.30 por ciento, según datos de Bloomberg.El peso mexicano cambiaba de te…",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-8-diciembre-2023-mexico-tipo-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
-      "PublishedAt": "2023-12-08T12:17:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 8 de diciembre el tipo de cambio interbancario, se ubica en 17.42 pesos por unidad, con una pérdida de 0.30 por cien… [+847 chars]"
     }
   ]
 }
