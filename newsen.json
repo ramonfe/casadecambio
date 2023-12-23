@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://i.insider.com/655b688e22cf74a5739a010a?width=1200&format=jpeg",
       "PublishedAt": "2023-11-22T13:06:51Z",
       "Content": "Right-wing economist Javier Milei won Argentina's presidential runoff Sunday and that means the country could soon ditch the peso for the US dollar.\r\nAdopting the greenback was one of his core polici… [+3764 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "GBP/USD exchange rate dips amid rising dollar demand",
-      "Description": "GBP/USD exchange rate dips amid rising dollar demand",
-      "Url": "https://www.investing.com/news/forex-news/gbpusd-exchange-rate-dips-amid-rising-dollar-demand-93CH-3240706",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB750ML_L.jpg",
-      "PublishedAt": "2023-11-22T07:02:03Z",
-      "Content": "The GBP/USD exchange rate experienced a slight decline today, dropping 0.09% to 1.2525 as the dollar saw renewed demand in the morning trading session in Europe. This minor retreat comes after the cu… [+1524 chars]"
     }
   ]
 }
