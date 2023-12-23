@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Dollar General Co. (NYSE:DG) Shares Acquired by Independence Bank of Kentucky",
+      "Description": "Independence Bank of Kentucky increased its stake in Dollar General Co. (NYSE:DG – Free Report) by 5.5% in the 3rd quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission. The firm owned 12,216 shares of the company’s s…",
+      "Url": "https://www.etfdailynews.com/2023/12/22/dollar-general-co-nysedg-shares-acquired-by-independence-bank-of-kentucky/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
+      "PublishedAt": "2023-12-22T17:32:41Z",
+      "Content": "Independence Bank of Kentucky increased its stake in Dollar General Co. (NYSE:DG – Free Report) by 5.5% in the 3rd quarter, according to its most recent Form 13F filing with the Securities &amp; Exch… [+6081 chars]"
+    },
+    {
+      "Source": {
         "Id": "cbc-news",
         "Name": "CBC News"
       },
@@ -366,19 +379,6 @@
       "UrlToImage": "https://a.c-dn.net/b/1H9fJA/shutterstock_303515057.jpg",
       "PublishedAt": "2023-11-23T00:00:38Z",
       "Content": "AUD/USD, GBP/AUD PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Gold Price Forecast: Rejection at $2000 Level Leaves the Door Open for a Move Lower\r\nTrade Smarter - Sign up for the DailyFX Newsletter\r\nRecei… [+4983 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "gglover@insider.com (George Glover)",
-      "Title": "The US dollar is central to Argentina's plan to fix its broken economy. There's just one hitch.",
-      "Description": "Argentina's new president Javier Milei wants to adopt the greenback to tame sky-high inflation. Here's why his plan won't work.",
-      "Url": "https://www.businessinsider.com/dollarization-us-dollar-peso-argentina-javier-milei-inflation-recession-economy-2023-11",
-      "UrlToImage": "https://i.insider.com/655b688e22cf74a5739a010a?width=1200&format=jpeg",
-      "PublishedAt": "2023-11-22T13:06:51Z",
-      "Content": "Right-wing economist Javier Milei won Argentina's presidential runoff Sunday and that means the country could soon ditch the peso for the US dollar.\r\nAdopting the greenback was one of his core polici… [+3764 chars]"
     }
   ]
 }
