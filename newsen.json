@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Independence Bank of Kentucky Invests $70,000 in Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "Independence Bank of Kentucky bought a new stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) in the 3rd quarter, according to its most recent disclosure with the Securities & Exchange Commission. The firm bought 660 shares of the company’s stoc…",
+      "Url": "https://www.etfdailynews.com/2023/12/23/independence-bank-of-kentucky-invests-70000-in-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
+      "PublishedAt": "2023-12-23T13:46:48Z",
+      "Content": "Independence Bank of Kentucky bought a new stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) in the 3rd quarter, according to its most recent disclosure with the Securities &amp; Excha… [+5954 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEAB106U_L.jpg",
       "PublishedAt": "2023-11-23T09:26:25Z",
       "Content": "The US dollar experienced a second consecutive day of decline against the Mexican peso, trading around 17.18, as investors weighed a mix of US economic data. Treasury bond yields climbed following an… [+1383 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DailyFX"
-      },
-      "Author": "Zain Vawda",
-      "Title": "Australian Dollar Price Action Setups: AUD/USD, GBP/AUD",
-      "Description": "RBA Minutes keep the Aussie Dollar supported. Technical outlook and potential setups for both AUDUSD and GBPAUD.",
-      "Url": "https://www.dailyfx.com/news/australian-dollar-price-action-setups-aud-usd-gbp-aud-20231123.html",
-      "UrlToImage": "https://a.c-dn.net/b/1H9fJA/shutterstock_303515057.jpg",
-      "PublishedAt": "2023-11-23T00:00:38Z",
-      "Content": "AUD/USD, GBP/AUD PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Gold Price Forecast: Rejection at $2000 Level Leaves the Door Open for a Move Lower\r\nTrade Smarter - Sign up for the DailyFX Newsletter\r\nRecei… [+4983 chars]"
     }
   ]
 }
