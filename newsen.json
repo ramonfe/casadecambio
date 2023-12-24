@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Nikhil Agarwal",
+      "Title": "FIIs spending every second dollar on financials. Will 2024 be about largecap bank stocks?",
+      "Description": "A long-time favorite of FIIs, financials alone attracted Rs 22,891 crore worth of funds in the first 15 days of the month, shows data pulled from NSDL. Healthcare stocks, which have also been among the list of underdogs, saw the second highest sectoral buying…",
+      "Url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-spending-every-second-dollar-on-financials-will-2024-be-about-largecap-bank-stocks/articleshow/106226660.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-106226681,width-1200,height-630,imgsize-39678,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2023-12-23T04:35:17Z",
+      "Content": "Indicating the potential of largecap bank stocks, many of which have been underperforming, FIIs (foreign institutional investors) spent over half of their Rs 42,700 crore buying on financial stocks a… [+3147 chars]"
+    },
     {
       "Source": {
         "Id": null,
