@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://a.c-dn.net/b/4qJw9W/shutterstock_213692761.jpg",
       "PublishedAt": "2023-11-23T23:30:24Z",
       "Content": "DXY, EUR/USD, GBP/USD PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Bitcoin Steady as Coinbase (Coin) Emerges as Winner from Binance Saga\r\nRecommended by Zain Vawda\r\nThe Fundamentals of Trend Trading\r\nUS D… [+4081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Argentina hikes taxes on dollar savings and bank card purchases ahead of Milei taking power",
-      "Description": "Argentina hikes taxes on dollar savings and bank card purchases ahead of Milei taking power",
-      "Url": "https://www.investing.com/news/forex-news/argentina-hikes-taxes-on-dollar-savings-and-bank-card-purchases-ahead-of-milei-taking-power-3242153",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEE6H00L_L.jpg",
-      "PublishedAt": "2023-11-23T14:42:11Z",
-      "Content": "(Reuters) - Argentina on Thursday raised taxes on U.S. dollar purchases destined for savings or made with bank cards to protect the central bank's limited reserves, weeks before President-elect Javie… [+835 chars]"
     }
   ]
 }
