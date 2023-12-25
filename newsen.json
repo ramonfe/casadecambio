@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,32 +353,6 @@
       "UrlToImage": "https://image.cnbcfm.com/api/v1/image/101367997-151945889.jpg?v=1633489613&w=1920&h=1080",
       "PublishedAt": "2023-11-29T03:12:20Z",
       "Content": "Pedestrians walk past the Reserve Bank of New Zealand headquarters in Wellington, New Zealand, on Thursday, Sept. 13, 2012.\r\nThe New Zealand dollar jumped 1% to nearly 0.62 against the U.S. dollar af… [+1102 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "NYT",
-      "Title": "Binance Founder Pleads Guilty to Violating Money Laundering Rules [4.3 billion dollar fine!]",
-      "Description": "Changpeng Zhao, the founder of Binance, the largest cryptocurrency exchange in the world, pleaded guilty to money laundering violations, the government said on Tuesday, a stunning blow to the most powerful and influential figure in the global crypto industry.…",
-      "Url": "https://freerepublic.com/focus/f-news/4199043/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2023-11-24T17:36:24Z",
-      "Content": "Skip to comments.\r\nBinance Founder Pleads Guilty to Violating Money Laundering Rules [4.3 billion dollar fine!]NYT ^\r\n | 11/21/23\r\n | David Yaffe-Bellany, Emily Flitter, Matthew Goldstein. Glenn Thru… [+2485 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DailyFX"
-      },
-      "Author": "Zain Vawda",
-      "Title": "US Dollar Price Action Setups: DXY, EUR/USD, GBP/USD",
-      "Description": "Breaking down USD pairs for potential setups heading into the weekend. Will we get a return of liquidity and an explosive end to the week?",
-      "Url": "https://www.dailyfx.com/news/us-dollar-price-action-setups-dxy-eur-usd-gbp-usd-20231123.html",
-      "UrlToImage": "https://a.c-dn.net/b/4qJw9W/shutterstock_213692761.jpg",
-      "PublishedAt": "2023-11-23T23:30:24Z",
-      "Content": "DXY, EUR/USD, GBP/USD PRICE, CHARTS AND ANALYSIS:\r\nMost Read: Bitcoin Steady as Coinbase (Coin) Emerges as Winner from Binance Saga\r\nRecommended by Zain Vawda\r\nThe Fundamentals of Trend Trading\r\nUS D… [+4081 chars]"
     }
   ]
 }
