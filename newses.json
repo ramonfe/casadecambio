@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 26 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 26 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-26-de-diciembre-nid26122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-26T14:24:44Z",
+      "Content": "Este martes 26 de diciembre, el precio del dólar en México es de $16,9738, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2205 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-centavo-de-dolar-que-tiene-un-error-57LIRTZT55BUDESLGS5UFXVITU.jpg?auth=f7dbf7c4d80d4cdd4739f2599e707e94b29eddb6cf8ec8ddd66890544a4b4998&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-12T21:27:20Z",
       "Content": "Cada vez son más las personas que se dan el tiempo de revisar los centavos que reciben en el día a día, y es que con suerte podrían tener en sus manos una moneda muy valiosa que intercambiar con algú… [+1969 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso busca un ‘milagro guadalupano’ frente al dólar: Se cotiza en las 17.36 unidades",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.83 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/12/peso-dolar-precio-hoy-dia-de-la-virgen-de-guadalupe-12-de-diciembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/82W5LvYLGGxtIK4YpyhuZoar0FM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LGPCHJZUDBB5RFVCLY62KEE24Y.jpg",
-      "PublishedAt": "2023-12-12T15:36:25Z",
-      "Content": "El peso mexicano avanza frente al dólar este 12 de diciembre, luego de que la inflación en Estados Unidos durante noviembre se mantuvo en línea con lo esperado, al situarse en 3.1 por ciento.\r\nA pesa… [+1748 chars]"
     }
   ]
 }
