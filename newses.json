@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 27 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 27 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-27-de-diciembre-nid27122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-27T14:32:46Z",
+      "Content": "Este miércoles 27 de diciembre, el precio del dólar en México es de $16,9727, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2408 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2023/12/12/milei-kKbG--1024x512@abc.jpg",
       "PublishedAt": "2023-12-12T22:58:11Z",
       "Content": "El gobierno del ultraliberal Javier Milei devaluó más de 50% la moneda, al establecer el tipo de cambio oficial en 800 pesos por dólar frente a 391 del jueves, anunció el ministro de Economía, Luis C… [+2104 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "El Tiempo (Colombia)",
-      "Title": "La moneda de centavo de dólar que tiene un error de fabricación y podría valer una fortuna",
-      "Description": "En un video en TikTok, una usuaria compartió un curiosa caso; la respuesta de un profesional y la explicación detrás de la “marca” que no está",
-      "Url": "https://www.lanacion.com.ar/lifestyle/en-las-redes/la-moneda-de-centavo-de-dolar-que-tiene-un-error-de-fabricacion-y-podria-valer-una-fortuna-nid12122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-centavo-de-dolar-que-tiene-un-error-57LIRTZT55BUDESLGS5UFXVITU.jpg?auth=f7dbf7c4d80d4cdd4739f2599e707e94b29eddb6cf8ec8ddd66890544a4b4998&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-12T21:27:20Z",
-      "Content": "Cada vez son más las personas que se dan el tiempo de revisar los centavos que reciben en el día a día, y es que con suerte podrían tener en sus manos una moneda muy valiosa que intercambiar con algú… [+1969 chars]"
     }
   ]
 }
