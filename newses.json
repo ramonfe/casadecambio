@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "En cuatro jornadas, el peso ha ganado 19 centavos frente al dólar",
+      "Description": "Pese a que se sigue complicando el ambiente geopolítico en Medio Oriente, el peso mantuvo su espíritu positivo por cuarto cierre consecutivo.",
+      "Url": "https://www.jornada.com.mx/2023/12/28/economia/016n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2023-12-28T10:37:55Z",
+      "Content": "Periódico La JornadaJueves 28 de diciembre de 2023, p. 16\r\nPese a que se sigue complicando el ambiente geopolítico en Medio Oriente, el peso mantuvo su espíritu positivo por cuarto cierre consecutivo… [+2576 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.ecestaticos.com/KLJhfr8hOUtjGZOHzGXCQU2doZM=/0x0:2272x1514/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/466/1a6/a7a/4661a6a7af1c8bbfca705bcb55077c71.jpg",
       "PublishedAt": "2023-12-12T23:21:00Z",
       "Content": "El nuevo Gobierno de Argentina anunció este martes que el tipo de cambio oficial pasará de 400 a 800 pesos por dólar, una de las medidas del paquete de \"urgencia\" para estabilizar la economía. \"Vamos… [+2860 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "AFP",
-      "Title": "Gobierno de Milei devalúa la moneda argentina más de 50%, a 800 pesos por dólar",
-      "Description": "Medida fue anunciada por ministro de Economía, Luis Caputo. Gobierno mantiene por ahora el sistema de control de divisas que rige desde 2019, con una decena de tipos de cambio diferentes",
-      "Url": "https://www.nacion.com/economia/politica-economica/gobierno-de-milei-devalua-la-moneda-argentina-mas/G3IBSW5CBNDW7NBL2GE32TCHO4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/92rssrntmuxT97nE8rOl7RCR9-s=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RX6SLNRWH5HXHOXMKQUQEOAYFU.jpg",
-      "PublishedAt": "2023-12-12T23:08:38Z",
-      "Content": "Buenos Aires. El gobierno del ultraliberal Javier Milei devaluó más de 50% la moneda, al establecer el tipo de cambio oficial en 800 pesos por dólar frente a 391 del jueves, anunció el ministro de Ec… [+2182 chars]"
     }
   ]
 }
