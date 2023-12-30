@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 29 de diciembre",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 29 de diciembre",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-29-de-diciembre-nid29122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-29T14:48:15Z",
+      "Content": "Este viernes 29 de diciembre, el precio del dólar en México es de $16,8935, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2361 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-publico-un-comunicado-en-el-que-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-13T04:12:44Z",
       "Content": "En la primera hora de este miércoles, el Banco Central de la República Argentina (BCRA) emitió un comunicado en el que explica las medidas que se pondrán en marcha en el gobierno de Javier Milei y qu… [+1992 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "Pacomeco",
-      "Title": "El Gobierno de Milei devalúa la moneda argentina en más del 50%, a 800 pesos por dólar",
-      "Description": "El gobierno del ultraliberal Javier Milei devaluó más de 50% la moneda, al establecer el tipo de cambio oficial en 800 pesos por dólar frente a 391 del jueves, anunció el ministro de Economía, Luis Caputo, quien advirtió que Argentina está en riesgo de hiperi…",
-      "Url": "https://www.meneame.net/m/actualidad/gobierno-milei-devalua-moneda-argentina-mas-50-800-pesos-dolar",
-      "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
-      "PublishedAt": "2023-12-13T00:26:58Z",
-      "Content": "Oh sorpresa! imprimir dinero durante 40 años no se soluciona en un día sino que sigue una tendencia!"
     }
   ]
 }
