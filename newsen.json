@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Trillion-Dollar Bank Pays $2,950,000 Fine for Lying to Clients, Routinely Overcharging Customers",
+      "Description": "A banking giant with $1.80 trillion in assets under management is paying a multi-million dollar civil penalty for making false statements to clients and overcharging customers. In a press release, the Monetary Authority of Singapore (MAS) says it’s hitting Cr…",
+      "Url": "https://dailyhodl.com/2023/12/30/trillion-dollar-bank-pays-2950000-fine-for-lying-to-clients-routinely-overcharging-customers/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/05/brics-new-members-coins.jpg",
+      "PublishedAt": "2023-12-30T20:04:24Z",
+      "Content": "A banking giant with $1.80 trillion in assets under management is paying a multi-million dollar civil penalty for making false statements to clients and overcharging customers.\r\nIn a press release, t… [+1806 chars]"
+    },
     {
       "Source": {
         "Id": null,
