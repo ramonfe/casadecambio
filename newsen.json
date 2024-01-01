@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,58 +327,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-12-03T17:40:17Z",
       "Content": "Skip to comments.\r\nCryptos Soar After Largest Inflows In Two Years As US Dollar Purchasing Power DOWN -16.5% Since Covid (M2 Money UP 35.3%) Confounded Interest ^\r\n | 12/03/2023\r\n | Anthony B. Sander… [+3726 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Bank of Canada faces strong opposition in digital dollar consultations",
-      "Description": "Bank of Canada faces strong opposition in digital dollar consultations",
-      "Url": "https://www.investing.com/news/forex-news/bank-of-canada-faces-strong-opposition-in-digital-dollar-consultations-93CH-3246124",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAG0NK_L.jpg",
-      "PublishedAt": "2023-11-29T19:28:43Z",
-      "Content": "CANADA - The Bank of Canada's recent consultations on the potential introduction of a digital Canadian dollar have unveiled significant resistance from the public, with more than 80% of participants … [+1538 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CoinDesk"
-      },
-      "Author": "Oliver Knight",
-      "Title": "Troubled Crypto Exchange Zipmex Proposes to Pay Creditors 3.35 Cents on the Dollar: Bloomberg",
-      "Description": "The Singapore-based firm has proposed to pay creditors 3.35 cents on the dollar in its latest restructuring plan, according to Bloomberg, which cites people familiar with the matter.",
-      "Url": "https://www.coindesk.com/business/2023/11/29/troubled-crypto-exchange-zipmex-proposes-to-pay-creditors-335-cents-on-the-dollar-bloomberg/",
-      "UrlToImage": "https://www.coindesk.com/resizer/LcLnErWAjCzPfPFAsUndX1JwPMs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YO3AEVNBIFA6PLG6T6VWUAZS64.jpg",
-      "PublishedAt": "2023-11-29T10:02:20Z",
-      "Content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+595 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "AllAfrica - Top Africa News"
-      },
-      "Author": null,
-      "Title": "Rwanda: Central Bank Governor Speaks Out on Dollar Scarcity, De-Dollarisation Talk",
-      "Description": "[New Times] There is no complete lack of the US dollar in Rwanda, but limited availability of the currency has put pressure on the exchange market, while de-dollarisation, or reducing reliance on the dollar for international transactions, is still far from re…",
-      "Url": "https://allafrica.com/stories/202311290106.html",
-      "UrlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "PublishedAt": "2023-11-29T08:40:07Z",
-      "Content": "There is no complete lack of the US dollar in Rwanda, but limited availability of the currency has put pressure on the exchange market, while de-dollarisation, or reducing reliance on the dollar for … [+5524 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": "Shreyashi Sanyal",
-      "Title": "New Zealand dollar jumps 1% as central bank holds rates, warns of more hikes",
-      "Description": "The central bank noted that inflation remained too high and said monetary policy will need to remain restrictive in order to control it.",
-      "Url": "https://www.cnbc.com/2023/11/29/new-zealand-dollar-spikes-as-rbnz-holds-rates-warns-of-more-hikes.html",
-      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/101367997-151945889.jpg?v=1633489613&w=1920&h=1080",
-      "PublishedAt": "2023-11-29T03:12:20Z",
-      "Content": "Pedestrians walk past the Reserve Bank of New Zealand headquarters in Wellington, New Zealand, on Thursday, Sept. 13, 2012.\r\nThe New Zealand dollar jumped 1% to nearly 0.62 against the U.S. dollar af… [+1102 chars]"
     }
   ]
 }
