@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 1° de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 1° de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-1-de-enero-nid01012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-01T15:46:50Z",
+      "Content": "Este lunes 1° de enero, el precio del dólar en México es de $16,8935, de acuerdo con la última actualización del Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanilla… [+2256 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-12-15T12:08:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 15 de diciembre el tipo de cambio interbancario, se ubica en 17.82 pesos por unidad, con una ganancia de 0.52 por ci… [+806 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 14 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 14 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-14-de-diciembre-nid14122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-14T15:04:37Z",
-      "Content": "Este jueves 14 de diciembre, el precio del dólar en México es de $17,3980, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2157 chars]"
     }
   ]
 }
