@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Dollar Tree, Inc. (NASDAQ:DLTR) Holdings Decreased by Iowa State Bank",
+      "Description": "Iowa State Bank cut its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.0% in the third quarter, according to its most recent filing with the Securities and Exchange Commission. The firm owned 25,339 shares of the company’s stock afte…",
+      "Url": "https://www.etfdailynews.com/2024/01/02/dollar-tree-inc-nasdaqdltr-holdings-decreased-by-iowa-state-bank/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
+      "PublishedAt": "2024-01-02T19:28:45Z",
+      "Content": "Iowa State Bank cut its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.0% in the third quarter, according to its most recent filing with the Securities and Exchange Commissi… [+6346 chars]"
+    },
     {
       "Source": {
         "Id": null,
