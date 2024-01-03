@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘alarga la cruda’ de Año Nuevo: Supera techo de las 17 unidades frente al dólar",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.37 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/02/peso-dolar-precio-hoy-2-de-enero-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/oRyWQq4IUEzRkZxlB-P3plGbe-U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OQPHNXJZQZBIRMIAHUFLO774EM.jpg",
+      "PublishedAt": "2024-01-02T13:44:50Z",
+      "Content": "El peso mexicano regresó del puente de Año Nuevo con una mala noticia: Este martes rebasó de nuevo el techo de las 17 unidades contra el dólar. \r\nDe acuerdo con datos de Bloomberg, la moneda nacional… [+1301 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-15T16:05:20Z",
       "Content": "Este viernes 15 de diciembre, el precio del dólar en México es de $17,5308, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2395 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY viernes 15 de diciembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 15 de diciembre el tipo de cambio interbancario, se ubica en 17.82 pesos por unidad, con una ganancia de 0.52 por ciento, según datos de Bloomberg.El peso mexicano se depreciab…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-15-diciembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-12-15T12:08:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 15 de diciembre el tipo de cambio interbancario, se ubica en 17.82 pesos por unidad, con una ganancia de 0.52 por ci… [+806 chars]"
     }
   ]
 }
