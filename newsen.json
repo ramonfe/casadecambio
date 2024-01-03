@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nakedcapitalism.com"
+      },
+      "Author": "Yves Smith",
+      "Title": "Status of US Dollar as Global Reserve Currency and USD Exchange Rates: Long, Slow, Uneven Decline Continues",
+      "Description": "China’s renminbi keeps losing ground. But tiny \"other\" reserve currencies combined are taking share from the US dollar.",
+      "Url": "https://www.nakedcapitalism.com/2024/01/status-of-us-dollar-as-global-reserve-currency-and-usd-exchange-rates-long-slow-uneven-decline-continues.html",
+      "UrlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/01/00-dollar-.png",
+      "PublishedAt": "2024-01-02T10:39:40Z",
+      "Content": "Yves here. It is useful and welcome to see data, as opposed to conjecture and assertion, around the position of the dollar. We’ve argued that the logical reserve currency successor by virtue of the s… [+5272 chars]"
+    },
     {
       "Source": {
         "Id": null,
