@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 3 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 3 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-3-de-enero-nid03012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-miercoles-3-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-03T14:48:15Z",
+      "Content": "Este miércoles 3 de enero, el precio del dólar en México es de $17,0297, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2204 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, ‘de bajón’ contra el dólar: Se cotiza en las 17.06 unidades",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.47 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/03/peso-dolar-precio-hoy-3-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/e4Pm2Xw5vljwI51fH9u9_6KBH7c=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KVKLAMUNUZHCBB33WYHYB52OAY.jpg",
+      "PublishedAt": "2024-01-03T14:06:02Z",
+      "Content": "El peso mexicano alarga su racha de pérdidas frente al dólar durante este 3 de enero, mientras un nuevo comentario de un miembro de la Reserva Federal reveló las perspectivas del banco central para l… [+1138 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-18T14:44:13Z",
       "Content": "Este lunes 18 de diciembre, el precio del dólar en México es de $17,1908, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2302 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Dólar se vende a $17.65; vuelve plusvalía semanal al peso",
-      "Description": "Entre el 8 y 15 de diciembre, el dólar bajó doce centavos a 17.65 pesos, después de dos semanas con aumentos.",
-      "Url": "https://www.reforma.com/dolar-se-vende-a-17-65-vuelve-plusvalia-semanal-al-peso/ar2727600",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/467/5466978.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-12-15T23:31:36Z",
-      "Content": "En la semana, el tipo de cambio de menudeo disminuyó su valor 12 centavos a 17.65 pesos a la venta en Citibanamex y a 16.69 unidades a la compra. Crédito: AP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Dólar fuerte ‘echa a perder’ fin de semana del peso",
-      "Description": "Forbes México.\n Dólar fuerte ‘echa a perder’ fin de semana del peso\n\nLuego de tres jornadas de avances, el peso retrocede ante el fortalecimiento global del dólar.\nDólar fuerte ‘echa a perder’ fin de semana del peso\nForbes Staff",
-      "Url": "https://www.forbes.com.mx/dolar-fuerte-echa-a-perder-fin-de-semana-del-peso/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
-      "PublishedAt": "2023-12-15T23:22:54Z",
-      "Content": "El peso se depreció después de tres jornadas de ganancias, ante un fortalecimiento global del dólar al final de una semana cargada de decisiones de política monetaria de distintos bancos centrales, m… [+1678 chars]"
     }
   ]
 }
