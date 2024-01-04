@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,19 +366,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-12-06T11:00:00Z",
       "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "Confounded Interest",
-      "Title": "Cryptos Soar After Largest Inflows In Two Years As US Dollar Purchasing Power DOWN -16.5% Since Covid (M2 Money UP 35.3%)",
-      "Description": "Joe Biden has a new name: the crypt keeper. As in the person through his economic screw-ups is causing a massive inflow to cryptos. Anticipation of an eventual US spot Bitcoin ETF – which Bloomberg’s analysts assign a 90% probability of being approved by the …",
-      "Url": "https://freerepublic.com/focus/f-bloggers/4200960/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-03T17:40:17Z",
-      "Content": "Skip to comments.\r\nCryptos Soar After Largest Inflows In Two Years As US Dollar Purchasing Power DOWN -16.5% Since Covid (M2 Money UP 35.3%) Confounded Interest ^\r\n | 12/03/2023\r\n | Anthony B. Sander… [+3726 chars]"
     }
   ]
 }
