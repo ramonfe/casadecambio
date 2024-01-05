@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 4 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 4 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-4-de-enero-nid04012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-04T14:16:49Z",
+      "Content": "Este jueves 4 de enero, el precio del dólar en México es de $17,0492, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2331 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20231219/imag/foto_0000000120231219084025/foto_0000000220220301085232.jpeg",
       "PublishedAt": "2023-12-19T11:39:00Z",
       "Content": "El precio del dólar comenzó la jornada de este martes con una caída de cerca de $ 5, en una segunda sesión tras la victoria de la opción en contra en el plebiscito constitucional de salida y con el m… [+1041 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso está en un ‘estira y afloja’ con el dólar: Se cotiza en las 17.18 unidades",
-      "Description": "Según cifras de Citibanamex, en ventanillas bancarias el precio del billete verde es de 17.65 pesos cada uno.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/18/peso-dolar-precio-hoy-18-de-diciembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/FPcNgn7tWUOGJvta70J0fmCkbZI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UREFZNMGUZEXVJSOSCCRJHFROI.jpg",
-      "PublishedAt": "2023-12-18T17:26:59Z",
-      "Content": "El peso mexicano está en una sesión de estira y afloja este lunes después de haber alcanzado un mínimo de 17.14 unidades la semana previa, cuando se vio impulsado por una postura monetaria menos rest… [+1428 chars]"
     }
   ]
 }
