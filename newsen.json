@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dealmakers bank on stable rates to revive Asian dollar bond issuance in 2024",
+      "Description": "SYDNEY : Asia's dealmakers are hoping for a 10 per cent increase in dollar bond issuance in 2024 as interest rates stabilise and companies beef up borrowing to fund capital spending plans, following the weakest year for debt markets in eight years.The first f…",
+      "Url": "https://www.channelnewsasia.com/business/dealmakers-bank-stable-rates-revive-asian-dollar-bond-issuance-2024-4024636",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--4Y1GvpqL--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-04t060007z_1_lynxmpek0304z_rtroptp_3_global-markets.jpg?itok=rhHP0fcz",
+      "PublishedAt": "2024-01-04T06:00:07Z",
+      "Content": "SYDNEY : Asia's dealmakers are hoping for a 10 per cent increase in dollar bond issuance in 2024 as interest rates stabilise and companies beef up borrowing to fund capital spending plans, following … [+3618 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Dealmakers bank on stable rates to revive Asian dollar bond issuance in 2024",
+      "Description": "(marketscreener.com) Asia's dealmakers are hoping\nfor a 10% increase in dollar bond issuance in 2024 as interest\nrates stabilise and companies beef up borrowing to fund capital\nspending plans, following the weakest year for debt markets in\neight years.\n The f…",
+      "Url": "https://www.marketscreener.com/quote/stock/MORGAN-STANLEY-13654/news/Dealmakers-bank-on-stable-rates-to-revive-Asian-dollar-bond-issuance-in-2024-45670502/",
+      "UrlToImage": "https://www.marketscreener.com/images/reuters/2020-01/2020-01-23T022341Z_1_LYNXMPEG0M022_RTROPTP_3_GLOBAL-MARKETS.JPG",
+      "PublishedAt": "2024-01-04T05:53:40Z",
+      "Content": "SYDNEY, Jan 4 (Reuters) - Asia's dealmakers are hoping\r\nfor a 10% increase in dollar bond issuance in 2024 as interest\r\nrates stabilise and companies beef up borrowing to fund capital\r\nspending plans… [+3725 chars]"
+    },
     {
       "Source": {
         "Id": null,
