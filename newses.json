@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso decae: tipo de cambio se ubica en 17.03 unidades por dólar",
+      "Description": "El dólar se cotiza por debajo de las 18 unidades en ventanillas bancarias, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/04/peso-dolar-4-de-enero-de-2024-tipo-de-cambio-hoy/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/fbsuM7xQroEmaVJXhtQHwCagZy0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6HSAKPWQERGH3KLE2HXMUI3WAU.jpg",
+      "PublishedAt": "2024-01-04T15:16:38Z",
+      "Content": "El peso mexicano vuelve a ceder terreno frente al dólar tras la publicación, el día de ayer, de las minutas de la última reunión del Comité Federal del Mercado Abierto (FOMC por sus siglas en inglés)… [+1544 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-19T14:42:40Z",
       "Content": "Este martes 19 de diciembre, el precio del dólar en México es de $17,2277, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2051 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "Dólar abre con nueva baja y pierde los $ 870 con mercado atento a anuncio de tasa del Banco Central",
-      "Description": "La divisa retrocedió en las primeras operaciones del día en línea con una recuperación en el precio del cobre.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-eba6k",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231219/imag/foto_0000000120231219084025/foto_0000000220220301085232.jpeg",
-      "PublishedAt": "2023-12-19T11:39:00Z",
-      "Content": "El precio del dólar comenzó la jornada de este martes con una caída de cerca de $ 5, en una segunda sesión tras la victoria de la opción en contra en el plebiscito constitucional de salida y con el m… [+1041 chars]"
     }
   ]
 }
