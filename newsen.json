@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Dealmakers bank on stable rates to revive Asian dollar bond issuance in 2024",
+      "Description": "Dealmakers bank on stable rates to revive Asian dollar bond issuance in 2024",
+      "Url": "https://www.investing.com/news/economy/dealmakers-bank-on-stable-rates-to-revive-asian-dollar-bond-issuance-in-2024-3266806",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
+      "PublishedAt": "2024-01-04T06:06:19Z",
+      "Content": "By Scott Murdoch\r\nSYDNEY (Reuters) - Asia's dealmakers are hoping for a 10% increase in dollar bond issuance in 2024 as interest rates stabilise and companies beef up borrowing to fund capital spendi… [+3630 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://a.c-dn.net/b/4afZxn/USDCAD_outlook.jpg",
       "PublishedAt": "2023-12-06T17:30:00Z",
       "Content": "Interested in learning how retail positioning can give clues about the short-term trajectory of USD/CAD? Our sentiment guide has all the answers you are looking for. Get a free copy now!\r\nUSD/CADMixe… [+2656 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "'America is in serious trouble': Robert Kiyosaki warns the US is broke, bankrupt, and our dollar is 'trash' — says that printing money to solve problems can't go on much longer. Is he right?",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_97de4375-ac94-4ee4-abc1-eba5692c9939",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-06T11:00:00Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
