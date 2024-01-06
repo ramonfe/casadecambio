@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 5 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 5 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-5-de-enero-nid05012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-05T15:21:53Z",
+      "Content": "Este viernes 5 de enero, el precio del dólar en México es de $17,0458, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2386 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2023/12/20/fotos/021n2eco-1.jpg",
       "PublishedAt": "2023-12-20T09:59:50Z",
       "Content": "Periódico La JornadaMiércoles 20 de diciembre de 2023, p. 21\r\nEl peso se apreció este martes 0.60 por ciento, equivalente a 10.29 centavos, para cerrar en 17.0666 unidades por dólar spot.\r\nEl rally p… [+3277 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ya ‘huele’ el terreno de las 16 unidades contra el dólar: Así cotiza este martes",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.55 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/19/peso-dolar-precio-hoy-19-de-diciembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/D98We3dI87i6HogIuKu_8b9XPSo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HM35MHMOUFCQJNBLJECZ7SPRIM.jpg",
-      "PublishedAt": "2023-12-19T15:59:41Z",
-      "Content": "El peso mexicano se acerca al terreno de las 16 unidades contra el dólar a medida que continúa la especulación que la Fed podría comenzar con sus recortes de tasas el próximo año, mientras que el Ban… [+1461 chars]"
     }
   ]
 }
