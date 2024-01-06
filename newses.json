@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "La moneda de centavo de dólar que vale miles por una frase que tiene escrita",
+      "Description": "Acuñada en 1787, el metal tiene lemas que se atribuyen a Benjamin Franklin; fue la primera divisa considerada oficial por los estados de la Unión; el diseño está basado en el del dólar continental",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-centavo-de-dolar-que-vale-miles-por-una-frase-que-tiene-escrita-nid05012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-centavo-fugio-tambien-conocido-como-centavo-de-C7MSFCVINZEKDGHKZPCBY4AZK4.jpg?auth=2e219e7d1e2476e6a38f3d05747bfb6b79c3c0a9778aea77d1e662cc96a093cb&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-05T19:30:05Z",
+      "Content": "Vacíe sus bolsillos y revise sus monedas, pues si tiene este extraño centavo de dólar podría venderlo en miles de dólares. Se trata de la primera moneda estadounidense, la cual entró en circulación e… [+2350 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-20T16:59:31Z",
       "Content": "Este miércoles 20 de diciembre, el precio del dólar en México es de $17,0652, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2428 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se acerca a las 16 unidades por dólar pese a ‘ligeras’ pérdidas: Así cotiza hoy miércoles",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.49 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/20/peso-dolar-precio-hoy-20-de-diciembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/82W5LvYLGGxtIK4YpyhuZoar0FM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LGPCHJZUDBB5RFVCLY62KEE24Y.jpg",
-      "PublishedAt": "2023-12-20T15:40:14Z",
-      "Content": "La moneda mexicana inició este miércoles reportando ligeros retrocesos a medida que el dólar norteamericano comenzó a retomar parte de su fortaleza, luego de haberse ubicado durante dos sesiones en t… [+1674 chars]"
     }
   ]
 }
