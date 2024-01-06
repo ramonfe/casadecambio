@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY viernes 5 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de enero el tipo de cambio interbancario, se ubica en 17.02 pesos por unidad, con una ganancia de 0.08 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba aye…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-enero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2024-01-05T13:08:01Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de enero el tipo de cambio interbancario, se ubica en 17.02 pesos por unidad, con una ganancia de 0.08 por ciento,… [+838 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/D98We3dI87i6HogIuKu_8b9XPSo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HM35MHMOUFCQJNBLJECZ7SPRIM.jpg",
       "PublishedAt": "2023-12-19T15:59:41Z",
       "Content": "El peso mexicano se acerca al terreno de las 16 unidades contra el dólar a medida que continúa la especulación que la Fed podría comenzar con sus recortes de tasas el próximo año, mientras que el Ban… [+1461 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 19 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 19 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-19-de-diciembre-nid19122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-19T14:42:40Z",
-      "Content": "Este martes 19 de diciembre, el precio del dólar en México es de $17,2277, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2051 chars]"
     }
   ]
 }
