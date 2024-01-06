@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sputniknews.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "Bolivia mantendrá tipo de cambio frente al dólar pese a la caída de sus Reservas",
+      "Description": "SANTA CRUZ (Sputnik) — Bolivia mantendrá su tipo de cambio frente al dólar durante el 2024, pese a la caída de sus Reservas Internacionales Netas (RIN), confirmó el presidente del Banco Central de Bolivia (BCB), Edwin Rojas.",
+      "Url": "https://sputniknews.lat/20240105/bolivia-mantendra-tipo-de-cambio-frente-al-dolar-pese-a-la-caida-de-sus-reservas-1147147603.html",
+      "UrlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1147147603.jpg?10396683761704473462",
+      "PublishedAt": "2024-01-05T16:51:00Z",
+      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "¿Regalo de Reyes? Peso rompe piso de las 17 unidades contra el dólar",
+      "Description": "El peso tiene una leve apreciación este viernes, y logra bajar del nivel de las 17 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/05/peso-dolar-5-de-enero-de-2024-tipo-de-cambio-hoy/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mrgEBP3jbSwJ29K9PddBf_Q1zdA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BA32SR5RHZGRDGNL3J4I63WMJI.jpg",
+      "PublishedAt": "2024-01-05T16:12:57Z",
+      "Content": "Luego de operar la mayor parte de la semana en terreno de pérdidas, el peso mexicano inicia su última sesión este viernes colocándose por debajo de las 17 unidades, mostrando una ganancia frente al b… [+1530 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/82W5LvYLGGxtIK4YpyhuZoar0FM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LGPCHJZUDBB5RFVCLY62KEE24Y.jpg",
       "PublishedAt": "2023-12-20T15:40:14Z",
       "Content": "La moneda mexicana inició este miércoles reportando ligeros retrocesos a medida que el dólar norteamericano comenzó a retomar parte de su fortaleza, luego de haberse ubicado durante dos sesiones en t… [+1674 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "Dólar abre estable tras baja de tasas del Banco Central y en medio de apreciación global de la divisa",
-      "Description": "El ente rector bajó la tasa de referencia en 75 puntos bases la Tasa de Política Monetaria, más de lo que esperaba una mayoría.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-dxzmw",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20231220/imag/foto_0000000120231220083601/foto_0000000120220113092716.jpg",
-      "PublishedAt": "2023-12-20T11:35:00Z",
-      "Content": "El precio del dólar comenzó sus operaciones con leves variaciones en el mercado cambiario chileno de este miércoles, tras conocerse la decisión del Banco Central de bajar la tasa de referencia en 75 … [+1290 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso repunta; se acerca a 16 unidades por dólar",
-      "Description": "El peso se apreció este martes 0.60 por ciento, equivalente a 10.29 centavos, para cerrar en 17.0666 unidades por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2023/12/20/economia/021n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/2023/12/20/fotos/021n2eco-1.jpg",
-      "PublishedAt": "2023-12-20T09:59:50Z",
-      "Content": "Periódico La JornadaMiércoles 20 de diciembre de 2023, p. 21\r\nEl peso se apreció este martes 0.60 por ciento, equivalente a 10.29 centavos, para cerrar en 17.0666 unidades por dólar spot.\r\nEl rally p… [+3277 chars]"
     }
   ]
 }
