@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, el ‘alumno más aplicado’ de las monedas vs. el dólar: Se cotiza en las 16.81 unidades",
+      "Description": "El precio del billete verde en ventanillas bancarias se ubica en los 17.23 pesos cada uno, de acuerdo con los datos reportados por Citibanamex",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/08/peso-dolar-precio-hoy-8-enero-de-2023/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZsP1Y5lfTIqHDha49JDLyHRNjDE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/IUFOKEVBPJG3LPPZ3SNWE4KK4E.jpg",
+      "PublishedAt": "2024-01-08T17:14:14Z",
+      "Content": "El peso mexicano empieza sus operaciones de esta semana registrando un avance moderado frente al dólar, mientras el mercado está a la espera de la publicación de información económica relevante, como… [+1564 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-21T15:15:06Z",
       "Content": "Este jueves 21 de diciembre, el precio del dólar en México es de $17,0673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2180 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY jueves 21 de diciembre de 2023: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 17.08 pesos por unidad, con una pérdida de 0.38 por ciento, según datos de Bloomberg.El peso mexicano operaba errát…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-21-diciembre-2023-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2023-12-21T12:14:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 17.08 pesos por unidad, con una pérdida de 0.38 por cie… [+856 chars]"
     }
   ]
 }
