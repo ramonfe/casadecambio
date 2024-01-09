@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 8 de enero",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este lunes 8 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-8-de-enero-nid08012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-falta-de-dolares-lleva-a-postergar-AMOZMJO2IRFMDLCGGC5TXO43E4.jpg?auth=aca1f426c8f035e6652d09b6593818c0ab703836004f854d7cc2f93bf3ece2d0&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-08T14:20:57Z",
+      "Content": "Este lunes 8 de enero el precio del dólar en México es de $16,8987, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex cotiza en… [+2217 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2023-12-21T12:14:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 21 de diciembre el tipo de cambio interbancario, se ubica en 17.08 pesos por unidad, con una pérdida de 0.38 por cie… [+856 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 20 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 20 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-20-de-diciembre-nid20122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-20T16:59:31Z",
-      "Content": "Este miércoles 20 de diciembre, el precio del dólar en México es de $17,0652, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex… [+2428 chars]"
     }
   ]
 }
