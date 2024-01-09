@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "¿Qué esperar del tipo de cambio en 2024? Estas variables marcarán el rumbo del dólar",
+      "Description": "Precio de la divisa tendrá en el 2024 un periodo sin mayores agitaciones, pues en el escenario base las condiciones que propiciaron una  tendencia a la baja en la cotización continuarán en este nuevo año",
+      "Url": "https://www.nacion.com/economia/indicadores/que-esperar-del-tipo-de-cambio-en-2024-estas/GWXYM6LDSFE7XNDQN5RHOFS3ZA/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/MrNblO7-_U-NTRd5BoH1Sceg4Tk=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z6KWH5IU4VFGXCZDQIDTAXULRY.jpg",
+      "PublishedAt": "2024-01-08T22:00:00Z",
+      "Content": "El tipo de cambio del dólar respecto al colón fue uno de los temas económicos que más dio de qué hablar en Costa Rica, durante el 2023. La divisa mantuvo su cotización a la baja en gran parte del año… [+5167 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/W_LZ6HQYlK63_tvAjlSOYDNuh-E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MXJUH67NCBHMRLJEAGP2EZQFYA.jpg",
       "PublishedAt": "2023-12-21T16:36:07Z",
       "Content": "La moneda mexicana vuelve al terreno de ganancias a medida que los inversionistas asimilan la última revisión del PIB del tercer trimestre en Estados Unidos, mientras que en México destaca el reporte… [+1607 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso méxicano: a cuánto cotiza la moneda hoy, jueves 21 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 21 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-21-de-diciembre-nid21122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-21T15:15:06Z",
-      "Content": "Este jueves 21 de diciembre, el precio del dólar en México es de $17,0673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2180 chars]"
     }
   ]
 }
