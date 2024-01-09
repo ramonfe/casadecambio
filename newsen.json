@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,45 +353,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/1177374410/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "PublishedAt": "2023-12-09T13:30:59Z",
       "Content": "BitcoinBTC\r\n and cryptocurrenciesincluding ethereum and XRPXRP\r\nhave rocketed back into the limelight this year amid predictions the Federal Reserve and China could be about to \"flood the world\" with… [+4121 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar General warns of constrained consumer spending heading into 2024 - Yahoo Finance",
-      "Description": "Dollar General warns of constrained consumer spending heading into 2024Yahoo Finance Dollar General gains on better-than-feared Q3 resultsSeeking Alpha Dollar General's Same-Store Sales Decline Less Than FearedYahoo Finance Facing fines, cluttered aisles and …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172444921",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-07T20:33:09Z",
-      "Content": "Any given program, when running, is obsolete."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "10 Kitchen Items You Should Always Buy at Dollar Tree To Save Money",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dfee5974-93a1-4a0a-93e3-8055b3b1abbd",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-07T14:00:09Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "National Bank accepts dollar exchange rate jumps",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_735b7748-bbeb-4cfa-bd7a-72d5418a0527",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-07T13:30:00Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
