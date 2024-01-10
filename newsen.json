@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Foreign exchange: Euro rate loses against the US dollar - weak German industrial data",
+      "Description": "(marketscreener.com) The euro fell slightly against the US dollar around midday on Tuesday. In the morning, the common currency was trading at 1.0934 dollars, slightly lower than in the morning. The European Central Bank had last set the reference rate at 1.0…",
+      "Url": "https://www.marketscreener.com/quote/stock/COMMERZBANK-AG-13057331/news/Foreign-exchange-Euro-rate-loses-against-the-US-dollar-weak-German-industrial-data-45704682/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "PublishedAt": "2024-01-09T11:22:06Z",
+      "Content": "FRANKFURT (dpa-AFX) - The euro fell slightly against the US dollar around midday on Tuesday. In the morning, the common currency was trading at 1.0934 dollars, slightly lower than in the morning. The… [+985 chars]"
+    },
     {
       "Source": {
         "Id": null,
