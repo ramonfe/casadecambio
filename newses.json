@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 9 de enero",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este martes 9 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-9-de-enero-nid09012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-09T14:51:22Z",
+      "Content": "Este martes 9 de enero, el precio del dólar en México es de $16,8133, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2442 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-22T14:09:34Z",
       "Content": "Este viernes 22 de diciembre, el precio del dólar en México es de $17,0590, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2342 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se quita el frío’ y le da la vuelta al dólar: Se cotiza en las 17.04 unidades",
-      "Description": "El tipo de cambio muestra una apreciación de 0.33 por ciento o 5.65 centavos este jueves, al colocarse en un nivel de 17.0480 pesos por billete verde.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2023/12/21/peso-dolar-precio-hoy-21-de-diciembre-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/W_LZ6HQYlK63_tvAjlSOYDNuh-E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MXJUH67NCBHMRLJEAGP2EZQFYA.jpg",
-      "PublishedAt": "2023-12-21T16:36:07Z",
-      "Content": "La moneda mexicana vuelve al terreno de ganancias a medida que los inversionistas asimilan la última revisión del PIB del tercer trimestre en Estados Unidos, mientras que en México destaca el reporte… [+1607 chars]"
     }
   ]
 }
