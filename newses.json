@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Amsiedad’ por tasa de la Fed baja al peso: Cotiza en las 16.93 unidades vs. el dólar",
+      "Description": "Las 'apuestas' sobre cuándo empezará la Fed a recortar su tasa de interés en 2024 sigue moviendo a los mercados. Así cotizan este martes 9 de enero.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/09/amsiedad-por-tasa-de-la-fed-baja-al-peso-cotiza-en-las-1693-unidades-vs-el-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/-Qb-Ud9ElkoyB336UXKBxAE3Czg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JI5CE5E7EJBRBLP7WJUQ2KLX2I.jpg",
+      "PublishedAt": "2024-01-09T15:55:25Z",
+      "Content": "El peso mexicano opera este martes con pérdidas frente al dólar como parte de la cautela de los operadores a medida que continúa la especulación acerca de cuándo comenzará la Fed con el recorte a su … [+1568 chars]"
+    },
+    {
+      "Source": {
         "Id": "la-nacion",
         "Name": "La Nacion"
       },
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-12-22T14:49:15Z",
       "Content": "El peso se apreciaba el viernes y rompía la barrera de 17 unidades por dólar primera vez desde finales septiembre, ante un debilitamiento global de la moneda estadounidense mientras los inversionista… [+660 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 22 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 22 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-22-de-diciembre-nid22122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-22T14:09:34Z",
-      "Content": "Este viernes 22 de diciembre, el precio del dólar en México es de $17,0590, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2342 chars]"
     }
   ]
 }
