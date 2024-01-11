@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 10 de enero",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 10 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-10-de-enero-nid10012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-10T14:47:32Z",
+      "Content": "Este miércoles 10 de enero, el precio del dólar en México es de $16,9347, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2363 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "¡Peligro! Peso ‘merodea’ el techo de las 17 unidades vs. el dólar: Así cotiza este miércoles",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.41 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/10/peso-dolar-precio-hoy-10-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/B1q94Ttmu0D9wrXhQogmQfC4lxo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WS6OL46RWFCKTOGW4WYBGEHHMU.jpg",
+      "PublishedAt": "2024-01-10T14:29:40Z",
+      "Content": "El peso mexicano supera el techo de las 17 unidades contra el dólar durante la sesión de este miércoles mientras los mercados esperan la publicación del dato de inflación en Estados Unidos de diciemb… [+1921 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-25-de-4AKIH3WCX5EFNCNWMUZV76P4WA.jpg?auth=4b34c68a9679ddc3aeaf0ad7737560d23ea470ee0ee76296ecb517c3867024ae&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-25T15:48:08Z",
       "Content": "Este lunes 25 de diciembre, el precio del dólar en México es de $17,059, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2037 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Peso se aprecia y entra en terreno de 16 unidades por dólar",
-      "Description": "El peso se apreció y este viernes se ubicó por debajo de 17 unidades por dólar, impulsado por datos que mostraron que la inflación en Estados Unidos continúa a la baja, lo que genera expectativas sobre una reducción en las tasas de interés en ese país a parti…",
-      "Url": "https://www.jornada.com.mx/2023/12/23/economia/014n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-12-23T08:21:17Z",
-      "Content": "Periódico La JornadaSábado 23 de diciembre de 2023, p. 14\r\nEl peso se apreció y este viernes se ubicó por debajo de 17 unidades por dólar, impulsado por datos que mostraron que la inflación en Estado… [+2965 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso gana y rompe la barrera de 17 unidades por dólar; BMV retrocede",
-      "Description": "Forbes México.\n Peso gana y rompe la barrera de 17 unidades por dólar; BMV retrocede\n\nEl peso cotizaba en 16.9861 por dólar casi al final de los negocios, con una apreciación de 0.21% frente al precio de referencia de Reuters del jueves, aunque durante el día…",
-      "Url": "https://www.forbes.com.mx/peso-gana-y-rompe-la-barrera-de-17-unidades-por-dolar-bmv-retrocede/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-22T22:15:06Z",
-      "Content": "El peso avanzó este viernes después de que datos mostraron que la inflación en Estados Unidos se enfrió considerablemente en noviembre, apoyando la opinión de que la Reserva Federal (Fed) podría reco… [+1379 chars]"
     }
   ]
 }
