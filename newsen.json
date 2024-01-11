@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "State Bank of India appoints lead managers for 5-year US dollar bond - term sheet",
+      "Description": "(marketscreener.com) State Bank of India\nhas mandated six investment banks to work on a\npotential five-year U.S. dollar-denominated bond issue this\nmonth, according to a term sheet seen by Reuters.\n Bank of America, BNP Paribas, HSBC, JP Morgan, MUFG and\nStan…",
+      "Url": "https://www.marketscreener.com/quote/stock/STATE-BANK-OF-INDIA-18603402/news/State-Bank-of-India-appoints-lead-managers-for-5-year-US-dollar-bond-term-sheet-45710185/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2024-01-10T04:30:43Z",
+      "Content": "SYDNEY/MUMBAI, Jan 10 (Reuters) - State Bank of India\r\nhas mandated six investment banks to work on a\r\npotential five-year U.S. dollar-denominated bond issue this\r\nmonth, according to a term sheet se… [+1414 chars]"
+    },
     {
       "Source": {
         "Id": null,
