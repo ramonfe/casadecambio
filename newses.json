@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso pierde tras fortalecimiento del dólar e inflación en México",
+      "Description": "Forbes México.\n Peso pierde tras fortalecimiento del dólar e inflación en México\n\nEl peso cede 0.88% frente al precio de referencia de Reuters del lunes; BBVA mantiene su previsión de que se deprecie a 18.8 unidades en el primer semestre.\nPeso pierde tras for…",
+      "Url": "https://www.forbes.com.mx/peso-pierde-tras-fortalecimiento-del-dolar-e-inflacion-en-mexico/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-01-09T23:14:17Z",
+      "Content": "El peso retrocedió ante el fortalecimiento global del dólar en una jornada marcada por especulaciones sobre el futuro de las tasas de interés en Estados Unidos y México.\r\nEl dólar estadounidense avan… [+3099 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-12-22T22:15:06Z",
       "Content": "El peso avanzó este viernes después de que datos mostraron que la inflación en Estados Unidos se enfrió considerablemente en noviembre, apoyando la opinión de que la Reserva Federal (Fed) podría reco… [+1379 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza y perfora la barrera de 17 unidades por dólar por primera vez desde septiembre",
-      "Description": "Forbes México.\n Peso avanza y perfora la barrera de 17 unidades por dólar por primera vez desde septiembre\n\nEl peso cotizaba en 16.9458 unidades, con una ganancia del 0.45% frente a los 17.0220 por dólar del precio de referencia de Reuters del jueves.\nPeso av…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-y-perfora-la-barrera-de-17-unidades-por-dolar-por-primera-vez-desde-septiembre/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-22T14:49:15Z",
-      "Content": "El peso se apreciaba el viernes y rompía la barrera de 17 unidades por dólar primera vez desde finales septiembre, ante un debilitamiento global de la moneda estadounidense mientras los inversionista… [+660 chars]"
     }
   ]
 }
