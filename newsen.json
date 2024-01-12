@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Punch"
+      },
+      "Author": "Stephen Angbulu",
+      "Title": "Why FG chose N800/dollar exchange rate for 2024 budget – Minister",
+      "Description": "The Federal Government, on Thursday, said it settled for N800 to dollar exchange rate in the 2024 Appropriation Act after considering the average performance of the naira. It said it avoided basing the foreign exchange benchmark in the 2024 budget on a spot r…",
+      "Url": "https://punchng.com/why-fg-chose-n800-dollar-exchange-rate-for-2024-budget-minister/",
+      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/01/11224051/Atiku-Bagudu-1200x630.jpg",
+      "PublishedAt": "2024-01-11T21:41:09Z",
+      "Content": "The Federal Government, on Thursday, said it settled for N800 to dollar exchange rate in the 2024 Appropriation Act after considering the average performance of the naira.\r\nIt said it avoided basing … [+3255 chars]"
+    },
     {
       "Source": {
         "Id": "business-insider",
