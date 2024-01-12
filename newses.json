@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 11 de enero",
+      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 11 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-11-de-enero-nid11012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-11T14:53:28Z",
+      "Content": "Este jueves 11 de enero, el precio del dólar en México es de $16,9912, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2201 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-26T14:24:44Z",
       "Content": "Este martes 26 de diciembre, el precio del dólar en México es de $16,9738, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2205 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 25 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 25 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-25-de-diciembre-nid25122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-25-de-4AKIH3WCX5EFNCNWMUZV76P4WA.jpg?auth=4b34c68a9679ddc3aeaf0ad7737560d23ea470ee0ee76296ecb517c3867024ae&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-25T15:48:08Z",
-      "Content": "Este lunes 25 de diciembre, el precio del dólar en México es de $17,059, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2037 chars]"
     }
   ]
 }
