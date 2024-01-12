@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "fdemott@insider.com (Filip De Mott)",
+      "Title": "The US dollar will jump this year thanks to a slow Fed pivot and election uncertainty, Deutsche Bank says",
+      "Description": "Markets will likely focus on Trump's foreign policy and trade priorities, which include a 10% tariff, Deutsche Bank said.",
+      "Url": "https://markets.businessinsider.com/news/currencies/us-dollar-outlook-yen-euro-fed-rate-cuts-elections-geopolitics-2024-1",
+      "UrlToImage": "https://i.insider.com/65a03d52dcdb354a9856d3ec?width=1200&format=jpeg",
+      "PublishedAt": "2024-01-11T20:32:03Z",
+      "Content": "The US dollar is on track for a bullish year despite the Federal Reserve's anticipated rate cuts, Deutsche Bank said Thursday.\r\nIn the first few months of 2024, analysts see the greenback rising to $… [+1871 chars]"
+    },
     {
       "Source": {
         "Id": null,
