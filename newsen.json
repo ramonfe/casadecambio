@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,32 +366,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-12-12T12:13:49Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Argentina's dollar-loving president Javier Milei warns the country to get ready for a painful economic shock - Yahoo Finance",
-      "Description": "Argentina's dollar-loving president Javier Milei warns the country to get ready for a painful economic shockYahoo Finance Javier Milei: New president tells Argentina 'shock treatment' loomsBBC.com Argentina: Milei sworn in, warns of 'shock' to economy | Reute…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172470399",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-11T23:33:44Z",
-      "Content": "%DCL-MEM-BAD, bad memory\r\nVMS-F-PDGERS, pudding between the ears"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "AFP",
-      "Title": "Yen slips 1 percent against dollar on Bank of Japan speculation",
-      "Description": "The yen fell one percent against the dollar on Monday on declining expectations that the Bank of Japan may tighten its ultra-loose monetary policy next week. The Japanese currency firmed sharply last week after comments from BoJ officials were interpreted as …",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/yen-slips-1-percent-against-dollar-on-bank-of-japan-speculation/articleshow/105898927.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-105898952,width-1200,height-630,imgsize-293026,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2023-12-11T08:30:12Z",
-      "Content": "Pre-pack Scheme Under IBC Likely for Large Cos TooThe government is preparing an enabling provision for a compact and largely informal bankruptcy settlement process for faster resolution for large fi… [+608 chars]"
     }
   ]
 }
