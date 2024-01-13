@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "The US dollar will jump this year thanks to a slow Fed pivot and election uncertainty, Deutsche Bank says",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_63dee2bd-fcce-4494-a8bc-ebac4f56899c",
+      "UrlToImage": null,
+      "PublishedAt": "2024-01-12T04:32:03Z",
+      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
     {
       "Source": {
         "Id": null,
