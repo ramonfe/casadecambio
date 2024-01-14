@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,19 +366,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2023-12-14T09:37:11Z",
       "Content": "LONDON, Dec 14 (Reuters) - Sterling was on the front\r\nfoot against the dollar on Thursday ahead of a Bank of England\r\nmeeting at which analysts expect rate-setters to push back on\r\nexpectations of ea… [+2625 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Bonds Gain and Dollar Drops With CPI Data to Come: Markets Wrap - Yahoo Finance",
-      "Description": "Bonds Gain and Dollar Drops With CPI Data to Come: Markets WrapYahoo Finance What to Watch for in the US CPI ReportBloomberg Television Stocks rise as dollar eases ahead of U.S. inflation dataReuters Inflation expected to have cooled further last month as ene…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172474421",
-      "UrlToImage": null,
-      "PublishedAt": "2023-12-12T12:13:49Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
