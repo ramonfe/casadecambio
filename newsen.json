@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 28,
   "Articles": [
     {
       "Source": {
@@ -366,19 +366,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2023-12-15T19:24:47Z",
       "Content": "Covea Finance lowered its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 26.2% during the third quarter, according to the company in its most recent disclosure with the Securitie… [+5822 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Sterling firms on dollar, all eyes on Bank of England",
-      "Description": "(marketscreener.com) Sterling was on the front\nfoot against the dollar on Thursday ahead of a Bank of England\nmeeting at which analysts expect rate-setters to push back on\nexpectations of early cuts in 2024, a different stance from the\nFederal Reserve a day e…",
-      "Url": "https://www.marketscreener.com/quote/currency/US-DOLLAR-BRITISH-POUND-U-12684800/news/Sterling-firms-on-dollar-all-eyes-on-Bank-of-England-45568196/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2023-12-14T09:37:11Z",
-      "Content": "LONDON, Dec 14 (Reuters) - Sterling was on the front\r\nfoot against the dollar on Thursday ahead of a Bank of England\r\nmeeting at which analysts expect rate-setters to push back on\r\nexpectations of ea… [+2625 chars]"
     }
   ]
 }
