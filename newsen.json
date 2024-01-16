@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Morgan Stanley Says Central Bank Digital Currencies May Drive Move Away From US Dollar",
+      "Description": "Banking giant Morgan Stanley says that central bank digital currencies (CBDCs) may contribute to a shift away from the US dollar’s hegemony. In a new research note, Andrew Peel, executive director and head of digital asset markets at the bank says that CBDCs …",
+      "Url": "https://dailyhodl.com/2024/01/15/morgan-stanley-says-central-bank-digital-currencies-may-drive-move-away-from-us-dollar/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/07/Will-CBDCs-Replace-Crypto.jpg",
+      "PublishedAt": "2024-01-15T12:45:02Z",
+      "Content": "Banking giant Morgan Stanley says that central bank digital currencies (CBDCs) may contribute to a shift away from the US dollar’s hegemony.\r\nIn a new research note, Andrew Peel, executive director a… [+1761 chars]"
+    },
     {
       "Source": {
         "Id": null,
