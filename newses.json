@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 52,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Es quincena y el peso, ¿lo sufre? Cotiza en las 16.89 unidades vs. el dólar",
+      "Description": "En tanto, según cifras de Citibanamex, en ventanillas bancarias el precio del billete verde es de 17.32 pesos cada uno.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/15/peso-dolar-hoy-precio-hoy-15-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Gsdl2eI7tVjeVghWRceTmLTRP9w=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6ZIH2CFR6NG5PHPCTKJV6LWUDM.jpg",
+      "PublishedAt": "2024-01-15T16:02:24Z",
+      "Content": "El peso mexicano inicia la semana con pocas referencias económicas a seguir por los mercados financieros, además el nivel de operaciones es mucho menor debido a la falta de cotizaciones en Estados Un… [+1506 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2023-12-28T10:37:55Z",
       "Content": "Periódico La JornadaJueves 28 de diciembre de 2023, p. 16\r\nPese a que se sigue complicando el ambiente geopolítico en Medio Oriente, el peso mantuvo su espíritu positivo por cuarto cierre consecutivo… [+2576 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Adriana Arcos",
-      "Title": "Baja dólar a $17.37 ante expectativa de Banxico en tasa",
-      "Description": "El peso se apreció y el dólar cayó seis centavos a 17.37 pesos en ventanillas de bancos, su precio más bajo desde el 4 de septiembre pasado.",
-      "Url": "https://www.reforma.com/baja-dolar-a-17-37-ante-expectativa-de-banxico-en-tasa/ar2732372",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/493/5492076.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-12-27T21:34:40Z",
-      "Content": "02 MIN 00 SEG\r\nAdriana Arcos\r\nCd. de México (27 diciembre 2023) .-15:33 hrs"
     }
   ]
 }
