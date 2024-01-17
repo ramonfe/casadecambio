@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Descalabro’ para el peso: Se deprecia más de 1% vs. el dólar y rebasa techo de las 17 unidades",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.32 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/16/peso-dolar-precio-hoy-16-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/BSmpuY8tlHektVYAp734lr_szhA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LHDJYOUKK5HFFFYXSH2L3BLTXQ.jpg",
+      "PublishedAt": "2024-01-16T13:53:03Z",
+      "Content": "El peso mexicano fue tomado por sorpresa y se cotiza por arriba de las 17 unidades contra el dólar debido al crecimiento de las expectativas de que la Reserva Federal no iniciará aún el recorte a su … [+1870 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-29T14:48:15Z",
       "Content": "Este viernes 29 de diciembre, el precio del dólar en México es de $16,8935, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2361 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 28 de diciembre",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 28 de diciembre",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-28-de-diciembre-nid28122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-28T13:43:55Z",
-      "Content": "Este jueves 28 de diciembre el precio del dólar en México es de $16,9220, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2129 chars]"
     }
   ]
 }
