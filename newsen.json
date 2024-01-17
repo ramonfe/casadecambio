@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Shriram Finance to issue over 3-yr dollar denominated bonds - bankers",
+      "Description": "(marketscreener.com) India's Shriram Finance plans to raise funds through U.S. dollar denominated bonds maturing in three years and three months, two merchant bankers said on Tuesday.https://www.marketscreener.com/quote/stock/SHRIRAM-FINANCE-LIMITED-6498530/n…",
+      "Url": "https://www.marketscreener.com/quote/stock/SHRIRAM-FINANCE-LIMITED-6498530/news/Shriram-Finance-to-issue-over-3-yr-dollar-denominated-bonds-bankers-45746446/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2024-01-16T10:15:07Z",
+      "Content": "MUMBAI (Reuters) -India's Shriram Finance plans to raise funds through U.S. dollar denominated bonds maturing in three years and three months, two merchant bankers said on Tuesday.\r\n The funds will b… [+957 chars]"
+    },
     {
       "Source": {
         "Id": null,
