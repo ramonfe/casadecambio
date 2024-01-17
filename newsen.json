@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Taiwan dollar relatively stable, central bank says after falls",
+      "Description": "(marketscreener.com) Taiwan's central bank said on\nTuesday that the exchange rate trend of the Taiwan dollar\nwas relatively stable, after the currency hit its weakest in\nmore than a month, which some traders blamed on post-election\npolitical uncertainty.\n Tai…",
+      "Url": "https://www.marketscreener.com/quote/index/MSCI-TAIWAN-STRD-107361484/news/Taiwan-dollar-relatively-stable-central-bank-says-after-falls-45746961/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "PublishedAt": "2024-01-16T11:15:36Z",
+      "Content": "TAIPEI, Jan 16 (Reuters) - Taiwan's central bank said on\r\nTuesday that the exchange rate trend of the Taiwan dollar\r\nwas relatively stable, after the currency hit its weakest in\r\nmore than a month, w… [+2089 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2023-12-16T14:30:41Z",
       "Content": "Canandaigua National Bank &amp; Trust Co. raised its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 10.7% in the 3rd quarter, according to the company in its most recent disclosu… [+5866 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "Billion-Dollar Bank Sending $5,000,000 to Customers After Illegally Harvesting Millions in Fees: CFPB",
-      "Description": "A US bank with $20.5 billion in assets, loans, and deposits will send at least $5 million to thousands of customers after allegedly harvesting millions of dollars in illegal overdraft fees. The Consumer Financial Protection Bureau (CFPB) says Atlantic Union B…",
-      "Url": "https://dailyhodl.com/2023/12/15/billion-dollar-bank-sending-5000000-to-customers-after-illegally-harvesting-millions-in-fees-cfpb/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/12/fees-bank-dollars.jpg",
-      "PublishedAt": "2023-12-16T01:04:22Z",
-      "Content": "A US bank with $20.5 billion in assets, loans, and deposits will send at least $5 million to thousands of customers after allegedly harvesting millions of dollars in illegal overdraft fees.\r\nThe Cons… [+1385 chars]"
     }
   ]
 }
