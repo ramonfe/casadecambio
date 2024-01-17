@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 29,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Moneycontrol"
+      },
+      "Author": "Moneycontrol News",
+      "Title": "HDFC Bank, Reliance, Bajaj Finance in fray to be India#39;s first trillion-dollar company by 2032",
+      "Description": "Brokerage ICICI Securities expects one out of these three -- HDFC Bank, Reliance Industries Ltd and Bajaj Finance Ltd, could emerge India#39;s first $1 trillion market capitalisation stock by 2032",
+      "Url": "https://www.moneycontrol.com/news/business/earnings/hdfc-bank-reliance-bajaj-finance-in-fray-to-be-indias-first-trillion-dollar-company-by-2032-12059641.html",
+      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/12/Sensex-Nifty-Markets-4-770x433.jpg",
+      "PublishedAt": "2024-01-16T06:33:55Z",
+      "Content": "Brokerage ICICI Securities bets big on HDFC Bank, Reliance Industries Ltd and Bajaj Finance Ltd as it expects one out of these three to be India's first stock with a market value of $1 trillion by 20… [+2037 chars]"
+    },
     {
       "Source": {
         "Id": null,
