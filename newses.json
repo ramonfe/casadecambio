@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso se depreció a 16.89 unidades por dólar spot",
+      "Description": "En medio de una liquidez reducida por el festivo en Estados Unidos, por el Día de Martin Luther King Jr, el peso mexicano se presionó ligeramente frente a la moneda estadunidense, para cerrar en 16.8907 unidades por dólar spot.",
+      "Url": "https://www.jornada.com.mx/2024/01/16/economia/017n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-01-16T09:31:48Z",
+      "Content": "Periódico La JornadaMartes 16 de enero de 2024, p. 17\r\nEn medio de una liquidez reducida por el festivo en Estados Unidos, por el Día de Martin Luther King Jr, el peso mexicano se presionó ligerament… [+565 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2023-12-28T13:43:55Z",
       "Content": "Este jueves 28 de diciembre el precio del dólar en México es de $16,9220, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2129 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "En cuatro jornadas, el peso ha ganado 19 centavos frente al dólar",
-      "Description": "Pese a que se sigue complicando el ambiente geopolítico en Medio Oriente, el peso mantuvo su espíritu positivo por cuarto cierre consecutivo.",
-      "Url": "https://www.jornada.com.mx/2023/12/28/economia/016n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2023-12-28T10:37:55Z",
-      "Content": "Periódico La JornadaJueves 28 de diciembre de 2023, p. 16\r\nPese a que se sigue complicando el ambiente geopolítico en Medio Oriente, el peso mantuvo su espíritu positivo por cuarto cierre consecutivo… [+2576 chars]"
     }
   ]
 }
