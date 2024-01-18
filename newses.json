@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La moneda de 25 centavos de dólar, acuñada en 1999, que puede valer hasta US$10.000 por un peculiar detalle",
+      "Description": "Este ejemplar, emitido en el estado de Georgia, podría ser uno de los más defectuosos en Estados Unidos; sus características elevarían su precio",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-25-centavos-de-dolar-de-1999-que-puede-valer-hasta-us10000-por-un-peculiar-detalle-nid17012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/hay-monedas-de-25-centavos-de-georgia-de-1999-que-OPF5NG5BR5F5PJUTXQNVV3EF6E.jpg?auth=7d47be53e7e6ce8a31dcda7670e40860c232066fb494ed8daef1afbdf484563c&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-17T17:28:23Z",
+      "Content": "En el mundo de la numismática,los errores de fabricación se convierten en una valiosa fuente de ingresos. Un claro ejemplo de esto es lamoneda de 25 centavos de dólar del estado de Georgia, con fecha… [+2147 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-miercoles-3-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-03T14:48:15Z",
       "Content": "Este miércoles 3 de enero, el precio del dólar en México es de $17,0297, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2204 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, ‘de bajón’ contra el dólar: Se cotiza en las 17.06 unidades",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.47 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/03/peso-dolar-precio-hoy-3-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/e4Pm2Xw5vljwI51fH9u9_6KBH7c=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KVKLAMUNUZHCBB33WYHYB52OAY.jpg",
-      "PublishedAt": "2024-01-03T14:06:02Z",
-      "Content": "El peso mexicano alarga su racha de pérdidas frente al dólar durante este 3 de enero, mientras un nuevo comentario de un miembro de la Reserva Federal reveló las perspectivas del banco central para l… [+1138 chars]"
     }
   ]
 }
