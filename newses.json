@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se entume’ e inicia con pérdidas frente al dólar: Se cotiza en las 17.35 unidades",
+      "Description": "La aversión al riesgo continúa extendiéndose y esto provocó que el peso mexicano se depreciara frente al dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/17/peso-dolar-precio-hoy-17-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VeWmVRvxCHcPJr8E2fHPLvZMYEw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PCZPWEFBXZGNHPSZIVZB77FCOY.jpg",
+      "PublishedAt": "2024-01-17T16:01:44Z",
+      "Content": "La aversión al riesgo continúa extendiéndose en el inicio de la sesión de este miércoles, por las expectativas de que la Fed tarde más de lo anticipado en realizar recortes a los tipos de interés, ad… [+1849 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/e4Pm2Xw5vljwI51fH9u9_6KBH7c=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KVKLAMUNUZHCBB33WYHYB52OAY.jpg",
       "PublishedAt": "2024-01-03T14:06:02Z",
       "Content": "El peso mexicano alarga su racha de pérdidas frente al dólar durante este 3 de enero, mientras un nuevo comentario de un miembro de la Reserva Federal reveló las perspectivas del banco central para l… [+1138 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 2 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 2 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-2-de-enero-nid02012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-02T14:41:57Z",
-      "Content": "Este martes 2 de enero, el precio del dólar en México es de $16,919, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2160 chars]"
     }
   ]
 }
