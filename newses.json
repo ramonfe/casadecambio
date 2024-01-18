@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 17 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 17 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-17-de-enero-nid17012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-17T14:50:00Z",
+      "Content": "Este miércoles 17 de enero, el precio del dólar en México es de $17,1598, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2305 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-02T14:41:57Z",
       "Content": "Este martes 2 de enero, el precio del dólar en México es de $16,919, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2160 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘alarga la cruda’ de Año Nuevo: Supera techo de las 17 unidades frente al dólar",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.37 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/02/peso-dolar-precio-hoy-2-de-enero-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/oRyWQq4IUEzRkZxlB-P3plGbe-U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OQPHNXJZQZBIRMIAHUFLO774EM.jpg",
-      "PublishedAt": "2024-01-02T13:44:50Z",
-      "Content": "El peso mexicano regresó del puente de Año Nuevo con una mala noticia: Este martes rebasó de nuevo el techo de las 17 unidades contra el dólar. \r\nDe acuerdo con datos de Bloomberg, la moneda nacional… [+1301 chars]"
     }
   ]
 }
