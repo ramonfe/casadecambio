@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Empresarios piden al Banco Central intervenir por caída del precio del dólar y reducir tasa de política monetaria",
+      "Description": "Cámara de Industrias expresó su preocupación por el precio del dólar y las altas tasas de interés en una carta enviada al BCCR; Uccaep y Cadexo también instaron al ente emisor a reducir su tasa de política monetaria.",
+      "Url": "https://www.nacion.com/economia/politica-economica/empresarios-piden-al-banco-central-intervenir-por/I3KXCCT6Y5DFXD2HQUGY2KCHZA/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/GtyVk0wiF-oFB_7tt3a_JYHKFm4=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/OBEXNIUWKVCTHG64RW7IDZV35Y.jpg",
+      "PublishedAt": "2024-01-18T01:37:49Z",
+      "Content": "La Cámara de Industrias de Costa Rica (CICR), la Cámara de Exportadores de Costa Rica (Cadexco) y la Unión Costarricense de Cámaras y Asociaciones del Sector Empresarial Privado (Uccaep) solicitaron … [+5238 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/peso-dolar-tipo-cambio-moneda-051023-1.jpg",
       "PublishedAt": "2024-01-03T17:11:34Z",
       "Content": "El peso mexicano retrocedía el miércoles ante un fortalecimiento global del dólar, mientras los inversionistas aguardan la publicación más tarde de las minutas de la última reunión de la Reserva Fede… [+1559 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 3 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 3 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-3-de-enero-nid03012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-miercoles-3-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-03T14:48:15Z",
-      "Content": "Este miércoles 3 de enero, el precio del dólar en México es de $17,0297, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2204 chars]"
     }
   ]
 }
