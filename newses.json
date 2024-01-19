@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La moneda de 25 centavos de dólar que podría valer casi US$ 12.000 por dos curiosos errores que la hacen única",
+      "Description": "Debido a que fue acuñada con un 90% de plata, este ejemplar tendría un alto valor que supera al que se marca en el metal; asimismo, tiene una historia detrás vinculada con su fecha de emisión que también incrementa su valor en el mercado",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-25-centavos-de-dolar-que-podria-valer-casi-us-12000-por-dos-curiosos-errores-que-la-nid18012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/este-ejemplar-de-prueba-de-25-centavos-de-dolar-GJSQM76RC5F6PNYEEET4XCG72Y.jpg?auth=6de70a9710f35ebbb8380a5c255ce38cc64f688bf7482c2c98d4a7c769d454c4&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-18T20:34:44Z",
+      "Content": "Una moneda de 25 centavos de dólar de 1968valdría mucho más por un error único y muy significativo para la historia de Estados Unidos. A través de una cuenta de TikTok especializada en numismática, d… [+2569 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
       "PublishedAt": "2024-01-05T13:08:01Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de enero el tipo de cambio interbancario, se ubica en 17.02 pesos por unidad, con una ganancia de 0.08 por ciento,… [+838 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso decae: tipo de cambio se ubica en 17.03 unidades por dólar",
-      "Description": "El dólar se cotiza por debajo de las 18 unidades en ventanillas bancarias, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/04/peso-dolar-4-de-enero-de-2024-tipo-de-cambio-hoy/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/fbsuM7xQroEmaVJXhtQHwCagZy0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6HSAKPWQERGH3KLE2HXMUI3WAU.jpg",
-      "PublishedAt": "2024-01-04T15:16:38Z",
-      "Content": "El peso mexicano vuelve a ceder terreno frente al dólar tras la publicación, el día de ayer, de las minutas de la última reunión del Comité Federal del Mercado Abierto (FOMC por sus siglas en inglés)… [+1544 chars]"
     }
   ]
 }
