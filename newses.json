@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 18 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 18 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-18-de-enero-nid18012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-18T14:31:49Z",
+      "Content": "Este jueves 18 de enero, el precio del dólar en México es de $17,2957, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2407 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-04T14:16:49Z",
       "Content": "Este jueves 4 de enero, el precio del dólar en México es de $17,0492, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2331 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano sigue su mala racha; pierde por quinta sesión ante el dólar",
-      "Description": "La moneda nacional cotizaba en 17.05 unidades, con una depreciación del 0.22% frente al precio de referencia del martes.",
-      "Url": "https://aristeguinoticias.com/0301/dinero-y-economia/peso-mexicano-sigue-su-mala-racha-pierde-por-quinta-sesion-ante-el-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/peso-dolar-tipo-cambio-moneda-051023-1.jpg",
-      "PublishedAt": "2024-01-03T17:11:34Z",
-      "Content": "El peso mexicano retrocedía el miércoles ante un fortalecimiento global del dólar, mientras los inversionistas aguardan la publicación más tarde de las minutas de la última reunión de la Reserva Fede… [+1559 chars]"
     }
   ]
 }
