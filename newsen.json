@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 30,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Money Concepts Capital Corp Has $965,000 Stock Holdings in Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "Money Concepts Capital Corp raised its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 6.1% in the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 9,063 shares …",
+      "Url": "https://www.etfdailynews.com/2024/01/18/money-concepts-capital-corp-has-965000-stock-holdings-in-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO-1200x675.JPG&w=240&h=240&zc=2",
+      "PublishedAt": "2024-01-18T12:12:47Z",
+      "Content": "Money Concepts Capital Corp raised its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 6.1% in the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Comm… [+5647 chars]"
+    },
     {
       "Source": {
         "Id": null,
