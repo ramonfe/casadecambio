@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Así amanece el Peso frente al Dólar este 19 de enero",
+      "Description": "Nuestra moneda nacional avanza por segundo día consecutivo con respecto al billete verde",
+      "Url": "https://www.record.com.mx/contra/asi-amanece-el-peso-frente-al-dolar-este-19-de-enero",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/19/portada_dolar.jpg",
+      "PublishedAt": "2024-01-19T16:24:19Z",
+      "Content": "Si tienes en mente cambiar pesos por dólares este 19 de enero, es buen momento debido a que la moneda nacional está ganando terreno.\r\nPor segundo día consecutivo, la moneda nacional se recuperó queda… [+720 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1147147603.jpg?10396683761704473462",
       "PublishedAt": "2024-01-05T16:51:00Z",
       "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¿Regalo de Reyes? Peso rompe piso de las 17 unidades contra el dólar",
-      "Description": "El peso tiene una leve apreciación este viernes, y logra bajar del nivel de las 17 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/05/peso-dolar-5-de-enero-de-2024-tipo-de-cambio-hoy/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mrgEBP3jbSwJ29K9PddBf_Q1zdA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BA32SR5RHZGRDGNL3J4I63WMJI.jpg",
-      "PublishedAt": "2024-01-05T16:12:57Z",
-      "Content": "Luego de operar la mayor parte de la semana en terreno de pérdidas, el peso mexicano inicia su última sesión este viernes colocándose por debajo de las 17 unidades, mostrando una ganancia frente al b… [+1530 chars]"
     }
   ]
 }
