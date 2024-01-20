@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso busca rally de última hora para vencer al dólar en la semana: Abre en 17.13 unidades",
+      "Description": "Entre las divisas con los mayores retrocesos están el rublo ruso con 1.27 por ciento y el peso chileno con 0.85 por ciento.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/19/peso-dolar-precio-hoy-19-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/KzYDJ3mvcwpejh0U5QdynK5ckLQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QDQ76EOXZVC5XONLT7AMPDYALY.jpg",
+      "PublishedAt": "2024-01-19T15:46:01Z",
+      "Content": "La última jornada de la semana inicia con el dólar cediendo terreno frente al peso mexicano, aunque la moneda nacional parece dirigirse a su primera semana con pérdidas ante el billete verde en lo qu… [+1631 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mrgEBP3jbSwJ29K9PddBf_Q1zdA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BA32SR5RHZGRDGNL3J4I63WMJI.jpg",
       "PublishedAt": "2024-01-05T16:12:57Z",
       "Content": "Luego de operar la mayor parte de la semana en terreno de pérdidas, el peso mexicano inicia su última sesión este viernes colocándose por debajo de las 17 unidades, mostrando una ganancia frente al b… [+1530 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 5 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 5 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-5-de-enero-nid05012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-05T15:21:53Z",
-      "Content": "Este viernes 5 de enero, el precio del dólar en México es de $17,0458, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2386 chars]"
     }
   ]
 }
