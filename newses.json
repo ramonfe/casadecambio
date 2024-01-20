@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La peculiar moneda de 50 centavos de dólar que puede valer más de US$500 mil si tiene una letra “O”: cómo identificarla",
+      "Description": "Este ejemplar tiene un lugar muy especial en el listado de las 100 Greatest US Coins de Jeff Garrett y Ron Guth, y de los 20 que se imprimieron, solo quedan nueve en circulación",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-peculiar-moneda-de-50-centavos-de-dolar-que-puede-valer-mas-de-us500-mil-si-tiene-una-letra-o-nid19012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/una-moneda-acunada-en-nueva-orleans-se-subasto-en-LHICLBXZ5ZCRVDZIG7OAMSL3Y4.jpg?auth=1ef9a594f264e39f49c30fe5ca77d09e5d064b6941b5298024a86bbc82f156c5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-19T20:37:14Z",
+      "Content": "La Casa de la Moneda de Nueva Orleans, en Louisiana, la primera en acuñar monedas de plata, tiene una historia que se entrelaza con el ejemplar de medio dólar de 1838-O. Esta pieza, conocida por su b… [+2859 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-centavo-fugio-tambien-conocido-como-centavo-de-C7MSFCVINZEKDGHKZPCBY4AZK4.jpg?auth=2e219e7d1e2476e6a38f3d05747bfb6b79c3c0a9778aea77d1e662cc96a093cb&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-05T19:30:05Z",
       "Content": "Vacíe sus bolsillos y revise sus monedas, pues si tiene este extraño centavo de dólar podría venderlo en miles de dólares. Se trata de la primera moneda estadounidense, la cual entró en circulación e… [+2350 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sputniknews.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "Bolivia mantendrá tipo de cambio frente al dólar pese a la caída de sus Reservas",
-      "Description": "SANTA CRUZ (Sputnik) — Bolivia mantendrá su tipo de cambio frente al dólar durante el 2024, pese a la caída de sus Reservas Internacionales Netas (RIN), confirmó el presidente del Banco Central de Bolivia (BCB), Edwin Rojas.",
-      "Url": "https://sputniknews.lat/20240105/bolivia-mantendra-tipo-de-cambio-frente-al-dolar-pese-a-la-caida-de-sus-reservas-1147147603.html",
-      "UrlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1147147603.jpg?10396683761704473462",
-      "PublishedAt": "2024-01-05T16:51:00Z",
-      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
     }
   ]
 }
