@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,19 +340,6 @@
       "UrlToImage": "https://i.cbc.ca/1.7066717.1703183566!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/jeffords-chow-year-end.jpg",
       "PublishedAt": "2023-12-22T10:00:00Z",
       "Content": "Toronto may have a new deal with the province for financial relief, but Mayor Olivia Chow says city residents will also need to do their part to battle the $1.5-billion shortfall and that will mean p… [+5103 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "First National Bank Sioux Falls Acquires 783 Shares of Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "First National Bank Sioux Falls increased its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 16.2% during the third quarter, according to the company in its most recent disclosure with the SEC. The institutional investor owned 5,622 sh…",
-      "Url": "https://www.etfdailynews.com/2023/12/20/first-national-bank-sioux-falls-acquires-783-shares-of-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
-      "PublishedAt": "2023-12-20T14:02:48Z",
-      "Content": "First National Bank Sioux Falls increased its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 16.2% during the third quarter, according to the company in its most recent disclo… [+6811 chars]"
     }
   ]
 }
