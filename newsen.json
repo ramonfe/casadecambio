@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,45 +353,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
       "PublishedAt": "2023-12-20T14:02:48Z",
       "Content": "First National Bank Sioux Falls increased its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 16.2% during the third quarter, according to the company in its most recent disclo… [+6811 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Finextra"
-      },
-      "Author": "Editorial Team",
-      "Title": "US Bank hit with multi-million dollar fines over prepaid card programme for the unemployed",
-      "Description": "The Office of the Comptroller of the Currency (OCC) today assessed a $15 million civil money penalty against U.S. Bank, National Association, Cincinnati, Ohio, for violations of law relating to the bank’s administration of a prepaid card program to distribute…",
-      "Url": "https://www.finextra.com/pressarticle/99198/us-bank-hit-with-multi-million-dollar-fines-over-prepaid-card-programme-for-the-unemployed",
-      "UrlToImage": "https://www.finextra.com/about/finextra-logo.png",
-      "PublishedAt": "2023-12-20T09:40:00Z",
-      "Content": "Source: OCC\r\nThe Office of the Comptroller of the Currency (OCC) today assessed a $15 million civil money penalty against U.S. Bank, National Association, Cincinnati, Ohio, for violations of law rela… [+854 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Khabarhub.com"
-      },
-      "Author": "Khabarhub",
-      "Title": "Rising cases of dollar exchange fraud: Kathmandu Valley faces wave of looting incidents",
-      "Description": "KATHMANDU, Dec 20: Incidents of looting under the guise of dollar exchange are witnessing a surge in the Kathmandu Valley. The District Police Range, Kathmandu, has reported the presence of a criminal racket engaged in fraudulent activities related to dollar …",
-      "Url": "https://english.khabarhub.com/2023/20/331503/",
-      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2021/05/Jail-_-Arrest-_-Prison.jpg",
-      "PublishedAt": "2023-12-20T07:25:22Z",
-      "Content": "KATHMANDU, Dec 20: Incidents of looting under the guise of dollar exchange are witnessing a surge in the Kathmandu Valley. The District Police Range, Kathmandu, has reported the presence of a crimina… [+1385 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Brooke Sjoberg",
-      "Title": "‘10 dollar tip???’: Gas station attendant says customers often leave their ‘extra money’ after paying for gas, she takes it as a ‘tip’",
-      "Description": "Gas prices have been to all kinds of extremes over the past few years, from the lowest lows to the highest highs some areas have seen in decades. \n\n\nThat familiar ache at the pump is a real pain point for many drivers—except, apparently, the ones leaving thei…",
-      "Url": "https://www.dailydot.com/news/gas-station-extra-money/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/12/gas-station-extra-money.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-12-19T16:00:00Z",
-      "Content": "Gas prices have been to all kinds of extremes over the past few years, from the lowest lows to the highest highs some areas have seen in decades. \r\nThat familiar ache at the pump is a real pain point… [+2198 chars]"
     }
   ]
 }
