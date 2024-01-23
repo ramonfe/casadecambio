@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central sigue comprando reservas y el mercado le puso fecha al final de crawling lento",
+      "Description": "La entidad se alzó hoy con otros US$133 millones y ya suma más de US$ 2300 millones en el mes, pero se juzga insostenible esa perfomance si no lo deja de usar como “ancla” en pocas semanas más",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-sigue-comprando-reservas-y-el-mercado-le-puso-fecha-al-final-de-crawling-nid22012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-ya-lleva-28-ruedas-ininterrumpidas-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-22T20:35:06Z",
+      "Content": "Ayudado por el impacto que la recesión comienza a mostrar en el nuevo flujo de importaciones, el Banco Central (BCRA) está logrando sostener en buen nivel sus compras de reservas. De hecho, se alzó h… [+3202 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-09T14:51:22Z",
       "Content": "Este martes 9 de enero, el precio del dólar en México es de $16,8133, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2442 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "¿Qué esperar del tipo de cambio en 2024? Estas variables marcarán el rumbo del dólar",
-      "Description": "Precio de la divisa tendrá en el 2024 un periodo sin mayores agitaciones, pues en el escenario base las condiciones que propiciaron una  tendencia a la baja en la cotización continuarán en este nuevo año",
-      "Url": "https://www.nacion.com/economia/indicadores/que-esperar-del-tipo-de-cambio-en-2024-estas/GWXYM6LDSFE7XNDQN5RHOFS3ZA/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/MrNblO7-_U-NTRd5BoH1Sceg4Tk=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z6KWH5IU4VFGXCZDQIDTAXULRY.jpg",
-      "PublishedAt": "2024-01-08T22:00:00Z",
-      "Content": "El tipo de cambio del dólar respecto al colón fue uno de los temas económicos que más dio de qué hablar en Costa Rica, durante el 2023. La divisa mantuvo su cotización a la baja en gran parte del año… [+5167 chars]"
     }
   ]
 }
