@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY lunes 22 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 22 de enero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una ganancia del 0.05 por ciento, según datos de Bloomberg.El peso mexicano anotaba gananci…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-enero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-01-22T12:16:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 22 de enero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una ganancia del 0.05 por cient… [+855 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-falta-de-dolares-lleva-a-postergar-AMOZMJO2IRFMDLCGGC5TXO43E4.jpg?auth=aca1f426c8f035e6652d09b6593818c0ab703836004f854d7cc2f93bf3ece2d0&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-08T14:20:57Z",
       "Content": "Este lunes 8 de enero el precio del dólar en México es de $16,8987, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex cotiza en… [+2217 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "La moneda de centavo de dólar que vale miles por una frase que tiene escrita",
-      "Description": "Acuñada en 1787, el metal tiene lemas que se atribuyen a Benjamin Franklin; fue la primera divisa considerada oficial por los estados de la Unión; el diseño está basado en el del dólar continental",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-centavo-de-dolar-que-vale-miles-por-una-frase-que-tiene-escrita-nid05012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-centavo-fugio-tambien-conocido-como-centavo-de-C7MSFCVINZEKDGHKZPCBY4AZK4.jpg?auth=2e219e7d1e2476e6a38f3d05747bfb6b79c3c0a9778aea77d1e662cc96a093cb&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-05T19:30:05Z",
-      "Content": "Vacíe sus bolsillos y revise sus monedas, pues si tiene este extraño centavo de dólar podría venderlo en miles de dólares. Se trata de la primera moneda estadounidense, la cual entró en circulación e… [+2350 chars]"
     }
   ]
 }
