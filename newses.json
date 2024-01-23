@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La moneda de 25 centavos de dólar, acuñada en 2020, que vale mucho más por un curioso “golpe” en una imagen",
+      "Description": "El Parque Nacional de Samoa Americana se ubica al suroeste de Hawaii y fue la inspiración de unos ejemplares especiales que forman parte de la colección America the Beautiful Quarters",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-25-centavos-de-dolar-acunada-en-2020-que-vale-mucho-mas-por-un-curioso-golpe-en-una-nid22012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/un-centavo-del-parque-nacional-de-samoa-americana-VWVCBTMT6BFANE2HLLQMRQZBEA.jpg?auth=d35950fb99f045ef302132894db641a4798e02751a8fc238fa0f86b5c914d624&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-22T19:09:22Z",
+      "Content": "Las monedas raras o con errores de Estados Unidos que se subastan por altas sumas de dinero y las codiciadas piezas no solamente se encuentran entre las producciones más antiguas. En los años recient… [+2361 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/MrNblO7-_U-NTRd5BoH1Sceg4Tk=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z6KWH5IU4VFGXCZDQIDTAXULRY.jpg",
       "PublishedAt": "2024-01-08T22:00:00Z",
       "Content": "El tipo de cambio del dólar respecto al colón fue uno de los temas económicos que más dio de qué hablar en Costa Rica, durante el 2023. La divisa mantuvo su cotización a la baja en gran parte del año… [+5167 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, el ‘alumno más aplicado’ de las monedas vs. el dólar: Se cotiza en las 16.81 unidades",
-      "Description": "El precio del billete verde en ventanillas bancarias se ubica en los 17.23 pesos cada uno, de acuerdo con los datos reportados por Citibanamex",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/08/peso-dolar-precio-hoy-8-enero-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZsP1Y5lfTIqHDha49JDLyHRNjDE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/IUFOKEVBPJG3LPPZ3SNWE4KK4E.jpg",
-      "PublishedAt": "2024-01-08T17:14:14Z",
-      "Content": "El peso mexicano empieza sus operaciones de esta semana registrando un avance moderado frente al dólar, mientras el mercado está a la espera de la publicación de información económica relevante, como… [+1564 chars]"
     }
   ]
 }
