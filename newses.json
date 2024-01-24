@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 23 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 23 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-23-de-enero-nid23012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-23T14:35:07Z",
+      "Content": "Este martes 23 de enero, el precio del dólar en México es de $17,1125, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2469 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/B1q94Ttmu0D9wrXhQogmQfC4lxo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WS6OL46RWFCKTOGW4WYBGEHHMU.jpg",
       "PublishedAt": "2024-01-10T14:29:40Z",
       "Content": "El peso mexicano supera el techo de las 17 unidades contra el dólar durante la sesión de este miércoles mientras los mercados esperan la publicación del dato de inflación en Estados Unidos de diciemb… [+1921 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso pierde tras fortalecimiento del dólar e inflación en México",
-      "Description": "Forbes México.\n Peso pierde tras fortalecimiento del dólar e inflación en México\n\nEl peso cede 0.88% frente al precio de referencia de Reuters del lunes; BBVA mantiene su previsión de que se deprecie a 18.8 unidades en el primer semestre.\nPeso pierde tras for…",
-      "Url": "https://www.forbes.com.mx/peso-pierde-tras-fortalecimiento-del-dolar-e-inflacion-en-mexico/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-01-09T23:14:17Z",
-      "Content": "El peso retrocedió ante el fortalecimiento global del dólar en una jornada marcada por especulaciones sobre el futuro de las tasas de interés en Estados Unidos y México.\r\nEl dólar estadounidense avan… [+3099 chars]"
     }
   ]
 }
