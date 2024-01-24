@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livingrichwithcoupons.com"
+      },
+      "Author": "Barbara Hertzog",
+      "Title": "ShopRite Dollar Days-$0.75 Money Maker on Gutzy Pouches, $0.50 Siggi’s Yogurt Cups,$1.00 Baby Carrots & More at ShopRite!",
+      "Description": "Dollar Deals are here for ShopRite Shoppers! Through 1/27 ShopRite  has Siggi’s  Yogurt Cups, Brown Cow Yogurt Cups, Gutzy  Pouches,  Cara Cara Oranges,  Fresh Celery,  Wonderful Pistachios  0.75oz, Bowl &  Basket Baby Carrots, Banquet Pot Pies & Hampton Farm…",
+      "Url": "https://www.livingrichwithcoupons.com/2024/01/shoprite-dollar-days-0-75-money-maker-on-gutzy-pouches-0-50-siggis-yogurt-cups1-00-baby-carrots-more-at-shoprite.html",
+      "UrlToImage": "https://www.livingrichwithcoupons.com/wp-content/uploads/2024/01/Gutzy.png",
+      "PublishedAt": "2024-01-23T13:30:04Z",
+      "Content": "Dollar Deals are here for ShopRite Shoppers! Through 1/27 ShopRite  has Siggi’s  Yogurt Cups, Brown Cow Yogurt Cups, Gutzy  Pouches,  Cara Cara Oranges,  Fresh Celery,  Wonderful Pistachios  0.75oz, … [+220 chars]"
+    },
     {
       "Source": {
         "Id": null,
