@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY martes 23 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 23 de enero el tipo de cambio interbancario, se ubica en 17.28 pesos por unidad, con una pérdida del 0.59 por ciento, según datos de Bloomberg.El peso mexicano cotizaba estable…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-23-enero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-01-23T12:00:56Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 23 de enero el tipo de cambio interbancario, se ubica en 17.28 pesos por unidad, con una pérdida del 0.59 por ciento… [+783 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-01-09T23:14:17Z",
       "Content": "El peso retrocedió ante el fortalecimiento global del dólar en una jornada marcada por especulaciones sobre el futuro de las tasas de interés en Estados Unidos y México.\r\nEl dólar estadounidense avan… [+3099 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Amsiedad’ por tasa de la Fed baja al peso: Cotiza en las 16.93 unidades vs. el dólar",
-      "Description": "Las 'apuestas' sobre cuándo empezará la Fed a recortar su tasa de interés en 2024 sigue moviendo a los mercados. Así cotizan este martes 9 de enero.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/09/amsiedad-por-tasa-de-la-fed-baja-al-peso-cotiza-en-las-1693-unidades-vs-el-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/-Qb-Ud9ElkoyB336UXKBxAE3Czg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JI5CE5E7EJBRBLP7WJUQ2KLX2I.jpg",
-      "PublishedAt": "2024-01-09T15:55:25Z",
-      "Content": "El peso mexicano opera este martes con pérdidas frente al dólar como parte de la cautela de los operadores a medida que continúa la especulación acerca de cuándo comenzará la Fed con el recorte a su … [+1568 chars]"
     }
   ]
 }
