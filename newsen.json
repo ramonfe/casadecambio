@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "M&T Bank Corp Has $3.16 Million Stock Holdings in Dollar General Co. (NYSE:DG)",
+      "Description": "M&T Bank Corp cut its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 22.4% during the 3rd quarter, Holdings Channel reports. The firm owned 29,842 shares of the company’s stock after selling 8,632 shares during the quarter. M&T Bank Corp’…",
+      "Url": "https://www.etfdailynews.com/2024/01/23/mt-bank-corp-has-3-16-million-stock-holdings-in-dollar-general-co-nysedg/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
+      "PublishedAt": "2024-01-23T11:44:43Z",
+      "Content": "M&amp;T Bank Corp cut its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 22.4% during the 3rd quarter, Holdings Channel reports. The firm owned 29,842 shares of the company’s sto… [+5134 chars]"
+    },
     {
       "Source": {
         "Id": null,
