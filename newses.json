@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Precio del Dólar Hoy 24 de enero : ¿Cuál es el tipo de cambio?",
+      "Description": "Conoce cómo arranca el valor del peso frente al dólar en la jornada de este 24 de enero de 2024",
+      "Url": "https://www.record.com.mx/contra/precio-del-dolar-hoy-24-de-enero-cual-es-el-tipo-de-cambio",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/24/dolar_24_enero_1.jpg",
+      "PublishedAt": "2024-01-24T13:44:53Z",
+      "Content": "Este miércoles 24 de enero, el peso arrancó con una ligera recuperación sobre el dólar al comenzar la jornada con un valor de 17.20 pesos por cada billete verde, lo cual significa 10 centavos menos e… [+919 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-12T15:10:26Z",
       "Content": "Este viernes 12 de enero, el precio del dólar en México es de $16,9898, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex abrió… [+2470 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 11 de enero",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este jueves 11 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-11-de-enero-nid11012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-11T14:53:28Z",
-      "Content": "Este jueves 11 de enero, el precio del dólar en México es de $16,9912, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2201 chars]"
     }
   ]
 }
