@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano se recupera ante caída del dólar",
+      "Description": "La moneda nacional cotizaba en 17.16 unidades por dólar, con una apreciación del 0.75% frente al precio de referencia del martes.",
+      "Url": "https://aristeguinoticias.com/2401/dinero-y-economia/peso-mexicano-se-recupera-ante-caida-del-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
+      "PublishedAt": "2024-01-24T17:42:34Z",
+      "Content": "El peso mexicano se apreciaba el miércoles al comienzo de la sesión, debido a una caída del dólar por segundo día consecutivo y tras un anuncio de China prometiendo lanzar medidas de estímulo para im… [+1195 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/BSmpuY8tlHektVYAp734lr_szhA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LHDJYOUKK5HFFFYXSH2L3BLTXQ.jpg",
       "PublishedAt": "2024-01-16T13:53:03Z",
       "Content": "El peso mexicano fue tomado por sorpresa y se cotiza por arriba de las 17 unidades contra el dólar debido al crecimiento de las expectativas de que la Reserva Federal no iniciará aún el recorte a su … [+1870 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso se depreció a 16.89 unidades por dólar spot",
-      "Description": "En medio de una liquidez reducida por el festivo en Estados Unidos, por el Día de Martin Luther King Jr, el peso mexicano se presionó ligeramente frente a la moneda estadunidense, para cerrar en 16.8907 unidades por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2024/01/16/economia/017n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-01-16T09:31:48Z",
-      "Content": "Periódico La JornadaMartes 16 de enero de 2024, p. 17\r\nEn medio de una liquidez reducida por el festivo en Estados Unidos, por el Día de Martin Luther King Jr, el peso mexicano se presionó ligerament… [+565 chars]"
     }
   ]
 }
