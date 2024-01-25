@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Se deprecia el peso mexicano a 17.31 unidades por dólar spot",
+      "Description": "El peso mexicano enfrentó fuertes tensiones por la aversión al riesgo. Al cierre de este martes, la moneda mexicana se depreció 13.40 centavos, equivalente a 0.78 por ciento frente a la divisa estadunidense, para cerrar en 17.3179 unidades por dólar spot, su …",
+      "Url": "https://www.jornada.com.mx/2024/01/24/economia/019n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-01-24T09:20:49Z",
+      "Content": "Periódico La JornadaMiércoles 24 de enero de 2024, p. 19\r\nEl peso mexicano enfrentó fuertes tensiones por la aversión al riesgo. Al cierre de este martes, la moneda mexicana se depreció 13.40 centavo… [+3175 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-11T14:53:28Z",
       "Content": "Este jueves 11 de enero, el precio del dólar en México es de $16,9912, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2201 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 10 de enero",
-      "Description": "Un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 10 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-10-de-enero-nid10012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-10T14:47:32Z",
-      "Content": "Este miércoles 10 de enero, el precio del dólar en México es de $16,9347, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2363 chars]"
     }
   ]
 }
