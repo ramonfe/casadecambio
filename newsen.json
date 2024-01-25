@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 25,
   "Articles": [
     {
       "Source": {
@@ -327,45 +327,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2023-12-30T19:18:51Z",
       "Content": "Bremer Bank National Association boosted its stake in Dollar General Co. (NYSE:DG – Free Report) by 70.2% during the 3rd quarter, according to the company in its most recent disclosure with the SEC. … [+5727 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "City State Bank Buys 215 Shares of Dollar General Co. (NYSE:DG)",
-      "Description": "City State Bank boosted its stake in shares of Dollar General Co. (NYSE:DG – Free Report) by 17.3% in the third quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The institutional investor owned 1,461 s…",
-      "Url": "https://www.etfdailynews.com/2023/12/23/city-state-bank-buys-215-shares-of-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2023-12-23T14:24:48Z",
-      "Content": "City State Bank boosted its stake in shares of Dollar General Co. (NYSE:DG – Free Report) by 17.3% in the third quarter, according to the company in its most recent 13F filing with the Securities &am… [+6240 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Independence Bank of Kentucky Invests $70,000 in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Independence Bank of Kentucky bought a new stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) in the 3rd quarter, according to its most recent disclosure with the Securities & Exchange Commission. The firm bought 660 shares of the company’s stoc…",
-      "Url": "https://www.etfdailynews.com/2023/12/23/independence-bank-of-kentucky-invests-70000-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
-      "PublishedAt": "2023-12-23T13:46:48Z",
-      "Content": "Independence Bank of Kentucky bought a new stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) in the 3rd quarter, according to its most recent disclosure with the Securities &amp; Excha… [+5954 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Nikhil Agarwal",
-      "Title": "FIIs spending every second dollar on financials. Will 2024 be about largecap bank stocks?",
-      "Description": "A long-time favorite of FIIs, financials alone attracted Rs 22,891 crore worth of funds in the first 15 days of the month, shows data pulled from NSDL. Healthcare stocks, which have also been among the list of underdogs, saw the second highest sectoral buying…",
-      "Url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-spending-every-second-dollar-on-financials-will-2024-be-about-largecap-bank-stocks/articleshow/106226660.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-106226681,width-1200,height-630,imgsize-39678,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2023-12-23T04:35:17Z",
-      "Content": "Indicating the potential of largecap bank stocks, many of which have been underperforming, FIIs (foreign institutional investors) spent over half of their Rs 42,700 crore buying on financial stocks a… [+3147 chars]"
     }
   ]
 }
