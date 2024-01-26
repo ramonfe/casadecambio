@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 25 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 25 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-25-de-enero-nid25012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-25T14:28:23Z",
+      "Content": "Este jueves 25 de enero, el precio del dólar en México es de $17,1673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2556 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/640/5639613.jpg&wm=1&ang=0",
       "PublishedAt": "2024-01-16T17:44:56Z",
       "Content": "El precio del dólar repunta a $17.60 al menudeo. Crédito: AFP\r\nUn mayor incremento en la aversión al riesgo global afecta a los cruces del peso. Crédito: AFP\r\nEn el mercado internacional -Forex-, el … [+54 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 16 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 16 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-16-de-enero-nid16012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-16-de-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-16T14:36:18Z",
-      "Content": "Este martes 16 de enero, el precio del dólar en México es de $16,8983, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2269 chars]"
     }
   ]
 }
