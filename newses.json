@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY jueves 25 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 17.24 pesos por unidad, con una ganancia del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ay…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-enero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-01-25T12:31:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 17.24 pesos por unidad, con una ganancia del 0.10 por cient… [+808 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-16-de-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-16T14:36:18Z",
       "Content": "Este martes 16 de enero, el precio del dólar en México es de $16,8983, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2269 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Precio del dólar este 16 de enero 2024; tipo de cambio en México",
-      "Description": "Conoce el tipo de cambio en México este 16 de enero, del dólar sobre el peso.",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-este-16-de-enero-2024-tipo-de-cambio-en-mexico",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/16/dolar_prin.jpg",
-      "PublishedAt": "2024-01-16T14:33:26Z",
-      "Content": "El peso mexicano sigue firme y se mantiene estable en el tipo de cambio frente al dólar estadounidense. Incluso, este martes 16 de enero de 2024, el precio de la moneda de los Estados Unidos es de 16… [+867 chars]"
     }
   ]
 }
