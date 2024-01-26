@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso gana tras debilitamiento del dólar y dato de inflación en México",
+      "Description": "Forbes México.\n Peso gana tras debilitamiento del dólar y dato de inflación en México\n\nEl dólar se debilita luego de un incremento del apetito por el riesgo generado por datos de China y Europa, mientras que la inflación en México eleva expectativas sobre la …",
+      "Url": "https://www.forbes.com.mx/peso-gana-tras-debilitamiento-del-dolar-y-dato-de-inflacion-en-mexico/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-01-24T23:11:28Z",
+      "Content": "El peso se apreció este miércoles ante un dólar debilitado por un incremento del apetito por riesgo durante la sesión asiática y la sesión europea.\r\nEl peso llegó a ganar hasta cerca del 1% ante el d… [+2694 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/16/dolar_prin.jpg",
       "PublishedAt": "2024-01-16T14:33:26Z",
       "Content": "El peso mexicano sigue firme y se mantiene estable en el tipo de cambio frente al dólar estadounidense. Incluso, este martes 16 de enero de 2024, el precio de la moneda de los Estados Unidos es de 16… [+867 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Descalabro’ para el peso: Se deprecia más de 1% vs. el dólar y rebasa techo de las 17 unidades",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.32 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/16/peso-dolar-precio-hoy-16-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/BSmpuY8tlHektVYAp734lr_szhA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LHDJYOUKK5HFFFYXSH2L3BLTXQ.jpg",
-      "PublishedAt": "2024-01-16T13:53:03Z",
-      "Content": "El peso mexicano fue tomado por sorpresa y se cotiza por arriba de las 17 unidades contra el dólar debido al crecimiento de las expectativas de que la Reserva Federal no iniciará aún el recorte a su … [+1870 chars]"
     }
   ]
 }
