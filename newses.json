@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso va por ‘la remontada’ contra el dólar para ganar la semana: Se cotiza en las 17.16 unidades",
+      "Description": "Los especialistas estimaron que por el resto del día, el tipo de cambio podría fluctuar entre las 17.09 y 17.25 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/26/peso-dolar-precio-hoy-26-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/3nqizDR9T5w14WUgZB6cembLl2A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ULRW64OPZ5BODHBCEQCBIO5IOQ.jpg",
+      "PublishedAt": "2024-01-26T16:50:23Z",
+      "Content": "El peso mexicano opera este viernes con ligeras ganancias frente al dólar, a medida que el mercado se encuentra revisando los últimos indicadores de esta semana, como el índice de precios del consumo… [+1515 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 26 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 26 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-26-de-enero-nid26012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-26T16:02:56Z",
+      "Content": "Este viernes 26 de enero, el precio del dólar en México es de $17,2375, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2399 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/hay-monedas-de-25-centavos-de-georgia-de-1999-que-OPF5NG5BR5F5PJUTXQNVV3EF6E.jpg?auth=7d47be53e7e6ce8a31dcda7670e40860c232066fb494ed8daef1afbdf484563c&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-17T17:28:23Z",
       "Content": "En el mundo de la numismática,los errores de fabricación se convierten en una valiosa fuente de ingresos. Un claro ejemplo de esto es lamoneda de 25 centavos de dólar del estado de Georgia, con fecha… [+2147 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se entume’ e inicia con pérdidas frente al dólar: Se cotiza en las 17.35 unidades",
-      "Description": "La aversión al riesgo continúa extendiéndose y esto provocó que el peso mexicano se depreciara frente al dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/17/peso-dolar-precio-hoy-17-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VeWmVRvxCHcPJr8E2fHPLvZMYEw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PCZPWEFBXZGNHPSZIVZB77FCOY.jpg",
-      "PublishedAt": "2024-01-17T16:01:44Z",
-      "Content": "La aversión al riesgo continúa extendiéndose en el inicio de la sesión de este miércoles, por las expectativas de que la Fed tarde más de lo anticipado en realizar recortes a los tipos de interés, ad… [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 17 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 17 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-17-de-enero-nid17012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-17T14:50:00Z",
-      "Content": "Este miércoles 17 de enero, el precio del dólar en México es de $17,1598, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2305 chars]"
     }
   ]
 }
