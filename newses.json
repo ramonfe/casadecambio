@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "¡Peso gana terreno! Así amanece el dólar este 26 de enero",
+      "Description": "Nuestra moneda nacional avanza unos centavos frente la divisa norteamericana",
+      "Url": "https://www.record.com.mx/contra/peso-gana-terreno-asi-amanece-el-dolar-este-26-de-enero",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/26/portada_dolar1.jpg",
+      "PublishedAt": "2024-01-26T15:23:59Z",
+      "Content": "Si tienes en mente cambiar tus pesitos por dólares este viernes 26 de enero, es buen momento debido a que la moneda nacional está ganando terreno.\r\nLa moneda nacional se recuperó quedando en 17.15 un… [+711 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-17T14:50:00Z",
       "Content": "Este miércoles 17 de enero, el precio del dólar en México es de $17,1598, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2305 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Dólar presiona al peso y repunta a $17.60 tras feriado en EU",
-      "Description": "Tras feriado en EU, y presionado por una mayor aversión al riesgo global, el peso pierde terreno y cotiza a 17.60 por dólar al menudeo.",
-      "Url": "https://www.reforma.com/dolar-presiona-al-peso-y-repunta-a-17-60-tras-feriado-en-eu/ar2741195",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/640/5639613.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-01-16T17:44:56Z",
-      "Content": "El precio del dólar repunta a $17.60 al menudeo. Crédito: AFP\r\nUn mayor incremento en la aversión al riesgo global afecta a los cruces del peso. Crédito: AFP\r\nEn el mercado internacional -Forex-, el … [+54 chars]"
     }
   ]
 }
