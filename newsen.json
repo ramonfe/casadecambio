@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ZyCrypto"
+      },
+      "Author": "Brenda Ngari",
+      "Title": "Ripple Resolves Lawsuit With Billion-Dollar Money Transfer Company",
+      "Description": "San Francisco-based fintech heavyweight Ripple has settled its lawsuit against GCC Exchange, operator of GCC Remit money transfer app.",
+      "Url": "https://zycrypto.com/ripple-resolves-lawsuit-with-billion-dollar-money-transfer-company/",
+      "UrlToImage": "https://zycrypto.com/wp-content/uploads/2023/05/Ripple-Buys-Shares-In-European-Crypto-Exchange-Bitstamp-Massive-XRP-Growth-Ahead.jpg",
+      "PublishedAt": "2024-01-27T12:46:56Z",
+      "Content": "San Francisco-based fintech heavyweight Ripple has settled its lawsuit against GCC Exchange, operator of the GCC Remit money transfer app. This comes as Ripples ongoing legal showdown with the Securi… [+2058 chars]"
+    },
     {
       "Source": {
         "Id": null,
