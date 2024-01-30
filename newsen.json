@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "DAILY MAIL",
+      "Title": "Famed financial analyst Richard X. Bove predicts the fall of the US economy and says China will take over as the money superpower in his final forecast ahead of his retirement: 'The dollar is finished as the world's reserve currency'",
+      "Description": "The recently-retired banking oracle - who forecast the 2008 housing crisis - made the dramatic prediction this week.. Bove, 83, claimed other analysts won't make the same admission because they're 'monks praying to money' who rely on the mainstream financial …",
+      "Url": "https://freerepublic.com/focus/f-news/4213669/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-01-29T17:51:30Z",
+      "Content": "Skip to comments.\r\nFamed financial analyst Richard X. Bove predicts the fall of the US economy and says China will take over as the money superpower in his final forecast ahead of his retirement: 'Th… [+7052 chars]"
+    },
     {
       "Source": {
         "Id": null,
