@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso y monedas emergentes ‘le sacan’ al dólar: Cotiza en las 17.23 unidades",
+      "Description": "En los bancos, el dólar se cotiza en un precio de 17.69 pesos por cada uno.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/30/peso-dolar-precio-hoy-30-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/oLJllCUChuMP4foxduauj0WGDNE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RDWSZ53FHBET7EVUDROJYOTERM.jpg",
+      "PublishedAt": "2024-01-30T15:50:52Z",
+      "Content": "El peso mexicano se estanca en el terreno de las pérdidas ante el dólar este martes al igual que la mayoría de las divisas emergentes como parte de la cautela del mercado previo a que se dé a conocer… [+1556 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/KzYDJ3mvcwpejh0U5QdynK5ckLQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QDQ76EOXZVC5XONLT7AMPDYALY.jpg",
       "PublishedAt": "2024-01-19T15:46:01Z",
       "Content": "La última jornada de la semana inicia con el dólar cediendo terreno frente al peso mexicano, aunque la moneda nacional parece dirigirse a su primera semana con pérdidas ante el billete verde en lo qu… [+1631 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 19 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 19 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-19-de-enero-nid19012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-19T14:11:30Z",
-      "Content": "Este viernes 19 de enero, el precio del dólar en México es de $17,1995, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2544 chars]"
     }
   ]
 }
