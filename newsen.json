@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT",
+      "Title": "Russia’s non-dollar settlements within BRICS skyrocketing – central bank chief",
+      "Description": "Russia’s national currency settlements within BRICS have surged to 85% in two years, the head of the Russian central bank says Read Full Article at RT.com",
+      "Url": "https://www.rt.com/business/591545-russia-brics-non-dollar-payments/",
+      "UrlToImage": "https://mf.b37mrtl.ru/files/2024.01/article/65b904312030271ceb14e586.jpg",
+      "PublishedAt": "2024-01-30T14:26:01Z",
+      "Content": "The share of Russia’s settlements in national currencies with fellow BRICS countries has increased to 85%, up from just 26% two years ago, the head of the Russian central bank, Elvira Nabiullina, tol… [+1058 chars]"
+    },
     {
       "Source": {
         "Id": null,
