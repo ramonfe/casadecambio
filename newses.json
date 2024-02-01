@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este miércoles 31 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 31 de enero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-miercoles-31-de-enero-nid31012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-31T14:21:40Z",
+      "Content": "Este miércoles 31 de enero, el precio del dólar en México es de $17,1932, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2138 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-01-22T12:16:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 22 de enero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una ganancia del 0.05 por cient… [+855 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La peculiar moneda de 50 centavos de dólar que puede valer más de US$500 mil si tiene una letra “O”: cómo identificarla",
-      "Description": "Este ejemplar tiene un lugar muy especial en el listado de las 100 Greatest US Coins de Jeff Garrett y Ron Guth, y de los 20 que se imprimieron, solo quedan nueve en circulación",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-peculiar-moneda-de-50-centavos-de-dolar-que-puede-valer-mas-de-us500-mil-si-tiene-una-letra-o-nid19012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/una-moneda-acunada-en-nueva-orleans-se-subasto-en-LHICLBXZ5ZCRVDZIG7OAMSL3Y4.jpg?auth=1ef9a594f264e39f49c30fe5ca77d09e5d064b6941b5298024a86bbc82f156c5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-19T20:37:14Z",
-      "Content": "La Casa de la Moneda de Nueva Orleans, en Louisiana, la primera en acuñar monedas de plata, tiene una historia que se entrelaza con el ejemplar de medio dólar de 1838-O. Esta pieza, conocida por su b… [+2859 chars]"
     }
   ]
 }

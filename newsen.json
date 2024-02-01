@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,19 +353,6 @@
       "UrlToImage": "https://media.zenfs.com/en/aol_moneywise_380/30f64c778628903ec3196a6f21f1ca05",
       "PublishedAt": "2024-01-01T12:00:00Z",
       "Content": "I did put my Bar Mitzvah money into gold: Peter Schiff says theres no ceiling on the price of gold because theres no floor to the value of the dollar. Time to buy GLD?\r\nPeter Schiff, the CEO and chie… [+4199 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cheezburger.com"
-      },
-      "Author": "BenWeiss, BenWeiss",
-      "Title": "'I went to the bank and withdrew $50 in 2 dollar bills': Online seller needs to reach 100 sales, maliciously complies to earn top rated seller status",
-      "Description": "There is nothing quite like the satisfying feeling that comes with finding a loophole that actually works. Here, we have an online seller who was hoping to achieve a top rated seller status and had already earned over $6000 for his sales. However, he achieved…",
-      "Url": "https://cheezburger.com/23734789/i-went-to-the-bank-and-withdrew-50-in-2-dollar-bills-online-seller-needs-to-reach-100-sales",
-      "UrlToImage": "https://i.chzbgr.com/thumb1200/23734789/hBAB0C3C3/bills-online-seller-needs-to-reach-100-sales-maliciously-complies-to-earn-top-rated-seller-status",
-      "PublishedAt": "2023-12-31T13:00:00Z",
-      "Content": "There is nothing quite like the satisfying feeling that comes with finding a loophole that actually works. Here, we have an online seller who was hoping to achieve a top rated seller status and had a… [+868 chars]"
     }
   ]
 }
