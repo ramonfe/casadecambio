@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso arranca ‘nervioso’ ante el dólar por decisión de la Fed: Cotiza en las 17.19 unidades",
+      "Description": "En tanto, en ventanillas bancarias, el precio del billete verde es de 17.57 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/31/peso-dolar-precio-hoy-31-de-enero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/w9n2sDlta32UvmOxxPUqFSLrBdM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EN67ABG6GVHE7FVWXADXG2ZQYY.jpg",
+      "PublishedAt": "2024-01-31T16:33:29Z",
+      "Content": "El peso mexicano cae en el terreno de las pérdidas este 31 de enero, previo a que se de a conocer la primera decisión de política monetaria del año de la Reserva Federal.\r\nDe acuerdo con los datos re… [+1581 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-22T15:17:29Z",
       "Content": "Este lunes 22 de enero, el precio del dólar en México es de $17,1325, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2509 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY lunes 22 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 22 de enero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una ganancia del 0.05 por ciento, según datos de Bloomberg.El peso mexicano anotaba gananci…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-22-enero-2024-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/17/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-01-22T12:16:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 22 de enero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una ganancia del 0.05 por cient… [+855 chars]"
     }
   ]
 }
