@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Chicago Tribune"
+      },
+      "Author": "Jason Meisner",
+      "Title": "Ex-city official gets 18 months in prison for role concealing multimillion-dollar embezzlement scheme that led to Bridgeport Bank collapse",
+      "Description": "A former high-ranking city official was sentenced to 18 months in prison Wednesday for helping to conceal a multiyear embezzlement scheme that led to the failure of Washington Federal Bank for Savings",
+      "Url": "https://www.chicagotribune.com/news/criminal-justice/ct-william-mahon-chicago-sentencing-washington-federal-bank-fraud-20240131-7wrpg7sa5rfctfpradmkenjpj4-story.html",
+      "UrlToImage": "https://www.chicagotribune.com/resizer/DUbo_rL2UVy3qHzrMaV52Yb1rDk=/1200x630/filters:format(jpg):quality(70):focal(2035x845:2045x855)/cloudfront-us-east-1.images.arcpublishing.com/tronc/25CTEARH25DKDPQDKSKSL532OQ.JPG",
+      "PublishedAt": "2024-01-31T18:45:50Z",
+      "Content": "A former high-ranking city official was sentenced to 18 months in prison Wednesday for helping to conceal a multiyear embezzlement scheme that led to the failure of Washington Federal Bank for Saving… [+5577 chars]"
+    },
     {
       "Source": {
         "Id": null,
