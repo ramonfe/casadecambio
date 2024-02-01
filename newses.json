@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "Dólar baja de $930 en la apertura a la espera de los anuncios de la Fed y el Banco Central de Chile",
+      "Description": "En lo local, los agentes esperan una reducción de 100 puntos base en la política monetaria.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-yxwpd",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240131/imag/foto_0000000420240131084602/dolar.jpg",
+      "PublishedAt": "2024-01-31T11:45:00Z",
+      "Content": "El precio del dólar en Chile comenzó la jornada con un leve retroceso, bajando de los $ 930 a la espera de la decisión de tasas en Chile y Estados Unidos.\r\nLa divisa comenzó sus operaciones con un re… [+922 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "El Financiero"
       },
       "Author": "Valeria López",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/19/portada_dolar.jpg",
       "PublishedAt": "2024-01-19T16:24:19Z",
       "Content": "Si tienes en mente cambiar pesos por dólares este 19 de enero, es buen momento debido a que la moneda nacional está ganando terreno.\r\nPor segundo día consecutivo, la moneda nacional se recuperó queda… [+720 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso busca rally de última hora para vencer al dólar en la semana: Abre en 17.13 unidades",
-      "Description": "Entre las divisas con los mayores retrocesos están el rublo ruso con 1.27 por ciento y el peso chileno con 0.85 por ciento.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/19/peso-dolar-precio-hoy-19-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/KzYDJ3mvcwpejh0U5QdynK5ckLQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QDQ76EOXZVC5XONLT7AMPDYALY.jpg",
-      "PublishedAt": "2024-01-19T15:46:01Z",
-      "Content": "La última jornada de la semana inicia con el dólar cediendo terreno frente al peso mexicano, aunque la moneda nacional parece dirigirse a su primera semana con pérdidas ante el billete verde en lo qu… [+1631 chars]"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,32 +353,6 @@
       "UrlToImage": "https://i.chzbgr.com/thumb1200/23734789/hBAB0C3C3/bills-online-seller-needs-to-reach-100-sales-maliciously-complies-to-earn-top-rated-seller-status",
       "PublishedAt": "2023-12-31T13:00:00Z",
       "Content": "There is nothing quite like the satisfying feeling that comes with finding a loophole that actually works. Here, we have an online seller who was hoping to achieve a top rated seller status and had a… [+868 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Trillion-Dollar Bank Pays $2,950,000 Fine for Lying to Clients, Routinely Overcharging Customers",
-      "Description": "A banking giant with $1.80 trillion in assets under management is paying a multi-million dollar civil penalty for making false statements to clients and overcharging customers. In a press release, the Monetary Authority of Singapore (MAS) says it’s hitting Cr…",
-      "Url": "https://dailyhodl.com/2023/12/30/trillion-dollar-bank-pays-2950000-fine-for-lying-to-clients-routinely-overcharging-customers/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/05/brics-new-members-coins.jpg",
-      "PublishedAt": "2023-12-30T20:04:24Z",
-      "Content": "A banking giant with $1.80 trillion in assets under management is paying a multi-million dollar civil penalty for making false statements to clients and overcharging customers.\r\nIn a press release, t… [+1806 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Bremer Bank National Association Acquires 6,093 Shares of Dollar General Co. (NYSE:DG)",
-      "Description": "Bremer Bank National Association boosted its stake in Dollar General Co. (NYSE:DG – Free Report) by 70.2% during the 3rd quarter, according to the company in its most recent disclosure with the SEC. The firm owned 14,778 shares of the company’s stock after ac…",
-      "Url": "https://www.etfdailynews.com/2023/12/30/bremer-bank-national-association-acquires-6093-shares-of-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2023-12-30T19:18:51Z",
-      "Content": "Bremer Bank National Association boosted its stake in Dollar General Co. (NYSE:DG – Free Report) by 70.2% during the 3rd quarter, according to the company in its most recent disclosure with the SEC. … [+5727 chars]"
     }
   ]
 }
