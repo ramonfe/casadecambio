@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY miércoles 31 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de enero el tipo de cambio interbancario, se ubica en 17.33 pesos por unidad, con un retroceso del 0.13 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba a…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-31-enero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
+      "PublishedAt": "2024-01-31T12:01:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de enero el tipo de cambio interbancario, se ubica en 17.33 pesos por unidad, con un retroceso del 0.13 por cient… [+919 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/una-moneda-acunada-en-nueva-orleans-se-subasto-en-LHICLBXZ5ZCRVDZIG7OAMSL3Y4.jpg?auth=1ef9a594f264e39f49c30fe5ca77d09e5d064b6941b5298024a86bbc82f156c5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-19T20:37:14Z",
       "Content": "La Casa de la Moneda de Nueva Orleans, en Louisiana, la primera en acuñar monedas de plata, tiene una historia que se entrelaza con el ejemplar de medio dólar de 1838-O. Esta pieza, conocida por su b… [+2859 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Así amanece el Peso frente al Dólar este 19 de enero",
-      "Description": "Nuestra moneda nacional avanza por segundo día consecutivo con respecto al billete verde",
-      "Url": "https://www.record.com.mx/contra/asi-amanece-el-peso-frente-al-dolar-este-19-de-enero",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/19/portada_dolar.jpg",
-      "PublishedAt": "2024-01-19T16:24:19Z",
-      "Content": "Si tienes en mente cambiar pesos por dólares este 19 de enero, es buen momento debido a que la moneda nacional está ganando terreno.\r\nPor segundo día consecutivo, la moneda nacional se recuperó queda… [+720 chars]"
     }
   ]
 }
