@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘agarra vuelo’ en febrero: Se cotiza en las 17.10 unidades vs. el dólar",
+      "Description": "Según cifras de Citibanamex, en ventanillas bancarias el precio del billete verde es de 17.51 pesos cada uno.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/01/peso-dolar-precio-hoy-1-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/NlQu8a5R3hL8T375JD-fTm58fUA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PUTXTHQYJ5F6NICILID3THGMNA.jpg",
+      "PublishedAt": "2024-02-01T17:19:01Z",
+      "Content": "El peso mexicano inicia febrero con números verdes frente al dólar, a medida que el mercado continúa asimilando la última decisión de política monetaria por parte de la Reserva Federal que mantuvo su… [+1507 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/lvcjgBMrNjG1nKiCpRijE2qsyb8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3336GLFTPRAHDMMM32ISDINAE4.jpg",
       "PublishedAt": "2024-01-23T02:54:06Z",
       "Content": "El tipo de cambio se depreciará ante el dólar estadounidense este año, pero los analistas estiman que no superará la barrera de las 19.0 unidades, de acuerdo con la encuesta más reciente de Citibanam… [+1548 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central sigue comprando reservas y el mercado le puso fecha al final de crawling lento",
-      "Description": "La entidad se alzó hoy con otros US$133 millones y ya suma más de US$ 2300 millones en el mes, pero se juzga insostenible esa perfomance si no lo deja de usar como “ancla” en pocas semanas más",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-sigue-comprando-reservas-y-el-mercado-le-puso-fecha-al-final-de-crawling-nid22012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-ya-lleva-28-ruedas-ininterrumpidas-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-22T20:35:06Z",
-      "Content": "Ayudado por el impacto que la recesión comienza a mostrar en el nuevo flujo de importaciones, el Banco Central (BCRA) está logrando sostener en buen nivel sus compras de reservas. De hecho, se alzó h… [+3202 chars]"
     }
   ]
 }
