@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Carolina León",
+      "Title": "Decisión del Banco Central: analistas prevén bajas de TPM más agresivas hacia adelante e impacto alcista en el dólar a nivel local",
+      "Description": "Para varios expertos la última reunión reforzó la necesidad de aplicar mayores recortes. Para algunos, además, el banco terminó respaldando las palabras de Naudon.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/decision-del-banco-central-analistas-preven-bajas-de-tpm-mas-agresivas",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240131/imag/foto_0000000420240131200410/Dolares_JC.jpeg",
+      "PublishedAt": "2024-01-31T23:20:00Z",
+      "Content": "El voto disidente del consejero del Banco Central, Luis Felipe Céspedes, reforzó las expectativas de que los próximos recortes de Tasa de Política Monetaria (TPM) sean más significativos, interpretan… [+3385 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/un-centavo-del-parque-nacional-de-samoa-americana-VWVCBTMT6BFANE2HLLQMRQZBEA.jpg?auth=d35950fb99f045ef302132894db641a4798e02751a8fc238fa0f86b5c914d624&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-22T19:09:22Z",
       "Content": "Las monedas raras o con errores de Estados Unidos que se subastan por altas sumas de dinero y las codiciadas piezas no solamente se encuentran entre las producciones más antiguas. En los años recient… [+2361 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 22 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 22 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-22-de-enero-nid22012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-22T15:17:29Z",
-      "Content": "Este lunes 22 de enero, el precio del dólar en México es de $17,1325, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2509 chars]"
     }
   ]
 }
