@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Criptonoticias.com"
+      },
+      "Author": "Glenda González",
+      "Title": "«El dólar se acabó como moneda de reserva mundial» y bitcoin surgirá, dice analista",
+      "Description": "Richard X. Bove, famoso analista financiero ya jubilado, predice la caída de la economía estadounidense. \nLeer más",
+      "Url": "https://www.criptonoticias.com/comunidad/dolar-moneda-reserva-mundial-bitcoin-richardbove/",
+      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/12/billetes-dolar-moneda-bitcoin.jpeg",
+      "PublishedAt": "2024-02-01T18:34:26Z",
+      "Content": "Hechos clave:\r\n<ul><li>Bove considera que bitcoin y las criptomonedas triunfarán en el mundo post-dólar. \r\n</li><li>El analista cree que China ocupará el lugar de Estados Unidos. \r\n</li></ul>\r\nRichar… [+3280 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-01-23T12:00:56Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 23 de enero el tipo de cambio interbancario, se ubica en 17.28 pesos por unidad, con una pérdida del 0.59 por ciento… [+783 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Analistas mejoran perspectiva del peso frente al dólar para este año",
-      "Description": "La encuesta de Citibanamex proyecta que para el cierre de 2025 el tipo de cambio se colocará en 19.23 pesos por dólar.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2024/01/22/analistas-mejoran-perspectiva-del-peso-frente-al-dolar-para-este-ano/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/lvcjgBMrNjG1nKiCpRijE2qsyb8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3336GLFTPRAHDMMM32ISDINAE4.jpg",
-      "PublishedAt": "2024-01-23T02:54:06Z",
-      "Content": "El tipo de cambio se depreciará ante el dólar estadounidense este año, pero los analistas estiman que no superará la barrera de las 19.0 unidades, de acuerdo con la encuesta más reciente de Citibanam… [+1548 chars]"
     }
   ]
 }
