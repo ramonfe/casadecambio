@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este jueves 1° de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 1 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-jueves-1-de-febrero-nid01022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-01T14:48:22Z",
+      "Content": "Este jueves 1° de febrero, el precio del dólar en México es de $17,1633, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2296 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-ya-lleva-28-ruedas-ininterrumpidas-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-22T20:35:06Z",
       "Content": "Ayudado por el impacto que la recesión comienza a mostrar en el nuevo flujo de importaciones, el Banco Central (BCRA) está logrando sostener en buen nivel sus compras de reservas. De hecho, se alzó h… [+3202 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La moneda de 25 centavos de dólar, acuñada en 2020, que vale mucho más por un curioso “golpe” en una imagen",
-      "Description": "El Parque Nacional de Samoa Americana se ubica al suroeste de Hawaii y fue la inspiración de unos ejemplares especiales que forman parte de la colección America the Beautiful Quarters",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-25-centavos-de-dolar-acunada-en-2020-que-vale-mucho-mas-por-un-curioso-golpe-en-una-nid22012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/un-centavo-del-parque-nacional-de-samoa-americana-VWVCBTMT6BFANE2HLLQMRQZBEA.jpg?auth=d35950fb99f045ef302132894db641a4798e02751a8fc238fa0f86b5c914d624&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-22T19:09:22Z",
-      "Content": "Las monedas raras o con errores de Estados Unidos que se subastan por altas sumas de dinero y las codiciadas piezas no solamente se encuentran entre las producciones más antiguas. En los años recient… [+2361 chars]"
     }
   ]
 }
