@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "UPROXX"
+      },
+      "Author": "MelanieGordon",
+      "Title": "Make Your Money Count: How To Travel In Places Where Your Dollar Goes A Long Way",
+      "Description": "Uproxx\r\n\nHow to make your money count while traveling in places where your dollar goes a long way.",
+      "Url": "https://uproxx.com/life/best-budget-travel-destinations-2024/",
+      "UrlToImage": "https://uproxx.com/wp-content/uploads/2024/01/cheap_flights710x400.jpg?w=710",
+      "PublishedAt": "2024-02-02T19:47:51Z",
+      "Content": "Its very rare that someone doesnt want to travel. In fact, Ive never met anyone whos just like, No thanks. I dont need to see any more of the world. I’m good right here. And if I did, Im honestly not… [+10735 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,32 +353,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/reuters/2020-01/2020-01-23T022341Z_1_LYNXMPEG0M022_RTROPTP_3_GLOBAL-MARKETS.JPG",
       "PublishedAt": "2024-01-04T05:53:40Z",
       "Content": "SYDNEY, Jan 4 (Reuters) - Asia's dealmakers are hoping\r\nfor a 10% increase in dollar bond issuance in 2024 as interest\r\nrates stabilise and companies beef up borrowing to fund capital\r\nspending plans… [+3725 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Dollar Tree, Inc. (NASDAQ:DLTR) Holdings Decreased by Iowa State Bank",
-      "Description": "Iowa State Bank cut its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.0% in the third quarter, according to its most recent filing with the Securities and Exchange Commission. The firm owned 25,339 shares of the company’s stock afte…",
-      "Url": "https://www.etfdailynews.com/2024/01/02/dollar-tree-inc-nasdaqdltr-holdings-decreased-by-iowa-state-bank/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO.JPG&w=240&h=240&zc=2",
-      "PublishedAt": "2024-01-02T19:28:45Z",
-      "Content": "Iowa State Bank cut its holdings in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.0% in the third quarter, according to its most recent filing with the Securities and Exchange Commissi… [+6346 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nakedcapitalism.com"
-      },
-      "Author": "Yves Smith",
-      "Title": "Status of US Dollar as Global Reserve Currency and USD Exchange Rates: Long, Slow, Uneven Decline Continues",
-      "Description": "China’s renminbi keeps losing ground. But tiny \"other\" reserve currencies combined are taking share from the US dollar.",
-      "Url": "https://www.nakedcapitalism.com/2024/01/status-of-us-dollar-as-global-reserve-currency-and-usd-exchange-rates-long-slow-uneven-decline-continues.html",
-      "UrlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/01/00-dollar-.png",
-      "PublishedAt": "2024-01-02T10:39:40Z",
-      "Content": "Yves here. It is useful and welcome to see data, as opposed to conjecture and assertion, around the position of the dollar. We’ve argued that the logical reserve currency successor by virtue of the s… [+5272 chars]"
     }
   ]
 }
