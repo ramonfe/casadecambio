@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+      "Title": "Trump Calls Central Bank Digital Currency ‘Very Dangerous’—After Vowing To Prohibit Fed’s ‘Digital Dollar’",
+      "Description": "Trump owns $3 million in cryptocurrency and has a line of NFTs.",
+      "Url": "https://www.forbes.com/sites/saradorn/2024/02/02/trump-calls-central-bank-digital-currency-very-dangerous-after-vowing-to-prohibit-feds-digital-dollar/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/65bd33290fc5f6bf836d428f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2024-02-02T18:25:31Z",
+      "Content": "Former President Donald Trump expressed heavy skepticism about the security of a central bank digital currency (CBDC), which he has vowed to block, in an interview released Friday, though he personal… [+4057 chars]"
+    },
     {
       "Source": {
         "Id": null,
