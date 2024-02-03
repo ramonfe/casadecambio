@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Los tamales ‘empanzonan’ al peso: Cae y se cotiza en las 17.13 unidades vs. el dólar",
+      "Description": "Por el resto del día, el tipo de cambio podría fluctuar entre las 17.05 y 17.20 unidades, añadieron expertos de CIBanco.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/02/peso-dolar-precio-hoy-2-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VCSQHXHon_XS_Z6sgTN2sDe83V0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YTAE4KHPOFDLVAFN2K66Y6VSHI.jpg",
+      "PublishedAt": "2024-02-02T16:49:39Z",
+      "Content": "¿Le cayeron mal los tamales al peso mexicano? La moneda abre la jornada de este 2 de febrero con pérdidas contra el dólar luego de que los datos de empleo en Estados Unidos mostraron que durante febr… [+1755 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/iqYXoU2VnF2d2iVKWd4kCOTFM_I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KS77YUWEPVFP7LBD4L3HVHWLZQ.jpg",
       "PublishedAt": "2024-01-23T15:36:30Z",
       "Content": "El peso mexicano se hunde frente al dólar en la jornada de este 23 de enero, mientras los inversionistas operan con cautela antes de recibir una serie de datos económicos que podrían dar pistas sobre… [+1600 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 23 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 23 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-23-de-enero-nid23012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-23T14:35:07Z",
-      "Content": "Este martes 23 de enero, el precio del dólar en México es de $17,1125, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2469 chars]"
     }
   ]
 }
