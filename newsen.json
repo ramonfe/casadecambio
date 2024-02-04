@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Pays $65,000,000 Fine, Faces Cease-and-Desist Order After Violating Bank Secrecy Act, Deploying Poor Risk Management",
+      "Description": "A Los Angeles-based lender known as the ‘bank to the stars’ will pay a $65 million fine for a number of violations, including failure to follow the Bank Secrecy Act. The Office of the Comptroller of the Currency (OCC) says City National Bank engaged in “unsaf…",
+      "Url": "https://dailyhodl.com/2024/02/03/billion-dollar-bank-pays-65000000-fine-faces-cease-and-desist-order-after-violating-bank-secrecy-act-deploying-poor-risk-management/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/fdic-dollar-bank.jpg",
+      "PublishedAt": "2024-02-03T21:04:07Z",
+      "Content": "A Los Angeles-based lender known as the ‘bank to the stars’ will pay a $65 million fine for a number of violations, including failure to follow the Bank Secrecy Act.\r\nThe Office of the Comptroller of… [+1531 chars]"
+    },
     {
       "Source": {
         "Id": null,
