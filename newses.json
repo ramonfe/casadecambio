@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 5 de enero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 5 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-5-de-enero-nid05022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-cual-es-la-cotizacion-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-05T15:00:27Z",
+      "Content": "Este lunes 5 de febrero el precio del dólar en México es de $17,1335, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2186 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/24/dolar_24_enero_1.jpg",
       "PublishedAt": "2024-01-24T13:44:53Z",
       "Content": "Este miércoles 24 de enero, el peso arrancó con una ligera recuperación sobre el dólar al comenzar la jornada con un valor de 17.20 pesos por cada billete verde, lo cual significa 10 centavos menos e… [+919 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Se deprecia el peso mexicano a 17.31 unidades por dólar spot",
-      "Description": "El peso mexicano enfrentó fuertes tensiones por la aversión al riesgo. Al cierre de este martes, la moneda mexicana se depreció 13.40 centavos, equivalente a 0.78 por ciento frente a la divisa estadunidense, para cerrar en 17.3179 unidades por dólar spot, su …",
-      "Url": "https://www.jornada.com.mx/2024/01/24/economia/019n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-01-24T09:20:49Z",
-      "Content": "Periódico La JornadaMiércoles 24 de enero de 2024, p. 19\r\nEl peso mexicano enfrentó fuertes tensiones por la aversión al riesgo. Al cierre de este martes, la moneda mexicana se depreció 13.40 centavo… [+3175 chars]"
     }
   ]
 }
