@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY lunes 5 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de febrero el tipo de cambio interbancario, se ubica en 17.15 pesos por unidad, con una ganancia del 0.09 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba …",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-febrero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
+      "PublishedAt": "2024-02-05T12:01:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de febrero el tipo de cambio interbancario, se ubica en 17.15 pesos por unidad, con una ganancia del 0.09 por cien… [+989 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-01-24T09:20:49Z",
       "Content": "Periódico La JornadaMiércoles 24 de enero de 2024, p. 19\r\nEl peso mexicano enfrentó fuertes tensiones por la aversión al riesgo. Al cierre de este martes, la moneda mexicana se depreció 13.40 centavo… [+3175 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, en ‘arenas movedizas’ ante el dólar: Se cotiza en las 17.30 unidades",
-      "Description": "En ventanillas bancarias, el dólar ya se vende en un precio de 17.74 pesos cada uno, de acuerdo con los datos reportados por Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/23/peso-dolar-precio-hoy-23-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/iqYXoU2VnF2d2iVKWd4kCOTFM_I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KS77YUWEPVFP7LBD4L3HVHWLZQ.jpg",
-      "PublishedAt": "2024-01-23T15:36:30Z",
-      "Content": "El peso mexicano se hunde frente al dólar en la jornada de este 23 de enero, mientras los inversionistas operan con cautela antes de recibir una serie de datos económicos que podrían dar pistas sobre… [+1600 chars]"
     }
   ]
 }
