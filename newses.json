@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Cecilia Moya",
+      "Title": "El euro cae a niveles de noviembre en su 'batalla' contra el dólar",
+      "Description": "El enfriamiento que están experimentando los pronósticos de recortes de los tipos de interés en Estados Unidos, con una economía que avanza a buen ritmo y un mercado laboral fuerte, ya cotiza con fuerza en la divisa, con el euro dólar (que compara el valor de…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12658293/02/24/el-euro-cae-a-niveles-de-noviembre-en-su-batalla-contra-el-dolar.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/2119x1192/1/c/3/1200x655_dreamstime_m_20889355.jpg",
+      "PublishedAt": "2024-02-05T15:27:13Z",
+      "Content": "El enfriamiento que están experimentando los pronósticos de recortes de los tipos de interés en Estados Unidos, con una economía que avanza a buen ritmo y un mercado laboral fuerte, ya cotiza con fue… [+3024 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0132-1.jpg",
       "PublishedAt": "2024-01-24T14:32:28Z",
       "Content": "El peso se apreciaba este miércoles al comienzo de la sesión, debido a una caída del dólar por segundo día consecutivo y tras un anuncio de China prometiendo lanzar medidas de estímulo para impulsar … [+1246 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Precio del Dólar Hoy 24 de enero : ¿Cuál es el tipo de cambio?",
-      "Description": "Conoce cómo arranca el valor del peso frente al dólar en la jornada de este 24 de enero de 2024",
-      "Url": "https://www.record.com.mx/contra/precio-del-dolar-hoy-24-de-enero-cual-es-el-tipo-de-cambio",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/24/dolar_24_enero_1.jpg",
-      "PublishedAt": "2024-01-24T13:44:53Z",
-      "Content": "Este miércoles 24 de enero, el peso arrancó con una ligera recuperación sobre el dólar al comenzar la jornada con un valor de 17.20 pesos por cada billete verde, lo cual significa 10 centavos menos e… [+919 chars]"
     }
   ]
 }
