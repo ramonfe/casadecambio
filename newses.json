@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Eduardo López Alonso",
+      "Title": "La bolsa y la vida: Recorte, varapalo al Santander y dólar en observación",
+      "Description": "La sesión bursátil de este 5 de febrero de 2024 se saldó con una caída del 1,20% hasta los 9.941,30 puntos del Ibex 35, lastrado por el varapalo recibido por Santander. Sus acciones se dejaron un 5% en su peor jornada en diez meses, con los analistas en alert…",
+      "Url": "https://www.elperiodico.com/es/opinion/20240205/bolsa-vida-varapalo-santander-comentario-bursatil-5-febrero-2024-97790845",
+      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/cc9f324c-b635-43cb-9795-d8c8132e5326_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-02-05T16:43:40Z",
+      "Content": "La Bolsa de Madrid. / EFE / Altea Tejido\r\nLa sesión bursátil de este 5 de febrero de 2024 se saldó con una caída del 1,20% hasta los 9.941,30 puntos del Ibex 35, lastrado por el varapalo recibido por… [+2157 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Dólar ‘agarra de bajada’ al peso en el ‘puente’ del 5 de febrero: Cotiza en las 17.22 unidades",
+      "Description": "Según cifras de Citibanamex, el dólar se vende en 17.59 pesos cada uno en ventanillas bancarias.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/05/peso-dolar-precio-hoy-5-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/DILaVcf7fMQ4GoOpsRZSUGWAxTQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EEPE5BLSJNDW3CFB5ROEEASPQY.jpg",
+      "PublishedAt": "2024-02-05T16:23:03Z",
+      "Content": "El peso mexicano inicia esta jornada de puente en México con pérdidas ante el dólar, luego de que Jerome Powell, presidente de la Fed, aseguró que casi todos los funcionarios del Banco Central estado… [+2262 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/6WPQi_z86m7UyBMIrFHMuM9E6xk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/77CAHGV3BJCDPC62TKLLBJCJZU.jpg",
       "PublishedAt": "2024-01-24T15:31:29Z",
       "Content": "El peso mexicano regresa este miércoles al terreno de las ganancias ante el dólar, después de que la cifra de inflación en México de la primera quincena de enero se aceleró más de lo esperado.\r\nDe ac… [+1435 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 24 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 24 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-24-de-enero-nid24012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-24T14:48:47Z",
-      "Content": "Este miércoles 24 de enero, el precio del dólar en México es de $17,3520, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2255 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se aprecia por caída global del dólar y mayor optimismo de inversores",
-      "Description": "Forbes México.\n Peso se aprecia por caída global del dólar y mayor optimismo de inversores\n\nEl peso cotizaba en 17.1689 unidades por dólar, con una apreciación del 0.75% frente al precio de referencia de Reuters del martes.\nPeso se aprecia por caída global de…",
-      "Url": "https://www.forbes.com.mx/peso-se-aprecia-en-la-apertura-por-caida-global-del-dolar-y-mayor-optimismo-de-inversores/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0132-1.jpg",
-      "PublishedAt": "2024-01-24T14:32:28Z",
-      "Content": "El peso se apreciaba este miércoles al comienzo de la sesión, debido a una caída del dólar por segundo día consecutivo y tras un anuncio de China prometiendo lanzar medidas de estímulo para impulsar … [+1246 chars]"
     }
   ]
 }
