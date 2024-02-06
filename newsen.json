@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "India's HDFC Bank appoints bankers for likely dollar bond issue -bankers",
+      "Description": "(marketscreener.com) HDFC Bank, India's largest private-sector lender, has appointed banks for a likely dollar bond sale, two bankers said on Monday.https://www.marketscreener.com/quote/stock/HDFC-BANK-LIMITED-105516154/news/India-s-HDFC-Bank-appoints-bankers…",
+      "Url": "https://www.marketscreener.com/quote/stock/HDFC-BANK-LIMITED-105516154/news/India-s-HDFC-Bank-appoints-bankers-for-likely-dollar-bond-issue-bankers-45880747/",
+      "UrlToImage": "https://www.marketscreener.com/images/reuters/2023-09/2023-09-20T035946Z_1_LYNXMPEJ8J03F_RTROPTP_3_INDIA-BANKS.JPG",
+      "PublishedAt": "2024-02-05T04:25:33Z",
+      "Content": "MUMBAI (Reuters) - HDFC Bank, India's largest private-sector lender, has appointed banks for a likely dollar bond sale, two bankers said on Monday.\r\n The bank is looking to issue three-year sustainab… [+893 chars]"
+    },
     {
       "Source": {
         "Id": null,
