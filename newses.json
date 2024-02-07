@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY martes 6 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de febrero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una perdida del 0.11 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba a…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-febrero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
+      "PublishedAt": "2024-02-06T12:02:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de febrero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una perdida del 0.11 por cient… [+1114 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
       "PublishedAt": "2024-01-24T17:42:34Z",
       "Content": "El peso mexicano se apreciaba el miércoles al comienzo de la sesión, debido a una caída del dólar por segundo día consecutivo y tras un anuncio de China prometiendo lanzar medidas de estímulo para im… [+1195 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¿Inflación ‘acelerada’ ayuda al peso? Se cotiza en las 17.19 unidades contra el dólar",
-      "Description": "En ventanillas bancarias, el dólar se vende en 17.64 pesos cada uno, de acuerdo con los datos reportados por Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/24/peso-dolar-precio-hoy-24-de-enero-de-2023/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/6WPQi_z86m7UyBMIrFHMuM9E6xk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/77CAHGV3BJCDPC62TKLLBJCJZU.jpg",
-      "PublishedAt": "2024-01-24T15:31:29Z",
-      "Content": "El peso mexicano regresa este miércoles al terreno de las ganancias ante el dólar, después de que la cifra de inflación en México de la primera quincena de enero se aceleró más de lo esperado.\r\nDe ac… [+1435 chars]"
     }
   ]
 }
