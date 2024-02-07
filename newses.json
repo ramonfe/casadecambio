@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso viene ‘rudo’ después del ‘puente’: Se acerca al piso de las 17 unidades vs. el dólar",
+      "Description": "El dólar mantiene su precio y se vende en 17.47 pesos cada uno en los bancos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/06/peso-dolar-precio-hoy-6-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/TDzrLOKWSOrvtgqnDDk-B-ibd6c=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3UVVFQ7LAFENNBGWNTLQRJ4M54.jpg",
+      "PublishedAt": "2024-02-06T16:09:03Z",
+      "Content": "El peso mexicano inició este 6 de febrero acercándose al piso de las 17 unidades gracias al bajón que el dólar está sufriendo después de haberse ubicado en su nivel más elevado desde diciembre pasado… [+1463 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-01-25T12:31:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 17.24 pesos por unidad, con una ganancia del 0.10 por cient… [+808 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso gana tras debilitamiento del dólar y dato de inflación en México",
-      "Description": "Forbes México.\n Peso gana tras debilitamiento del dólar y dato de inflación en México\n\nEl dólar se debilita luego de un incremento del apetito por el riesgo generado por datos de China y Europa, mientras que la inflación en México eleva expectativas sobre la …",
-      "Url": "https://www.forbes.com.mx/peso-gana-tras-debilitamiento-del-dolar-y-dato-de-inflacion-en-mexico/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-01-24T23:11:28Z",
-      "Content": "El peso se apreció este miércoles ante un dólar debilitado por un incremento del apetito por riesgo durante la sesión asiática y la sesión europea.\r\nEl peso llegó a ganar hasta cerca del 1% ante el d… [+2694 chars]"
     }
   ]
 }
