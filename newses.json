@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, martes 6 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 6 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-6-de-febrero-nid06022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-06T14:16:29Z",
+      "Content": "Este martes 6 de febrero el precio del dólar en México es de $17,1447, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2280 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-01-24T23:11:28Z",
       "Content": "El peso se apreció este miércoles ante un dólar debilitado por un incremento del apetito por riesgo durante la sesión asiática y la sesión europea.\r\nEl peso llegó a ganar hasta cerca del 1% ante el d… [+2694 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano se recupera ante caída del dólar",
-      "Description": "La moneda nacional cotizaba en 17.16 unidades por dólar, con una apreciación del 0.75% frente al precio de referencia del martes.",
-      "Url": "https://aristeguinoticias.com/2401/dinero-y-economia/peso-mexicano-se-recupera-ante-caida-del-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/peso-dolar-tipo-cambio-apreciacion-t-mec-canada-disputa-automotriz-12012023.png",
-      "PublishedAt": "2024-01-24T17:42:34Z",
-      "Content": "El peso mexicano se apreciaba el miércoles al comienzo de la sesión, debido a una caída del dólar por segundo día consecutivo y tras un anuncio de China prometiendo lanzar medidas de estímulo para im… [+1195 chars]"
     }
   ]
 }
