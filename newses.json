@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: cuánto cotiza la moneda hoy, miércoles 7 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 7 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-cuanto-cotiza-la-moneda-hoy-miercoles-7-de-febrero-nid07022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-07T17:52:11Z",
+      "Content": "Este miércoles 7 de febrero el precio del dólar en México es de $17,0357, según lo anuncia Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2200 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-26T16:02:56Z",
       "Content": "Este viernes 26 de enero, el precio del dólar en México es de $17,2375, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2399 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "¡Peso gana terreno! Así amanece el dólar este 26 de enero",
-      "Description": "Nuestra moneda nacional avanza unos centavos frente la divisa norteamericana",
-      "Url": "https://www.record.com.mx/contra/peso-gana-terreno-asi-amanece-el-dolar-este-26-de-enero",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/26/portada_dolar1.jpg",
-      "PublishedAt": "2024-01-26T15:23:59Z",
-      "Content": "Si tienes en mente cambiar tus pesitos por dólares este viernes 26 de enero, es buen momento debido a que la moneda nacional está ganando terreno.\r\nLa moneda nacional se recuperó quedando en 17.15 un… [+711 chars]"
     }
   ]
 }
