@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se estira’, pero no llega a las 16 unidades vs. el dólar: Así se cotiza este miércoles",
+      "Description": "La apreciación del peso mexicano contra el dólar, por ahora, es ínfima, de acuerdo con datos de Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/07/peso-dolar-precio-hoy-7-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ymhOb1cz4pQFW034SKNsK5t_7W0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UNVRX7BFPJDJ5D6AJ5XZ4URRYI.jpg",
+      "PublishedAt": "2024-02-07T15:50:17Z",
+      "Content": "El peso mexicano se estira este 7 de febrero muy poco hacia el piso de las 16 unidades contra el dólar, mientras el mercado espera la primera decisión de política monetaria del Banco de México (Banxi… [+1554 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/01/26/portada_dolar1.jpg",
       "PublishedAt": "2024-01-26T15:23:59Z",
       "Content": "Si tienes en mente cambiar tus pesitos por dólares este viernes 26 de enero, es buen momento debido a que la moneda nacional está ganando terreno.\r\nLa moneda nacional se recuperó quedando en 17.15 un… [+711 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se despierta’ con ganancias ante el dólar, tras datos del PIB de EU",
-      "Description": "El peso mexicano tiene una leve apreciación ante el dólar, por debajo del 1%.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/25/peso-dolar-hoy-25-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/PqePs1exZvvo2B_PGxB6rHvb5CU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HQAHGNOYIRDZJGFI3J63GVBEJM.jpg",
-      "PublishedAt": "2024-01-25T15:22:49Z",
-      "Content": "El peso mexicano se mantiene en terreno de ganancias a medida que los inversionistas asimilan el dato del PIB del cuarto trimestre en Estados Unidos, el cual mostró un crecimiento trimestral anualiza… [+1750 chars]"
     }
   ]
 }
