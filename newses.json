@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso, cerca de romper la barrera de 17 por dólar",
+      "Description": "Tras el feriado por la conmemoración del aniversario de la Constitución de 1917 y después de que el presidente Andrés Manuel López Obrador presentó una serie de iniciativas al Congreso en la recta final de su administración, los mercados financieros registrar…",
+      "Url": "https://www.jornada.com.mx/2024/02/07/economia/022n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-02-07T10:31:36Z",
+      "Content": "Periódico La JornadaMiércoles 7 de febrero de 2024, p. 22\r\nTras el feriado por la conmemoración del aniversario de la Constitución de 1917 y después de que el presidente Andrés Manuel López Obrador p… [+3012 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-25T14:28:23Z",
       "Content": "Este jueves 25 de enero, el precio del dólar en México es de $17,1673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2556 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY jueves 25 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 17.24 pesos por unidad, con una ganancia del 0.10 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba ay…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-25-enero-2024-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-01-25T12:31:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 25 de enero el tipo de cambio interbancario, se ubica en 17.24 pesos por unidad, con una ganancia del 0.10 por cient… [+808 chars]"
     }
   ]
 }
