@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 32,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DailyFX"
+      },
+      "Author": "David Cottle",
+      "Title": "British Pound Falls Back Into Red As Dollar Fights Back, Central Bank Speakers Eyed",
+      "Description": "Sterling bulls had a reasonable start to trade Thursday but couldn’t hold on as the session’s US data came in",
+      "Url": "https://www.dailyfx.com/news/british-pound-falls-back-into-red-as-dollar-fights-back-central-bank-speakers-eyed-20240208.html",
+      "UrlToImage": "https://a.c-dn.net/b/3sWoSy/GBP4.jpg",
+      "PublishedAt": "2024-02-08T14:30:00Z",
+      "Content": "Pound Sterling (GBP/USD) Talking Points:\r\n<ul><li>GBP/USD has slipped back after two days of gains</li><li>The prospect of higher US interest rates for longer continues to dominate</li><li>Some as-ex… [+3011 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/01/11224051/Atiku-Bagudu-1200x630.jpg",
       "PublishedAt": "2024-01-11T21:41:09Z",
       "Content": "The Federal Government, on Thursday, said it settled for N800 to dollar exchange rate in the 2024 Appropriation Act after considering the average performance of the naira.\r\nIt said it avoided basing … [+3255 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "fdemott@insider.com (Filip De Mott)",
-      "Title": "The US dollar will jump this year thanks to a slow Fed pivot and election uncertainty, Deutsche Bank says",
-      "Description": "Markets will likely focus on Trump's foreign policy and trade priorities, which include a 10% tariff, Deutsche Bank said.",
-      "Url": "https://markets.businessinsider.com/news/currencies/us-dollar-outlook-yen-euro-fed-rate-cuts-elections-geopolitics-2024-1",
-      "UrlToImage": "https://i.insider.com/65a03d52dcdb354a9856d3ec?width=1200&format=jpeg",
-      "PublishedAt": "2024-01-11T20:32:03Z",
-      "Content": "The US dollar is on track for a bullish year despite the Federal Reserve's anticipated rate cuts, Deutsche Bank said Thursday.\r\nIn the first few months of 2024, analysts see the greenback rising to $… [+1871 chars]"
     }
   ]
 }
