@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, jueves 8 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 8 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-8-de-febrero-nid08022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-8-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-08T16:51:30Z",
+      "Content": "Este jueves 8 de febrero el precio del dólar en México es de $17,0398, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2163 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/3nqizDR9T5w14WUgZB6cembLl2A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ULRW64OPZ5BODHBCEQCBIO5IOQ.jpg",
       "PublishedAt": "2024-01-26T16:50:23Z",
       "Content": "El peso mexicano opera este viernes con ligeras ganancias frente al dólar, a medida que el mercado se encuentra revisando los últimos indicadores de esta semana, como el índice de precios del consumo… [+1515 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 26 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 26 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-26-de-enero-nid26012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-26T16:02:56Z",
-      "Content": "Este viernes 26 de enero, el precio del dólar en México es de $17,2375, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2399 chars]"
     }
   ]
 }
