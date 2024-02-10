@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central compró otros US$167 millones y suma casi US$7000 millones en la “era Milei”",
+      "Description": "La entidad que conduce Santiago Bausili aprovechó la mayor oferta ante el fin de semana extra largo",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-compro-otros-us167-millones-y-suma-casi-us7000-millones-en-la-era-milei-nid09022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-sigue-sumando-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-09T20:37:49Z",
+      "Content": "El Banco Central (BCRA) realizó hoy una de las más importantes compra de reservas mediante intervenciones sobre el mercado cambiario oficial del mes al quedarse con otros US$167 millones (mismo monto… [+2828 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-29T14:27:26Z",
       "Content": "Este lunes 29 de enero, el precio del dólar en México es de $17,2143, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2227 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY lunes 29 de enero de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de enero el tipo de cambio interbancario, se ubica en 17.15 pesos por unidad, con una perdida del 0.03 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba, au…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-29-enero-2024-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-01-29T12:24:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de enero el tipo de cambio interbancario, se ubica en 17.15 pesos por unidad, con una perdida del 0.03 por ciento… [+827 chars]"
     }
   ]
 }
