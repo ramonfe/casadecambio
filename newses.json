@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso va ‘paso a pasito’ hacia el terreno de las 16 unidades gracias a ‘bajón’ del dólar",
+      "Description": "En bancos, el dólar se vende en 17.55 pesos cada uno, según los datos más recientes de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/09/peso-dolar-precio-hoy-9-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RU7ll-ccv-xZ1fTNjMjOIThmCRg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CTIML5QO2NH3BJNLNOQXIRKKZI.jpg",
+      "PublishedAt": "2024-02-09T16:23:03Z",
+      "Content": "El peso mexicano está en modo fortachón y aumenta sus ganancias ante un debilitamiento generalizado del dólar y tras la primera decisión del año de política monetaria del Banco de México. \r\nDe acuerd… [+1620 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, viernes 9 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 9 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-9-de-febrero-nid09022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-9-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-09T16:11:27Z",
+      "Content": "Este viernes 9 de febrero, el precio del dólar en México es de $17,1023, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2463 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-01-29T12:24:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 26 de enero el tipo de cambio interbancario, se ubica en 17.15 pesos por unidad, con una perdida del 0.03 por ciento… [+827 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante un dólar débil, pero tiene un retroceso semanal",
-      "Description": "Forbes México.\n Peso avanza ante un dólar débil, pero tiene un retroceso semanal\n\nEl peso tuvo su tercera jornada de ganancias y cerró en 17.1543 por dólar, aunque terminó la semana con una depreciación del 0.45%.\nPeso avanza ante un dólar débil, pero tiene u…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-ante-un-dolar-debil-pero-tiene-un-retroceso-semanal/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9227.webp",
-      "PublishedAt": "2024-01-26T23:25:14Z",
-      "Content": "El peso se apreció este viernes ante un debilitamiento global de dólar, después de que datos mostraron que la inflación en Estados Unidos avanzó moderadamente en diciembre, lo que podría permitir a l… [+1637 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso va por ‘la remontada’ contra el dólar para ganar la semana: Se cotiza en las 17.16 unidades",
-      "Description": "Los especialistas estimaron que por el resto del día, el tipo de cambio podría fluctuar entre las 17.09 y 17.25 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/26/peso-dolar-precio-hoy-26-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/3nqizDR9T5w14WUgZB6cembLl2A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ULRW64OPZ5BODHBCEQCBIO5IOQ.jpg",
-      "PublishedAt": "2024-01-26T16:50:23Z",
-      "Content": "El peso mexicano opera este viernes con ligeras ganancias frente al dólar, a medida que el mercado se encuentra revisando los últimos indicadores de esta semana, como el índice de precios del consumo… [+1515 chars]"
     }
   ]
 }
