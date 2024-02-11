@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "10 Clothing Items You Should Always Buy at Dollar Tree To Save Money",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_796a4967-4ddf-4265-8125-4a97eeb40ed4",
+      "UrlToImage": null,
+      "PublishedAt": "2024-02-10T17:00:19Z",
+      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-01-12T04:32:03Z",
       "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Punch"
-      },
-      "Author": "Stephen Angbulu",
-      "Title": "Why FG chose N800/dollar exchange rate for 2024 budget – Minister",
-      "Description": "The Federal Government, on Thursday, said it settled for N800 to dollar exchange rate in the 2024 Appropriation Act after considering the average performance of the naira. It said it avoided basing the foreign exchange benchmark in the 2024 budget on a spot r…",
-      "Url": "https://punchng.com/why-fg-chose-n800-dollar-exchange-rate-for-2024-budget-minister/",
-      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/01/11224051/Atiku-Bagudu-1200x630.jpg",
-      "PublishedAt": "2024-01-11T21:41:09Z",
-      "Content": "The Federal Government, on Thursday, said it settled for N800 to dollar exchange rate in the 2024 Appropriation Act after considering the average performance of the naira.\r\nIt said it avoided basing … [+3255 chars]"
     }
   ]
 }
