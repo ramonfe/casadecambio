@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Toma de ganancias frena avance de la BMV; el peso gana terreno al dólar",
+      "Description": "El peso subió ayer ante un retroceso global del dólar, después que una revisión de las cifras de inflación en Estados Unidos mantuvo intactas las perspectivas de que la Reserva Federal (Fed) esperaría un poco más de lo previsto por los operadores de mercados …",
+      "Url": "https://www.jornada.com.mx/2024/02/10/economia/016n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-02-10T08:45:10Z",
+      "Content": "Periódico La JornadaSábado 10 de febrero de 2024, p. 16\r\nEl peso subió ayer ante un retroceso global del dólar, después que una revisión de las cifras de inflación en Estados Unidos mantuvo intactas … [+2453 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
       "PublishedAt": "2024-01-30T07:50:01Z",
       "Content": "Buenos días,\r\nEso tiene una reacción que irá en aumento: Inflación.\r\nO dicho de otra forma, empobrecimiento de en este caso, occidente."
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 29 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 29 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-29-de-enero-nid29012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-29T14:27:26Z",
-      "Content": "Este lunes 29 de enero, el precio del dólar en México es de $17,2143, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2227 chars]"
     }
   ]
 }
