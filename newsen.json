@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Ashley Carnahan",
+      "Title": "Assad’s billion-dollar drug industry keeps regime family ‘flush with money,’ wreaks havoc across region",
+      "Description": "Gulf Arab countries are struggling to deal an the uptick in Captagon being smuggled across the region. Experts discuss how Syria uses Captagon as an illicit alternative revenue source.",
+      "Url": "https://www.foxnews.com/world/assads-billion-dollar-drug-industry-keeps-regime-family-flush-money-wreaks-havoc-across-region",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/captagon-closeup.jpg",
+      "PublishedAt": "2024-02-11T09:00:07Z",
+      "Content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+5220 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/07/Will-CBDCs-Replace-Crypto.jpg",
       "PublishedAt": "2024-01-15T12:45:02Z",
       "Content": "Banking giant Morgan Stanley says that central bank digital currencies (CBDCs) may contribute to a shift away from the US dollar’s hegemony.\r\nIn a new research note, Andrew Peel, executive director a… [+1761 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "Billion-Dollar Bank Clears Fake Check As Grieving Widow’s Bank Account Drained To -$5,034: Report",
-      "Description": "An Indiana woman is issuing a warning after she was targeted by online scammers days after losing her husband. Selena Bell was grieving the loss of her husband Tyrone, who served three tours in Iraq and was awarded the Purple Heart, when she received a fraud …",
-      "Url": "https://dailyhodl.com/2024/01/13/billion-dollar-bank-clears-fake-check-as-grieving-widows-bank-account-drained-to-5034-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/dollar-bank-camera.jpg",
-      "PublishedAt": "2024-01-14T04:08:55Z",
-      "Content": "An Indiana woman is issuing a warning after she was targeted by online scammers days after losing her husband.\r\nSelena Bell was grieving the loss of her husband Tyrone, who served three tours in Iraq… [+1679 chars]"
     }
   ]
 }
