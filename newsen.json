@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cheezburger.com"
+      },
+      "Author": "Sienna Varady, Sienna Varady",
+      "Title": "'That's $180 of my hard-earned money': Man's car gets towed by company looking to make some extra cash, he settles the score by paying the full amount with one dollar bills",
+      "Description": "The twenty-first century is known for its constant stream of technological advancement. The fact that we can now fit everything we need into one technological device—our phones—is one of the biggest shifts in our daily lives.\r\nThe story below is an account of…",
+      "Url": "https://cheezburger.com/24407301/thats-180-of-my-hard-earned-money-mans-car-gets-towed-by-company-looking-to-make-some-extra-cash-he",
+      "UrlToImage": "https://i.chzbgr.com/thumb1200/24407301/h3BED6938/to-make-some-extra-cash-he-settles-the-score-by-paying-the-full-amount-with-one-dollar-bills",
+      "PublishedAt": "2024-02-11T23:00:00Z",
+      "Content": "The twenty-first century is known for its constant stream of technological advancement. The fact that we can now fit everything we need into one technological deviceour phonesis one of the biggest sh… [+991 chars]"
+    },
     {
       "Source": {
         "Id": "fox-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/12/Sensex-Nifty-Markets-4-770x433.jpg",
       "PublishedAt": "2024-01-16T06:33:55Z",
       "Content": "Brokerage ICICI Securities bets big on HDFC Bank, Reliance Industries Ltd and Bajaj Finance Ltd as it expects one out of these three to be India's first stock with a market value of $1 trillion by 20… [+2037 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "Morgan Stanley Says Central Bank Digital Currencies May Drive Move Away From US Dollar",
-      "Description": "Banking giant Morgan Stanley says that central bank digital currencies (CBDCs) may contribute to a shift away from the US dollar’s hegemony. In a new research note, Andrew Peel, executive director and head of digital asset markets at the bank says that CBDCs …",
-      "Url": "https://dailyhodl.com/2024/01/15/morgan-stanley-says-central-bank-digital-currencies-may-drive-move-away-from-us-dollar/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/07/Will-CBDCs-Replace-Crypto.jpg",
-      "PublishedAt": "2024-01-15T12:45:02Z",
-      "Content": "Banking giant Morgan Stanley says that central bank digital currencies (CBDCs) may contribute to a shift away from the US dollar’s hegemony.\r\nIn a new research note, Andrew Peel, executive director a… [+1761 chars]"
     }
   ]
 }
