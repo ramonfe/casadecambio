@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "Nextrush Free",
+      "Title": "News Summary-Intelligence Report Sunday 2/11/2024 Missile Attack Off Yemen, Senate Approves 95 Billion Dollar Foreign Aid...Netanyahu-Biden Conversation...Khan Candidates Top Pakistan Elections, Israel's Finance Minister Sees Politics In Credit Downgrade",
+      "Description": "During tonight's Super Bowl game a TV ad on behalf of the Independent Presidential... An incident reported early Monday morning...off the coast of Yemen...merchant vessel attacked by two missiles... Heavy Israeli airstrikes tonight in the southern Gaza city..…",
+      "Url": "https://freerepublic.com/focus/f-bloggers/4216765/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-02-12T05:23:39Z",
+      "Content": "Skip to comments.\r\nNews Summary-Intelligence Report Sunday 2/11/2024 Missile Attack Off Yemen, Senate Approves 95 Billion Dollar Foreign Aid...Netanyahu-Biden Conversation...Khan Candidates Top Pakis… [+2722 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2024-01-16T10:15:07Z",
       "Content": "MUMBAI (Reuters) -India's Shriram Finance plans to raise funds through U.S. dollar denominated bonds maturing in three years and three months, two merchant bankers said on Tuesday.\r\n The funds will b… [+957 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Moneycontrol"
-      },
-      "Author": "Moneycontrol News",
-      "Title": "HDFC Bank, Reliance, Bajaj Finance in fray to be India#39;s first trillion-dollar company by 2032",
-      "Description": "Brokerage ICICI Securities expects one out of these three -- HDFC Bank, Reliance Industries Ltd and Bajaj Finance Ltd, could emerge India#39;s first $1 trillion market capitalisation stock by 2032",
-      "Url": "https://www.moneycontrol.com/news/business/earnings/hdfc-bank-reliance-bajaj-finance-in-fray-to-be-indias-first-trillion-dollar-company-by-2032-12059641.html",
-      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/12/Sensex-Nifty-Markets-4-770x433.jpg",
-      "PublishedAt": "2024-01-16T06:33:55Z",
-      "Content": "Brokerage ICICI Securities bets big on HDFC Bank, Reliance Industries Ltd and Bajaj Finance Ltd as it expects one out of these three to be India's first stock with a market value of $1 trillion by 20… [+2037 chars]"
     }
   ]
 }
