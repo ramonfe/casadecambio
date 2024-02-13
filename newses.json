@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 12 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 12 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-12-de-febrero-nid12022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-12T13:50:30Z",
+      "Content": "Este lunes 12 de febrero el precio del dólar en México es de $17,0855, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2287 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/oLJllCUChuMP4foxduauj0WGDNE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RDWSZ53FHBET7EVUDROJYOTERM.jpg",
       "PublishedAt": "2024-01-30T15:50:52Z",
       "Content": "El peso mexicano se estanca en el terreno de las pérdidas ante el dólar este martes al igual que la mayoría de las divisas emergentes como parte de la cautela del mercado previo a que se dé a conocer… [+1556 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 30 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 30 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-30-de-enero-nid30012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-30T14:37:16Z",
-      "Content": "Este martes 30 de enero, el precio del dólar en México es de $17,2333, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2369 chars]"
     }
   ]
 }
