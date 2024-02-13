@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY lunes 12 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones HOY 9 de febrero el tipo de cambio interbancario, se ubica en 17.05 pesos por unidad, con una pérdida del 0.18 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-febrero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-02-12T12:11:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones HOY 9 de febrero el tipo de cambio interbancario, se ubica en 17.05 pesos por unidad, con una pérdida del 0.18 por cient… [+928 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Jornada.com.mx"
       },
       "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-01-30T14:37:16Z",
       "Content": "Este martes 30 de enero, el precio del dólar en México es de $17,2333, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2369 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "Verdaderofalso",
-      "Title": "El yuan chino supera al dólar como moneda más negociada en Rusia",
-      "Description": "El yuan chino es oficialmente la moneda más negociada en Rusia, superando al dólar estadounidense en un 2,5%. Los miembros del BRICS, China y Rusia, están liquidando el comercio en yuanes chinos desde febrero de 2022, poniendo fin a la dependencia del dólar e…",
-      "Url": "https://www.meneame.net/m/actualidad/yuan-chino-supera-dolar-como-moneda-mas-negociada-rusia",
-      "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
-      "PublishedAt": "2024-01-30T07:50:01Z",
-      "Content": "Buenos días,\r\nEso tiene una reacción que irá en aumento: Inflación.\r\nO dicho de otra forma, empobrecimiento de en este caso, occidente."
     }
   ]
 }
