@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 13 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 13 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-13-de-febrero-nid13022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-13T13:50:36Z",
+      "Content": "Este martes 13 de febrero, el precio del dólar en México es de $17,0680, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2247 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-2.jpg",
       "PublishedAt": "2024-01-31T12:01:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 31 de enero el tipo de cambio interbancario, se ubica en 17.33 pesos por unidad, con un retroceso del 0.13 por cient… [+919 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "Dólar baja de $930 en la apertura a la espera de los anuncios de la Fed y el Banco Central de Chile",
-      "Description": "En lo local, los agentes esperan una reducción de 100 puntos base en la política monetaria.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-yxwpd",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240131/imag/foto_0000000420240131084602/dolar.jpg",
-      "PublishedAt": "2024-01-31T11:45:00Z",
-      "Content": "El precio del dólar en Chile comenzó la jornada con un leve retroceso, bajando de los $ 930 a la espera de la decisión de tasas en Chile y Estados Unidos.\r\nLa divisa comenzó sus operaciones con un re… [+922 chars]"
     }
   ]
 }
