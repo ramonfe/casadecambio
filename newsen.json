@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "KENYA FINANCE MINISTRY: TO USE PROCEEDS OF NEW DOLLAR BOND TO FU…",
+      "Description": "(marketscreener.com) \n KENYA FINANCE MINISTRY: TO USE PROCEEDS OF NEW DOLLAR BOND TO FUND OFFER TO BUY BACK EXISTING $2 BLN EUROBOND\n https://www.marketscreener.com/news/latest/KENYA-FINANCE-MINISTRY-TO-USE-PROCEEDS-OF-NEW-DOLLAR-BOND-TO-FU--45941046/?utm_med…",
+      "Url": "https://www.marketscreener.com/news/latest/KENYA-FINANCE-MINISTRY-TO-USE-PROCEEDS-OF-NEW-DOLLAR-BOND-TO-FU--45941046/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2024-02-13T14:39:57Z",
+      "Content": "ANALYST RECOMMENDATIONS : PayPal, United Airlines, Nvidia, Home Depot, Wizz Air...\r\nEvery morning, find a selection of analysts' recommendations covering North America and the UK. The list only inclu… [+255 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
       "PublishedAt": "2024-01-16T11:15:36Z",
       "Content": "TAIPEI, Jan 16 (Reuters) - Taiwan's central bank said on\r\nTuesday that the exchange rate trend of the Taiwan dollar\r\nwas relatively stable, after the currency hit its weakest in\r\nmore than a month, w… [+2089 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Shriram Finance to issue over 3-yr dollar denominated bonds - bankers",
-      "Description": "(marketscreener.com) India's Shriram Finance plans to raise funds through U.S. dollar denominated bonds maturing in three years and three months, two merchant bankers said on Tuesday.https://www.marketscreener.com/quote/stock/SHRIRAM-FINANCE-LIMITED-6498530/n…",
-      "Url": "https://www.marketscreener.com/quote/stock/SHRIRAM-FINANCE-LIMITED-6498530/news/Shriram-Finance-to-issue-over-3-yr-dollar-denominated-bonds-bankers-45746446/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-01-16T10:15:07Z",
-      "Content": "MUMBAI (Reuters) -India's Shriram Finance plans to raise funds through U.S. dollar denominated bonds maturing in three years and three months, two merchant bankers said on Tuesday.\r\n The funds will b… [+957 chars]"
     }
   ]
 }
