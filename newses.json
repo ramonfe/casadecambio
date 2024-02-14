@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY martes 13 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 13 de febrero el tipo de cambio interbancario, se ubica en 17.08 pesos por unidad, con una leve ganancia del 0.02 por ciento, según datos de Bloomberg.El peso mexicano mostraba…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-13-febrero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
+      "PublishedAt": "2024-02-13T12:17:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 13 de febrero el tipo de cambio interbancario, se ubica en 17.08 pesos por unidad, con una leve ganancia del 0.02 po… [+931 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240131/imag/foto_0000000420240131084602/dolar.jpg",
       "PublishedAt": "2024-01-31T11:45:00Z",
       "Content": "El precio del dólar en Chile comenzó la jornada con un leve retroceso, bajando de los $ 930 a la espera de la decisión de tasas en Chile y Estados Unidos.\r\nLa divisa comenzó sus operaciones con un re… [+922 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso y monedas emergentes ‘le sacan’ al dólar: Cotiza en las 17.23 unidades",
-      "Description": "En los bancos, el dólar se cotiza en un precio de 17.69 pesos por cada uno.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/30/peso-dolar-precio-hoy-30-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/oLJllCUChuMP4foxduauj0WGDNE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RDWSZ53FHBET7EVUDROJYOTERM.jpg",
-      "PublishedAt": "2024-01-30T15:50:52Z",
-      "Content": "El peso mexicano se estanca en el terreno de las pérdidas ante el dólar este martes al igual que la mayoría de las divisas emergentes como parte de la cautela del mercado previo a que se dé a conocer… [+1556 chars]"
     }
   ]
 }
