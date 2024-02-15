@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso y BMV avanzan ante debilitamiento global del dólar",
+      "Description": "Forbes México.\n Peso y BMV avanzan ante debilitamiento global del dólar\n\nInversionistas siguen en la búsqueda de pistas sobre el momento en que la Fed comenzaría a recortar su tasa de interés de referencia.\nPeso y BMV avanzan ante debilitamiento global del dó…",
+      "Url": "https://www.forbes.com.mx/peso-y-bmv-avanzan-ante-debilitamiento-global-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
+      "PublishedAt": "2024-02-14T22:20:00Z",
+      "Content": "El peso y la Bolsa Mexicana de Valores (BMV) avanzaron este miércoles ante un declive global del dólar, mientras los inversionistas continúan en búsqueda de pistas sobre el momento en que la Reserva … [+1670 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-01T14:48:22Z",
       "Content": "Este jueves 1° de febrero, el precio del dólar en México es de $17,1633, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Carolina León",
-      "Title": "Decisión del Banco Central: analistas prevén bajas de TPM más agresivas hacia adelante e impacto alcista en el dólar a nivel local",
-      "Description": "Para varios expertos la última reunión reforzó la necesidad de aplicar mayores recortes. Para algunos, además, el banco terminó respaldando las palabras de Naudon.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/decision-del-banco-central-analistas-preven-bajas-de-tpm-mas-agresivas",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240131/imag/foto_0000000420240131200410/Dolares_JC.jpeg",
-      "PublishedAt": "2024-01-31T23:20:00Z",
-      "Content": "El voto disidente del consejero del Banco Central, Luis Felipe Céspedes, reforzó las expectativas de que los próximos recortes de Tasa de Política Monetaria (TPM) sean más significativos, interpretan… [+3385 chars]"
     }
   ]
 }
