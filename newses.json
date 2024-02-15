@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY miércoles 14 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
+      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de febrero el tipo de cambio interbancario, se ubica en 17.14 pesos por unidad, con una perdida del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se deprecia an…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-febrero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-02-14T11:59:00Z",
+      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de febrero el tipo de cambio interbancario, se ubica en 17.14 pesos por unidad, con una perdida del 0.05 por cien… [+918 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/w9n2sDlta32UvmOxxPUqFSLrBdM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EN67ABG6GVHE7FVWXADXG2ZQYY.jpg",
       "PublishedAt": "2024-01-31T16:33:29Z",
       "Content": "El peso mexicano cae en el terreno de las pérdidas este 31 de enero, previo a que se de a conocer la primera decisión de política monetaria del año de la Reserva Federal.\r\nDe acuerdo con los datos re… [+1581 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este miércoles 31 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 31 de enero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-miercoles-31-de-enero-nid31012024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-01-31T14:21:40Z",
-      "Content": "Este miércoles 31 de enero, el precio del dólar en México es de $17,1932, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2138 chars]"
     }
   ]
 }
