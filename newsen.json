@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "International Business Times"
+      },
+      "Author": "Jarin Noshin",
+      "Title": "US Treasury: Dollar Alternatives Not Seen As Primary Illicit Finance Threat",
+      "Description": "US Treasury Department suggests that while dollar alternatives are emerging, they do not currently pose a major threat in illicit finance activities.",
+      "Url": "https://www.ibtimes.com/us-treasury-dollar-alternatives-not-seen-primary-illicit-finance-threat-3724624",
+      "UrlToImage": "https://d.ibtimes.com/en/full/4492399/yields-bonds-issued-us-treasury-have-hit-multiyear-peaks-recent-days-unnerving-investors.jpg",
+      "PublishedAt": "2024-02-14T20:18:53Z",
+      "Content": "The U.S. believes that emerging cross-border payment systems and alternative currencies, despite their growth, still don't pose a big threat to its attempts to stop adversaries like Iran, North Korea… [+2922 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO-1200x675.JPG&w=240&h=240&zc=2",
       "PublishedAt": "2024-01-18T12:12:47Z",
       "Content": "Money Concepts Capital Corp raised its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 6.1% in the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Comm… [+5647 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Taiwan dollar relatively stable, central bank says after falls",
-      "Description": "(marketscreener.com) Taiwan's central bank said on\nTuesday that the exchange rate trend of the Taiwan dollar\nwas relatively stable, after the currency hit its weakest in\nmore than a month, which some traders blamed on post-election\npolitical uncertainty.\n Tai…",
-      "Url": "https://www.marketscreener.com/quote/index/MSCI-TAIWAN-STRD-107361484/news/Taiwan-dollar-relatively-stable-central-bank-says-after-falls-45746961/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2024-01-16T11:15:36Z",
-      "Content": "TAIPEI, Jan 16 (Reuters) - Taiwan's central bank said on\r\nTuesday that the exchange rate trend of the Taiwan dollar\r\nwas relatively stable, after the currency hit its weakest in\r\nmore than a month, w… [+2089 chars]"
     }
   ]
 }
