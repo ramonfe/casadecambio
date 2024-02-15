@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 14 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 14 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-14-de-febrero-nid14022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-14T15:41:18Z",
+      "Content": "Este miércoles 14 de febrero, el precio del dólar en México es de $17,1982, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2238 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240131/imag/foto_0000000420240131200410/Dolares_JC.jpeg",
       "PublishedAt": "2024-01-31T23:20:00Z",
       "Content": "El voto disidente del consejero del Banco Central, Luis Felipe Céspedes, reforzó las expectativas de que los próximos recortes de Tasa de Política Monetaria (TPM) sean más significativos, interpretan… [+3385 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso arranca ‘nervioso’ ante el dólar por decisión de la Fed: Cotiza en las 17.19 unidades",
-      "Description": "En tanto, en ventanillas bancarias, el precio del billete verde es de 17.57 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/01/31/peso-dolar-precio-hoy-31-de-enero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/w9n2sDlta32UvmOxxPUqFSLrBdM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EN67ABG6GVHE7FVWXADXG2ZQYY.jpg",
-      "PublishedAt": "2024-01-31T16:33:29Z",
-      "Content": "El peso mexicano cae en el terreno de las pérdidas este 31 de enero, previo a que se de a conocer la primera decisión de política monetaria del año de la Reserva Federal.\r\nDe acuerdo con los datos re… [+1581 chars]"
     }
   ]
 }
