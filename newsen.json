@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fark.com"
+      },
+      "Author": null,
+      "Title": "Japan's top currency diplomat has yen to keep nation's money strong versus the dollar, blames speculators [Obvious]",
+      "Description": "Japan's top currency diplomat has yen to keep nation's money strong versus the dollar, blames speculators",
+      "Url": "https://www.fark.com/comments/13154720/Japans-top-currency-diplomat-has-yen-to-keep-nations-money-strong-versus-dollar-blames-speculators",
+      "UrlToImage": "https://usrimg-full.fark.net/M/M3/fark_M3nIerNL9kqb9gTltN1jjMXKI18.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1708318800&Signature=6DpUGxxcTL8tXpHVhNvCag8anOA%3D",
+      "PublishedAt": "2024-02-15T01:35:20Z",
+      "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-01-21T12:54:48Z",
       "Content": "Empirical Finance LLC increased its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 8.3% in the third quarter, according to its most recent Form 13F filing with the Securities &am… [+5676 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Money Concepts Capital Corp Has $965,000 Stock Holdings in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Money Concepts Capital Corp raised its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 6.1% in the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 9,063 shares …",
-      "Url": "https://www.etfdailynews.com/2024/01/18/money-concepts-capital-corp-has-965000-stock-holdings-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/0000935703-07-000044_DOLLARTREELOGO-1200x675.JPG&w=240&h=240&zc=2",
-      "PublishedAt": "2024-01-18T12:12:47Z",
-      "Content": "Money Concepts Capital Corp raised its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 6.1% in the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Comm… [+5647 chars]"
     }
   ]
 }
