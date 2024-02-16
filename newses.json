@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Catalina Vergara",
+      "Title": "Economistas estiman que el Banco Central perseverará en fuertes bajas de tasa clave pese a alto nivel del dólar",
+      "Description": "Economistas llaman a monitorear de cerca lo que ocurra con el tipo de cambio, pero la inflación ya cerca del 3% impulsaría al Banco Central a seguir bajando la TPM.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/economistas-estiman-que-el-banco-central-perseverara-en-fuertes-bajas-de",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240214/imag/foto_0000000220240214200158/consejo-banco-central-nuevo.jpg",
+      "PublishedAt": "2024-02-15T07:00:00Z",
+      "Content": "Desde la última Reunión de Política Monetaria (RPM) -realizada el 30 y 31 de enero- el dólar ha escalado casi $ 40, incluso sobrepasando los $ 970, pese a que la jornada de este miércoles cerró en $ … [+4262 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/NlQu8a5R3hL8T375JD-fTm58fUA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PUTXTHQYJ5F6NICILID3THGMNA.jpg",
       "PublishedAt": "2024-02-01T17:19:01Z",
       "Content": "El peso mexicano inicia febrero con números verdes frente al dólar, a medida que el mercado continúa asimilando la última decisión de política monetaria por parte de la Reserva Federal que mantuvo su… [+1507 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda este jueves 1° de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 1 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-este-jueves-1-de-febrero-nid01022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SBQYWBGJ7NDK7GPNDTNEHZNHZU.jpg?auth=78a97cedb7546a5bc8bc3c47f38a3038ce2da193a83f9dcbf20396ec85e77836&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-01T14:48:22Z",
-      "Content": "Este jueves 1° de febrero, el precio del dólar en México es de $17,1633, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2296 chars]"
     }
   ]
 }
