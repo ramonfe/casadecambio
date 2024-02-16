@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 15 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 15 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-15-de-febrero-nid15022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-la-divisa-norteamericana-en-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-15T17:23:43Z",
+      "Content": "Este jueves 15 de febrero, el precio del dólar en México es de $17,1105, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2587 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VCSQHXHon_XS_Z6sgTN2sDe83V0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YTAE4KHPOFDLVAFN2K66Y6VSHI.jpg",
       "PublishedAt": "2024-02-02T16:49:39Z",
       "Content": "¿Le cayeron mal los tamales al peso mexicano? La moneda abre la jornada de este 2 de febrero con pérdidas contra el dólar luego de que los datos de empleo en Estados Unidos mostraron que durante febr… [+1755 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 2 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 2 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-2-de-febrero-nid02022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-02T14:01:06Z",
-      "Content": "Este viernes 2 de febrero el precio del dólar en México es de $17,1335, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2293 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cheezburger.com"
+      },
+      "Author": "Jesse Kessenheimer, Jesse Kessenheimer",
+      "Title": "'Best dollar I've ever wasted': Entitled Karen demands 'handouts' after a generous gas station patron gives money to a beggar, hilarious pettiness ensues",
+      "Description": "For some reason, the Karens of the world feel a sense of self-fulfillment when they bully everyone around them, stomping on the necks of every minimum wage worker that they can get their claws into. The unlucky few that get caught in the destructive path of a…",
+      "Url": "https://cheezburger.com/24470277/best-dollar-ive-ever-wasted-entitled-karen-demands-handouts-after-a-generous-gas-station-patron",
+      "UrlToImage": "https://i.chzbgr.com/thumb1200/24470277/h438FB3B5/homeless-homeless-guy-reddit-petty-petty-revenge-revenge-entitled-entitled-people-payback-deserve",
+      "PublishedAt": "2024-02-15T18:00:00Z",
+      "Content": "For some reason, the Karens of the world feel a sense of self-fulfillment when they bully everyone around them, stomping on the necks of every minimum wage worker that they can get their claws into. … [+863 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.png?v=20240118080504&w=240&h=240&zc=2",
       "PublishedAt": "2024-01-21T12:56:45Z",
       "Content": "Empirical Finance LLC raised its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 8.8% during the 3rd quarter, according to its most recent filing with the Securities &amp; Exchange Commi… [+5219 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Empirical Finance LLC Boosts Stock Position in Dollar General Co. (NYSE:DG)",
-      "Description": "Empirical Finance LLC increased its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 8.3% in the third quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission. The firm owned 7,931 shares of the compa…",
-      "Url": "https://www.etfdailynews.com/2024/01/21/empirical-finance-llc-boosts-stock-position-in-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-01-21T12:54:48Z",
-      "Content": "Empirical Finance LLC increased its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 8.3% in the third quarter, according to its most recent Form 13F filing with the Securities &am… [+5676 chars]"
     }
   ]
 }
