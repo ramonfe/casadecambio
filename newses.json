@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso recupera terreno ante el dólar",
+      "Description": "Tras la sobrerreacción de los mercados financieros ante el dato de inflación de enero en Estados Unidos y luego de la toma de utilidades de los inversionistas, éstos cambiaron de ánimo y llevaron los activos financieros de riesgo a la recuperación.",
+      "Url": "https://www.jornada.com.mx/2024/02/15/economia/022n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-02-15T09:33:33Z",
+      "Content": "Periódico La JornadaJueves 15 de febrero de 2024, p. 22\r\nTras la sobrerreacción de los mercados financieros ante el dato de inflación de enero en Estados Unidos y luego de la toma de utilidades de lo… [+1903 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/12/billetes-dolar-moneda-bitcoin.jpeg",
       "PublishedAt": "2024-02-01T18:34:26Z",
       "Content": "Hechos clave:\r\n<ul><li>Bove considera que bitcoin y las criptomonedas triunfarán en el mundo post-dólar. \r\n</li><li>El analista cree que China ocupará el lugar de Estados Unidos. \r\n</li></ul>\r\nRichar… [+3280 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘agarra vuelo’ en febrero: Se cotiza en las 17.10 unidades vs. el dólar",
-      "Description": "Según cifras de Citibanamex, en ventanillas bancarias el precio del billete verde es de 17.51 pesos cada uno.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/01/peso-dolar-precio-hoy-1-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/NlQu8a5R3hL8T375JD-fTm58fUA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PUTXTHQYJ5F6NICILID3THGMNA.jpg",
-      "PublishedAt": "2024-02-01T17:19:01Z",
-      "Content": "El peso mexicano inicia febrero con números verdes frente al dólar, a medida que el mercado continúa asimilando la última decisión de política monetaria por parte de la Reserva Federal que mantuvo su… [+1507 chars]"
     }
   ]
 }
