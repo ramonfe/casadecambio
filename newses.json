@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Todo es color rosa para el peso: Se aprecia frente al dólar y abre en 17.07 unidades",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.52 pesos por cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/15/peso-dolar-precio-hoy-15-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/zRspr2-ZfNHAHnk5Wa2bZy803Ac=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WIUDZASLPFCKNCCPG3LIBMJGKA.jpeg",
+      "PublishedAt": "2024-02-15T15:17:07Z",
+      "Content": "El peso mexicano inicia la jornada aún en terreno de ganancias a medida que los operadores asimilan datos sobre la actividad económica en Estados Unidos, como las ventas al menudeo y las solicitudes … [+1657 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-02T14:01:06Z",
       "Content": "Este viernes 2 de febrero el precio del dólar en México es de $17,1335, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2293 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Criptonoticias.com"
-      },
-      "Author": "Glenda González",
-      "Title": "«El dólar se acabó como moneda de reserva mundial» y bitcoin surgirá, dice analista",
-      "Description": "Richard X. Bove, famoso analista financiero ya jubilado, predice la caída de la economía estadounidense. \nLeer más",
-      "Url": "https://www.criptonoticias.com/comunidad/dolar-moneda-reserva-mundial-bitcoin-richardbove/",
-      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2023/12/billetes-dolar-moneda-bitcoin.jpeg",
-      "PublishedAt": "2024-02-01T18:34:26Z",
-      "Content": "Hechos clave:\r\n<ul><li>Bove considera que bitcoin y las criptomonedas triunfarán en el mundo post-dólar. \r\n</li><li>El analista cree que China ocupará el lugar de Estados Unidos. \r\n</li></ul>\r\nRichar… [+3280 chars]"
     }
   ]
 }
