@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘llega cansado’ al viernes y cede frente al dólar: Se cotiza en 17.07 unidades",
+      "Description": "La depreciación de este viernes para el peso frene al dólar es de 0.16 por ciento o 2.73 centavos, respecto a su cierre anterior",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/16/peso-dolar-precio-hoy-16-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ymhOb1cz4pQFW034SKNsK5t_7W0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UNVRX7BFPJDJ5D6AJ5XZ4URRYI.jpg",
+      "PublishedAt": "2024-02-16T15:24:34Z",
+      "Content": "El pesoinicia la última sesión de la semana retrocediendo frente al dólar después de que la inflación al productor en Estados Unidos se aumentó en 0.3 por ciento a tasa mensual, siendo el mayor incre… [+1820 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 16 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 16 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-16-de-febrero-nid16022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-la-divisa-norteamericana-en-L7PPHIKKXZEJXIHFG3DU446BZQ.JPG?auth=b0e1b3ccb0aa2c76443024a0a162d15d1f7ec3165a732d5b22930d6c482ee27e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-16T15:19:14Z",
+      "Content": "Este viernes 16 de febrero, el precio del dólar en México es de $17,0680, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2227 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Así amanece el dólar: El peso sigue fuerte este viernes 16 de febrero",
+      "Description": "Todos los días se modifica el valor de la moneda estadounidense con relación al peso mexicano",
+      "Url": "https://www.record.com.mx/contra/asi-amanece-el-dolar-el-peso-sigue-fuerte-este-viernes-16-de-febrero",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/02/16/portada_dolar4.jpg",
+      "PublishedAt": "2024-02-16T15:17:18Z",
+      "Content": "Si tienes en mente cambiar tus pesos por dólares este viernes 16 de febrero, es buen momento debido a que la moneda nacional sigue ganando terreno.\r\nLa moneda nacional se recuperó quedando en 17.0557… [+672 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/DILaVcf7fMQ4GoOpsRZSUGWAxTQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EEPE5BLSJNDW3CFB5ROEEASPQY.jpg",
       "PublishedAt": "2024-02-05T16:23:03Z",
       "Content": "El peso mexicano inicia esta jornada de puente en México con pérdidas ante el dólar, luego de que Jerome Powell, presidente de la Fed, aseguró que casi todos los funcionarios del Banco Central estado… [+2262 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Cecilia Moya",
-      "Title": "El euro cae a niveles de noviembre en su 'batalla' contra el dólar",
-      "Description": "El enfriamiento que están experimentando los pronósticos de recortes de los tipos de interés en Estados Unidos, con una economía que avanza a buen ritmo y un mercado laboral fuerte, ya cotiza con fuerza en la divisa, con el euro dólar (que compara el valor de…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12658293/02/24/el-euro-cae-a-niveles-de-noviembre-en-su-batalla-contra-el-dolar.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/2119x1192/1/c/3/1200x655_dreamstime_m_20889355.jpg",
-      "PublishedAt": "2024-02-05T15:27:13Z",
-      "Content": "El enfriamiento que están experimentando los pronósticos de recortes de los tipos de interés en Estados Unidos, con una economía que avanza a buen ritmo y un mercado laboral fuerte, ya cotiza con fue… [+3024 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 5 de enero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 5 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-5-de-enero-nid05022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-cual-es-la-cotizacion-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-05T15:00:27Z",
-      "Content": "Este lunes 5 de febrero el precio del dólar en México es de $17,1335, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2186 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY lunes 5 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de febrero el tipo de cambio interbancario, se ubica en 17.15 pesos por unidad, con una ganancia del 0.09 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba …",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-5-febrero-2024-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
-      "PublishedAt": "2024-02-05T12:01:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de febrero el tipo de cambio interbancario, se ubica en 17.15 pesos por unidad, con una ganancia del 0.09 por cien… [+989 chars]"
     }
   ]
 }
