@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cnnchile.com"
+      },
+      "Author": "CNN Chile",
+      "Title": "Director de BeFX y la volatilidad del dólar: “El Banco Central tendrá la tarea difícil de bajar las tasas y en cuánto”",
+      "Description": "Sigue la actualidad a través del portal de noticias de CNN Chile.",
+      "Url": "https://www.cnnchile.com/programas-completos/banco-central-tasa-interes-volatilidad-dolar_20240216/",
+      "UrlToImage": "https://media.cnnchile.com/sites/2/2023/07/Dolar-CNN.png",
+      "PublishedAt": "2024-02-16T11:37:25Z",
+      "Content": "En una nueva edición de Agenda Económica, junto Orlando Silva, revisamos el análisis del director de BeFX, Rodrigo Castillo, sobre las proyecciones del dólar. “El Banco Central tendrá la tarea difíci… [+203 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-5.jpg",
       "PublishedAt": "2024-02-05T12:01:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 5 de febrero el tipo de cambio interbancario, se ubica en 17.15 pesos por unidad, con una ganancia del 0.09 por cien… [+989 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Los tamales ‘empanzonan’ al peso: Cae y se cotiza en las 17.13 unidades vs. el dólar",
-      "Description": "Por el resto del día, el tipo de cambio podría fluctuar entre las 17.05 y 17.20 unidades, añadieron expertos de CIBanco.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/02/peso-dolar-precio-hoy-2-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VCSQHXHon_XS_Z6sgTN2sDe83V0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YTAE4KHPOFDLVAFN2K66Y6VSHI.jpg",
-      "PublishedAt": "2024-02-02T16:49:39Z",
-      "Content": "¿Le cayeron mal los tamales al peso mexicano? La moneda abre la jornada de este 2 de febrero con pérdidas contra el dólar luego de que los datos de empleo en Estados Unidos mostraron que durante febr… [+1755 chars]"
     }
   ]
 }
