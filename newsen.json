@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Joel Rebello",
+      "Title": "If somebody wants a billion dollar cheque, we can do it: Yasuhiro Kubota, Asia Pacific Co-CEO, Mizuho Bank",
+      "Description": "Mizuho Bank, Japan's third-largest 'megabank', has made a significant investment in India, allowing it to create a lending capacity and support local Indian corporates. The bank specializes in loan against shares, promoter financing, and large ticket acquisit…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/if-somebody-wants-a-billion-dollar-cheque-we-can-do-it-yasuhiro-kubota-asia-pacific-co-ceo-mizuho-bank/articleshow/107804683.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-107801809,width-1200,height-630,imgsize-30708,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-02-18T18:54:07Z",
+      "Content": "Mizuho Bank, Japans third-largest megabank with close to $2 trillion in assets, made its biggest bet in India with a Rs 4,100-crore capital infusion in November and followed it up with a Rs 1,200-cro… [+5013 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/files/2024.01/article/65b904312030271ceb14e586.jpg",
       "PublishedAt": "2024-01-30T14:26:01Z",
       "Content": "The share of Russia’s settlements in national currencies with fellow BRICS countries has increased to 85%, up from just 26% two years ago, the head of the Russian central bank, Elvira Nabiullina, tol… [+1058 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "DAILY MAIL",
-      "Title": "Famed financial analyst Richard X. Bove predicts the fall of the US economy and says China will take over as the money superpower in his final forecast ahead of his retirement: 'The dollar is finished as the world's reserve currency'",
-      "Description": "The recently-retired banking oracle - who forecast the 2008 housing crisis - made the dramatic prediction this week.. Bove, 83, claimed other analysts won't make the same admission because they're 'monks praying to money' who rely on the mainstream financial …",
-      "Url": "https://freerepublic.com/focus/f-news/4213669/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2024-01-29T17:51:30Z",
-      "Content": "Skip to comments.\r\nFamed financial analyst Richard X. Bove predicts the fall of the US economy and says China will take over as the money superpower in his final forecast ahead of his retirement: 'Th… [+7052 chars]"
     }
   ]
 }
