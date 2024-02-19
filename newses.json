@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "Beltenebros",
+      "Title": "Еgipto adopta la moneda local y deja de utilizar oficialmente el dólar para el comercio[ENG]",
+      "Description": "El gobierno egipcio ha suspendido oficialmente el uso del dólar para el comercio. Este proyecto es parte de la estrategia de desdolarización los BRICS y Egipto es uno de los cinco países que aceptaron integrar la alianza en la cumbre de 2023.etiquetas: egipto…",
+      "Url": "https://www.meneame.net/m/actualidad/gipto-adopta-moneda-local-deja-utilizar-oficialmente-dolar-eng",
+      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
+      "PublishedAt": "2024-02-18T22:27:28Z",
+      "Content": "#2EEUU ya no está para \"democratizar\" a un país pobre y pequeño como Yemen, mucho menos a uno mucho más poblado cómo Egipto.El ocaso del imperio gringo es un hecho."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/cc9f324c-b635-43cb-9795-d8c8132e5326_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-02-05T16:43:40Z",
       "Content": "La Bolsa de Madrid. / EFE / Altea Tejido\r\nLa sesión bursátil de este 5 de febrero de 2024 se saldó con una caída del 1,20% hasta los 9.941,30 puntos del Ibex 35, lastrado por el varapalo recibido por… [+2157 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Dólar ‘agarra de bajada’ al peso en el ‘puente’ del 5 de febrero: Cotiza en las 17.22 unidades",
-      "Description": "Según cifras de Citibanamex, el dólar se vende en 17.59 pesos cada uno en ventanillas bancarias.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/05/peso-dolar-precio-hoy-5-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/DILaVcf7fMQ4GoOpsRZSUGWAxTQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EEPE5BLSJNDW3CFB5ROEEASPQY.jpg",
-      "PublishedAt": "2024-02-05T16:23:03Z",
-      "Content": "El peso mexicano inicia esta jornada de puente en México con pérdidas ante el dólar, luego de que Jerome Powell, presidente de la Fed, aseguró que casi todos los funcionarios del Banco Central estado… [+2262 chars]"
     }
   ]
 }
