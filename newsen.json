@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Instapundit.com"
+      },
+      "Author": "Robert Shibley",
+      "Title": "DUKE SETTLES MULTI-MILLION DOLLAR PRICE-FIXING LAWSUIT. Along with Brown, Columbia, Emory, and Yale.",
+      "Description": "DUKE SETTLES MULTI-MILLION DOLLAR PRICE-FIXING LAWSUIT. Along with Brown, Columbia, Emory, and Yale. Will it occur to anyone in academia that they are vulnerable to such settlements precisely because nobody would put it past them?",
+      "Url": "https://instapundit.com/632918/",
+      "UrlToImage": "https://instapundit.com/wp-content/themes/instapundit/images/opengraph-default.png",
+      "PublishedAt": "2024-02-19T16:48:45Z",
+      "Content": "DUKE SETTLES MULTI-MILLION DOLLAR PRICE-FIXING LAWSUIT. Along with Brown, Columbia, Emory, and Yale. Will it occur to anyone in academia that they are vulnerable to such settlements precisely because… [+30 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--AFvvB9fS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/02/su_wenqiang.png?itok=2TpE7pWi",
       "PublishedAt": "2024-01-31T03:26:45Z",
       "Content": "SINGAPORE: A man implicated in the billion-dollar money laundering probe involving suspects from China and luxurious property purchases has been handed fresh charges of lying to get work passes.\r\nThi… [+1357 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT",
-      "Title": "Russia’s non-dollar settlements within BRICS skyrocketing – central bank chief",
-      "Description": "Russia’s national currency settlements within BRICS have surged to 85% in two years, the head of the Russian central bank says Read Full Article at RT.com",
-      "Url": "https://www.rt.com/business/591545-russia-brics-non-dollar-payments/",
-      "UrlToImage": "https://mf.b37mrtl.ru/files/2024.01/article/65b904312030271ceb14e586.jpg",
-      "PublishedAt": "2024-01-30T14:26:01Z",
-      "Content": "The share of Russia’s settlements in national currencies with fellow BRICS countries has increased to 85%, up from just 26% two years ago, the head of the Russian central bank, Elvira Nabiullina, tol… [+1058 chars]"
     }
   ]
 }
