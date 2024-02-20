@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 19 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 19 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-19-de-febrero-nid19022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-hoy-YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-19T15:04:09Z",
+      "Content": "Este lunes 19 de febrero, el precio del dólar en México es de $17,0602, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2389 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
       "PublishedAt": "2024-02-06T12:02:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de febrero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una perdida del 0.11 por cient… [+1114 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Eduardo López Alonso",
-      "Title": "La bolsa y la vida: Recorte, varapalo al Santander y dólar en observación",
-      "Description": "La sesión bursátil de este 5 de febrero de 2024 se saldó con una caída del 1,20% hasta los 9.941,30 puntos del Ibex 35, lastrado por el varapalo recibido por Santander. Sus acciones se dejaron un 5% en su peor jornada en diez meses, con los analistas en alert…",
-      "Url": "https://www.elperiodico.com/es/opinion/20240205/bolsa-vida-varapalo-santander-comentario-bursatil-5-febrero-2024-97790845",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/cc9f324c-b635-43cb-9795-d8c8132e5326_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-02-05T16:43:40Z",
-      "Content": "La Bolsa de Madrid. / EFE / Altea Tejido\r\nLa sesión bursátil de este 5 de febrero de 2024 se saldó con una caída del 1,20% hasta los 9.941,30 puntos del Ibex 35, lastrado por el varapalo recibido por… [+2157 chars]"
     }
   ]
 }
