@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso le ‘respira en la nuca’ al piso de las 17 unidades vs. el dólar: Así cotiza este martes",
+      "Description": "En ventanillas bancarias, el dólar se vende en 17.46 pesos cada uno, de acuerdo con datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/20/peso-dolar-precio-hoy-20-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/vRgsrNDeuff3qUUbzydiV3fkfPQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HYFXV7BWH5E3TBYI5EQHYLOT3A.jpg",
+      "PublishedAt": "2024-02-20T15:43:50Z",
+      "Content": "Después de un lunes en el que estuvo dormido, el peso mexicano abre este 20 de febrero con avances ante un debilitamiento del dólar, a medida que se restablece el volumen de operación en los mercados… [+2122 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/TDzrLOKWSOrvtgqnDDk-B-ibd6c=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3UVVFQ7LAFENNBGWNTLQRJ4M54.jpg",
       "PublishedAt": "2024-02-06T16:09:03Z",
       "Content": "El peso mexicano inició este 6 de febrero acercándose al piso de las 17 unidades gracias al bajón que el dólar está sufriendo después de haberse ubicado en su nivel más elevado desde diciembre pasado… [+1463 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, martes 6 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 6 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-6-de-febrero-nid06022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-06T14:16:29Z",
-      "Content": "Este martes 6 de febrero el precio del dólar en México es de $17,1447, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2280 chars]"
     }
   ]
 }

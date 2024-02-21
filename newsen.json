@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DailyFX"
+      },
+      "Author": "Richard Snow",
+      "Title": "Central Bank Speakers in the Limelight and a Softer Dollar Props up Gold",
+      "Description": "The Bank of England's Monetary Policy Committee faced questions around the economic outlook and inflation. The recent USD decline has buoyed gold's recovery",
+      "Url": "https://www.dailyfx.com/analysis/central-bank-speakers-in-the-limelight-and-a-softer-dollar-props-up-gold-20240220.html",
+      "UrlToImage": "https://a.c-dn.net/b/1hJUKp/Copy+of+DFX+UPDATED+THUMBNAILS+%2842%29.jpg",
+      "PublishedAt": "2024-02-20T15:30:45Z",
+      "Content": "(AI Video Summary)\r\nRepresentatives from the Bank of England recently went before a parliamentary committee to talk about their outlook for the economy and inflation. They were divided on whether to … [+2128 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.amazonaws.com/images.investorsobserver.com/io-logo-800x450.jpg",
       "PublishedAt": "2024-01-31T13:04:00Z",
       "Content": "2023 Inaugural Conference Facilitated a Strategic Global Conversation on the Evolving Digital Infrastructure Landscape\r\nWASHINGTON\r\n,\r\nJan. 31, 2024\r\n/PRNewswire/ -- The\r\nDigital Dollar Project\r\n(\"DD… [+3202 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering probe: Man accused of lying to get work passes for himself and his wife",
-      "Description": "The latest charges were handed to Su Wenqiang just two days after he received fresh money-laundering charges involving S$477,000.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-su-wen-qiang-charged-lie-work-passes-wife-4087471",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--AFvvB9fS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/02/su_wenqiang.png?itok=2TpE7pWi",
-      "PublishedAt": "2024-01-31T03:26:45Z",
-      "Content": "SINGAPORE: A man implicated in the billion-dollar money laundering probe involving suspects from China and luxurious property purchases has been handed fresh charges of lying to get work passes.\r\nThi… [+1357 chars]"
     }
   ]
 }
