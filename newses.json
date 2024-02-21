@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La moneda de 25 centavos de dólar de “doble cara” que podría valer miles, pero esconde un peligro",
+      "Description": "En el mundo de la numismática es común que farsantes fabriquen piezas con supuestos detalles únicos, pero que en realidad buscan vender a precios exorbitantes",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-25-centavos-de-dolar-de-doble-cara-que-podria-valer-miles-pero-esconde-un-peligro-nid20022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/una-moneda-de-doble-cara-pretendia-lucir-como-una-7YYMDH2KERGELAR4HA7KKA6DBI.jpg?auth=68cb7be5c3644f6e13471c3d2e86a6a5fec2288f73001bbf533f40fe62363adb&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-20T22:19:50Z",
+      "Content": "Una mujer, curiosa con el tema de las monedas peculiares, compartió en sus redes sociales un hallazgo especial: una pieza de 25 centavos con dos caras, una rareza que podría atraer a los coleccionist… [+2511 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-02-07T10:31:36Z",
       "Content": "Periódico La JornadaMiércoles 7 de febrero de 2024, p. 22\r\nTras el feriado por la conmemoración del aniversario de la Constitución de 1917 y después de que el presidente Andrés Manuel López Obrador p… [+3012 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso viene ‘rudo’ después del ‘puente’: Se acerca al piso de las 17 unidades vs. el dólar",
-      "Description": "El dólar mantiene su precio y se vende en 17.47 pesos cada uno en los bancos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/06/peso-dolar-precio-hoy-6-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/TDzrLOKWSOrvtgqnDDk-B-ibd6c=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3UVVFQ7LAFENNBGWNTLQRJ4M54.jpg",
-      "PublishedAt": "2024-02-06T16:09:03Z",
-      "Content": "El peso mexicano inició este 6 de febrero acercándose al piso de las 17 unidades gracias al bajón que el dólar está sufriendo después de haberse ubicado en su nivel más elevado desde diciembre pasado… [+1463 chars]"
     }
   ]
 }
