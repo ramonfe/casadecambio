@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 20 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 20 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-20-de-febrero-nid20022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-el-M2C3LF6PE5CSNH6XMJ3RGE2NII.JPG?auth=cddfb28c0fb229e889bd7393eecb5b7c32c004599e181a0c58900d1cd16ef6cc&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-20T14:51:23Z",
+      "Content": "Este martes 20 de febrero, el precio del dólar en México es de $17,0500, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2605 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-06T14:16:29Z",
       "Content": "Este martes 6 de febrero el precio del dólar en México es de $17,1447, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2280 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY martes 6 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de febrero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una perdida del 0.11 por ciento, según datos de Bloomberg.El peso mexicano se depreciaba a…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-6-febrero-2024-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/14/asi-se-compra-y-vende-6.jpg",
-      "PublishedAt": "2024-02-06T12:02:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 6 de febrero el tipo de cambio interbancario, se ubica en 17.09 pesos por unidad, con una perdida del 0.11 por cient… [+1114 chars]"
     }
   ]
 }
