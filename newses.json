@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Peso mexicano se aprecia 0.05% frente al dólar al cierre del miércoles",
+      "Description": "El peso mexicano se apreció 0.05 por ciento frente al precio de referencia del martes, cotizando en 17.03 unidades por cada dólar estadunidense al cierre de mercados del miércoles 21 de febrero de 2024.La divisa nacional avanzó ligeramente en un mercado caute…",
+      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-miercoles-21-de-febrero-de-2024-peso-cierra-en-17-03",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/09/02/mexico-cae-divisas-turisticas-pese.jpg",
+      "PublishedAt": "2024-02-21T22:43:00Z",
+      "Content": "El peso mexicano se apreció 0.05 por ciento frente al precio de referencia del martes, cotizando en 17.03 unidades por cada dólar estadunidense al cierre de mercados del miércoles 21 de febrero de 20… [+856 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-07T17:52:11Z",
       "Content": "Este miércoles 7 de febrero el precio del dólar en México es de $17,0357, según lo anuncia Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2200 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se estira’, pero no llega a las 16 unidades vs. el dólar: Así se cotiza este miércoles",
-      "Description": "La apreciación del peso mexicano contra el dólar, por ahora, es ínfima, de acuerdo con datos de Bloomberg.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/07/peso-dolar-precio-hoy-7-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ymhOb1cz4pQFW034SKNsK5t_7W0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UNVRX7BFPJDJ5D6AJ5XZ4URRYI.jpg",
-      "PublishedAt": "2024-02-07T15:50:17Z",
-      "Content": "El peso mexicano se estira este 7 de febrero muy poco hacia el piso de las 16 unidades contra el dólar, mientras el mercado espera la primera decisión de política monetaria del Banco de México (Banxi… [+1554 chars]"
     }
   ]
 }
