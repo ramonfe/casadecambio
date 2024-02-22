@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 21 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 21 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-21-de-febrero-nid21022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-DXDAUQSGSNB6NDQZ7DTAHX67KI.JPG?auth=ea04eda5f51559cc6c7234a2a98eb4582b0958883841c9b4c5b08b9dd7800739&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-21T15:07:45Z",
+      "Content": "Este miércoles 21 de febrero, el precio del dólar en México es de $17,0458, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2319 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-02-07T12:02:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 7 de febrero el tipo de cambio interbancario, se ubica en 17.04 pesos por unidad, con una ganancia del 0.06 por cien… [+964 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso, cerca de romper la barrera de 17 por dólar",
-      "Description": "Tras el feriado por la conmemoración del aniversario de la Constitución de 1917 y después de que el presidente Andrés Manuel López Obrador presentó una serie de iniciativas al Congreso en la recta final de su administración, los mercados financieros registrar…",
-      "Url": "https://www.jornada.com.mx/2024/02/07/economia/022n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-02-07T10:31:36Z",
-      "Content": "Periódico La JornadaMiércoles 7 de febrero de 2024, p. 22\r\nTras el feriado por la conmemoración del aniversario de la Constitución de 1917 y después de que el presidente Andrés Manuel López Obrador p… [+3012 chars]"
     }
   ]
 }
