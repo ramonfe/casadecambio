@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Dodbuzz.com"
+      },
+      "Author": "Alexis Alden",
+      "Title": "Dollar To Naira Bank Rate Today: Check Information On Pounds And Cbn Exchange Value",
+      "Description": "Learn about Naira's journey resembling roller-coasters, navigating fluctuating markets, political uncertainties, economic turbulence, and shifts of Pounds, Cbn Exchange value, and Dollar to Naira Bank Rate Today!\r\nThe fall of Naira currency in 2024 may stem f…",
+      "Url": "https://dodbuzz.com/dollar-to-naira-bank-rate-today/",
+      "UrlToImage": "https://dodbuzz.com/wp-content/uploads/2024/02/Latest-News-Dollar-To-Naira-Bank-Rate-Today.jpg",
+      "PublishedAt": "2024-02-22T12:22:48Z",
+      "Content": "Learn about Naira’s journey resembling roller-coasters, navigating fluctuating markets, political uncertainties, economic turbulence, and shifts of Pounds, Cbn Exchange value, and Dollar to Naira Ban… [+4973 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/65bd33290fc5f6bf836d428f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "PublishedAt": "2024-02-02T18:25:31Z",
       "Content": "Former President Donald Trump expressed heavy skepticism about the security of a central bank digital currency (CBDC), which he has vowed to block, in an interview released Friday, though he personal… [+4057 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Chicago Tribune"
-      },
-      "Author": "Jason Meisner",
-      "Title": "Ex-city official gets 18 months in prison for role concealing multimillion-dollar embezzlement scheme that led to Bridgeport Bank collapse",
-      "Description": "A former high-ranking city official was sentenced to 18 months in prison Wednesday for helping to conceal a multiyear embezzlement scheme that led to the failure of Washington Federal Bank for Savings",
-      "Url": "https://www.chicagotribune.com/news/criminal-justice/ct-william-mahon-chicago-sentencing-washington-federal-bank-fraud-20240131-7wrpg7sa5rfctfpradmkenjpj4-story.html",
-      "UrlToImage": "https://www.chicagotribune.com/resizer/DUbo_rL2UVy3qHzrMaV52Yb1rDk=/1200x630/filters:format(jpg):quality(70):focal(2035x845:2045x855)/cloudfront-us-east-1.images.arcpublishing.com/tronc/25CTEARH25DKDPQDKSKSL532OQ.JPG",
-      "PublishedAt": "2024-01-31T18:45:50Z",
-      "Content": "A former high-ranking city official was sentenced to 18 months in prison Wednesday for helping to conceal a multiyear embezzlement scheme that led to the failure of Washington Federal Bank for Saving… [+5577 chars]"
     }
   ]
 }
