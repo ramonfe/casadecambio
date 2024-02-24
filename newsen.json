@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CryptoGlobe"
+      },
+      "Author": "CryptoGlobe Writer",
+      "Title": "Bitcoin Eyes ‘Untapped Half-Trillion Dollar Opportunity’ in Decentralized Finance, Pantera Capital Says",
+      "Description": "The flagship cryptocurrency Bitcoin ($BTC) could be on the cusp of unlocking a massive $500 billion opportunity in the rapidly expanding decentralized finance (DeFi) sector, according to a partner with leading cryptocurrency hedge fund Pantera Capital. As rep…",
+      "Url": "https://www.cryptoglobe.com/latest/2024/02/bitcoin-eyes-untapped-half-trillion-dollar-opportunity-in-decentralized-finance-pantera-capital-says/",
+      "UrlToImage": "https://media.cryptoglobe.com/2022/03/dmitry-demidko-OG3A-ilG8AY-unsplash-768x512.jpg",
+      "PublishedAt": "2024-02-23T04:40:00Z",
+      "Content": "The flagship cryptocurrency Bitcoin ($BTC) could be on the cusp of unlocking a massive $500 billion opportunity in the rapidly expanding decentralized finance (DeFi) sector, according to a partner wi… [+2440 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://uproxx.com/wp-content/uploads/2024/01/cheap_flights710x400.jpg?w=710",
       "PublishedAt": "2024-02-02T19:47:51Z",
       "Content": "Its very rare that someone doesnt want to travel. In fact, Ive never met anyone whos just like, No thanks. I dont need to see any more of the world. I’m good right here. And if I did, Im honestly not… [+10735 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-      "Title": "Trump Calls Central Bank Digital Currency ‘Very Dangerous’—After Vowing To Prohibit Fed’s ‘Digital Dollar’",
-      "Description": "Trump owns $3 million in cryptocurrency and has a line of NFTs.",
-      "Url": "https://www.forbes.com/sites/saradorn/2024/02/02/trump-calls-central-bank-digital-currency-very-dangerous-after-vowing-to-prohibit-feds-digital-dollar/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/65bd33290fc5f6bf836d428f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "PublishedAt": "2024-02-02T18:25:31Z",
-      "Content": "Former President Donald Trump expressed heavy skepticism about the security of a central bank digital currency (CBDC), which he has vowed to block, in an interview released Friday, though he personal… [+4057 chars]"
     }
   ]
 }
