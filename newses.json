@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 23 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 23 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-23-de-febrero-nid23022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-23-de-febrero-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-23T15:48:17Z",
+      "Content": "Este viernes 23 de febrero, el precio del dólar en México es de $17,1210, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2606 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-9-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-09T16:11:27Z",
       "Content": "Este viernes 9 de febrero, el precio del dólar en México es de $17,1023, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2463 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, jueves 8 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 8 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-8-de-febrero-nid08022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-8-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-08T16:51:30Z",
-      "Content": "Este jueves 8 de febrero el precio del dólar en México es de $17,0398, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2163 chars]"
     }
   ]
 }
