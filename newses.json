@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencialdigital.com"
+      },
+      "Author": "Agencias",
+      "Title": "El euro enlaza ocho sesiones al alza respecto al dólar, con una subida acumulada del 1,1%",
+      "Description": "MADRID, 23 (EUROPA PRESS) El euro enlazaba este viernes y de manera provisional ocho sesiones al alza respecto al dólar con una subida acumulada del 1,1%, a 1,0825 dólares -si bien ayer llegó a aproximarse a los 1,09 dólares-, recuperando...",
+      "Url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/euro-enlaza-sesiones-alza-respecto-dolar-subida-acumulada-11/20240223180252729942.html",
+      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/02/23/2024022318024930995.jpg",
+      "PublishedAt": "2024-02-23T18:02:52Z",
+      "Content": "MADRID, 23 (EUROPA PRESS)\r\n El euro enlazaba este viernes y de manera provisional ocho sesiones al alza respecto al dólar con una subida acumulada del 1,1%, a 1,0825 dólares -si bien ayer llegó a apr… [+2909 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RU7ll-ccv-xZ1fTNjMjOIThmCRg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CTIML5QO2NH3BJNLNOQXIRKKZI.jpg",
       "PublishedAt": "2024-02-09T16:23:03Z",
       "Content": "El peso mexicano está en modo fortachón y aumenta sus ganancias ante un debilitamiento generalizado del dólar y tras la primera decisión del año de política monetaria del Banco de México. \r\nDe acuerd… [+1620 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuanto cotiza la moneda hoy, viernes 9 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 9 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-9-de-febrero-nid09022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-viernes-9-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-09T16:11:27Z",
-      "Content": "Este viernes 9 de febrero, el precio del dólar en México es de $17,1023, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2463 chars]"
     }
   ]
 }
