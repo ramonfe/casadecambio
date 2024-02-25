@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "9 Dollar Tree Buys Redditors Swear By To Save Money",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a3ce3d41-1efb-4bd9-968e-4b6733bc7624",
+      "UrlToImage": null,
+      "PublishedAt": "2024-02-24T12:01:22Z",
+      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/fdic-dollar-bank.jpg",
       "PublishedAt": "2024-02-03T21:04:07Z",
       "Content": "A Los Angeles-based lender known as the ‘bank to the stars’ will pay a $65 million fine for a number of violations, including failure to follow the Bank Secrecy Act.\r\nThe Office of the Comptroller of… [+1531 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "UPROXX"
-      },
-      "Author": "MelanieGordon",
-      "Title": "Make Your Money Count: How To Travel In Places Where Your Dollar Goes A Long Way",
-      "Description": "Uproxx\r\n\nHow to make your money count while traveling in places where your dollar goes a long way.",
-      "Url": "https://uproxx.com/life/best-budget-travel-destinations-2024/",
-      "UrlToImage": "https://uproxx.com/wp-content/uploads/2024/01/cheap_flights710x400.jpg?w=710",
-      "PublishedAt": "2024-02-02T19:47:51Z",
-      "Content": "Its very rare that someone doesnt want to travel. In fact, Ive never met anyone whos just like, No thanks. I dont need to see any more of the world. I’m good right here. And if I did, Im honestly not… [+10735 chars]"
     }
   ]
 }
