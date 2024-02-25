@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Óscar Rodríguez",
+      "Title": "¿Qué pasa con el tipo de cambio? 5 economistas analizan en foro de ‘La Nación’ las razones detrás de la baja en el dólar",
+      "Description": "Cinco especialistas comentaron en un foro de ‘La Nación’ los efectos de la apreciación del colón sobre hogares, empresas, competitividad y producción",
+      "Url": "https://www.nacion.com/economia/politica-economica/que-pasa-con-el-tipo-de-cambio-5-economistas/RX7E5MMEQJFK3N4FQRXESZMNN4/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/BT9tS7U_PAf_DC3FwMNAleFjW2I=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/F27XW7XLTNAIDIEOYYPBUOKJOU.JPG",
+      "PublishedAt": "2024-02-23T23:46:10Z",
+      "Content": "La abundancia de dólares en Costa Rica tiene entre sus principales fuentes las mayores exportaciones de bienes y servicios, el turismo, la inversión extranjera directa (IED) y el mayor endeudamiento … [+4707 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-sigue-sumando-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-09T20:37:49Z",
       "Content": "El Banco Central (BCRA) realizó hoy una de las más importantes compra de reservas mediante intervenciones sobre el mercado cambiario oficial del mes al quedarse con otros US$167 millones (mismo monto… [+2828 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso va ‘paso a pasito’ hacia el terreno de las 16 unidades gracias a ‘bajón’ del dólar",
-      "Description": "En bancos, el dólar se vende en 17.55 pesos cada uno, según los datos más recientes de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/09/peso-dolar-precio-hoy-9-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RU7ll-ccv-xZ1fTNjMjOIThmCRg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CTIML5QO2NH3BJNLNOQXIRKKZI.jpg",
-      "PublishedAt": "2024-02-09T16:23:03Z",
-      "Content": "El peso mexicano está en modo fortachón y aumenta sus ganancias ante un debilitamiento generalizado del dólar y tras la primera decisión del año de política monetaria del Banco de México. \r\nDe acuerd… [+1620 chars]"
     }
   ]
 }
