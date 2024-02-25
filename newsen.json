@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "JPMorgan Chase Customer Furious After $49,500 Drained From Bank Account – Victim Says Trillion-Dollar Lender Was Alerted Immediately, Failed Miserably",
+      "Description": "A JPMorgan Chase customer who watched tens of thousands of dollars exit her account says she’s more upset with the bank than the scammers who made her a target. Kristal Kuhn in San Diego says she recently received a phone call from someone pretending to work …",
+      "Url": "https://dailyhodl.com/2024/02/24/jpmorgan-chase-customer-furious-after-49500-drained-from-bank-account-victim-says-trillion-dollar-lender-was-alerted-immediately-failed-miserably/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/02/jpmorgan-chase-banks.jpg",
+      "PublishedAt": "2024-02-24T16:33:40Z",
+      "Content": "A JPMorgan Chase customer who watched tens of thousands of dollars exit her account says she’s more upset with the bank than the scammers who made her a target.\r\nKristal Kuhn in San Diego says she re… [+2145 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-02-05T01:00:08Z",
       "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Billion-Dollar Bank Pays $65,000,000 Fine, Faces Cease-and-Desist Order After Violating Bank Secrecy Act, Deploying Poor Risk Management",
-      "Description": "A Los Angeles-based lender known as the ‘bank to the stars’ will pay a $65 million fine for a number of violations, including failure to follow the Bank Secrecy Act. The Office of the Comptroller of the Currency (OCC) says City National Bank engaged in “unsaf…",
-      "Url": "https://dailyhodl.com/2024/02/03/billion-dollar-bank-pays-65000000-fine-faces-cease-and-desist-order-after-violating-bank-secrecy-act-deploying-poor-risk-management/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/09/fdic-dollar-bank.jpg",
-      "PublishedAt": "2024-02-03T21:04:07Z",
-      "Content": "A Los Angeles-based lender known as the ‘bank to the stars’ will pay a $65 million fine for a number of violations, including failure to follow the Bank Secrecy Act.\r\nThe Office of the Comptroller of… [+1531 chars]"
     }
   ]
 }
