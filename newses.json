@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Precio del dólar HOY 26 de febrero de 2024: Peso avanza a la espera de datos sobre economía de EU",
+      "Description": "Al iniciar operaciones HOY 26 de febrero, eldólarse vendía hasta en 18.10 pesos en ventanilla en bancos. En tanto, el tipo de banco interbancario cotiza en 17.09 pesos por billete verde, con una ganancia del 0.09 por ciento frente al precio de referencia de d…",
+      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-febrero-2024-en-mexico-tipo-de-cambio",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
+      "PublishedAt": "2024-02-26T12:13:00Z",
+      "Content": "Al iniciar operaciones HOY 26 de febrero, el dólar se vendía hasta en 18.10 pesos en ventanilla en bancos. En tanto, el tipo de banco interbancario cotiza en 17.09 pesos por billete verde, con una ga… [+4283 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-02-10T08:45:10Z",
       "Content": "Periódico La JornadaSábado 10 de febrero de 2024, p. 16\r\nEl peso subió ayer ante un retroceso global del dólar, después que una revisión de las cifras de inflación en Estados Unidos mantuvo intactas … [+2453 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central compró otros US$167 millones y suma casi US$7000 millones en la “era Milei”",
-      "Description": "La entidad que conduce Santiago Bausili aprovechó la mayor oferta ante el fin de semana extra largo",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-compro-otros-us167-millones-y-suma-casi-us7000-millones-en-la-era-milei-nid09022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-sigue-sumando-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-09T20:37:49Z",
-      "Content": "El Banco Central (BCRA) realizó hoy una de las más importantes compra de reservas mediante intervenciones sobre el mercado cambiario oficial del mes al quedarse con otros US$167 millones (mismo monto… [+2828 chars]"
     }
   ]
 }
