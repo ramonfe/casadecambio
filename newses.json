@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso anda ‘medio dormido’ contra el dólar: Se cotiza en las 17.13 unidades",
+      "Description": "En tanto, en ventanillas bancarias el precio del billete verde es de 17.57 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/26/peso-dolar-precio-hoy-26-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/FD4C6iTHuMo26Xj7PSdQfzal1UM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PB4CTTXX5FEYVAGE4ULHHLNTHA.jpg",
+      "PublishedAt": "2024-02-26T16:18:30Z",
+      "Content": "El peso mexicano arranca la última semana de febrero en el terreno de las ganancias ante un debilitamiento del dólar, a medida que los operadores están a la espera de mayores catalizadores económicos… [+1474 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-12T13:50:30Z",
       "Content": "Este lunes 12 de febrero el precio del dólar en México es de $17,0855, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2287 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY lunes 12 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones HOY 9 de febrero el tipo de cambio interbancario, se ubica en 17.05 pesos por unidad, con una pérdida del 0.18 por ciento, según datos de Bloomberg.El peso mexicano se apreciaba el…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-12-febrero-2024-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-02-12T12:11:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones HOY 9 de febrero el tipo de cambio interbancario, se ubica en 17.05 pesos por unidad, con una pérdida del 0.18 por cient… [+928 chars]"
     }
   ]
 }
