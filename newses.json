@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 26 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 26 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-26-de-febrero-nid26022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-26T15:13:49Z",
+      "Content": "Este lunes 26 de febrero, el precio del dólar en México es de $17,1260, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2297 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/28/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-02-12T12:11:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones HOY 9 de febrero el tipo de cambio interbancario, se ubica en 17.05 pesos por unidad, con una pérdida del 0.18 por cient… [+928 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Toma de ganancias frena avance de la BMV; el peso gana terreno al dólar",
-      "Description": "El peso subió ayer ante un retroceso global del dólar, después que una revisión de las cifras de inflación en Estados Unidos mantuvo intactas las perspectivas de que la Reserva Federal (Fed) esperaría un poco más de lo previsto por los operadores de mercados …",
-      "Url": "https://www.jornada.com.mx/2024/02/10/economia/016n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-02-10T08:45:10Z",
-      "Content": "Periódico La JornadaSábado 10 de febrero de 2024, p. 16\r\nEl peso subió ayer ante un retroceso global del dólar, después que una revisión de las cifras de inflación en Estados Unidos mantuvo intactas … [+2453 chars]"
     }
   ]
 }
