@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 27 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 27 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-27-de-febrero-nid27022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-blue-hoy-a-cuanto-cotiza-el-viernes-22-de-RPZWWV2JTZDHBCO64WO7FOVHB4.jpg?auth=acc0c1137058154e545deda12462ec7a9c4a004c40766dd2ee870ae286fc6afc&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-27T14:37:27Z",
+      "Content": "Este martes 27 de febrero, el precio del dólar en México es de $17,1260, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2415 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/17/tipo-de-cambio-peso-dolar-1.jpg",
       "PublishedAt": "2024-02-13T12:17:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 13 de febrero el tipo de cambio interbancario, se ubica en 17.08 pesos por unidad, con una leve ganancia del 0.02 po… [+931 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 12 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 12 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-12-de-febrero-nid12022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-12T13:50:30Z",
-      "Content": "Este lunes 12 de febrero el precio del dólar en México es de $17,0855, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2287 chars]"
     }
   ]
 }
