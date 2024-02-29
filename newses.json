@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso va pa’trás contra el dólar: Se cotiza en las 17.05 unidades",
+      "Description": "El dólar se vende en un precio de 17.56 pesos cada uno, de acuerdo con los datos reportados por Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/28/peso-va-patras-contra-el-dolar-se-cotiza-en-las-1705-unidades/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/2T5CHswHEyWtoFuP_dBKoaRwon4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GQOOSHJPE5BBPLCPXZ2MYEMRWM.jpg",
+      "PublishedAt": "2024-02-28T16:13:12Z",
+      "Content": "El peso mexicano se atasca en el terreno de las pérdidas ante el dólar, esto después de que el billete verde se fortaleció después de que revisó al alza el crecimiento de la economía de EU en 2023, q… [+1538 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-02-14T11:59:00Z",
       "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de febrero el tipo de cambio interbancario, se ubica en 17.14 pesos por unidad, con una perdida del 0.05 por cien… [+918 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Inflación de EU se ‘descuenta’ al peso: Cae y se cotiza en las 17.20 unidades ante el dólar",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.62 pesos por cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/13/peso-dolar-precio-hoy-13-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/i_CaIRSZLGbkN-3Tv4Nq9FO9KbQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/35FZS76ZNJDV7OQOPJZ23POZKE.jpg",
-      "PublishedAt": "2024-02-13T15:58:32Z",
-      "Content": "El peso mexicano está teniendo su martes 13 con una fuerte caída ante el dólar después de que el dato de inflación en Estados Unidos fue más alto de lo esperado por especialistas.\r\nLa moneda mexicana… [+1658 chars]"
     }
   ]
 }
