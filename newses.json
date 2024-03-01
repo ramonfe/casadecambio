@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Día bisiesto le da ‘suerte’ al peso: Se cotiza en las 17.05 unidades vs. el dólar",
+      "Description": "El dólar muestra pocos cambios después de que el mercado da por descontado que el recorte de la Reserva Federal vendrá pero hasta julio.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/29/peso-dolar-precio-hoy-29-de-febrero-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/HiFd5F0wqWeCzllSXgCIN1fh4O4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4CMQOMSERVC53LI6TVONXQJQEI.jpg",
+      "PublishedAt": "2024-02-29T16:01:09Z",
+      "Content": "En el mercado cambiario, el peso mexicano busca retomar ganancias, a medida que los inversionistas asimilan el dato del índice de precios de gasto de consumo personal (PCE) en Estados Unidos y espera… [+1425 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 29 de febrero",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 29 de febrero",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-29-de-febrero-nid29022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-KX6A5FUNJJAMNPOYPZU24HBJNE.JPG?auth=f394b3181223872f44410ea95c5f95a888fb6e37f59de389244d37aa551270ff&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-29T15:01:27Z",
+      "Content": "Este jueves 29 de febrero, el precio del dólar en México es de $17,0680, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2285 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
       "PublishedAt": "2024-02-14T22:20:00Z",
       "Content": "El peso y la Bolsa Mexicana de Valores (BMV) avanzaron este miércoles ante un declive global del dólar, mientras los inversionistas continúan en búsqueda de pistas sobre el momento en que la Reserva … [+1670 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 14 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 14 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-14-de-febrero-nid14022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-14T15:41:18Z",
-      "Content": "Este miércoles 14 de febrero, el precio del dólar en México es de $17,1982, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2238 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY miércoles 14 de febrero de 2024: ¿Cuál es el tipo de cambio en México?",
-      "Description": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de febrero el tipo de cambio interbancario, se ubica en 17.14 pesos por unidad, con una perdida del 0.05 por ciento, según datos de Bloomberg.El peso mexicano se deprecia an…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-14-febrero-2024-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/14/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-02-14T11:59:00Z",
-      "Content": "Si te preguntas a cuánto está el dólar, debes saber que al iniciar operaciones hoy 14 de febrero el tipo de cambio interbancario, se ubica en 17.14 pesos por unidad, con una perdida del 0.05 por cien… [+918 chars]"
     }
   ]
 }
