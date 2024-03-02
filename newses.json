@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "Febrero cierra el mes con el peso favorable y con ganancias ante el dólar",
+      "Description": "Compra no avanza de los 17 pesos, mientras que la venta la más alta está en 17.94 pesos",
+      "Url": "https://www.record.com.mx/contra/febrero-cierra-el-mes-con-el-peso-favorable-y-con-ganancias-ante-el-dolar",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/02/29/dolarpeso.jpg",
+      "PublishedAt": "2024-03-01T00:54:26Z",
+      "Content": "La moneda mexicana y la bolsa avanzaron el jueves luego de la publicación de un dato clave de inflación en Estados Unidos, que coincidió con las expectativas de los especialistas de CIBanco informaro… [+1819 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240214/imag/foto_0000000220240214200158/consejo-banco-central-nuevo.jpg",
       "PublishedAt": "2024-02-15T07:00:00Z",
       "Content": "Desde la última Reunión de Política Monetaria (RPM) -realizada el 30 y 31 de enero- el dólar ha escalado casi $ 40, incluso sobrepasando los $ 970, pese a que la jornada de este miércoles cerró en $ … [+4262 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso y BMV avanzan ante debilitamiento global del dólar",
-      "Description": "Forbes México.\n Peso y BMV avanzan ante debilitamiento global del dólar\n\nInversionistas siguen en la búsqueda de pistas sobre el momento en que la Fed comenzaría a recortar su tasa de interés de referencia.\nPeso y BMV avanzan ante debilitamiento global del dó…",
-      "Url": "https://www.forbes.com.mx/peso-y-bmv-avanzan-ante-debilitamiento-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
-      "PublishedAt": "2024-02-14T22:20:00Z",
-      "Content": "El peso y la Bolsa Mexicana de Valores (BMV) avanzaron este miércoles ante un declive global del dólar, mientras los inversionistas continúan en búsqueda de pistas sobre el momento en que la Reserva … [+1670 chars]"
     }
   ]
 }
