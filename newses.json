@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "El Banco Central arrancó marzo pisando más el dólar y rebotaron los futuros en la previa al discurso de Milei",
+      "Description": "La entidad, que compró US$68 millones para sus reservas, dejó subir apenas $0,30 el mayorista; fuertes alzas sobre el cierre en el Matba Rofex",
+      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-arranco-marzo-pisando-mas-el-dolar-y-rebotaron-los-futuros-en-la-previa-al-discurso-nid01032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/los-movimientos-del-dolar-en-la-jornada-volvieron-ID6HUWFYURE7DAURXPDYDJ2PBE.JPG?auth=29282e7adf6f5c48c4ef1a579eb141eb9494e84b7fb0d1b2d9db3357fd21d204&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-01T20:39:58Z",
+      "Content": "El Banco Central (BCRA) retomó hoy la compra de reservas, aunque reduciendo notablemente su nivel de retención en relación al total de dólares operados de contado por la plaza oficial, al quedarse co… [+3655 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-la-divisa-norteamericana-en-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-15T17:23:43Z",
       "Content": "Este jueves 15 de febrero, el precio del dólar en México es de $17,1105, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2587 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Todo es color rosa para el peso: Se aprecia frente al dólar y abre en 17.07 unidades",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.52 pesos por cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/15/peso-dolar-precio-hoy-15-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/zRspr2-ZfNHAHnk5Wa2bZy803Ac=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WIUDZASLPFCKNCCPG3LIBMJGKA.jpeg",
-      "PublishedAt": "2024-02-15T15:17:07Z",
-      "Content": "El peso mexicano inicia la jornada aún en terreno de ganancias a medida que los operadores asimilan datos sobre la actividad económica en Estados Unidos, como las ventas al menudeo y las solicitudes … [+1657 chars]"
     }
   ]
 }
