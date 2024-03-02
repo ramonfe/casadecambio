@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 1 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 1 de marzo de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-1-de-marzo-nid01032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-el-dolar-en-mexico-hoy-viernes-1-de-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-01T14:53:55Z",
+      "Content": "Este viernes 1° de marzo, el precio del dólar en México es de $17,0633, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex está … [+2119 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-02-15T09:33:33Z",
       "Content": "Periódico La JornadaJueves 15 de febrero de 2024, p. 22\r\nTras la sobrerreacción de los mercados financieros ante el dato de inflación de enero en Estados Unidos y luego de la toma de utilidades de lo… [+1903 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Catalina Vergara",
-      "Title": "Economistas estiman que el Banco Central perseverará en fuertes bajas de tasa clave pese a alto nivel del dólar",
-      "Description": "Economistas llaman a monitorear de cerca lo que ocurra con el tipo de cambio, pero la inflación ya cerca del 3% impulsaría al Banco Central a seguir bajando la TPM.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/economistas-estiman-que-el-banco-central-perseverara-en-fuertes-bajas-de",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240214/imag/foto_0000000220240214200158/consejo-banco-central-nuevo.jpg",
-      "PublishedAt": "2024-02-15T07:00:00Z",
-      "Content": "Desde la última Reunión de Política Monetaria (RPM) -realizada el 30 y 31 de enero- el dólar ha escalado casi $ 40, incluso sobrepasando los $ 970, pese a que la jornada de este miércoles cerró en $ … [+4262 chars]"
     }
   ]
 }
