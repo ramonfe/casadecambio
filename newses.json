@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Catalina Vergara",
+      "Title": "Sondeo del Banco Central: expectativas de inflación de los empresarios continúan reduciéndose, pero preocupa el alza del dólar",
+      "Description": "El instituto emisor publicó este lunes los resultados de su Encuesta de Determinantes y Expectativas de Precios (EDEP) correspondiente al trimestre móvil noviembre 2023-enero 2024.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/sondeo-del-banco-central-expectativas-de-inflacion-de-los-empresarios-1",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240304/imag/foto_0000000120240304085900/frontis_banco_central.jpeg",
+      "PublishedAt": "2024-03-04T11:58:00Z",
+      "Content": "Con la inflación casi en la meta de 3% -en enero se registró una variación anual del Índice de Precios al Consumidor de 3,2%-, las expectativas inflacionarias de las empresas continúan reduciéndose. … [+1849 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Catalina Vergara",
+      "Title": "Sondeo del Banco Central: expectativas de inflación de los empresarios continúan reduciéndose, pero preocupa el alza del dólar",
+      "Description": "El instituto emisor publicó este lunes los resultados de su Encuesta de Determinantes y Expectativas de Precios (EDEP) correspondiente al trimestre móvil noviembre 2023-enero 2024.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/sondeo-del-banco-central-expectativas-de-inflacion-de-los-empresarios-0",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240304/imag/foto_0000000120240304085900/frontis_banco_central.jpeg",
+      "PublishedAt": "2024-03-04T11:58:00Z",
+      "Content": "Con la inflación casi en la meta de 3% -en enero se registró una variación anual del Índice de Precios al Consumidor de 3,2%-, las expectativas inflacionarias de las empresas continúan reduciéndose. … [+1849 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/02/16/portada_dolar4.jpg",
       "PublishedAt": "2024-02-16T15:17:18Z",
       "Content": "Si tienes en mente cambiar tus pesos por dólares este viernes 16 de febrero, es buen momento debido a que la moneda nacional sigue ganando terreno.\r\nLa moneda nacional se recuperó quedando en 17.0557… [+672 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cnnchile.com"
-      },
-      "Author": "CNN Chile",
-      "Title": "Director de BeFX y la volatilidad del dólar: “El Banco Central tendrá la tarea difícil de bajar las tasas y en cuánto”",
-      "Description": "Sigue la actualidad a través del portal de noticias de CNN Chile.",
-      "Url": "https://www.cnnchile.com/programas-completos/banco-central-tasa-interes-volatilidad-dolar_20240216/",
-      "UrlToImage": "https://media.cnnchile.com/sites/2/2023/07/Dolar-CNN.png",
-      "PublishedAt": "2024-02-16T11:37:25Z",
-      "Content": "En una nueva edición de Agenda Económica, junto Orlando Silva, revisamos el análisis del director de BeFX, Rodrigo Castillo, sobre las proyecciones del dólar. “El Banco Central tendrá la tarea difíci… [+203 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 15 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 15 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-15-de-febrero-nid15022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-la-divisa-norteamericana-en-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-15T17:23:43Z",
-      "Content": "Este jueves 15 de febrero, el precio del dólar en México es de $17,1105, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2587 chars]"
     }
   ]
 }
