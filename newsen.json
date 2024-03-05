@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+      "Title": "U.S. Dollar Death Spiral ‘Crisis’ Fears Grow After Bank Of America Issues Shocking ‘$1 Trillion Every 100 Days’ Warning Amid Huge Bitcoin, Ethereum, XRP And Crypto Price Boom",
+      "Description": "Bank of America﻿﻿ analysts have warned the U.S. debt load is about to ramp up to add $1 trillion every 100 days—fueling a bitcoin price surge...",
+      "Url": "https://www.forbes.com/sites/digital-assets/2024/03/04/us-dollar-collapse-bank-of-america-issues-shocking-1-trillion-every-100-days-warning-amid-huge-bitcoin-ethereum-xrp-and-crypto-price-boom-to-rival-gold/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/652281c5904439112e9cb52c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2024-03-04T13:53:02Z",
+      "Content": "03/04 update below. This post was originally published on March 2\r\nBitcoinalongside the wider ethereum, XRP and crypto markethas rocketed higher over the last year (with some forecasting a even \"bigg… [+4701 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
       "PublishedAt": "2024-02-06T13:40:46Z",
       "Content": "Swiss National Bank lessened its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.7% in the 3rd quarter, according to the company in its most recent 13F filing with the Securities and … [+5321 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Dollar General Co. (NYSE:DG) Shares Sold by Swiss National Bank",
-      "Description": "Swiss National Bank cut its stake in Dollar General Co. (NYSE:DG – Free Report) by 10.9% during the 3rd quarter, according to its most recent Form 13F filing with the SEC. The fund owned 705,500 shares of the company’s stock after selling 85,900 shares during…",
-      "Url": "https://www.etfdailynews.com/2024/02/06/dollar-general-co-nysedg-shares-sold-by-swiss-national-bank/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-02-06T13:40:45Z",
-      "Content": "Swiss National Bank cut its stake in Dollar General Co. (NYSE:DG – Free Report) by 10.9% during the 3rd quarter, according to its most recent Form 13F filing with the SEC. The fund owned 705,500 shar… [+5223 chars]"
     }
   ]
 }
