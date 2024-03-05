@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘saca a pasear’ al dólar: Rompe piso de las 17 unidades y así se cotiza",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.43 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/04/peso-dolar-precio-hoy-4-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VxJIVmrE6RGjpFc8-o-Z0IY7Cbo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GDMYKMVVDFFUZCS7KJC3PGZUBI.jpg",
+      "PublishedAt": "2024-03-04T17:09:50Z",
+      "Content": "La moneda mexicana inicia una semana que estará cargada de información económica rompiendo el piso de las 17 unidades contra el dólar.\r\nDe acuerdo con datos de Bloomberg, la moneda nacional se apreci… [+1398 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ymhOb1cz4pQFW034SKNsK5t_7W0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UNVRX7BFPJDJ5D6AJ5XZ4URRYI.jpg",
       "PublishedAt": "2024-02-16T15:24:34Z",
       "Content": "El pesoinicia la última sesión de la semana retrocediendo frente al dólar después de que la inflación al productor en Estados Unidos se aumentó en 0.3 por ciento a tasa mensual, siendo el mayor incre… [+1820 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 16 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 16 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-16-de-febrero-nid16022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-la-divisa-norteamericana-en-L7PPHIKKXZEJXIHFG3DU446BZQ.JPG?auth=b0e1b3ccb0aa2c76443024a0a162d15d1f7ec3165a732d5b22930d6c482ee27e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-16T15:19:14Z",
-      "Content": "Este viernes 16 de febrero, el precio del dólar en México es de $17,0680, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2227 chars]"
     }
   ]
 }
