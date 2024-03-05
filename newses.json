@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cierra peso debajo de $17 por dólar en el mercado mundial",
+      "Description": "El tipo de cambio cotizó debajo de 17 pesos por dólar en el mercado mundial este lunes, con los mercados atentos a datos económicos en EU.",
+      "Url": "https://www.reforma.com/rompe-el-peso-barrera-de-17-por-dolar-en-el-mercado-mundial/ar2767567",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-03-04T21:14:30Z",
+      "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (04 marzo 2024) .-14:02 (Actualización: 15:00 hrs)"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame.png",
       "PublishedAt": "2024-02-18T22:27:28Z",
       "Content": "#2EEUU ya no está para \"democratizar\" a un país pobre y pequeño como Yemen, mucho menos a uno mucho más poblado cómo Egipto.El ocaso del imperio gringo es un hecho."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘llega cansado’ al viernes y cede frente al dólar: Se cotiza en 17.07 unidades",
-      "Description": "La depreciación de este viernes para el peso frene al dólar es de 0.16 por ciento o 2.73 centavos, respecto a su cierre anterior",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/16/peso-dolar-precio-hoy-16-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ymhOb1cz4pQFW034SKNsK5t_7W0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UNVRX7BFPJDJ5D6AJ5XZ4URRYI.jpg",
-      "PublishedAt": "2024-02-16T15:24:34Z",
-      "Content": "El pesoinicia la última sesión de la semana retrocediendo frente al dólar después de que la inflación al productor en Estados Unidos se aumentó en 0.3 por ciento a tasa mensual, siendo el mayor incre… [+1820 chars]"
     }
   ]
 }
