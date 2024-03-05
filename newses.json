@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso rompe barrera de las 17 unidades por dólar; BMV cae arrastrada por las Águilas y Volaris",
+      "Description": "Forbes México.\n Peso rompe barrera de las 17 unidades por dólar; BMV cae arrastrada por las Águilas y Volaris\n\nEl peso cotizaba en 16.9479 por dólar casi al final de los negocios, con una apreciación de 0.37% frente al precio de referencia de Reuters del vier…",
+      "Url": "https://www.forbes.com.mx/peso-rompe-barrera-de-las-17-unidades-por-dolar-bmv-cae-arrastrada-por-las-aguilas-y-volaris/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2021/04/peso.jpg",
+      "PublishedAt": "2024-03-04T22:33:45Z",
+      "Content": "El peso avanzó este lunes y la Bolsa Mexicana de Valores (BMV) retrocedió tras dos sesiones de ganancias, en el inicio de una semana repleta de referencias económicas relevantes, entre ellas, el test… [+1954 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-hoy-YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-19T15:04:09Z",
       "Content": "Este lunes 19 de febrero, el precio del dólar en México es de $17,0602, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2389 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "Beltenebros",
-      "Title": "Еgipto adopta la moneda local y deja de utilizar oficialmente el dólar para el comercio[ENG]",
-      "Description": "El gobierno egipcio ha suspendido oficialmente el uso del dólar para el comercio. Este proyecto es parte de la estrategia de desdolarización los BRICS y Egipto es uno de los cinco países que aceptaron integrar la alianza en la cumbre de 2023.etiquetas: egipto…",
-      "Url": "https://www.meneame.net/m/actualidad/gipto-adopta-moneda-local-deja-utilizar-oficialmente-dolar-eng",
-      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
-      "PublishedAt": "2024-02-18T22:27:28Z",
-      "Content": "#2EEUU ya no está para \"democratizar\" a un país pobre y pequeño como Yemen, mucho menos a uno mucho más poblado cómo Egipto.El ocaso del imperio gringo es un hecho."
     }
   ]
 }
