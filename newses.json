@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 4 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 4 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-4-de-marzo-nid04032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-este-lunes-4-de-marzo-en-A5KOF4T7EFB4JMHXFYQFF467SM.jpg?auth=d242d00a05d806ef2b6ef0526edaa767ce08b3bd664d01cefae37df33fa13c90&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-04T15:17:29Z",
+      "Content": "Este lunes 4 de marzo, el precio del dólar en México es de $17,0962, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2289 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-la-divisa-norteamericana-en-L7PPHIKKXZEJXIHFG3DU446BZQ.JPG?auth=b0e1b3ccb0aa2c76443024a0a162d15d1f7ec3165a732d5b22930d6c482ee27e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-16T15:19:14Z",
       "Content": "Este viernes 16 de febrero, el precio del dólar en México es de $17,0680, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2227 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Así amanece el dólar: El peso sigue fuerte este viernes 16 de febrero",
-      "Description": "Todos los días se modifica el valor de la moneda estadounidense con relación al peso mexicano",
-      "Url": "https://www.record.com.mx/contra/asi-amanece-el-dolar-el-peso-sigue-fuerte-este-viernes-16-de-febrero",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/02/16/portada_dolar4.jpg",
-      "PublishedAt": "2024-02-16T15:17:18Z",
-      "Content": "Si tienes en mente cambiar tus pesos por dólares este viernes 16 de febrero, es buen momento debido a que la moneda nacional sigue ganando terreno.\r\nLa moneda nacional se recuperó quedando en 17.0557… [+672 chars]"
     }
   ]
 }
