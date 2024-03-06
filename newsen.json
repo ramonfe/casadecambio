@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CBS Sports"
+      },
+      "Author": "Erica Ayala",
+      "Title": "Las Vegas Aces announce multimillion-dollar partnership with Ally Bank, will feature branding on 2024 uniforms",
+      "Description": "The two-time champions are changing the standards for WNBA teams on the court and in the front office",
+      "Url": "https://www.cbssports.com/wnba/news/las-vegas-aces-announce-multimillion-dollar-partnership-with-ally-bank-will-feature-branding-on-2024-uniforms/",
+      "UrlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/05/242a5e56-f72d-4fa9-aec5-39a67f3fcd5d/thumbnail/1200x675/c3d24987b6d57e712666a632abf547d9/gettyimages-1743731487-1-1.jpg",
+      "PublishedAt": "2024-03-05T20:35:41Z",
+      "Content": "The Las Vegas Aces and Ally Bank announced Tuesday a multimillion-dollar, multi-year deal ahead of the 2024 WNBA season. Last year, Ally Bank committed to equally splitting its investments in men's a… [+5077 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-02-06T14:14:43Z",
       "Content": "Swiss National Bank trimmed its holdings in Dollar General Co. (NYSE:DG – Free Report) by 10.9% in the third quarter, according to its most recent 13F filing with the Securities and Exchange Commissi… [+5633 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Swiss National Bank Has $71.69 Million Holdings in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Swiss National Bank lowered its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.7% during the third quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The firm owned 673,481 shares o…",
-      "Url": "https://www.etfdailynews.com/2024/02/06/swiss-national-bank-has-71-69-million-holdings-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-02-06T13:40:46Z",
-      "Content": "Swiss National Bank lowered its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.7% during the third quarter, according to the company in its most recent Form 13F filing with the Secur… [+5640 chars]"
     }
   ]
 }
