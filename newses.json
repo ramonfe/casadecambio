@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 5 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 5 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-5-de-marzo-nid05032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-05T15:25:02Z",
+      "Content": "Este martes 5 de marzo, el precio del dólar en México es de $16,9828, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2833 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-el-M2C3LF6PE5CSNH6XMJ3RGE2NII.JPG?auth=cddfb28c0fb229e889bd7393eecb5b7c32c004599e181a0c58900d1cd16ef6cc&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-20T14:51:23Z",
       "Content": "Este martes 20 de febrero, el precio del dólar en México es de $17,0500, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2605 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 19 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 19 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-19-de-febrero-nid19022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-hoy-YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-19T15:04:09Z",
-      "Content": "Este lunes 19 de febrero, el precio del dólar en México es de $17,0602, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2389 chars]"
     }
   ]
 }
