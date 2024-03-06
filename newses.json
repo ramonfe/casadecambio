@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, ‘envalentonado’ contra el dólar: Gana y se cotiza en las 16.90 unidades",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.37 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/05/peso-dolar-precio-hoy-5-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/f-laVFwOlhpKn1JmgDlcEc_jSNs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BKLK26BD2FEHJAUSFHKFFCPNSE.jpg",
+      "PublishedAt": "2024-03-05T16:55:15Z",
+      "Content": "El peso mexicano anticipa otra jornada por debajo de las 17 unidades frente al dólar durante este 5 de marzo. \r\nDe acuerdo con Bloomberg, la moneda nacional se aprecia 0.26 por ciento, por lo que el … [+1678 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/vRgsrNDeuff3qUUbzydiV3fkfPQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HYFXV7BWH5E3TBYI5EQHYLOT3A.jpg",
       "PublishedAt": "2024-02-20T15:43:50Z",
       "Content": "Después de un lunes en el que estuvo dormido, el peso mexicano abre este 20 de febrero con avances ante un debilitamiento del dólar, a medida que se restablece el volumen de operación en los mercados… [+2122 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 20 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 20 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-20-de-febrero-nid20022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-el-M2C3LF6PE5CSNH6XMJ3RGE2NII.JPG?auth=cddfb28c0fb229e889bd7393eecb5b7c32c004599e181a0c58900d1cd16ef6cc&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-20T14:51:23Z",
-      "Content": "Este martes 20 de febrero, el precio del dólar en México es de $17,0500, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2605 chars]"
     }
   ]
 }
