@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 6 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 6 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-6-de-marzo-nid06032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizan-los-mercados-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-06T14:58:02Z",
+      "Content": "Este miércoles 6 de marzo, el precio del dólar en México es de $17,0217,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex tiene… [+2271 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-DXDAUQSGSNB6NDQZ7DTAHX67KI.JPG?auth=ea04eda5f51559cc6c7234a2a98eb4582b0958883841c9b4c5b08b9dd7800739&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-21T15:07:45Z",
       "Content": "Este miércoles 21 de febrero, el precio del dólar en México es de $17,0458, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2319 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La moneda de 25 centavos de dólar de “doble cara” que podría valer miles, pero esconde un peligro",
-      "Description": "En el mundo de la numismática es común que farsantes fabriquen piezas con supuestos detalles únicos, pero que en realidad buscan vender a precios exorbitantes",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-25-centavos-de-dolar-de-doble-cara-que-podria-valer-miles-pero-esconde-un-peligro-nid20022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/una-moneda-de-doble-cara-pretendia-lucir-como-una-7YYMDH2KERGELAR4HA7KKA6DBI.jpg?auth=68cb7be5c3644f6e13471c3d2e86a6a5fec2288f73001bbf533f40fe62363adb&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-20T22:19:50Z",
-      "Content": "Una mujer, curiosa con el tema de las monedas peculiares, compartió en sus redes sociales un hallazgo especial: una pieza de 25 centavos con dos caras, una rareza que podría atraer a los coleccionist… [+2511 chars]"
     }
   ]
 }
