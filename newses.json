@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso busca nuevo récord de 2024 vs. dólar: Gana y se cotiza en las 16.85 unidades",
+      "Description": "En su conferencia de este miércoles, Jerome Powell dijo que la Fed necesita más confianza para empezar a recortar más la tasa de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/06/peso-dolar-precio-hoy-9-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/QEurj17Abhm7kSat6rRklSktIeQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TX5O7VRZ7VHTVPUV7OQG2Q5CX4.jpg",
+      "PublishedAt": "2024-03-06T16:15:28Z",
+      "Content": "El peso mexicano se adentra en el terreno de las 16 unidades frente al dólar, mientras los operadores están atentos a la declaración del presidente de la Fed, Jerome Powell, frente al Congreso estado… [+2128 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VrHEg8pnWTahIWr-WgYUP7zn1rE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7OAWLTZ6SVBCHM325Y4F672POI.jpg",
       "PublishedAt": "2024-02-21T16:18:17Z",
       "Content": "El peso mexicano inició la sesión de este 21 de febrero con una leve apreciación frente al dólar de acuerdo con datos de Bloomberg.\r\nPor ahora, la divisa nacional se aprecia 0.06 por ciento, por lo q… [+1697 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 21 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 21 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-21-de-febrero-nid21022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-DXDAUQSGSNB6NDQZ7DTAHX67KI.JPG?auth=ea04eda5f51559cc6c7234a2a98eb4582b0958883841c9b4c5b08b9dd7800739&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-21T15:07:45Z",
-      "Content": "Este miércoles 21 de febrero, el precio del dólar en México es de $17,0458, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2319 chars]"
     }
   ]
 }
