@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "STERLING HOLDS GAINS VS DOLLAR AS UK FINANCE MINISTER HUNT SPEAK…",
+      "Description": "(marketscreener.com) \n STERLING HOLDS GAINS VS DOLLAR AS UK FINANCE MINISTER HUNT SPEAKS, LAST UP 0.12% TO $1.2721\n https://www.marketscreener.com/news/latest/STERLING-HOLDS-GAINS-VS-DOLLAR-AS-UK-FINANCE-MINISTER-HUNT-SPEAK--46103421/?utm_medium=RSS&utm_conte…",
+      "Url": "https://www.marketscreener.com/news/latest/STERLING-HOLDS-GAINS-VS-DOLLAR-AS-UK-FINANCE-MINISTER-HUNT-SPEAK--46103421/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "PublishedAt": "2024-03-06T12:42:57Z",
+      "Content": "ANALYST RECOMMENDATIONS : Crowdstrike, Target, Antofagasta, Direct Line Insurance, Premier Foods..."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://a.c-dn.net/b/3sWoSy/GBP4.jpg",
       "PublishedAt": "2024-02-08T14:30:00Z",
       "Content": "Pound Sterling (GBP/USD) Talking Points:\r\n<ul><li>GBP/USD has slipped back after two days of gains</li><li>The prospect of higher US interest rates for longer continues to dominate</li><li>Some as-ex… [+3011 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Swiss National Bank Decreases Position in Dollar General Co. (NYSE:DG)",
-      "Description": "Swiss National Bank trimmed its holdings in Dollar General Co. (NYSE:DG – Free Report) by 10.9% in the third quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 705,500 shares of…",
-      "Url": "https://www.etfdailynews.com/2024/02/06/swiss-national-bank-decreases-position-in-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-02-06T14:14:43Z",
-      "Content": "Swiss National Bank trimmed its holdings in Dollar General Co. (NYSE:DG – Free Report) by 10.9% in the third quarter, according to its most recent 13F filing with the Securities and Exchange Commissi… [+5633 chars]"
     }
   ]
 }
