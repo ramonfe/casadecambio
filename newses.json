@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Se mantiene el peso por abajo de 17 por dólar",
+      "Description": "El peso logró sostenerse por debajo de la línea de 17 por dólar spot –su mejor nivel desde inicios de 2024– por segunda jornada consecutiva.",
+      "Url": "https://www.jornada.com.mx/2024/03/06/economia/016n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-03-06T09:26:27Z",
+      "Content": "Periódico La JornadaMiércoles 6 de marzo de 2024, p. 16\r\nEl peso logró sostenerse por debajo de la línea de 17 por dólar spot su mejor nivel desde inicios de 2024 por segunda jornada consecutiva.\r\nEn… [+3107 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/una-moneda-de-doble-cara-pretendia-lucir-como-una-7YYMDH2KERGELAR4HA7KKA6DBI.jpg?auth=68cb7be5c3644f6e13471c3d2e86a6a5fec2288f73001bbf533f40fe62363adb&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-20T22:19:50Z",
       "Content": "Una mujer, curiosa con el tema de las monedas peculiares, compartió en sus redes sociales un hallazgo especial: una pieza de 25 centavos con dos caras, una rareza que podría atraer a los coleccionist… [+2511 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso le ‘respira en la nuca’ al piso de las 17 unidades vs. el dólar: Así cotiza este martes",
-      "Description": "En ventanillas bancarias, el dólar se vende en 17.46 pesos cada uno, de acuerdo con datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/20/peso-dolar-precio-hoy-20-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/vRgsrNDeuff3qUUbzydiV3fkfPQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HYFXV7BWH5E3TBYI5EQHYLOT3A.jpg",
-      "PublishedAt": "2024-02-20T15:43:50Z",
-      "Content": "Después de un lunes en el que estuvo dormido, el peso mexicano abre este 20 de febrero con avances ante un debilitamiento del dólar, a medida que se restablece el volumen de operación en los mercados… [+2122 chars]"
     }
   ]
 }
