@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money-laundering case: Man set to plead guilty, first among 10 suspects",
+      "Description": "Su Wenqiang is accused of laundering almost a million dollars by buying luxury goods, a car and renting upscale condominium apartments in Singapore.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-man-first-plead-guilty-su-wenqiang-4177886",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--AFvvB9fS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/02/su_wenqiang.png?itok=2TpE7pWi",
+      "PublishedAt": "2024-03-07T08:40:53Z",
+      "Content": "SINGAPORE: A man who is among the 10 people charged in relation to a billion-dollar money laundering case in Singapore is set to plead guilty.\r\nHe is the first in the group to make such an indication… [+2161 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/02/smooth-bank-dollar.jpg",
       "PublishedAt": "2024-02-10T20:04:10Z",
       "Content": "A bank that built its business working with members of the military, veterans and their families reportedly rejected a customer’s plea for help after thousands of dollars disappeared in a mysterious … [+1982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "10 Clothing Items You Should Always Buy at Dollar Tree To Save Money",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_796a4967-4ddf-4265-8125-4a97eeb40ed4",
-      "UrlToImage": null,
-      "PublishedAt": "2024-02-10T17:00:19Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
