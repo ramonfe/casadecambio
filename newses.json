@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso hila cinco jornadas de ganancia frente al dólar",
+      "Description": "Pese al desfase de políticas monetarias entre México y Estados Unidos, que hará disminuir a corto plazo el diferencial de tasas de interés entre ambas economías, México sigue siendo atractivo para los inversionistas internacionales, de ahí la fortaleza de la …",
+      "Url": "https://www.jornada.com.mx/2024/03/07/economia/021n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-03-07T09:44:42Z",
+      "Content": "Periódico La JornadaJueves 7 de marzo de 2024, p. 21\r\nPese al desfase de políticas monetarias entre México y Estados Unidos, que hará disminuir a corto plazo el diferencial de tasas de interés entre … [+2211 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/09/02/mexico-cae-divisas-turisticas-pese.jpg",
       "PublishedAt": "2024-02-21T22:43:00Z",
       "Content": "El peso mexicano se apreció 0.05 por ciento frente al precio de referencia del martes, cotizando en 17.03 unidades por cada dólar estadunidense al cierre de mercados del miércoles 21 de febrero de 20… [+856 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Miguel Moscosa",
-      "Title": "Peso le saca ‘un pelo de rana calva’ al dólar: Se cotiza en las 17.06 unidades",
-      "Description": "En ventanillas de Citibanamex, el dólar se vende en 17.50 pesos, sin cambios respecto al día anterior.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/21/peso-dolar-precio-hoy-21-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VrHEg8pnWTahIWr-WgYUP7zn1rE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7OAWLTZ6SVBCHM325Y4F672POI.jpg",
-      "PublishedAt": "2024-02-21T16:18:17Z",
-      "Content": "El peso mexicano inició la sesión de este 21 de febrero con una leve apreciación frente al dólar de acuerdo con datos de Bloomberg.\r\nPor ahora, la divisa nacional se aprecia 0.06 por ciento, por lo q… [+1697 chars]"
     }
   ]
 }
