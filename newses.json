@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Subidón’ del peso sufre pausa: Dólar se cotiza en las 16.89 unidades",
+      "Description": "El peso mexicano continúa fuerte en niveles máximos que no se veían desde enero, destacaron analistas de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/07/peso-dolar-precio-hoy-7-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/p6rPu-NzPSXnQnBkpp_yMYIA_7k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6JWSWN7WKFG47NQSLVIOIDGTIM.jpg",
+      "PublishedAt": "2024-03-07T15:47:33Z",
+      "Content": "El subidón del peso mexicano se ve frenado este jueves después de haber ligado cinco sesiones consecutivas con ganancias contrae el dólar, mientras el mercado seguirá atento a las declaraciones del p… [+1463 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-23-de-febrero-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-23T15:48:17Z",
       "Content": "Este viernes 23 de febrero, el precio del dólar en México es de $17,1210, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2606 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 22 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 22 de febrero.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-22-de-febrero-nid22022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-CZ34OZJHKFCADBXOUS5OBRA6B4.jpg?auth=5729625537e20df34613e208a9e4e7febe9f8a2359d923be86a79685765d1371&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-22T15:32:17Z",
-      "Content": "Este jueves 22 de febrero, el precio del dólar en México es de $17,0603, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2045 chars]"
     }
   ]
 }
