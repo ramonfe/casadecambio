@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Canadian dollar gains following Bank of Canada's hawkish hold",
+      "Description": "Canadian dollar gains following Bank of Canada's hawkish hold",
+      "Url": "https://www.investing.com/news/forex-news/canadian-dollar-gains-following-bank-of-canadas-hawkish-hold-3327764",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB960NS_L.jpg",
+      "PublishedAt": "2024-03-06T23:40:06Z",
+      "Content": "Investing.com -  The Canadian dollar strengthened against its U.S. counterpart on Tuesday, as a hawkish hold from the Bank of Canada vs. a reaffirmation of upcoming rate cuts from Fed Chair Jerome Po… [+2050 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-02-10T17:00:19Z",
       "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DailyFX"
-      },
-      "Author": "David Cottle",
-      "Title": "British Pound Falls Back Into Red As Dollar Fights Back, Central Bank Speakers Eyed",
-      "Description": "Sterling bulls had a reasonable start to trade Thursday but couldn’t hold on as the session’s US data came in",
-      "Url": "https://www.dailyfx.com/news/british-pound-falls-back-into-red-as-dollar-fights-back-central-bank-speakers-eyed-20240208.html",
-      "UrlToImage": "https://a.c-dn.net/b/3sWoSy/GBP4.jpg",
-      "PublishedAt": "2024-02-08T14:30:00Z",
-      "Content": "Pound Sterling (GBP/USD) Talking Points:\r\n<ul><li>GBP/USD has slipped back after two days of gains</li><li>The prospect of higher US interest rates for longer continues to dominate</li><li>Some as-ex… [+3011 chars]"
     }
   ]
 }
