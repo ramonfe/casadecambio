@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Diego Aguilar",
+      "Title": "Elecciones en Estados Unidos perturbarían tipo de cambio del peso con el dólar",
+      "Description": "Forbes México.\n Elecciones en Estados Unidos perturbarían tipo de cambio del peso con el dólar\n\nEl peso se verá presionado por otros temas globales, también, pero que la influencia de EU sobre México determinará el camino del tipo de cambio en el año, de acue…",
+      "Url": "https://www.forbes.com.mx/elecciones-en-estados-unidos-perturbarian-tipo-de-cambio-del-peso-con-el-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/Tipo-de-cambio-IMG_20230117_100156.webp",
+      "PublishedAt": "2024-03-07T19:57:44Z",
+      "Content": "El proceso electoral en Estados Unidos que se llevará a cabo a finales de 2024 podría perturbar de forma negativa al tipo de cambio del peso con el dólar, aseguró Ernesto Revilla, Economista en jefe … [+1509 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/02/23/2024022318024930995.jpg",
       "PublishedAt": "2024-02-23T18:02:52Z",
       "Content": "MADRID, 23 (EUROPA PRESS)\r\n El euro enlazaba este viernes y de manera provisional ocho sesiones al alza respecto al dólar con una subida acumulada del 1,1%, a 1,0825 dólares -si bien ayer llegó a apr… [+2909 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 23 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 23 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-23-de-febrero-nid23022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-23-de-febrero-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-23T15:48:17Z",
-      "Content": "Este viernes 23 de febrero, el precio del dólar en México es de $17,1210, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2606 chars]"
     }
   ]
 }
