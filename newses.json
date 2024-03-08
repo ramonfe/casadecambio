@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 7 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 7 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-7-de-marzo-nid07032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizan-los-mercados-VE5BJM2CBNF3BCTIHQKQ24ZB6Y.jpg?auth=834c8da78f18ba75f4fdef54f58e44af3ef6370ba047b8ec3cad99d7879f1248&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-07T14:43:11Z",
+      "Content": "Este jueves 7 de marzo, el precio del dólar en México es de $17,82, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un … [+2073 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-CZ34OZJHKFCADBXOUS5OBRA6B4.jpg?auth=5729625537e20df34613e208a9e4e7febe9f8a2359d923be86a79685765d1371&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-22T15:32:17Z",
       "Content": "Este jueves 22 de febrero, el precio del dólar en México es de $17,0603, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2045 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "Peso mexicano se aprecia 0.05% frente al dólar al cierre del miércoles",
-      "Description": "El peso mexicano se apreció 0.05 por ciento frente al precio de referencia del martes, cotizando en 17.03 unidades por cada dólar estadunidense al cierre de mercados del miércoles 21 de febrero de 2024.La divisa nacional avanzó ligeramente en un mercado caute…",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-miercoles-21-de-febrero-de-2024-peso-cierra-en-17-03",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2021/09/02/mexico-cae-divisas-turisticas-pese.jpg",
-      "PublishedAt": "2024-02-21T22:43:00Z",
-      "Content": "El peso mexicano se apreció 0.05 por ciento frente al precio de referencia del martes, cotizando en 17.03 unidades por cada dólar estadunidense al cierre de mercados del miércoles 21 de febrero de 20… [+856 chars]"
     }
   ]
 }
