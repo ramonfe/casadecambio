@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Travelupdate.com"
+      },
+      "Author": "TravelUpdate",
+      "Title": "Save Money by Checking WestJet US Dollar and WestJet Canadian Dollar Website",
+      "Description": "Did you know WestJet flights might be more expensive if you pay in Canadian Dollar for transborder flights? Learn more at Maple Miles.",
+      "Url": "https://travelupdate.com/save-money-by-checking-westjet-us-dollar-and-westjet-canadian-dollar-website/",
+      "UrlToImage": "https://travelupdate.com/wp-content/uploads/2023/12/PXL_20231207_042309293-1024x771.jpg",
+      "PublishedAt": "2024-03-08T11:00:50Z",
+      "Content": "I first discovered the hack with Air Canada. I was a bit disturbed, but I did not think I would be able to re-create this hack with WestJet, under very similar circumstances. That’s right, for the ex… [+2469 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.chzbgr.com/thumb1200/24407301/h3BED6938/to-make-some-extra-cash-he-settles-the-score-by-paying-the-full-amount-with-one-dollar-bills",
       "PublishedAt": "2024-02-11T23:00:00Z",
       "Content": "The twenty-first century is known for its constant stream of technological advancement. The fact that we can now fit everything we need into one technological deviceour phonesis one of the biggest sh… [+991 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": "Ashley Carnahan",
-      "Title": "Assad’s billion-dollar drug industry keeps regime family ‘flush with money,’ wreaks havoc across region",
-      "Description": "Gulf Arab countries are struggling to deal an the uptick in Captagon being smuggled across the region. Experts discuss how Syria uses Captagon as an illicit alternative revenue source.",
-      "Url": "https://www.foxnews.com/world/assads-billion-dollar-drug-industry-keeps-regime-family-flush-money-wreaks-havoc-across-region",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/captagon-closeup.jpg",
-      "PublishedAt": "2024-02-11T09:00:07Z",
-      "Content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+5220 chars]"
     }
   ]
 }
