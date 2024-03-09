@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso llega ‘rudo’ rumbo al fin de semana: Se cotiza en las 16.80 unidades vs. el dólar",
+      "Description": "El nivel más bajo del tipo de cambio en lo que va de 2024 es 16.80 unidades, una marca que estableció en enero pasado.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/08/peso-dolar-precio-hoy-8-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RsTt9MA8cYt52gllPDB1JT8tA14=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OAVUNBQWMNFJZIBFEAJ6Q4W3DQ.jpg",
+      "PublishedAt": "2024-03-08T16:23:17Z",
+      "Content": "El peso mexicano anticipa importantes ganancias este viernes, a medida que los operadores asimilan el último dato de empleo en Estados Unidos, el cual superó las expectativas del mercado con la creac… [+1569 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-26T15:13:49Z",
       "Content": "Este lunes 26 de febrero, el precio del dólar en México es de $17,1260, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2297 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Precio del dólar HOY 26 de febrero de 2024: Peso avanza a la espera de datos sobre economía de EU",
-      "Description": "Al iniciar operaciones HOY 26 de febrero, eldólarse vendía hasta en 18.10 pesos en ventanilla en bancos. En tanto, el tipo de banco interbancario cotiza en 17.09 pesos por billete verde, con una ganancia del 0.09 por ciento frente al precio de referencia de d…",
-      "Url": "https://www.milenio.com/negocios/precio-del-dolar-hoy-26-febrero-2024-en-mexico-tipo-de-cambio",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
-      "PublishedAt": "2024-02-26T12:13:00Z",
-      "Content": "Al iniciar operaciones HOY 26 de febrero, el dólar se vendía hasta en 18.10 pesos en ventanilla en bancos. En tanto, el tipo de banco interbancario cotiza en 17.09 pesos por billete verde, con una ga… [+4283 chars]"
     }
   ]
 }
