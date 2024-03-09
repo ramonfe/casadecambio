@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 8 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 8 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-8-de-marzo-nid08032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-8-de-NNSMLKYVZ5CMHAMG3QTLLBDYL4.jpg?auth=44ff44d02d10dc8c32e199f586e84d5003a0098fa720231d4686524a641dad23&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-08T15:06:42Z",
+      "Content": "Este viernes 8 de marzo, el precio del dólar en México es de $16,8770, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2380 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/26/tipo-de-cambio-peso-dolar.jpg",
       "PublishedAt": "2024-02-26T12:13:00Z",
       "Content": "Al iniciar operaciones HOY 26 de febrero, el dólar se vendía hasta en 18.10 pesos en ventanilla en bancos. En tanto, el tipo de banco interbancario cotiza en 17.09 pesos por billete verde, con una ga… [+4283 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Óscar Rodríguez",
-      "Title": "¿Qué pasa con el tipo de cambio? 5 economistas analizan en foro de ‘La Nación’ las razones detrás de la baja en el dólar",
-      "Description": "Cinco especialistas comentaron en un foro de ‘La Nación’ los efectos de la apreciación del colón sobre hogares, empresas, competitividad y producción",
-      "Url": "https://www.nacion.com/economia/politica-economica/que-pasa-con-el-tipo-de-cambio-5-economistas/RX7E5MMEQJFK3N4FQRXESZMNN4/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/BT9tS7U_PAf_DC3FwMNAleFjW2I=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/F27XW7XLTNAIDIEOYYPBUOKJOU.JPG",
-      "PublishedAt": "2024-02-23T23:46:10Z",
-      "Content": "La abundancia de dólares en Costa Rica tiene entre sus principales fuentes las mayores exportaciones de bienes y servicios, el turismo, la inversión extranjera directa (IED) y el mayor endeudamiento … [+4707 chars]"
     }
   ]
 }
