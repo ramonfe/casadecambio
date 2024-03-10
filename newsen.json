@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "6 Places You Can Sell Dollar Store Items To Make Extra Money",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_82fa97c2-0d15-4c83-9194-e313b6e2abeb",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-09T21:00:47Z",
+      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-02-12T05:23:39Z",
       "Content": "Skip to comments.\r\nNews Summary-Intelligence Report Sunday 2/11/2024 Missile Attack Off Yemen, Senate Approves 95 Billion Dollar Foreign Aid...Netanyahu-Biden Conversation...Khan Candidates Top Pakis… [+2722 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cheezburger.com"
-      },
-      "Author": "Sienna Varady, Sienna Varady",
-      "Title": "'That's $180 of my hard-earned money': Man's car gets towed by company looking to make some extra cash, he settles the score by paying the full amount with one dollar bills",
-      "Description": "The twenty-first century is known for its constant stream of technological advancement. The fact that we can now fit everything we need into one technological device—our phones—is one of the biggest shifts in our daily lives.\r\nThe story below is an account of…",
-      "Url": "https://cheezburger.com/24407301/thats-180-of-my-hard-earned-money-mans-car-gets-towed-by-company-looking-to-make-some-extra-cash-he",
-      "UrlToImage": "https://i.chzbgr.com/thumb1200/24407301/h3BED6938/to-make-some-extra-cash-he-settles-the-score-by-paying-the-full-amount-with-one-dollar-bills",
-      "PublishedAt": "2024-02-11T23:00:00Z",
-      "Content": "The twenty-first century is known for its constant stream of technological advancement. The fact that we can now fit everything we need into one technological deviceour phonesis one of the biggest sh… [+991 chars]"
     }
   ]
 }
