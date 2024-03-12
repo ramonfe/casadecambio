@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso gana por octava jornada al hilo y regresa a niveles de agosto debajo de 17 por dólar; BMV también sube",
+      "Description": "Forbes México.\n Peso gana por octava jornada al hilo y regresa a niveles de agosto debajo de 17 por dólar; BMV también sube\n\nEl peso cotizaba en 16.7965 unidades por dólar, con una apreciación marginal de 0.08% frente al precio de referencia de Reuters del vi…",
+      "Url": "https://www.forbes.com.mx/peso-gana-por-octava-jornada-al-hilo-y-regresa-a-niveles-de-agosto-debajo-de-17-por-dolar-bmv-tambien-sube/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/ahorro_dinero-e1696015334287-1024x576.png",
+      "PublishedAt": "2024-03-11T21:42:02Z",
+      "Content": "El peso se apreció ligeramente el lunes contra el dólar y anotó su octava sesión consecutiva de avances, mientras los operadores permanecen a la espera de los datos de la economía local y de Estados … [+1739 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-cuanto-cotiza-la-moneda-CZ34OZJHKFCADBXOUS5OBRA6B4.jpg?auth=5729625537e20df34613e208a9e4e7febe9f8a2359d923be86a79685765d1371&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-28T15:23:48Z",
       "Content": "Este miércoles 28 de febrero, el precio del dólar en México es de $17,0605, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2304 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia Reuters",
-      "Title": "¿Cómo cierra el dólar hoy 27 de febrero? Suma ganancias frente al peso mexicano",
-      "Description": "El peso mexicano se apreció 0.20 por ciento frente al precio de referencia del lunes, cotizando en 17.06 unidades por cada dólar estadunidense al cierre de mercados del martes 27 de febrero de 2024.La divisa nacional avanzó el martes antes de la publicación d…",
-      "Url": "https://www.milenio.com/negocios/precio-dolar-hoy-martes-27-de-febrero-de-2024-peso-cierra-en-17-06",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/02/27/semana-datos-emitira-reserva-federal.jpg",
-      "PublishedAt": "2024-02-27T22:11:00Z",
-      "Content": "El peso mexicano se apreció 0.20 por ciento frente al precio de referencia del lunes, cotizando en 17.06 unidades por cada dólar estadunidense al cierre de mercados del martes 27 de febrero de 2024.\r… [+916 chars]"
     }
   ]
 }
