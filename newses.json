@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cotiza en la apertura por debajo de las 17 unidades por dólar; BMV avanza",
+      "Description": "Forbes México.\n Peso cotiza en la apertura por debajo de las 17 unidades por dólar; BMV avanza\n\nEl peso cotizaba en 16.8020 unidades por dólar en los primeros negocios del día, con un alza marginal de 0.04% frente al precio de referencia del viernes, cuando f…",
+      "Url": "https://www.forbes.com.mx/peso-cotiza-en-la-apertura-por-debajo-de-las-17-unidades-por-dolar-bmv-avanza/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
+      "PublishedAt": "2024-03-11T14:49:38Z",
+      "Content": "El peso cotizaba con pocos cambios el lunes y se mantenía sólido luego de siete sesiones seguidas de avances, en medio de una caída global del dólar y mientras los mercados aguardan un dato clave de … [+1534 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/FD4C6iTHuMo26Xj7PSdQfzal1UM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PB4CTTXX5FEYVAGE4ULHHLNTHA.jpg",
       "PublishedAt": "2024-02-26T16:18:30Z",
       "Content": "El peso mexicano arranca la última semana de febrero en el terreno de las ganancias ante un debilitamiento del dólar, a medida que los operadores están a la espera de mayores catalizadores económicos… [+1474 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 26 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 26 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-26-de-febrero-nid26022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-lunes-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-26T15:13:49Z",
-      "Content": "Este lunes 26 de febrero, el precio del dólar en México es de $17,1260, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2297 chars]"
     }
   ]
 }
