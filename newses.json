@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso pierde frente al dólar tras alcanzar su mejor nivel en 6 meses: Así cotiza este lunes",
+      "Description": "El peso mexicano recorta este lunes 11 de marzo el avance visto la semana pasada tras un ligero repunte del dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/11/peso-dolar-precio-hoy-11-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mO8XMNxjzyXimAsRQnbfenk9anE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BOMOGPNALJBJBBNGAAXGDXXZSI.jpg",
+      "PublishedAt": "2024-03-11T16:29:31Z",
+      "Content": "La moneda mexicana muestra un retroceso de manera moderada en el inicio de esta semana (11 de marzo) bursátil, después de haber alcanzado su mejor nivel en seis meses al aprovechar el debilitamiento … [+1591 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/02/27/semana-datos-emitira-reserva-federal.jpg",
       "PublishedAt": "2024-02-27T22:11:00Z",
       "Content": "El peso mexicano se apreció 0.20 por ciento frente al precio de referencia del lunes, cotizando en 17.06 unidades por cada dólar estadunidense al cierre de mercados del martes 27 de febrero de 2024.\r… [+916 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 27 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 27 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-27-de-febrero-nid27022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-blue-hoy-a-cuanto-cotiza-el-viernes-22-de-RPZWWV2JTZDHBCO64WO7FOVHB4.jpg?auth=acc0c1137058154e545deda12462ec7a9c4a004c40766dd2ee870ae286fc6afc&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-27T14:37:27Z",
-      "Content": "Este martes 27 de febrero, el precio del dólar en México es de $17,1260, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2415 chars]"
     }
   ]
 }
