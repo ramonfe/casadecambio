@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 11 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 11 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-11-de-marzo-nid11032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-hoy-a-cuanto-cotiza-la-divisa-HSINLNKUXRHGZF4CRDY2WCARFA.jpg?auth=54c6e3ee9e1fb514794e3b2c06b877067aa2c8353cec44c4196c98951fc83801&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-11T15:20:12Z",
+      "Content": "Este lunes 11 de marzo, el precio del dólar en México es de $16,7985, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2484 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-blue-hoy-a-cuanto-cotiza-el-viernes-22-de-RPZWWV2JTZDHBCO64WO7FOVHB4.jpg?auth=acc0c1137058154e545deda12462ec7a9c4a004c40766dd2ee870ae286fc6afc&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-27T14:37:27Z",
       "Content": "Este martes 27 de febrero, el precio del dólar en México es de $17,1260, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2415 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso anda ‘medio dormido’ contra el dólar: Se cotiza en las 17.13 unidades",
-      "Description": "En tanto, en ventanillas bancarias el precio del billete verde es de 17.57 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/26/peso-dolar-precio-hoy-26-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/FD4C6iTHuMo26Xj7PSdQfzal1UM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PB4CTTXX5FEYVAGE4ULHHLNTHA.jpg",
-      "PublishedAt": "2024-02-26T16:18:30Z",
-      "Content": "El peso mexicano arranca la última semana de febrero en el terreno de las ganancias ante un debilitamiento del dólar, a medida que los operadores están a la espera de mayores catalizadores económicos… [+1474 chars]"
     }
   ]
 }
