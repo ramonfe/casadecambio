@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Indian Express"
+      },
+      "Author": "Reuters",
+      "Title": "India central bank takes delivery of $5 billion dollar/rupee swap, bankers say",
+      "Description": "The Reserve Bank of India's dollar/rupee sell-buy swap conducted in March 2022 matured on Monday. The central bank had the option to take delivery of the swap, roll it over entirely, or opt for a partial rollover.",
+      "Url": "https://indianexpress.com/article/business/banking-and-finance/india-central-bank-takes-delivery-of-5-billion-dollar-rupee-swap-bankers-say-9208629/",
+      "UrlToImage": "https://images.indianexpress.com/2024/03/RBI_b9be40.jpg",
+      "PublishedAt": "2024-03-11T17:43:10Z",
+      "Content": "The Indian central bank did not roll over and took delivery of the $5 billion dollar/rupee swap that matured on Monday, aiming to bolster foreign exchange reserves and rupee liquidity, four bankers s… [+1786 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2024-02-13T14:39:57Z",
       "Content": "ANALYST RECOMMENDATIONS : PayPal, United Airlines, Nvidia, Home Depot, Wizz Air...\r\nEvery morning, find a selection of analysts' recommendations covering North America and the UK. The list only inclu… [+255 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "Nextrush Free",
-      "Title": "News Summary-Intelligence Report Sunday 2/11/2024 Missile Attack Off Yemen, Senate Approves 95 Billion Dollar Foreign Aid...Netanyahu-Biden Conversation...Khan Candidates Top Pakistan Elections, Israel's Finance Minister Sees Politics In Credit Downgrade",
-      "Description": "During tonight's Super Bowl game a TV ad on behalf of the Independent Presidential... An incident reported early Monday morning...off the coast of Yemen...merchant vessel attacked by two missiles... Heavy Israeli airstrikes tonight in the southern Gaza city..…",
-      "Url": "https://freerepublic.com/focus/f-bloggers/4216765/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2024-02-12T05:23:39Z",
-      "Content": "Skip to comments.\r\nNews Summary-Intelligence Report Sunday 2/11/2024 Missile Attack Off Yemen, Senate Approves 95 Billion Dollar Foreign Aid...Netanyahu-Biden Conversation...Khan Candidates Top Pakis… [+2722 chars]"
     }
   ]
 }
