@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 12 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 12 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-12-de-marzo-nid12032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-12-de-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-12T14:41:31Z",
+      "Content": "Este martes 12 de marzo, el precio del dólar en México es de $16,8083,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2868 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/2T5CHswHEyWtoFuP_dBKoaRwon4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GQOOSHJPE5BBPLCPXZ2MYEMRWM.jpg",
       "PublishedAt": "2024-02-28T16:13:12Z",
       "Content": "El peso mexicano se atasca en el terreno de las pérdidas ante el dólar, esto después de que el billete verde se fortaleció después de que revisó al alza el crecimiento de la economía de EU en 2023, q… [+1538 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 28 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 28 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-28-de-febrero-nid28022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-cuanto-cotiza-la-moneda-CZ34OZJHKFCADBXOUS5OBRA6B4.jpg?auth=5729625537e20df34613e208a9e4e7febe9f8a2359d923be86a79685765d1371&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-28T15:23:48Z",
-      "Content": "Este miércoles 28 de febrero, el precio del dólar en México es de $17,0605, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex e… [+2304 chars]"
     }
   ]
 }
