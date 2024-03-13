@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dólar: el blue y los financieros suben hasta $50 como respuesta a las nuevas medidas del Banco Central",
+      "Description": "Tanto el MEP como el contado con liqui registran avances de hasta un 5%, mientras que el tipo de cambio paralelo se vende a $1020",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-el-blue-y-los-financieros-suben-hasta-50-como-respuesta-a-las-nuevas-medidas-del-banco-central-nid12032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-martes-12-de-B3N5UA5JYNCD7DTTHN4G3RCLAA.JPG?auth=167ffd8f957fb24b2fc94d6ac3e89dc32c8f46fd42e4f5a8168eade3d42971c4&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-12T18:30:46Z",
+      "Content": "La respuesta de los dólares libres a las nuevas medidas del Banco Central (BCRA) fue inmediata. Hoy, tanto el blue como los financieros registran alzas de hasta $50, luego de que anoche la autoridad … [+1299 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/HiFd5F0wqWeCzllSXgCIN1fh4O4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4CMQOMSERVC53LI6TVONXQJQEI.jpg",
       "PublishedAt": "2024-02-29T16:01:09Z",
       "Content": "En el mercado cambiario, el peso mexicano busca retomar ganancias, a medida que los inversionistas asimilan el dato del índice de precios de gasto de consumo personal (PCE) en Estados Unidos y espera… [+1425 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 29 de febrero",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 29 de febrero",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-29-de-febrero-nid29022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-KX6A5FUNJJAMNPOYPZU24HBJNE.JPG?auth=f394b3181223872f44410ea95c5f95a888fb6e37f59de389244d37aa551270ff&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-29T15:01:27Z",
-      "Content": "Este jueves 29 de febrero, el precio del dólar en México es de $17,0680, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2285 chars]"
     }
   ]
 }
