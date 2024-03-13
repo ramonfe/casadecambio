@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Inflación de EU ‘empanzona’ al peso frente al dólar: Así se cotiza este martes",
+      "Description": "Janneth Quiroz, directora de análisis económico en Monex, señaló que el peso mexicano se ve afectado por el fortalecimiento que presenta el dólar.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/12/peso-dolar-precio-hoy-12-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/NJVgbrl1e5LeNeys7BCZnWkYvD4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZBYGQX5X75FT7OYH6ZLXN2GNWQ.jpg",
+      "PublishedAt": "2024-03-12T16:17:09Z",
+      "Content": "El peso mexicano inició este martes con retrocesos ante el dólar, luego de que la inflación en Estados Unidos se aceleró a una tasa anual de 3.15 por ciento, desde el 3.09 por ciento registrado el me… [+1605 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-KX6A5FUNJJAMNPOYPZU24HBJNE.JPG?auth=f394b3181223872f44410ea95c5f95a888fb6e37f59de389244d37aa551270ff&width=768&quality=70&smart=false",
       "PublishedAt": "2024-02-29T15:01:27Z",
       "Content": "Este jueves 29 de febrero, el precio del dólar en México es de $17,0680, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2285 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso va pa’trás contra el dólar: Se cotiza en las 17.05 unidades",
-      "Description": "El dólar se vende en un precio de 17.56 pesos cada uno, de acuerdo con los datos reportados por Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/28/peso-va-patras-contra-el-dolar-se-cotiza-en-las-1705-unidades/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/2T5CHswHEyWtoFuP_dBKoaRwon4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GQOOSHJPE5BBPLCPXZ2MYEMRWM.jpg",
-      "PublishedAt": "2024-02-28T16:13:12Z",
-      "Content": "El peso mexicano se atasca en el terreno de las pérdidas ante el dólar, esto después de que el billete verde se fortaleció después de que revisó al alza el crecimiento de la economía de EU en 2023, q… [+1538 chars]"
     }
   ]
 }
