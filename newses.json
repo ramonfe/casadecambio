@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central no detiene la compra de reservas y ya adquirió más de US$ 10.000 millones en la era Milei",
+      "Description": "La entidad sumó otros US$297 millones hoy, al quedarse con casi dos tercios de los dólares operados por la plaza oficial, pese a que crecen las discusiones sobre el nivel efectivo del tipo de cambio",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-no-detiene-la-compra-de-reservas-y-ya-adquirio-mas-de-us-10000-millones-en-la-nid13032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-reservas-del-bcra-superaron-los-39000-O3LNRPUKDZBQJLE7H4RMOKE6YA.jpg?auth=86e19aac770fcbc5c5bce8bc2ff9b7830d3b5f5f6d3e0979c9a77806e4436931&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-13T19:42:40Z",
+      "Content": "El Banco Central (BCRA) adquirió hoy mediante intervenciones sobre el mercado cambiario oficial otros US$297 millones con lo que pasó a acumular más de US$10.000 millones adquiridos en la era Milei, … [+3901 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "El peso se encamina a su mejor nivel de cierre frente al dólar desde diciembre de 2015",
+      "Description": "Forbes México.\n El peso se encamina a su mejor nivel de cierre frente al dólar desde diciembre de 2015\n\nEl peso ha anotado una importante apreciación en lo que va de mes con un avance alrededor de 2.2% y que se suman a las ganancias cercanas al 1% en febrero.…",
+      "Url": "https://www.forbes.com.mx/el-peso-se-encamina-a-su-mejor-nivel-de-cierre-frente-al-dolar-desde-diciembre-de-2015/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-13T19:27:13Z",
+      "Content": "El peso avanzaba este miércoles un 0.77% a 16.6652 unidades frente al dólar, encaminándose a anotar su mejor nivel de cierre desde diciembre de 2015, en una fortaleza que podría no mantenerse en el t… [+1421 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240304/imag/foto_0000000120240304085900/frontis_banco_central.jpeg",
       "PublishedAt": "2024-03-04T11:58:00Z",
       "Content": "Con la inflación casi en la meta de 3% -en enero se registró una variación anual del Índice de Precios al Consumidor de 3,2%-, las expectativas inflacionarias de las empresas continúan reduciéndose. … [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "El Banco Central arrancó marzo pisando más el dólar y rebotaron los futuros en la previa al discurso de Milei",
-      "Description": "La entidad, que compró US$68 millones para sus reservas, dejó subir apenas $0,30 el mayorista; fuertes alzas sobre el cierre en el Matba Rofex",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-arranco-marzo-pisando-mas-el-dolar-y-rebotaron-los-futuros-en-la-previa-al-discurso-nid01032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/los-movimientos-del-dolar-en-la-jornada-volvieron-ID6HUWFYURE7DAURXPDYDJ2PBE.JPG?auth=29282e7adf6f5c48c4ef1a579eb141eb9494e84b7fb0d1b2d9db3357fd21d204&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-01T20:39:58Z",
-      "Content": "El Banco Central (BCRA) retomó hoy la compra de reservas, aunque reduciendo notablemente su nivel de retención en relación al total de dólares operados de contado por la plaza oficial, al quedarse co… [+3655 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso arranca marzo ‘con Tokio’ vs. dólar: ‘Acaricia’ el piso de las 17 unidades",
-      "Description": "Además del peso mexicano, otra moneda latinoamericana con buenas ganancias contra el dólar es el peso chileno, que avanza 0.55%",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/01/peso-dolar-precio-hoy-1-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mO8XMNxjzyXimAsRQnbfenk9anE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BOMOGPNALJBJBBNGAAXGDXXZSI.jpg",
-      "PublishedAt": "2024-03-01T16:37:17Z",
-      "Content": "El peso mexicano inicia la primera jornada de marzo con avances, lo que abonaría a su balance semanal para concluir con una apreciación contra el dólar.\r\nDe acuerdo con Bloomberg, la moneda mexicana … [+1437 chars]"
     }
   ]
 }
