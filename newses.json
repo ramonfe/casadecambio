@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso repunta, regresa a niveles de agosto debajo de 17 unidades por dólar",
+      "Description": "Forbes México.\n Peso repunta, regresa a niveles de agosto debajo de 17 unidades por dólar\n\nEl peso cotizaba en 16.7416 unidades por dólar en los primeros negocios del día, con un alza de 0.31% frente al precio de referencia del martes.\nPeso repunta, regresa a…",
+      "Url": "https://www.forbes.com.mx/peso-repunta-regresa-a-niveles-de-agosto-debajo-de-17-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-03-13T14:33:15Z",
+      "Content": "El peso avanzaba este miércoles en la apertura y se situaba de nuevo en niveles que registró en agosto, en una jornada sin muchos datos en la que los inversionistas esperaban nueva información que pu… [+977 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "13 ‘de la buena suerte’ para el peso: Se cotiza en las 16.75 unidades vs. dólar",
+      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.22 pesos cada uno, según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/13/peso-dolar-precio-hoy-13-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/CTQFUrfhgL2txnY8D7wNneiRIy4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KCR62JQ75RAX3KZPVGSTHBM3FQ.jpg",
+      "PublishedAt": "2024-03-13T14:18:57Z",
+      "Content": "El peso mexicano abre con todo la sesión de este 13 de marzo y se acerca a su mejor nivel desde 2023.\r\nDe acuerdo con datos de Bloomberg, la moneda nacional se aprecia 0.29 por ciento, por lo que el … [+1411 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-el-dolar-en-mexico-hoy-viernes-1-de-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-01T14:53:55Z",
       "Content": "Este viernes 1° de marzo, el precio del dólar en México es de $17,0633, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex está … [+2119 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Record.com.mx"
-      },
-      "Author": "Record.com.mx",
-      "Title": "Febrero cierra el mes con el peso favorable y con ganancias ante el dólar",
-      "Description": "Compra no avanza de los 17 pesos, mientras que la venta la más alta está en 17.94 pesos",
-      "Url": "https://www.record.com.mx/contra/febrero-cierra-el-mes-con-el-peso-favorable-y-con-ganancias-ante-el-dolar",
-      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/02/29/dolarpeso.jpg",
-      "PublishedAt": "2024-03-01T00:54:26Z",
-      "Content": "La moneda mexicana y la bolsa avanzaron el jueves luego de la publicación de un dato clave de inflación en Estados Unidos, que coincidió con las expectativas de los especialistas de CIBanco informaro… [+1819 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Día bisiesto le da ‘suerte’ al peso: Se cotiza en las 17.05 unidades vs. el dólar",
-      "Description": "El dólar muestra pocos cambios después de que el mercado da por descontado que el recorte de la Reserva Federal vendrá pero hasta julio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/02/29/peso-dolar-precio-hoy-29-de-febrero-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/HiFd5F0wqWeCzllSXgCIN1fh4O4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4CMQOMSERVC53LI6TVONXQJQEI.jpg",
-      "PublishedAt": "2024-02-29T16:01:09Z",
-      "Content": "En el mercado cambiario, el peso mexicano busca retomar ganancias, a medida que los inversionistas asimilan el dato del índice de precios de gasto de consumo personal (PCE) en Estados Unidos y espera… [+1425 chars]"
     }
   ]
 }
