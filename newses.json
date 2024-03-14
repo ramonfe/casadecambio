@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 13 de marzo",
+      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 13 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-13-de-marzo-nid13032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-13-de-OV4SUQQFUVGGRG2RF7AFKGIK5E.jpg?auth=d884823094e8048798ff3f53817735b57855593114e6fb5f9c00542781e94a46&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-13T15:15:15Z",
+      "Content": "Este miércoles 13 de marzo, el precio del dólar en México es de $16,8272,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2668 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mO8XMNxjzyXimAsRQnbfenk9anE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BOMOGPNALJBJBBNGAAXGDXXZSI.jpg",
       "PublishedAt": "2024-03-01T16:37:17Z",
       "Content": "El peso mexicano inicia la primera jornada de marzo con avances, lo que abonaría a su balance semanal para concluir con una apreciación contra el dólar.\r\nDe acuerdo con Bloomberg, la moneda mexicana … [+1437 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 1 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 1 de marzo de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-1-de-marzo-nid01032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-el-dolar-en-mexico-hoy-viernes-1-de-HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-01T14:53:55Z",
-      "Content": "Este viernes 1° de marzo, el precio del dólar en México es de $17,0633, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex está … [+2119 chars]"
     }
   ]
 }
