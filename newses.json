@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "El peso tiene mejor nivel frente al dólar desde finales de julio",
+      "Description": "Forbes México.\n El peso tiene mejor nivel frente al dólar desde finales de julio\n\nEl dólar se vende al cierre en 16.6759 pesos, lo que significó una apreciación de 0.74% para la moneda nacional, según datos de Banxico.\nEl peso tiene mejor nivel frente al dóla…",
+      "Url": "https://www.forbes.com.mx/el-peso-tiene-mejor-nivel-frente-al-dolar-desde-finales-de-julio/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9722.webp",
+      "PublishedAt": "2024-03-13T22:18:33Z",
+      "Content": "El tipo de cambio cerró la jornada de este miércoles en 16.6759 pesos por dólar, el mejor nivel para la moneda mexicana desde el 28 de julio pasado, de acuerdo con datos de Banxico.\r\nCon el precio de… [+1412 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -376,19 +389,6 @@
       "Title": "Sondeo del Banco Central: expectativas de inflación de los empresarios continúan reduciéndose, pero preocupa el alza del dólar",
       "Description": "El instituto emisor publicó este lunes los resultados de su Encuesta de Determinantes y Expectativas de Precios (EDEP) correspondiente al trimestre móvil noviembre 2023-enero 2024.",
       "Url": "https://www.df.cl/economia-y-politica/macro/sondeo-del-banco-central-expectativas-de-inflacion-de-los-empresarios-1",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240304/imag/foto_0000000120240304085900/frontis_banco_central.jpeg",
-      "PublishedAt": "2024-03-04T11:58:00Z",
-      "Content": "Con la inflación casi en la meta de 3% -en enero se registró una variación anual del Índice de Precios al Consumidor de 3,2%-, las expectativas inflacionarias de las empresas continúan reduciéndose. … [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Catalina Vergara",
-      "Title": "Sondeo del Banco Central: expectativas de inflación de los empresarios continúan reduciéndose, pero preocupa el alza del dólar",
-      "Description": "El instituto emisor publicó este lunes los resultados de su Encuesta de Determinantes y Expectativas de Precios (EDEP) correspondiente al trimestre móvil noviembre 2023-enero 2024.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/sondeo-del-banco-central-expectativas-de-inflacion-de-los-empresarios-0",
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240304/imag/foto_0000000120240304085900/frontis_banco_central.jpeg",
       "PublishedAt": "2024-03-04T11:58:00Z",
       "Content": "Con la inflación casi en la meta de 3% -en enero se registró una variación anual del Índice de Precios al Consumidor de 3,2%-, las expectativas inflacionarias de las empresas continúan reduciéndose. … [+1849 chars]"
