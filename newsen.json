@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar Tree's 1,000 store closure tells the perils of poor acquisitions - Yahoo Finance",
+      "Description": "Dollar Tree's 1,000 store closure tells the perils of poor acquisitionsYahoo Finance Family Dollar to Close Nearly 1000 StoresThe New York Times Dollar Tree to decimate Family Dollar, closing nearly 1,000 storesSFGATE Dollar Tree and Family Dollar will close …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173281925",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-13T20:14:21Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://usrimg-full.fark.net/M/M3/fark_M3nIerNL9kqb9gTltN1jjMXKI18.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1708318800&Signature=6DpUGxxcTL8tXpHVhNvCag8anOA%3D",
       "PublishedAt": "2024-02-15T01:35:20Z",
       "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "International Business Times"
-      },
-      "Author": "Jarin Noshin",
-      "Title": "US Treasury: Dollar Alternatives Not Seen As Primary Illicit Finance Threat",
-      "Description": "US Treasury Department suggests that while dollar alternatives are emerging, they do not currently pose a major threat in illicit finance activities.",
-      "Url": "https://www.ibtimes.com/us-treasury-dollar-alternatives-not-seen-primary-illicit-finance-threat-3724624",
-      "UrlToImage": "https://d.ibtimes.com/en/full/4492399/yields-bonds-issued-us-treasury-have-hit-multiyear-peaks-recent-days-unnerving-investors.jpg",
-      "PublishedAt": "2024-02-14T20:18:53Z",
-      "Content": "The U.S. believes that emerging cross-border payment systems and alternative currencies, despite their growth, still don't pose a big threat to its attempts to stop adversaries like Iran, North Korea… [+2922 chars]"
     }
   ]
 }
