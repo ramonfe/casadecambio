@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 31,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Quartz India"
+      },
+      "Author": "Francisco Velasquez",
+      "Title": "Dollar Tree is closing 1,000 stores as it loses money fast",
+      "Description": "Consumers may have to try a little harder to find bargains at Dollar Tree — because there will be fewer Dollar Tree stores to find. The discount retailer said early Wednesday that it plans to close almost 1,000 of its locations, after it lost $1.7 billion in …",
+      "Url": "https://qz.com/dollar-tree-closing-stores-earnings-stock-1851331008",
+      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/097972e20473fd0ac29cc8b8777d442e.jpg",
+      "PublishedAt": "2024-03-13T12:26:00Z",
+      "Content": "Shoppers may have to try a little harder to find bargains at Dollar Tree because there will be fewer Dollar Tree stores to find. The discount retailer said early Wednesday that it plans to close almo… [+1011 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://d.ibtimes.com/en/full/4492399/yields-bonds-issued-us-treasury-have-hit-multiyear-peaks-recent-days-unnerving-investors.jpg",
       "PublishedAt": "2024-02-14T20:18:53Z",
       "Content": "The U.S. believes that emerging cross-border payment systems and alternative currencies, despite their growth, still don't pose a big threat to its attempts to stop adversaries like Iran, North Korea… [+2922 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "KENYA FINANCE MINISTRY: TO USE PROCEEDS OF NEW DOLLAR BOND TO FU…",
-      "Description": "(marketscreener.com) \n KENYA FINANCE MINISTRY: TO USE PROCEEDS OF NEW DOLLAR BOND TO FUND OFFER TO BUY BACK EXISTING $2 BLN EUROBOND\n https://www.marketscreener.com/news/latest/KENYA-FINANCE-MINISTRY-TO-USE-PROCEEDS-OF-NEW-DOLLAR-BOND-TO-FU--45941046/?utm_med…",
-      "Url": "https://www.marketscreener.com/news/latest/KENYA-FINANCE-MINISTRY-TO-USE-PROCEEDS-OF-NEW-DOLLAR-BOND-TO-FU--45941046/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-02-13T14:39:57Z",
-      "Content": "ANALYST RECOMMENDATIONS : PayPal, United Airlines, Nvidia, Home Depot, Wizz Air...\r\nEvery morning, find a selection of analysts' recommendations covering North America and the UK. The list only inclu… [+255 chars]"
     }
   ]
 }
