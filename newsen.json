@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 32,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Family Dollar And Dollar Tree Prepare To Shut Down Roughly 1,000 Stores: Evaluating The Market Impact And Potential Investment Alternatives - Yahoo Finance",
+      "Description": "Family Dollar And Dollar Tree Prepare To Shut Down Roughly 1,000 Stores: Evaluating The Market Impact And Potential Investment AlternativesYahoo Finance Family Dollar and Dollar Tree will close 1,000 storesCNN Family Dollar stores closing: Nearly 1,000 locati…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173283809",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-14T03:13:56Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.chzbgr.com/thumb1200/24470277/h438FB3B5/homeless-homeless-guy-reddit-petty-petty-revenge-revenge-entitled-entitled-people-payback-deserve",
       "PublishedAt": "2024-02-15T18:00:00Z",
       "Content": "For some reason, the Karens of the world feel a sense of self-fulfillment when they bully everyone around them, stomping on the necks of every minimum wage worker that they can get their claws into. … [+863 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Japan's top currency diplomat has yen to keep nation's money strong versus the dollar, blames speculators [Obvious]",
-      "Description": "Japan's top currency diplomat has yen to keep nation's money strong versus the dollar, blames speculators",
-      "Url": "https://www.fark.com/comments/13154720/Japans-top-currency-diplomat-has-yen-to-keep-nations-money-strong-versus-dollar-blames-speculators",
-      "UrlToImage": "https://usrimg-full.fark.net/M/M3/fark_M3nIerNL9kqb9gTltN1jjMXKI18.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1708318800&Signature=6DpUGxxcTL8tXpHVhNvCag8anOA%3D",
-      "PublishedAt": "2024-02-15T01:35:20Z",
-      "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
     }
   ]
 }
