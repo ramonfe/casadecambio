@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 14 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 14 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-14-de-marzo-nid14032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-14-de-GMI3QMFJ5FGA3LIRYITVESCLLA.jpg?auth=6d3eccf3e4705885c1062ed8110b0414a3dc5f6546afe1abe2f55e57089a6477&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-14T13:54:00Z",
+      "Content": "Este jueves 14 de marzo, el precio del dólar en México es de $16,7127, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2627 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-este-lunes-4-de-marzo-en-A5KOF4T7EFB4JMHXFYQFF467SM.jpg?auth=d242d00a05d806ef2b6ef0526edaa767ce08b3bd664d01cefae37df33fa13c90&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-04T15:17:29Z",
       "Content": "Este lunes 4 de marzo, el precio del dólar en México es de $17,0962, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2289 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Catalina Vergara",
-      "Title": "Sondeo del Banco Central: expectativas de inflación de los empresarios continúan reduciéndose, pero preocupa el alza del dólar",
-      "Description": "El instituto emisor publicó este lunes los resultados de su Encuesta de Determinantes y Expectativas de Precios (EDEP) correspondiente al trimestre móvil noviembre 2023-enero 2024.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/sondeo-del-banco-central-expectativas-de-inflacion-de-los-empresarios-1",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240304/imag/foto_0000000120240304085900/frontis_banco_central.jpeg",
-      "PublishedAt": "2024-03-04T11:58:00Z",
-      "Content": "Con la inflación casi en la meta de 3% -en enero se registró una variación anual del Índice de Precios al Consumidor de 3,2%-, las expectativas inflacionarias de las empresas continúan reduciéndose. … [+1849 chars]"
     }
   ]
 }
