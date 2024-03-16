@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 15 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 15 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-15-de-marzo-nid15032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-el-dolar-en-los-bancos-de-mexico-este-F2ZJ3WN6CJHT7IVXEMUVM22HDI.jpg?auth=f76205d40a201a5f907bd517a1e3d52bb4cd3c2adf20ebaef7bb850c241119a2&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-15T15:24:00Z",
+      "Content": "Este viernes 15 de marzo, el precio del dólar en México es de $16,692, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2169 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VxJIVmrE6RGjpFc8-o-Z0IY7Cbo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GDMYKMVVDFFUZCS7KJC3PGZUBI.jpg",
       "PublishedAt": "2024-03-04T17:09:50Z",
       "Content": "La moneda mexicana inicia una semana que estará cargada de información económica rompiendo el piso de las 17 unidades contra el dólar.\r\nDe acuerdo con datos de Bloomberg, la moneda nacional se apreci… [+1398 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 4 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 4 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-4-de-marzo-nid04032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-este-lunes-4-de-marzo-en-A5KOF4T7EFB4JMHXFYQFF467SM.jpg?auth=d242d00a05d806ef2b6ef0526edaa767ce08b3bd664d01cefae37df33fa13c90&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-04T15:17:29Z",
-      "Content": "Este lunes 4 de marzo, el precio del dólar en México es de $17,0962, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2289 chars]"
     }
   ]
 }
