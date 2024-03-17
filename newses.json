@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso es la moneda con mayor avance frente al dólar",
+      "Description": "El tipo de cambio se colocó en su mejor nivel en siete meses, pues concluyó la jornada del viernes en 16.71 pesos por dólar, lo que se tradujo en una apreciación semanal de 0.52 por ciento, de acuerdo con datos del Banco de México (BdeM).",
+      "Url": "https://www.jornada.com.mx/2024/03/16/economia/014n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-03-16T07:54:05Z",
+      "Content": "Periódico La JornadaSábado 16 de marzo de 2024, p. 14\r\nEl tipo de cambio se colocó en su mejor nivel en siete meses, pues concluyó la jornada del viernes en 16.71 pesos por dólar, lo que se tradujo e… [+2341 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
       "PublishedAt": "2024-03-04T21:14:30Z",
       "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (04 marzo 2024) .-14:02 (Actualización: 15:00 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘saca a pasear’ al dólar: Rompe piso de las 17 unidades y así se cotiza",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.43 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/04/peso-dolar-precio-hoy-4-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/VxJIVmrE6RGjpFc8-o-Z0IY7Cbo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GDMYKMVVDFFUZCS7KJC3PGZUBI.jpg",
-      "PublishedAt": "2024-03-04T17:09:50Z",
-      "Content": "La moneda mexicana inicia una semana que estará cargada de información económica rompiendo el piso de las 17 unidades contra el dólar.\r\nDe acuerdo con datos de Bloomberg, la moneda nacional se apreci… [+1398 chars]"
     }
   ]
 }
