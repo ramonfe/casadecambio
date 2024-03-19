@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Moneycontrol"
+      },
+      "Author": "Reuters",
+      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
+      "Description": "Central banks in the United States, Japan, UK, Sweden, Switzerland, Australia, Brazil and Mexico all meet and, while most are expected to hold steady, there is plenty of scope for surprises.",
+      "Url": "https://www.moneycontrol.com/news/business/markets/asia-shares-idle-dollar-firm-ahead-of-central-bank-bonanza-12477191.html",
+      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2019/08/Asian-Markets-770x433.jpg",
+      "PublishedAt": "2024-03-18T00:50:23Z",
+      "Content": "Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps a slower… [+4022 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
+      "Description": "Asia shares idle, dollar firm ahead of central bank bonanza",
+      "Url": "https://www.investing.com/news/economy/asia-shares-idle-dollar-firm-ahead-of-central-bank-bonanza-3341176",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_4_800x533_L_1413112066.jpg",
+      "PublishedAt": "2024-03-18T00:31:00Z",
+      "Content": "By Wayne Cole\r\nSYDNEY (Reuters) - Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free m… [+4064 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
+      "Description": "SYDNEY : Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps a slower glide path for U.S. rate cuts.Central banks in the…",
+      "Url": "https://www.channelnewsasia.com/business/asia-shares-idle-dollar-firm-ahead-central-bank-bonanza-4202051",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--X4w3NHCK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-03-18t002811z_1_lynxnpek2h00h_rtroptp_3_kenya-markets.jpg?itok=EPigJkdR",
+      "PublishedAt": "2024-03-18T00:28:11Z",
+      "Content": "SYDNEY : Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps… [+4153 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a026660d-4e50-4d3e-8d23-cfd9d6078897",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-18T00:28:11Z",
+      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
+      "Description": "(marketscreener.com) Asian shares idled and the\ndollar held firm on Monday as investors looked to navigate a\nminefield of central bank meetings this week that could see the\nend of free money in Japan and perhaps a slower glide path for\nU.S. rate cuts.\n Centra…",
+      "Url": "https://www.marketscreener.com/news/latest/Asia-shares-idle-dollar-firm-ahead-of-central-bank-bonanza-46216710/",
+      "UrlToImage": "https://www.marketscreener.com/images/reuters/2023-11/2023-11-09T002121Z_1_LYNXMPEJA800I_RTROPTP_3_JAPAN-ECONOMY-BOJ.JPG",
+      "PublishedAt": "2024-03-18T00:22:16Z",
+      "Content": "* Asian stock markets : https://tmsnrt.rs/2zpUAr4\r\n* Nikkei bounces, S&amp;P 500 futures edge higher\r\n* Markets brace for BOJ to end negative rates\r\n* Fed seen on hold, but might signal slower rate c… [+4393 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
       "PublishedAt": "2024-02-20T19:30:00Z",
       "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DailyFX"
-      },
-      "Author": "Richard Snow",
-      "Title": "Central Bank Speakers in the Limelight and a Softer Dollar Props up Gold",
-      "Description": "The Bank of England's Monetary Policy Committee faced questions around the economic outlook and inflation. The recent USD decline has buoyed gold's recovery",
-      "Url": "https://www.dailyfx.com/analysis/central-bank-speakers-in-the-limelight-and-a-softer-dollar-props-up-gold-20240220.html",
-      "UrlToImage": "https://a.c-dn.net/b/1hJUKp/Copy+of+DFX+UPDATED+THUMBNAILS+%2842%29.jpg",
-      "PublishedAt": "2024-02-20T15:30:45Z",
-      "Content": "(AI Video Summary)\r\nRepresentatives from the Bank of England recently went before a parliamentary committee to talk about their outlook for the economy and inflation. They were divided on whether to … [+2128 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Instapundit.com"
-      },
-      "Author": "Robert Shibley",
-      "Title": "DUKE SETTLES MULTI-MILLION DOLLAR PRICE-FIXING LAWSUIT. Along with Brown, Columbia, Emory, and Yale.",
-      "Description": "DUKE SETTLES MULTI-MILLION DOLLAR PRICE-FIXING LAWSUIT. Along with Brown, Columbia, Emory, and Yale. Will it occur to anyone in academia that they are vulnerable to such settlements precisely because nobody would put it past them?",
-      "Url": "https://instapundit.com/632918/",
-      "UrlToImage": "https://instapundit.com/wp-content/themes/instapundit/images/opengraph-default.png",
-      "PublishedAt": "2024-02-19T16:48:45Z",
-      "Content": "DUKE SETTLES MULTI-MILLION DOLLAR PRICE-FIXING LAWSUIT. Along with Brown, Columbia, Emory, and Yale. Will it occur to anyone in academia that they are vulnerable to such settlements precisely because… [+30 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Joel Rebello",
-      "Title": "If somebody wants a billion dollar cheque, we can do it: Yasuhiro Kubota, Asia Pacific Co-CEO, Mizuho Bank",
-      "Description": "Mizuho Bank, Japan's third-largest 'megabank', has made a significant investment in India, allowing it to create a lending capacity and support local Indian corporates. The bank specializes in loan against shares, promoter financing, and large ticket acquisit…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/if-somebody-wants-a-billion-dollar-cheque-we-can-do-it-yasuhiro-kubota-asia-pacific-co-ceo-mizuho-bank/articleshow/107804683.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-107801809,width-1200,height-630,imgsize-30708,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-02-18T18:54:07Z",
-      "Content": "Mizuho Bank, Japans third-largest megabank with close to $2 trillion in assets, made its biggest bet in India with a Rs 4,100-crore capital infusion in November and followed it up with a Rs 1,200-cro… [+5013 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Dollar General Co. (NYSE:DG) Stock Holdings Decreased by Bank Julius Baer & Co. Ltd Zurich",
-      "Description": "Bank Julius Baer & Co. Ltd Zurich reduced its holdings in Dollar General Co. (NYSE:DG – Free Report) by 15.1% during the 3rd quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The firm owned 962 shares o…",
-      "Url": "https://www.etfdailynews.com/2024/02/18/dollar-general-co-nysedg-stock-holdings-decreased-by-bank-julius-baer-co-ltd-zurich/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-02-18T16:04:41Z",
-      "Content": "Bank Julius Baer &amp; Co. Ltd Zurich reduced its holdings in Dollar General Co. (NYSE:DG – Free Report) by 15.1% during the 3rd quarter, according to the company in its most recent 13F filing with t… [+5413 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Deutsche Bank AG Trims Position in Dollar General Co. (NYSE:DG)",
-      "Description": "Deutsche Bank AG decreased its holdings in shares of Dollar General Co. (NYSE:DG – Free Report) by 14.9% during the 3rd quarter, according to its most recent disclosure with the Securities & Exchange Commission. The fund owned 452,326 shares of the company’s …",
-      "Url": "https://www.etfdailynews.com/2024/02/17/deutsche-bank-ag-trims-position-in-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-02-17T14:28:55Z",
-      "Content": "Deutsche Bank AG decreased its holdings in shares of Dollar General Co. (NYSE:DG – Free Report) by 14.9% during the 3rd quarter, according to its most recent disclosure with the Securities &amp; Exch… [+5257 chars]"
     }
   ]
 }
