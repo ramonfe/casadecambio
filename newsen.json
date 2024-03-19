@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Gold listless as central bank meetings loom, dollar holds firm",
+      "Description": "Spot gold was little changed at $2,156.69 per ounce, as of 0059 GMT. U.S. gold futures inched 0.1% lower to $2,159.90.",
+      "Url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-listless-as-central-bank-meetings-loom-dollar-holds-firm/articleshow/108572648.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-108572671,width-1200,height-630,imgsize-736658,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-03-18T02:25:05Z",
+      "Content": "Gold struggled for momentum in early Asian hours on Monday as the dollar held firm and investors braced for a series of major central bank policy meetings including the U.S. Federal Reserve this week… [+1390 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Asian shares idle, dollar firm ahead of central bank bonanza",
+      "Description": "Central banks in the United States, Japan, UK, Sweden, Switzerland, Australia, Brazil and Mexico all meet and, while most are expected to hold steady, there is plenty of scope for surprises.",
+      "Url": "https://economictimes.indiatimes.com/markets/stocks/news/asia-shares-idle-dollar-firm-ahead-of-central-bank-bonanza/articleshow/108572563.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-108572599,width-1200,height-630,imgsize-252278,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-03-18T02:21:00Z",
+      "Content": "Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps a slower… [+4082 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://media.cryptoglobe.com/2022/03/dmitry-demidko-OG3A-ilG8AY-unsplash-768x512.jpg",
       "PublishedAt": "2024-02-23T04:40:00Z",
       "Content": "The flagship cryptocurrency Bitcoin ($BTC) could be on the cusp of unlocking a massive $500 billion opportunity in the rapidly expanding decentralized finance (DeFi) sector, according to a partner wi… [+2440 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dodbuzz.com"
-      },
-      "Author": "Alexis Alden",
-      "Title": "Dollar To Naira Bank Rate Today: Check Information On Pounds And Cbn Exchange Value",
-      "Description": "Learn about Naira's journey resembling roller-coasters, navigating fluctuating markets, political uncertainties, economic turbulence, and shifts of Pounds, Cbn Exchange value, and Dollar to Naira Bank Rate Today!\r\nThe fall of Naira currency in 2024 may stem f…",
-      "Url": "https://dodbuzz.com/dollar-to-naira-bank-rate-today/",
-      "UrlToImage": "https://dodbuzz.com/wp-content/uploads/2024/02/Latest-News-Dollar-To-Naira-Bank-Rate-Today.jpg",
-      "PublishedAt": "2024-02-22T12:22:48Z",
-      "Content": "Learn about Naira’s journey resembling roller-coasters, navigating fluctuating markets, political uncertainties, economic turbulence, and shifts of Pounds, Cbn Exchange value, and Dollar to Naira Ban… [+4973 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Virginia government: How dare you tax-paying peasants demand details of our billion-dollar giveaway of your money to a wealthy businessman? Open Records Laws? LOL, you think we follow \"laws\" [Fail]",
-      "Description": "Virginia government: How dare you tax-paying peasants demand details of our billion-dollar giveaway of your money to a wealthy businessman? Open Records Laws? LOL, you think we follow \"laws\"",
-      "Url": "https://www.fark.com/comments/13161002/Virginia-government-How-dare-you-tax-paying-peasants-demand-details-of-our-billion-dollar-giveaway-of-your-money-to-a-wealthy-businessman-Open-Records-Laws-LOL-you-think-we-follow-laws",
-      "UrlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
-      "PublishedAt": "2024-02-20T19:30:00Z",
-      "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
     }
   ]
 }
