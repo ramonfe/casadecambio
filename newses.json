@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Roberto Casado",
+      "Title": "Cómo afectaría al dólar y el euro el regreso de Donald Trump a la Casa Blanca",
+      "Description": "Una de las vías más claras para apostar ante las elecciones presidenciales que Estados Unidos celebra en el mes de noviembre se encuentra en el mercado de divisas. Así como el...",
+      "Url": "https://www.expansion.com/mercados/2024/03/18/65f88c58468aebce778b4584.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/61e74d82c2fee7fe54a02d15a299c06d/crop/287x123/1761x1105/resize/1200/f/webp/assets/multimedia/imagenes/2024/03/18/17107877242898.jpg",
+      "PublishedAt": "2024-03-18T19:39:52Z",
+      "Content": "Los analistas no descartan el regreso a la paridad entre las dos divisas.Una de las vías más claras para apostar ante las elecciones presidenciales que Estados Unidos celebra en el mes de noviembre s… [+319 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-05T15:25:02Z",
       "Content": "Este martes 5 de marzo, el precio del dólar en México es de $16,9828, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2833 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso rompe barrera de las 17 unidades por dólar; BMV cae arrastrada por las Águilas y Volaris",
-      "Description": "Forbes México.\n Peso rompe barrera de las 17 unidades por dólar; BMV cae arrastrada por las Águilas y Volaris\n\nEl peso cotizaba en 16.9479 por dólar casi al final de los negocios, con una apreciación de 0.37% frente al precio de referencia de Reuters del vier…",
-      "Url": "https://www.forbes.com.mx/peso-rompe-barrera-de-las-17-unidades-por-dolar-bmv-cae-arrastrada-por-las-aguilas-y-volaris/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2021/04/peso.jpg",
-      "PublishedAt": "2024-03-04T22:33:45Z",
-      "Content": "El peso avanzó este lunes y la Bolsa Mexicana de Valores (BMV) retrocedió tras dos sesiones de ganancias, en el inicio de una semana repleta de referencias económicas relevantes, entre ellas, el test… [+1954 chars]"
     }
   ]
 }
