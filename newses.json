@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 18 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 18 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-18-de-marzo-nid18032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-18T15:15:06Z",
+      "Content": "Este 18 de marzo, el precio del dólar en México es de $16,692, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un prome… [+2278 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2021/04/peso.jpg",
       "PublishedAt": "2024-03-04T22:33:45Z",
       "Content": "El peso avanzó este lunes y la Bolsa Mexicana de Valores (BMV) retrocedió tras dos sesiones de ganancias, en el inicio de una semana repleta de referencias económicas relevantes, entre ellas, el test… [+1954 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Cierra peso debajo de $17 por dólar en el mercado mundial",
-      "Description": "El tipo de cambio cotizó debajo de 17 pesos por dólar en el mercado mundial este lunes, con los mercados atentos a datos económicos en EU.",
-      "Url": "https://www.reforma.com/rompe-el-peso-barrera-de-17-por-dolar-en-el-mercado-mundial/ar2767567",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/546/5545395.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-03-04T21:14:30Z",
-      "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (04 marzo 2024) .-14:02 (Actualización: 15:00 hrs)"
     }
   ]
 }
