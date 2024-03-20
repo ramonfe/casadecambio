@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Star Online"
+      },
+      "Author": "The Star Online",
+      "Title": "Finance Ministry: Ringgit's decline driven by stronger US dollar, China uncertainty",
+      "Description": "KUALA LUMPUR: The recent depreciation of the ringgit was largely driven by the strengthening of the United States dollar (USD) and the uncertainty of China’s economic growth, says the Finance Ministry. Read full story",
+      "Url": "https://www.thestar.com.my/news/nation/2024/03/19/finance-ministry-ringgit039s-decline-driven-by-stronger-us-dollar-china-uncertainty",
+      "UrlToImage": "https://apicms.thestar.com.my/uploads/images/2024/03/19/2599485.jpg",
+      "PublishedAt": "2024-03-19T00:43:00Z",
+      "Content": "KUALA LUMPUR: The recent depreciation of the ringgit was largely driven by the strengthening of the United States dollar (USD) and the uncertainty of Chinas economic growth, says the Finance Ministry… [+1553 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-02-24T12:01:22Z",
       "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CryptoGlobe"
-      },
-      "Author": "CryptoGlobe Writer",
-      "Title": "Bitcoin Eyes ‘Untapped Half-Trillion Dollar Opportunity’ in Decentralized Finance, Pantera Capital Says",
-      "Description": "The flagship cryptocurrency Bitcoin ($BTC) could be on the cusp of unlocking a massive $500 billion opportunity in the rapidly expanding decentralized finance (DeFi) sector, according to a partner with leading cryptocurrency hedge fund Pantera Capital. As rep…",
-      "Url": "https://www.cryptoglobe.com/latest/2024/02/bitcoin-eyes-untapped-half-trillion-dollar-opportunity-in-decentralized-finance-pantera-capital-says/",
-      "UrlToImage": "https://media.cryptoglobe.com/2022/03/dmitry-demidko-OG3A-ilG8AY-unsplash-768x512.jpg",
-      "PublishedAt": "2024-02-23T04:40:00Z",
-      "Content": "The flagship cryptocurrency Bitcoin ($BTC) could be on the cusp of unlocking a massive $500 billion opportunity in the rapidly expanding decentralized finance (DeFi) sector, according to a partner wi… [+2440 chars]"
     }
   ]
 }
