@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 36,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Indiabulls Housing Finance to issue dollar bonds, bankers say",
+      "Description": "(marketscreener.com) Indiabulls Housing Finance plans to raise funds through the sale of dollar-denominated bonds maturing in three years and three months, two merchant bankers said on Tuesday.https://www.marketscreener.com/quote/stock/INDIABULLS-HOUSING-FINA…",
+      "Url": "https://www.marketscreener.com/quote/stock/INDIABULLS-HOUSING-FINANC-13704753/news/Indiabulls-Housing-Finance-to-issue-dollar-bonds-bankers-say-46230380/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "PublishedAt": "2024-03-19T11:12:42Z",
+      "Content": "MUMBAI (Reuters) - Indiabulls Housing Finance plans to raise funds through the sale of dollar-denominated bonds maturing in three years and three months, two merchant bankers said on Tuesday.\r\n The n… [+414 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/02/jpmorgan-chase-banks.jpg",
       "PublishedAt": "2024-02-24T16:33:40Z",
       "Content": "A JPMorgan Chase customer who watched tens of thousands of dollars exit her account says she’s more upset with the bank than the scammers who made her a target.\r\nKristal Kuhn in San Diego says she re… [+2145 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "9 Dollar Tree Buys Redditors Swear By To Save Money",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a3ce3d41-1efb-4bd9-968e-4b6733bc7624",
-      "UrlToImage": null,
-      "PublishedAt": "2024-02-24T12:01:22Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
