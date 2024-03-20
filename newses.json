@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 19 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este mates 19 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-19-de-marzo-nid19032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-TJCDW5XVB5HZRPQARCJD322YPY.jpg?auth=452e7af23a8c79a997af79d1b50f4b197da8026dd4b4f4158a2a9393a75b1c1d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-19T14:43:02Z",
+      "Content": "Este 19 de marzo, el precio del dólar en México es de $16,710, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un prome… [+2169 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/f-laVFwOlhpKn1JmgDlcEc_jSNs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BKLK26BD2FEHJAUSFHKFFCPNSE.jpg",
       "PublishedAt": "2024-03-05T16:55:15Z",
       "Content": "El peso mexicano anticipa otra jornada por debajo de las 17 unidades frente al dólar durante este 5 de marzo. \r\nDe acuerdo con Bloomberg, la moneda nacional se aprecia 0.26 por ciento, por lo que el … [+1678 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 5 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 5 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-5-de-marzo-nid05032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-05T15:25:02Z",
-      "Content": "Este martes 5 de marzo, el precio del dólar en México es de $16,9828, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2833 chars]"
     }
   ]
 }
