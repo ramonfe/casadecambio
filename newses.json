@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso avanza vs. el dólar en día de decisión de la Fed: Se cotiza en las 16.77 unidades",
+      "Description": "Los especialistas estarán atentos al diagrama de puntos que publique la Fed para conocer cuándo serían los probables recortes de la Fed a su tasa.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/20/peso-dolar-precio-hoy-20-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/o2i-3NulX95rx7oiOo3K_dKY3jg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/AG6HVGHFYZEOVLJBE2SPHVFFAM.jpg",
+      "PublishedAt": "2024-03-20T15:41:29Z",
+      "Content": "El peso mexicano inicia con avances la jornada bursátil de este 20 de marzo en la que el catalizador principal para los mercados financieros será la decisión de política monetaria de la Reserva Feder… [+1554 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/QEurj17Abhm7kSat6rRklSktIeQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TX5O7VRZ7VHTVPUV7OQG2Q5CX4.jpg",
       "PublishedAt": "2024-03-06T16:15:28Z",
       "Content": "El peso mexicano se adentra en el terreno de las 16 unidades frente al dólar, mientras los operadores están atentos a la declaración del presidente de la Fed, Jerome Powell, frente al Congreso estado… [+2128 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 6 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 6 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-6-de-marzo-nid06032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizan-los-mercados-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-06T14:58:02Z",
-      "Content": "Este miércoles 6 de marzo, el precio del dólar en México es de $17,0217,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex tiene… [+2271 chars]"
     }
   ]
 }
