@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 35,
+  "TotalResults": 36,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-02-28T20:47:55Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "JPMorgan Chase Customer Furious After $49,500 Drained From Bank Account – Victim Says Trillion-Dollar Lender Was Alerted Immediately, Failed Miserably",
-      "Description": "A JPMorgan Chase customer who watched tens of thousands of dollars exit her account says she’s more upset with the bank than the scammers who made her a target. Kristal Kuhn in San Diego says she recently received a phone call from someone pretending to work …",
-      "Url": "https://dailyhodl.com/2024/02/24/jpmorgan-chase-customer-furious-after-49500-drained-from-bank-account-victim-says-trillion-dollar-lender-was-alerted-immediately-failed-miserably/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/02/jpmorgan-chase-banks.jpg",
-      "PublishedAt": "2024-02-24T16:33:40Z",
-      "Content": "A JPMorgan Chase customer who watched tens of thousands of dollars exit her account says she’s more upset with the bank than the scammers who made her a target.\r\nKristal Kuhn in San Diego says she re… [+2145 chars]"
     }
   ]
 }
