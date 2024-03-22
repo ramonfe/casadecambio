@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 21 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 21 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-21-de-marzo-nid21032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-21-de-B5G2LW23ABC45DOZJ66EIYEOOM.jpg?auth=c7f2d8cd54457ec67f08c2ccc707d3731310a3b24456d1b6043711faeb00249f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-21T15:28:25Z",
+      "Content": "Este jueves 21 de marzo, el precio del dólar en México es de $16,759, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2185 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-03-07T09:44:42Z",
       "Content": "Periódico La JornadaJueves 7 de marzo de 2024, p. 21\r\nPese al desfase de políticas monetarias entre México y Estados Unidos, que hará disminuir a corto plazo el diferencial de tasas de interés entre … [+2211 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso busca nuevo récord de 2024 vs. dólar: Gana y se cotiza en las 16.85 unidades",
-      "Description": "En su conferencia de este miércoles, Jerome Powell dijo que la Fed necesita más confianza para empezar a recortar más la tasa de interés.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/06/peso-dolar-precio-hoy-9-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/QEurj17Abhm7kSat6rRklSktIeQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TX5O7VRZ7VHTVPUV7OQG2Q5CX4.jpg",
-      "PublishedAt": "2024-03-06T16:15:28Z",
-      "Content": "El peso mexicano se adentra en el terreno de las 16 unidades frente al dólar, mientras los operadores están atentos a la declaración del presidente de la Fed, Jerome Powell, frente al Congreso estado… [+2128 chars]"
     }
   ]
 }
