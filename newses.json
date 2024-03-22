@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Al peso le da la ‘chiripiorca’ antes del anuncio de Banxico: Pierde 8 centavos vs. el dólar",
+      "Description": "Analistas de CIBanco pronosticaron que el tipo de cambio se moverá entre las 16.65 y 16.90 unidades por dólar durante la jornada de este jueves.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/21/peso-dolar-precio-hoy-21-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/08CjvOub2_lmgy--P1SghLA9Btw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/B7UC5MWWCVEAJIRNXA7YVGGJXA.jpg",
+      "PublishedAt": "2024-03-21T16:31:24Z",
+      "Content": "El peso mexicano comienza la jornada bursátil de este 21 de marzo con correcciones ante el dólar, previo a que el Banco de México dé a conocer su decisión de política monetaria. \r\nInformación de Bloo… [+1280 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizan-los-mercados-VE5BJM2CBNF3BCTIHQKQ24ZB6Y.jpg?auth=834c8da78f18ba75f4fdef54f58e44af3ef6370ba047b8ec3cad99d7879f1248&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-07T14:43:11Z",
       "Content": "Este jueves 7 de marzo, el precio del dólar en México es de $17,82, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un … [+2073 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso hila cinco jornadas de ganancia frente al dólar",
-      "Description": "Pese al desfase de políticas monetarias entre México y Estados Unidos, que hará disminuir a corto plazo el diferencial de tasas de interés entre ambas economías, México sigue siendo atractivo para los inversionistas internacionales, de ahí la fortaleza de la …",
-      "Url": "https://www.jornada.com.mx/2024/03/07/economia/021n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-03-07T09:44:42Z",
-      "Content": "Periódico La JornadaJueves 7 de marzo de 2024, p. 21\r\nPese al desfase de políticas monetarias entre México y Estados Unidos, que hará disminuir a corto plazo el diferencial de tasas de interés entre … [+2211 chars]"
     }
   ]
 }
