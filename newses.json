@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "El peso ya se fue de vacaciones: Cotiza ‘tablas’ contra el dólar en las 16.73 unidades",
+      "Description": "El dólar se cotiza en 17.16 pesos por billete verde en ventanillas bancarias, de acuerdo con los datos reportados por Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/22/peso-dolar-precio-hoy-22-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Stf5FFTSr6XMY4GBUVTikvAd9gk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/44TJFSRSXZHYBADEO6ADS65JTI.jpg",
+      "PublishedAt": "2024-03-22T16:31:18Z",
+      "Content": "Con las expectativas de los operadores apuntando a que el Banco de Méxicono recortará su tasa de referencia de manera consecutiva, el peso mexicano inicia la sesión de este viernes casi tablas ante e… [+2091 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/01/Tipo-de-cambio-IMG_20230117_100156.webp",
       "PublishedAt": "2024-03-07T19:57:44Z",
       "Content": "El proceso electoral en Estados Unidos que se llevará a cabo a finales de 2024 podría perturbar de forma negativa al tipo de cambio del peso con el dólar, aseguró Ernesto Revilla, Economista en jefe … [+1509 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Subidón’ del peso sufre pausa: Dólar se cotiza en las 16.89 unidades",
-      "Description": "El peso mexicano continúa fuerte en niveles máximos que no se veían desde enero, destacaron analistas de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/07/peso-dolar-precio-hoy-7-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/p6rPu-NzPSXnQnBkpp_yMYIA_7k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6JWSWN7WKFG47NQSLVIOIDGTIM.jpg",
-      "PublishedAt": "2024-03-07T15:47:33Z",
-      "Content": "El subidón del peso mexicano se ve frenado este jueves después de haber ligado cinco sesiones consecutivas con ganancias contrae el dólar, mientras el mercado seguirá atento a las declaraciones del p… [+1463 chars]"
     }
   ]
 }
