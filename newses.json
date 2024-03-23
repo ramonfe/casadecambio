@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 22 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 22 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-22-de-marzo-nid22032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizan-los-mercados-SJHJQQB565BJXDA4XB6O4NEL4A.jpg?auth=7f7a3c22b7f252fd78daf448eaca7643277a4d227ca6ab26fc3aedfbabf00d1b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-22T14:54:07Z",
+      "Content": "Este viernes 22 de marzo, el precio del dólar en México es de $16,762, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2890 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/p6rPu-NzPSXnQnBkpp_yMYIA_7k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6JWSWN7WKFG47NQSLVIOIDGTIM.jpg",
       "PublishedAt": "2024-03-07T15:47:33Z",
       "Content": "El subidón del peso mexicano se ve frenado este jueves después de haber ligado cinco sesiones consecutivas con ganancias contrae el dólar, mientras el mercado seguirá atento a las declaraciones del p… [+1463 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 7 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 7 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-7-de-marzo-nid07032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizan-los-mercados-VE5BJM2CBNF3BCTIHQKQ24ZB6Y.jpg?auth=834c8da78f18ba75f4fdef54f58e44af3ef6370ba047b8ec3cad99d7879f1248&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-07T14:43:11Z",
-      "Content": "Este jueves 7 de marzo, el precio del dólar en México es de $17,82, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un … [+2073 chars]"
     }
   ]
 }
