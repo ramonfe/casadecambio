@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 37,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Gulf International Bank UK Ltd Sells 3,029 Shares of Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "Gulf International Bank UK Ltd cut its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.0% during the fourth quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The institutional investor o…",
+      "Url": "https://www.etfdailynews.com/2024/03/22/gulf-international-bank-uk-ltd-sells-3029-shares-of-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
+      "PublishedAt": "2024-03-22T10:46:41Z",
+      "Content": "Gulf International Bank UK Ltd cut its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.0% during the fourth quarter, according to the company in its most recent disclosure with the Se… [+5472 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Man who jumped off balcony during raid set to plead guilty",
+      "Description": "Su Haijin faces two charges - resisting arrest and possessing S$4.06 million from illegal remote gambling offences.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-su-haijin-balcony-4214846",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SUzUtaFS--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/img_6866.jpg?itok=OZBFJeT5",
+      "PublishedAt": "2024-03-22T10:38:11Z",
+      "Content": "SINGAPORE: A man who jumped off a balcony during a raid to arrest suspects linked to a billion-dollar money laundering probe is set to plead guilty.\r\nSu Haijin, a 41-year-old man listed as Cypriot in… [+933 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Morning Bid: Dollar surges after central bank barrage, Apple bruised",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be60f19b-bfd6-4674-a86e-58e993bb1b6e",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-22T10:08:01Z",
+      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-03-04T12:04:45Z",
       "Content": "Bank of Nova Scotia boosted its holdings in Dollar General Co. (NYSE:DG – Free Report) by 27.8% during the third quarter, according to the company in its most recent Form 13F filing with the Securiti… [+5350 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
-      "Title": "U.S. Dollar ‘Collapse’—Bank Of America Issues Shocking ‘$1 Trillion Every 100 Days’ Warning Amid Huge Bitcoin, Ethereum, XRP And Crypto Price Boom To Rival Gold",
-      "Description": "Bank of America﻿﻿ analysts have warned the U.S. debt load is about to ramp up to add $1 trillion every 100 days—fueling a bitcoin price surge...",
-      "Url": "https://www.forbes.com/sites/digital-assets/2024/03/02/us-dollar-collapse-bank-of-america-issues-shocking-1-trillion-every-100-days-warning-amid-huge-bitcoin-ethereum-xrp-and-crypto-price-boom-to-rival-gold/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/652281c5904439112e9cb52c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "PublishedAt": "2024-03-02T12:45:35Z",
-      "Content": "Bitcoinalongside the wider ethereum, XRP and crypto markethas rocketed higher over the last year (with some forecasting a even \"bigger Wall Street wave coming\").\r\nSubscribe now to Forbes' CryptoAsset… [+3418 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "WLWT - Cincinnati",
-      "Title": "Ohio officials tour food bank that received settlement from Dollar General lawsuit",
-      "Description": "Ohio officials tour food bank that received settlement from Dollar General lawsuit",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c9cc1da-5c8e-445d-a57d-c5f74180cda7",
-      "UrlToImage": null,
-      "PublishedAt": "2024-03-01T04:09:08Z",
-      "Content": "If you click 'Accept all', we and our partners (including 241 who are part of the IAB Transparency &amp; Consent Framework) will also use cookies and your personal data, such as IP address, precise l… [+686 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "whipslash",
-      "Title": "What's the highest dollar price will Bitcoin reach in 2024?",
-      "Description": null,
-      "Url": "https://slashdot.org/poll/3250/whats-the-highest-dollar-price-will-bitcoin-reach-in-2024",
-      "UrlToImage": null,
-      "PublishedAt": "2024-02-28T20:47:55Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
