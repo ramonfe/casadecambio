@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Billion-Dollar Bank Abruptly Freezes Woman’s Account and Refuses To Return Funds, Forcing Her To Rely on Family and Friends for Survival: Report",
+      "Description": "An Atlanta woman says a popular US bank abruptly froze her account and refused to let her cash out, leaving her to fend for herself. Shelley Camp says Green Dot locked her out of her bank account out of nowhere for “unusual activity,” reports the ABC-affiliat…",
+      "Url": "https://dailyhodl.com/2024/03/22/billion-dollar-bank-abruptly-freezes-womans-account-and-refuses-to-return-funds-forcing-her-to-rely-on-family-and-friends-for-survival-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/03/bank-freeze-us-.jpg",
+      "PublishedAt": "2024-03-22T23:15:24Z",
+      "Content": "An Atlanta woman says a popular US bank abruptly froze her account and refused to let her cash out, leaving her to fend for herself.\r\nShelley Camp says Green Dot locked her out of her bank account ou… [+1274 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/652281c5904439112e9cb52c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "PublishedAt": "2024-03-04T13:53:02Z",
       "Content": "03/04 update below. This post was originally published on March 2\r\nBitcoinalongside the wider ethereum, XRP and crypto markethas rocketed higher over the last year (with some forecasting a even \"bigg… [+4701 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Bank of Nova Scotia Acquires 5,191 Shares of Dollar General Co. (NYSE:DG)",
-      "Description": "Bank of Nova Scotia boosted its holdings in Dollar General Co. (NYSE:DG – Free Report) by 27.8% during the third quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The firm owned 23,840 shares of th…",
-      "Url": "https://www.etfdailynews.com/2024/03/04/bank-of-nova-scotia-acquires-5191-shares-of-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-03-04T12:04:45Z",
-      "Content": "Bank of Nova Scotia boosted its holdings in Dollar General Co. (NYSE:DG – Free Report) by 27.8% during the third quarter, according to the company in its most recent Form 13F filing with the Securiti… [+5350 chars]"
     }
   ]
 }
