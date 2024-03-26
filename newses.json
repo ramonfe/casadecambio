@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso inicia vacaciones de Semana Santa con ganancias vs. el dólar: Se cotiza en 16.70 unidades",
+      "Description": "De acuerdo con datos de Citibanamex, el dólar se vende en 17.16 pesos por cada uno en ventanillas bancarias.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/25/peso-dolar-precio-hoy-25-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/_X7ne9GkaH9aL93nmQtICCixc5k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UH477RYAD5BNFIHDUDIAZGKI7Q.jpg",
+      "PublishedAt": "2024-03-25T15:30:08Z",
+      "Content": "El peso mexicano vuelve a retomar sus ganancias frente al dólar este 25 de marzo, mientras los inversionistas se preparan para recibir el nuevo dato de inflación en Estados Unidos, cifra que será seg… [+2112 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 25 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 25 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-25-de-marzo-nid25032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lunes-25-de-2YLO54XIFFA2RAFQ4A2ISF363E.jpg?auth=1c5502736b68e6239ac6cf5c2ee6e6be8166b565b635e075cde1ee34cfd4af43&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-25T15:09:16Z",
+      "Content": "Este lunes 25 de marzo, el precio del dólar en México es de $16,762,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un p… [+2954 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-8-de-NNSMLKYVZ5CMHAMG3QTLLBDYL4.jpg?auth=44ff44d02d10dc8c32e199f586e84d5003a0098fa720231d4686524a641dad23&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-08T15:06:42Z",
       "Content": "Este viernes 8 de marzo, el precio del dólar en México es de $16,8770, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2380 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Imparable: Peso hila seis sesiones con ganancias frente al dólar",
-      "Description": "Forbes México.\n Imparable: Peso hila seis sesiones con ganancias frente al dólar\n\nLa apreciación del peso fue impulsada por un debilitamiento del dólar ante la expectativa de que bancos centrales comenzarán a recortar sus tasas pronto, expone el grupo financi…",
-      "Url": "https://www.forbes.com.mx/imparable-peso-hila-seis-sesiones-con-ganancias-frente-al-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2024-03-07T23:26:49Z",
-      "Content": "El peso hiló este jueves seis sesiones con avances frente al dólar, en una sesión marcada por datos económicos en Estados Unidos y México.\r\nEl dólar se vendió al cierre en 16.8660 pesos, lo que signi… [+3048 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Diego Aguilar",
-      "Title": "Elecciones en Estados Unidos perturbarían tipo de cambio del peso con el dólar",
-      "Description": "Forbes México.\n Elecciones en Estados Unidos perturbarían tipo de cambio del peso con el dólar\n\nEl peso se verá presionado por otros temas globales, también, pero que la influencia de EU sobre México determinará el camino del tipo de cambio en el año, de acue…",
-      "Url": "https://www.forbes.com.mx/elecciones-en-estados-unidos-perturbarian-tipo-de-cambio-del-peso-con-el-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/Tipo-de-cambio-IMG_20230117_100156.webp",
-      "PublishedAt": "2024-03-07T19:57:44Z",
-      "Content": "El proceso electoral en Estados Unidos que se llevará a cabo a finales de 2024 podría perturbar de forma negativa al tipo de cambio del peso con el dólar, aseguró Ernesto Revilla, Economista en jefe … [+1509 chars]"
     }
   ]
 }
