@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 34,
+  "TotalResults": 35,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": "CBS News",
+      "Title": "Busy legal day for Trump with multimillion-dollar bond due, \"hush money\" case hearing",
+      "Description": "Time is almost up for former President Donald Trump to post a bond of over $460 million in his civil fraud case or risk some of his New York properties being seized. Trump is also expected to appear in a courtroom Monday for a hearing in the Stormy Daniels \"h…",
+      "Url": "https://www.cbsnews.com/video/busy-legal-day-for-trump-with-multimillion-dollar-bond-due-hush-money-case-hearing/",
+      "UrlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/25/cdef61e9-3795-4b1a-bdda-fd9e27110294/thumbnail/1200x630/c61ba4a3570468a527a85f000bf92f59/cbsn-fusion-busy-legal-day-for-trump-with-multimillion-dollar-bond-due-hush-money-case-hearing-thumbnail-2784932-640x360.jpg?v=4baa656f7af774a52a8c6a88476cb826",
+      "PublishedAt": "2024-03-25T13:59:02Z",
+      "Content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-03-04T22:30:39Z",
       "Content": "I previously mentioned this general story. But the reporting there was that CNN would likely pressure its Million Dollar Failures to voluntarily reduce their salaries."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
-      "Title": "U.S. Dollar Death Spiral ‘Crisis’ Fears Grow After Bank Of America Issues Shocking ‘$1 Trillion Every 100 Days’ Warning Amid Huge Bitcoin, Ethereum, XRP And Crypto Price Boom",
-      "Description": "Bank of America﻿﻿ analysts have warned the U.S. debt load is about to ramp up to add $1 trillion every 100 days—fueling a bitcoin price surge...",
-      "Url": "https://www.forbes.com/sites/digital-assets/2024/03/04/us-dollar-collapse-bank-of-america-issues-shocking-1-trillion-every-100-days-warning-amid-huge-bitcoin-ethereum-xrp-and-crypto-price-boom-to-rival-gold/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/652281c5904439112e9cb52c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "PublishedAt": "2024-03-04T13:53:02Z",
-      "Content": "03/04 update below. This post was originally published on March 2\r\nBitcoinalongside the wider ethereum, XRP and crypto markethas rocketed higher over the last year (with some forecasting a even \"bigg… [+4701 chars]"
     }
   ]
 }
