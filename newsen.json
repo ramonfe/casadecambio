@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Agence France-Presse)",
+      "Title": "Iraq Central Bank Says Regulated Dollar Transactions Rising",
+      "Description": "baghdad — Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said Monday.\n\n\nWith dollars dominating the country's economy, Baghdad ha…",
+      "Url": "https://www.voanews.com/a/iraq-central-bank-says-regulated-dollar-transactions-rising-/7542206.html",
+      "UrlToImage": "https://gdb.voanews.com/6F440862-3548-4FD8-8095-C8F0A91F9399.jpg",
+      "PublishedAt": "2024-03-25T21:54:13Z",
+      "Content": "baghdad  Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said Monday.\r… [+2668 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB960NS_L.jpg",
       "PublishedAt": "2024-03-06T23:40:06Z",
       "Content": "Investing.com -  The Canadian dollar strengthened against its U.S. counterpart on Tuesday, as a hawkish hold from the Bank of Canada vs. a reaffirmation of upcoming rate cuts from Fed Chair Jerome Po… [+2050 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "STERLING HOLDS GAINS VS DOLLAR AS UK FINANCE MINISTER HUNT SPEAK…",
-      "Description": "(marketscreener.com) \n STERLING HOLDS GAINS VS DOLLAR AS UK FINANCE MINISTER HUNT SPEAKS, LAST UP 0.12% TO $1.2721\n https://www.marketscreener.com/news/latest/STERLING-HOLDS-GAINS-VS-DOLLAR-AS-UK-FINANCE-MINISTER-HUNT-SPEAK--46103421/?utm_medium=RSS&utm_conte…",
-      "Url": "https://www.marketscreener.com/news/latest/STERLING-HOLDS-GAINS-VS-DOLLAR-AS-UK-FINANCE-MINISTER-HUNT-SPEAK--46103421/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2024-03-06T12:42:57Z",
-      "Content": "ANALYST RECOMMENDATIONS : Crowdstrike, Target, Antofagasta, Direct Line Insurance, Premier Foods..."
     }
   ]
 }
