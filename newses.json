@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘anda relax’ contra el dólar: Se cotiza en las 16.67 unidades en ‘Martes Santo’",
+      "Description": "Especialistas de CIBanco señalaron que el peso mexicano está experimentando por ahora una ‘fase de consolidación’.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/26/peso-dolar-precio-hoy-26-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RiX_k_PRT5UqOM3330IOK-Quckk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5EU7ZSSW7RH3PIGL5LJJKIW7QY.jpg",
+      "PublishedAt": "2024-03-26T16:35:54Z",
+      "Content": "El peso mexicano se ubica este martes en el terreno de pérdidas contra el dólar a medida que el mercado asimila los últimos datos económicos publicados en Estados Unidos.\r\nLos datos reportados por Bl… [+2206 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2024-03-11T14:49:38Z",
       "Content": "El peso cotizaba con pocos cambios el lunes y se mantenía sólido luego de siete sesiones seguidas de avances, en medio de una caída global del dólar y mientras los mercados aguardan un dato clave de … [+1534 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso llega ‘rudo’ rumbo al fin de semana: Se cotiza en las 16.80 unidades vs. el dólar",
-      "Description": "El nivel más bajo del tipo de cambio en lo que va de 2024 es 16.80 unidades, una marca que estableció en enero pasado.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/08/peso-dolar-precio-hoy-8-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RsTt9MA8cYt52gllPDB1JT8tA14=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OAVUNBQWMNFJZIBFEAJ6Q4W3DQ.jpg",
-      "PublishedAt": "2024-03-08T16:23:17Z",
-      "Content": "El peso mexicano anticipa importantes ganancias este viernes, a medida que los operadores asimilan el último dato de empleo en Estados Unidos, el cual superó las expectativas del mercado con la creac… [+1569 chars]"
     }
   ]
 }
