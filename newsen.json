@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Moneycontrol"
+      },
+      "Author": "PTI",
+      "Title": "Axis Bank introduces digital opening of US dollar fixed deposit for NRI customers at GIFT City",
+      "Description": "With this introduction, Axis Bank becomes the first bank to offer a digital journey for GIFT City Deposits, the bank said in a statement.",
+      "Url": "https://www.moneycontrol.com/news/business/axis-bank-introduces-digital-opening-of-us-dollar-fixed-deposit-for-nri-customers-at-gift-city-12522551.html",
+      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/axis-bank-770x433.jpg",
+      "PublishedAt": "2024-03-26T06:15:16Z",
+      "Content": "Axis Bank on Tuesday announced the introduction of digital US dollar fixed deposit (FD) for NRI customers at the IFSC Banking Unit (IBU) at GIFT City, Gujarat.\r\nWith this introduction, Axis Bank beco… [+951 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--AFvvB9fS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/02/su_wenqiang.png?itok=2TpE7pWi",
       "PublishedAt": "2024-03-07T08:40:53Z",
       "Content": "SINGAPORE: A man who is among the 10 people charged in relation to a billion-dollar money laundering case in Singapore is set to plead guilty.\r\nHe is the first in the group to make such an indication… [+2161 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Canadian dollar gains following Bank of Canada's hawkish hold",
-      "Description": "Canadian dollar gains following Bank of Canada's hawkish hold",
-      "Url": "https://www.investing.com/news/forex-news/canadian-dollar-gains-following-bank-of-canadas-hawkish-hold-3327764",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB960NS_L.jpg",
-      "PublishedAt": "2024-03-06T23:40:06Z",
-      "Content": "Investing.com -  The Canadian dollar strengthened against its U.S. counterpart on Tuesday, as a hawkish hold from the Bank of Canada vs. a reaffirmation of upcoming rate cuts from Fed Chair Jerome Po… [+2050 chars]"
     }
   ]
 }
