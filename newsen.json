@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar slips, yen steady after Japanese finance minister comments",
+      "Description": "​The dollar dipped on Tuesday as traders waited on a fresh catalyst to give clues on Federal Reserve policy, while the yen was steady after Japan's finance minister said that he would not rule out any measures to cope with the weakening currency.",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-slips-yen-steady-after-japanese-finance-minister-comments/articleshow/108797766.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-108797775,width-1200,height-630,imgsize-90578,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-03-26T16:01:11Z",
+      "Content": "The dollar dipped on Tuesday as traders waited on a fresh catalyst to give clues on Federal Reserve policy, while the yen was steady after Japan's finance minister said that he would not rule out any… [+2702 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-03-09T21:00:47Z",
       "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Travelupdate.com"
-      },
-      "Author": "TravelUpdate",
-      "Title": "Save Money by Checking WestJet US Dollar and WestJet Canadian Dollar Website",
-      "Description": "Did you know WestJet flights might be more expensive if you pay in Canadian Dollar for transborder flights? Learn more at Maple Miles.",
-      "Url": "https://travelupdate.com/save-money-by-checking-westjet-us-dollar-and-westjet-canadian-dollar-website/",
-      "UrlToImage": "https://travelupdate.com/wp-content/uploads/2023/12/PXL_20231207_042309293-1024x771.jpg",
-      "PublishedAt": "2024-03-08T11:00:50Z",
-      "Content": "I first discovered the hack with Air Canada. I was a bit disturbed, but I did not think I would be able to re-create this hack with WestJet, under very similar circumstances. That’s right, for the ex… [+2469 chars]"
     }
   ]
 }
