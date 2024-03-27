@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Yen stabilises after finance minister comments, dollar dips",
+      "Description": "(marketscreener.com) The yen found\nsome stability on Tuesday, just shy of its weakest level in 34\nyears, as verbal intervention by Japanese officials continued,\nwhile the dollar was on the back foot.\n The euro was last at $1.0850 and the pound at\n$1.2645, bot…",
+      "Url": "https://www.marketscreener.com/news/latest/Yen-stabilises-after-finance-minister-comments-dollar-dips-46283736/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2024-03-26T09:28:06Z",
+      "Content": "SINGAPORE/LONDON, March 26 (Reuters) - The yen found\r\nsome stability on Tuesday, just shy of its weakest level in 34\r\nyears, as verbal intervention by Japanese officials continued,\r\nwhile the dollar … [+2951 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB960NS_L.jpg",
       "PublishedAt": "2024-03-07T23:18:17Z",
       "Content": "Investing.com - The Canadian Dollar added to gains vs. its U.S. counterpart today, with the loonie supported by broad-risk on sentiment, and as markets continued to digest yesterdays more-hawkish tha… [+1578 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money-laundering case: Man set to plead guilty, first among 10 suspects",
-      "Description": "Su Wenqiang is accused of laundering almost a million dollars by buying luxury goods, a car and renting upscale condominium apartments in Singapore.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-man-first-plead-guilty-su-wenqiang-4177886",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--AFvvB9fS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/02/su_wenqiang.png?itok=2TpE7pWi",
-      "PublishedAt": "2024-03-07T08:40:53Z",
-      "Content": "SINGAPORE: A man who is among the 10 people charged in relation to a billion-dollar money laundering case in Singapore is set to plead guilty.\r\nHe is the first in the group to make such an indication… [+2161 chars]"
     }
   ]
 }
