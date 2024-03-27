@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Dollar up: yen edges lower after Japanese finance minister comments",
+      "Description": "(marketscreener.com) The dollar rose on\nTuesday as traders waited on a fresh catalyst to give clues on\nFederal Reserve policy, while the yen slipped after Japans\nfinance minister said that he would not rule out any measures to\ncope with the weakening currenc…",
+      "Url": "https://www.marketscreener.com/news/latest/Dollar-up-yen-edges-lower-after-Japanese-finance-minister-comments-46291774/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2016-07/2016-07-27T205941Z_1006950001_LYNXNPEC6Q1GL_RTROPTP_2_CBUSINESS-US-GLOBAL-MARKETS.JPG",
+      "PublishedAt": "2024-03-26T19:16:23Z",
+      "Content": "NEW YORK, March 26 (Reuters) - The dollar rose on\r\nTuesday as traders waited on a fresh catalyst to give clues on\r\nFederal Reserve policy, while the yen slipped after Japans\r\nfinance minister said th… [+2997 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.indianexpress.com/2024/03/RBI_b9be40.jpg",
       "PublishedAt": "2024-03-11T17:43:10Z",
       "Content": "The Indian central bank did not roll over and took delivery of the $5 billion dollar/rupee swap that matured on Monday, aiming to bolster foreign exchange reserves and rupee liquidity, four bankers s… [+1786 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "6 Places You Can Sell Dollar Store Items To Make Extra Money",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_82fa97c2-0d15-4c83-9194-e313b6e2abeb",
-      "UrlToImage": null,
-      "PublishedAt": "2024-03-09T21:00:47Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
