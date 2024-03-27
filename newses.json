@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 26 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 26 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-26-de-marzo-nid26032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-26-de-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-26T15:20:01Z",
+      "Content": "Este martes 26 de marzo, el precio del dólar en México es de $16,762, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2611 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RsTt9MA8cYt52gllPDB1JT8tA14=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OAVUNBQWMNFJZIBFEAJ6Q4W3DQ.jpg",
       "PublishedAt": "2024-03-08T16:23:17Z",
       "Content": "El peso mexicano anticipa importantes ganancias este viernes, a medida que los operadores asimilan el último dato de empleo en Estados Unidos, el cual superó las expectativas del mercado con la creac… [+1569 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 8 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 8 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-8-de-marzo-nid08032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-8-de-NNSMLKYVZ5CMHAMG3QTLLBDYL4.jpg?auth=44ff44d02d10dc8c32e199f586e84d5003a0098fa720231d4686524a641dad23&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-08T15:06:42Z",
-      "Content": "Este viernes 8 de marzo, el precio del dólar en México es de $16,8770, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2380 chars]"
     }
   ]
 }

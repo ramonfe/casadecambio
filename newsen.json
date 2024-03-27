@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Decrypt"
+      },
+      "Author": "Andrew Hayward",
+      "Title": "Crypto Exchange KuCoin Charged With 'Multi-Billion Dollar Criminal Conspiracy'",
+      "Description": "The United States Department of Justice charged KuCoin and its founders with violations of the Bank Secrecy Act.",
+      "Url": "https://decrypt.co/223465/crypto-exchange-kucoin-charged-multi-billion-criminal-conspiracy",
+      "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/12/kucoin-shutterstock-gID_7.png",
+      "PublishedAt": "2024-03-26T15:20:14Z",
+      "Content": "Cryptocurrency exchange KuCoin and two of its founders were charged Tuesday by the United States Department of Justice with conspiring to violate the Bank Secrecy Act by failing to operate a complian… [+1028 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://travelupdate.com/wp-content/uploads/2023/12/PXL_20231207_042309293-1024x771.jpg",
       "PublishedAt": "2024-03-08T11:00:50Z",
       "Content": "I first discovered the hack with Air Canada. I was a bit disturbed, but I did not think I would be able to re-create this hack with WestJet, under very similar circumstances. That’s right, for the ex… [+2469 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Canadian dollar adds to gains as markets bet Bank of Canada cuts rates before Fed",
-      "Description": "Canadian dollar adds to gains as markets bet Bank of Canada cuts rates before  Fed",
-      "Url": "https://www.investing.com/news/forex-news/canadian-dollar-adds-to-gains-as-markets-bet-bank-of-canada-cuts-rates-before--fed-3329897",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB960NS_L.jpg",
-      "PublishedAt": "2024-03-07T23:18:17Z",
-      "Content": "Investing.com - The Canadian Dollar added to gains vs. its U.S. counterpart today, with the loonie supported by broad-risk on sentiment, and as markets continued to digest yesterdays more-hawkish tha… [+1578 chars]"
     }
   ]
 }
