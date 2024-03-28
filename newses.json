@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso cierra por debajo de los $17 por dólar",
+      "Description": "El dólar al menudeo cerró la jornada con un precio de 16.96 pesos en sucursales bancarias, su nivel más bajo desde diciembre de 2015.",
+      "Url": "https://www.reforma.com/peso-cierra-por-debajo-de-los-17-por-dolar/ar2780339",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/79/5078969.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-03-27T13:43:40Z",
+      "Content": "El peso llegó a tocar su mejor precio frente al dólar en más de ocho años y tres meses. Crédito: Banxico."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso se aprecia y rompe barrera de $16.60 por dólar",
+      "Description": "El peso se aprecia en torno a 0.30% en el mercado internacional y rompió la barrera de $16.60 por dólar, tocando un mínimo en más de 8 años.",
+      "Url": "https://www.reforma.com/peso-se-aprecia-y-rompe-barrera-de-16-60-por-dolar/ar2780339",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/79/5078969.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-03-27T13:43:40Z",
+      "Content": "El peso llegó a tocar su mejor precio frente al dólar en más de ocho años y tres meses. Crédito: Banxico."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso se aprecia y rompe barrera de $17 por dólar",
+      "Description": "El dólar se vende en 16.96 pesos en sucursales bancarias, tocando un mínimo no visto en más de 8 años.",
+      "Url": "https://www.reforma.com/peso-se-aprecia-y-rompe-barrera-de-17-por-dolar/ar2780339",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/79/5078969.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-03-27T13:43:40Z",
+      "Content": "El peso llegó a tocar su mejor precio frente al dólar en más de ocho años y tres meses. Crédito: Banxico."
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/08/ahorro_dinero-e1696015334287-1024x576.png",
       "PublishedAt": "2024-03-11T21:42:02Z",
       "Content": "El peso se apreció ligeramente el lunes contra el dólar y anotó su octava sesión consecutiva de avances, mientras los operadores permanecen a la espera de los datos de la economía local y de Estados … [+1739 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso pierde frente al dólar tras alcanzar su mejor nivel en 6 meses: Así cotiza este lunes",
-      "Description": "El peso mexicano recorta este lunes 11 de marzo el avance visto la semana pasada tras un ligero repunte del dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/11/peso-dolar-precio-hoy-11-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mO8XMNxjzyXimAsRQnbfenk9anE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BOMOGPNALJBJBBNGAAXGDXXZSI.jpg",
-      "PublishedAt": "2024-03-11T16:29:31Z",
-      "Content": "La moneda mexicana muestra un retroceso de manera moderada en el inicio de esta semana (11 de marzo) bursátil, después de haber alcanzado su mejor nivel en seis meses al aprovechar el debilitamiento … [+1591 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 11 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 11 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-11-de-marzo-nid11032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-hoy-a-cuanto-cotiza-la-divisa-HSINLNKUXRHGZF4CRDY2WCARFA.jpg?auth=54c6e3ee9e1fb514794e3b2c06b877067aa2c8353cec44c4196c98951fc83801&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-11T15:20:12Z",
-      "Content": "Este lunes 11 de marzo, el precio del dólar en México es de $16,7985, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2484 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cotiza en la apertura por debajo de las 17 unidades por dólar; BMV avanza",
-      "Description": "Forbes México.\n Peso cotiza en la apertura por debajo de las 17 unidades por dólar; BMV avanza\n\nEl peso cotizaba en 16.8020 unidades por dólar en los primeros negocios del día, con un alza marginal de 0.04% frente al precio de referencia del viernes, cuando f…",
-      "Url": "https://www.forbes.com.mx/peso-cotiza-en-la-apertura-por-debajo-de-las-17-unidades-por-dolar-bmv-avanza/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-03-11T14:49:38Z",
-      "Content": "El peso cotizaba con pocos cambios el lunes y se mantenía sólido luego de siete sesiones seguidas de avances, en medio de una caída global del dólar y mientras los mercados aguardan un dato clave de … [+1534 chars]"
     }
   ]
 }
