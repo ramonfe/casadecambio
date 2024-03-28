@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 45,
+  "TotalResults": 47,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Deutsche Bank : successfully issues Singapore Dollar bond",
+      "Description": "(marketscreener.com) \n \n Deutsche Bank has further diversified its investor base, successful raising 400 million Singapore Dollars in senior non-preferred notes. \n \n \n This marks Deutsche Bank's second visit to the SGD market, following its inaugural issuance…",
+      "Url": "https://www.marketscreener.com/quote/stock/DEUTSCHE-BANK-AG-56358396/news/Deutsche-Bank-successfully-issues-Singapore-Dollar-bond-46294775/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2024-03-27T06:33:02Z",
+      "Content": "Deutsche Bank has further diversified its investor base, successful raising 400 million Singapore Dollars (SGD) in senior non-preferred notes. \r\nThis marks Deutsche Bank's second visit to the SGD mar… [+1129 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Suspect handed 6 new charges over forged financial statements",
+      "Description": "SINGAPORE: Vang Shuiming, one of the 10 suspects involved in Singapore's billion-dollar money laundering probe, was on Wednesday (Mar 27) slapped with six new charges.",
+      "Url": "https://www.channelnewsasia.com/singapore/singapore-money-laundering-probe-vang-shuiming-new-charges-4225031",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--hMX5srcb--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/27/state_courts_file_photo.png?itok=smCNg_DF",
+      "PublishedAt": "2024-03-27T06:24:53Z",
+      "Content": "On Wednesday, defence lawyer Wendell Wong informed the court that this was the second time similar charges were tendered to the court, when in fact the issues were already known before this.\r\nMr Wong… [+560 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-03-16T14:30:44Z",
       "Content": "Wesbanco Bank Inc. reduced its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 22.5% during the 3rd quarter, according to the company in its most recent 13F filing with the Securi… [+5020 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Family Dollar And Dollar Tree Prepare To Shut Down Roughly 1,000 Stores: Evaluating The Market Impact And Potential Investment Alternatives - Yahoo Finance",
-      "Description": "Family Dollar And Dollar Tree Prepare To Shut Down Roughly 1,000 Stores: Evaluating The Market Impact And Potential Investment AlternativesYahoo Finance Family Dollar and Dollar Tree will close 1,000 storesCNN Family Dollar stores closing: Nearly 1,000 locati…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173283809",
-      "UrlToImage": null,
-      "PublishedAt": "2024-03-14T03:13:56Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Dollar Tree's 1,000 store closure tells the perils of poor acquisitions - Yahoo Finance",
-      "Description": "Dollar Tree's 1,000 store closure tells the perils of poor acquisitionsYahoo Finance Family Dollar to Close Nearly 1000 StoresThe New York Times Dollar Tree to decimate Family Dollar, closing nearly 1,000 storesSFGATE Dollar Tree and Family Dollar will close …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173281925",
-      "UrlToImage": null,
-      "PublishedAt": "2024-03-13T20:14:21Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
