@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 27 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 27 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-27-de-marzo-nid27032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-como-cotiza-la-divisa-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-27T14:57:27Z",
+      "Content": "Este miércoles 27 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de… [+2431 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Bendito’ peso: Se cotiza en las 16.59 unidades vs. el dólar en ‘Miércoles Santo’",
+      "Description": "El peso mexicano se perfila para cerrar esta semana en su mejor nivel en al menos 8 años.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/27/peso-dolar-precio-hoy-27-de-marzo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/dr37InQmu4n-ypj8XyR8BHBjel4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/W52DH5KSIVDXTJG3RFPWPC7GHY.jpg",
+      "PublishedAt": "2024-03-27T14:37:43Z",
+      "Content": "El peso mexicano está en modo bendito en plena Semana Santa y continúa su apreciación contra el dólar este miércoles, lo que ha llevado a la moneda nacional a su mejor nivel en más de 8 años. \r\nDatos… [+2105 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cotiza en 16.58 por dólar, un nivel no visto desde 2015",
+      "Description": "Forbes México.\n Peso cotiza en 16.58 por dólar, un nivel no visto desde 2015\n\nEl peso cotizaba en 16.5830 por dólar, un nivel no visto desde diciembre de 2015, con una ganancia de 0.31% frente al precio de referencia de Reuters del martes.\nPeso cotiza en 16.5…",
+      "Url": "https://www.forbes.com.mx/peso-cotiza-en-16-58-por-dolar-un-nivel-no-visto-desde-2015/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2021/04/peso.jpg",
+      "PublishedAt": "2024-03-27T14:26:58Z",
+      "Content": "El peso avanzaba este miércoles en la apertura a su mejor nivel en más de ocho años tras la divulgación de cifras locales del mercado laboral, que respaldaban las apuestas a que la reciente baja a la… [+964 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-martes-12-de-B3N5UA5JYNCD7DTTHN4G3RCLAA.JPG?auth=167ffd8f957fb24b2fc94d6ac3e89dc32c8f46fd42e4f5a8168eade3d42971c4&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-12T18:30:46Z",
       "Content": "La respuesta de los dólares libres a las nuevas medidas del Banco Central (BCRA) fue inmediata. Hoy, tanto el blue como los financieros registran alzas de hasta $50, luego de que anoche la autoridad … [+1299 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Inflación de EU ‘empanzona’ al peso frente al dólar: Así se cotiza este martes",
-      "Description": "Janneth Quiroz, directora de análisis económico en Monex, señaló que el peso mexicano se ve afectado por el fortalecimiento que presenta el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/12/peso-dolar-precio-hoy-12-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/NJVgbrl1e5LeNeys7BCZnWkYvD4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZBYGQX5X75FT7OYH6ZLXN2GNWQ.jpg",
-      "PublishedAt": "2024-03-12T16:17:09Z",
-      "Content": "El peso mexicano inició este martes con retrocesos ante el dólar, luego de que la inflación en Estados Unidos se aceleró a una tasa anual de 3.15 por ciento, desde el 3.09 por ciento registrado el me… [+1605 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 12 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 12 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-12-de-marzo-nid12032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-12-de-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-12T14:41:31Z",
-      "Content": "Este martes 12 de marzo, el precio del dólar en México es de $16,8083,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2868 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso gana por octava jornada al hilo y regresa a niveles de agosto debajo de 17 por dólar; BMV también sube",
-      "Description": "Forbes México.\n Peso gana por octava jornada al hilo y regresa a niveles de agosto debajo de 17 por dólar; BMV también sube\n\nEl peso cotizaba en 16.7965 unidades por dólar, con una apreciación marginal de 0.08% frente al precio de referencia de Reuters del vi…",
-      "Url": "https://www.forbes.com.mx/peso-gana-por-octava-jornada-al-hilo-y-regresa-a-niveles-de-agosto-debajo-de-17-por-dolar-bmv-tambien-sube/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/ahorro_dinero-e1696015334287-1024x576.png",
-      "PublishedAt": "2024-03-11T21:42:02Z",
-      "Content": "El peso se apreció ligeramente el lunes contra el dólar y anotó su octava sesión consecutiva de avances, mientras los operadores permanecen a la espera de los datos de la economía local y de Estados … [+1739 chars]"
     }
   ]
 }
