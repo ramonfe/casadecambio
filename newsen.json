@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Indiabulls Housing Finance accepts bids for dollar bonds, bankers say",
+      "Description": "(marketscreener.com) Indiabulls Housing Finance has accepted bids worth $350 million for dollar-denominated social bonds maturing in three years and three months, two merchant bankers said on Wednesday.https://www.marketscreener.com/quote/stock/INDIABULLS-HOU…",
+      "Url": "https://www.marketscreener.com/quote/stock/INDIABULLS-HOUSING-FINANC-13704753/news/Indiabulls-Housing-Finance-accepts-bids-for-dollar-bonds-bankers-say-46293913/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2024-03-27T02:50:49Z",
+      "Content": "MUMBAI (Reuters) - Indiabulls Housing Finance has accepted bids worth $350 million for dollar-denominated social bonds maturing in three years and three months, two merchant bankers said on Wednesday… [+446 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/097972e20473fd0ac29cc8b8777d442e.jpg",
       "PublishedAt": "2024-03-13T12:26:00Z",
       "Content": "Shoppers may have to try a little harder to find bargains at Dollar Tree because there will be fewer Dollar Tree stores to find. The discount retailer said early Wednesday that it plans to close almo… [+1011 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Indian Express"
-      },
-      "Author": "Reuters",
-      "Title": "India central bank takes delivery of $5 billion dollar/rupee swap, bankers say",
-      "Description": "The Reserve Bank of India's dollar/rupee sell-buy swap conducted in March 2022 matured on Monday. The central bank had the option to take delivery of the swap, roll it over entirely, or opt for a partial rollover.",
-      "Url": "https://indianexpress.com/article/business/banking-and-finance/india-central-bank-takes-delivery-of-5-billion-dollar-rupee-swap-bankers-say-9208629/",
-      "UrlToImage": "https://images.indianexpress.com/2024/03/RBI_b9be40.jpg",
-      "PublishedAt": "2024-03-11T17:43:10Z",
-      "Content": "The Indian central bank did not roll over and took delivery of the $5 billion dollar/rupee swap that matured on Monday, aiming to bolster foreign exchange reserves and rupee liquidity, four bankers s… [+1786 chars]"
     }
   ]
 }
