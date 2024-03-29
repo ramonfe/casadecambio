@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 28 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 28 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-28-de-marzo-nid28032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-28-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-28T16:07:35Z",
+      "Content": "Este jueves 28 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2035 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-13-de-OV4SUQQFUVGGRG2RF7AFKGIK5E.jpg?auth=d884823094e8048798ff3f53817735b57855593114e6fb5f9c00542781e94a46&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-13T15:15:15Z",
       "Content": "Este miércoles 13 de marzo, el precio del dólar en México es de $16,8272,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2668 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso repunta, regresa a niveles de agosto debajo de 17 unidades por dólar",
-      "Description": "Forbes México.\n Peso repunta, regresa a niveles de agosto debajo de 17 unidades por dólar\n\nEl peso cotizaba en 16.7416 unidades por dólar en los primeros negocios del día, con un alza de 0.31% frente al precio de referencia del martes.\nPeso repunta, regresa a…",
-      "Url": "https://www.forbes.com.mx/peso-repunta-regresa-a-niveles-de-agosto-debajo-de-17-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-03-13T14:33:15Z",
-      "Content": "El peso avanzaba este miércoles en la apertura y se situaba de nuevo en niveles que registró en agosto, en una jornada sin muchos datos en la que los inversionistas esperaban nueva información que pu… [+977 chars]"
     }
   ]
 }
