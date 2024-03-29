@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / ES",
+      "Title": "Peso se cotiza en 16.51 pesos por dólar, nivel no visto desde 2015",
+      "Description": "La inflación anual se ubicó en 4,48 %, informó Gabriela Siller, directora de Análisis Económico y Financiero del Banco Base.",
+      "Url": "https://aristeguinoticias.com/2703/dinero-y-economia/peso-se-cotiza-en-16-51-pesos-por-dolar-nivel-no-visto-desde-2015/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/03/economia-pesos-20032024.jpg",
+      "PublishedAt": "2024-03-28T01:59:56Z",
+      "Content": "El peso mexicano alcanzó este miércoles un nuevo mínimo frente al dólar, no visto desde el 2 de diciembre de 2015, en mayor medida impulsado por un debilitamiento del dólar, que el mercado de futuros… [+3439 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-03-13T14:33:15Z",
       "Content": "El peso avanzaba este miércoles en la apertura y se situaba de nuevo en niveles que registró en agosto, en una jornada sin muchos datos en la que los inversionistas esperaban nueva información que pu… [+977 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "13 ‘de la buena suerte’ para el peso: Se cotiza en las 16.75 unidades vs. dólar",
-      "Description": "En ventanillas bancarias, el precio del billete verde es de 17.22 pesos cada uno, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/13/peso-dolar-precio-hoy-13-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/CTQFUrfhgL2txnY8D7wNneiRIy4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KCR62JQ75RAX3KZPVGSTHBM3FQ.jpg",
-      "PublishedAt": "2024-03-13T14:18:57Z",
-      "Content": "El peso mexicano abre con todo la sesión de este 13 de marzo y se acerca a su mejor nivel desde 2023.\r\nDe acuerdo con datos de Bloomberg, la moneda nacional se aprecia 0.29 por ciento, por lo que el … [+1411 chars]"
     }
   ]
 }
