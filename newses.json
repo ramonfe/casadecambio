@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 29 de marzo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 29 de marzo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-29-de-marzo-nid29032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-29-de-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-29T15:34:24Z",
+      "Content": "Este viernes 29 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que se vende en las ventanillas de Citibanamex en un promedio … [+1999 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-03-13T19:27:13Z",
       "Content": "El peso avanzaba este miércoles un 0.77% a 16.6652 unidades frente al dólar, encaminándose a anotar su mejor nivel de cierre desde diciembre de 2015, en una fortaleza que podría no mantenerse en el t… [+1421 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 13 de marzo",
-      "Description": "Aquí, se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 13 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-13-de-marzo-nid13032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-13-de-OV4SUQQFUVGGRG2RF7AFKGIK5E.jpg?auth=d884823094e8048798ff3f53817735b57855593114e6fb5f9c00542781e94a46&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-13T15:15:15Z",
-      "Content": "Este miércoles 13 de marzo, el precio del dólar en México es de $16,8272,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2668 chars]"
     }
   ]
 }
