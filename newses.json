@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN/ SBH",
+      "Title": "Peso mexicano cede terreno ante el dólar",
+      "Description": "El miércoles, el peso llegó a avanzar hasta 16.5060 unidades, su mejor nivel desde diciembre de 2015.",
+      "Url": "https://aristeguinoticias.com/0104/dinero-y-economia/peso-mexicano-cede-terreno-ante-el-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/dolares-impuesto-riqueza-millonarios-pexels-23102023.jpg",
+      "PublishedAt": "2024-04-01T21:34:33Z",
+      "Content": "El peso mexicano se depreció el lunes ante un fortalecimiento global del dólar y tras la divulgación de sólidas cifras del sector manufacturero estadounidense, mientras que la bolsa subió por tercera… [+1816 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9722.webp",
       "PublishedAt": "2024-03-13T22:18:33Z",
       "Content": "El tipo de cambio cerró la jornada de este miércoles en 16.6759 pesos por dólar, el mejor nivel para la moneda mexicana desde el 28 de julio pasado, de acuerdo con datos de Banxico.\r\nCon el precio de… [+1412 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central no detiene la compra de reservas y ya adquirió más de US$ 10.000 millones en la era Milei",
-      "Description": "La entidad sumó otros US$297 millones hoy, al quedarse con casi dos tercios de los dólares operados por la plaza oficial, pese a que crecen las discusiones sobre el nivel efectivo del tipo de cambio",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-no-detiene-la-compra-de-reservas-y-ya-adquirio-mas-de-us-10000-millones-en-la-nid13032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-reservas-del-bcra-superaron-los-39000-O3LNRPUKDZBQJLE7H4RMOKE6YA.jpg?auth=86e19aac770fcbc5c5bce8bc2ff9b7830d3b5f5f6d3e0979c9a77806e4436931&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-13T19:42:40Z",
-      "Content": "El Banco Central (BCRA) adquirió hoy mediante intervenciones sobre el mercado cambiario oficial otros US$297 millones con lo que pasó a acumular más de US$10.000 millones adquiridos en la era Milei, … [+3901 chars]"
     }
   ]
 }
