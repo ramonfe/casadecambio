@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Billion-dollar battle: Where Charlotte grocery shoppers spent money in record amounts",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_efc19d7a-faf3-492b-8e9a-d71d0ac34858",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-01T09:50:00Z",
+      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--X4w3NHCK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-03-18t002811z_1_lynxnpek2h00h_rtroptp_3_kenya-markets.jpg?itok=EPigJkdR",
       "PublishedAt": "2024-03-18T00:28:11Z",
       "Content": "SYDNEY : Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps… [+4153 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a026660d-4e50-4d3e-8d23-cfd9d6078897",
-      "UrlToImage": null,
-      "PublishedAt": "2024-03-18T00:28:11Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
