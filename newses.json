@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 2 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 2 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-2-de-abril-nid02042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-blue-hoy-a-cuanto-cotiza-el-viernes-11-de-2D6JYLRRX5GUBBIKSOM7BZ4FQQ.jpg?auth=d22a2b4dd52b988a6919741cc6ece3457380cfcbd2a0a5731c1804d38ec0ce4d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-02T14:11:27Z",
+      "Content": "Este martes 2 de abril, el precio del dólar en México es de $16,6578, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2198 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/61e74d82c2fee7fe54a02d15a299c06d/crop/287x123/1761x1105/resize/1200/f/webp/assets/multimedia/imagenes/2024/03/18/17107877242898.jpg",
       "PublishedAt": "2024-03-18T19:39:52Z",
       "Content": "Los analistas no descartan el regreso a la paridad entre las dos divisas.Una de las vías más claras para apostar ante las elecciones presidenciales que Estados Unidos celebra en el mes de noviembre s… [+319 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 18 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 18 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-18-de-marzo-nid18032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-18T15:15:06Z",
-      "Content": "Este 18 de marzo, el precio del dólar en México es de $16,692, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un prome… [+2278 chars]"
     }
   ]
 }
