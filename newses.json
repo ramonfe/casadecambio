@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso gana al dólar por pronóstico de ‘sequía’ de recortes de la Fed: Se cotiza en 16.58 unidades",
+      "Description": "Entre las monedas que más ganan al dólar durante este martes 2 de abril están la corona noruega, la corona sueca y el rand sudafricano.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/02/peso-dolar-precio-hoy-2-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/TRJw8QB8DwJqYqAE2ajUk1swmx0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L7VMTC5C2FHHZB2VKUYNBPAXEY.jpg",
+      "PublishedAt": "2024-04-02T15:51:17Z",
+      "Content": "El peso mexicano regresa al terreno de las ganancias este 2 de abril ante especulaciones de que la Reserva Federal podría realizar menos recortes a la tasa de interés dada la fortaleza de la economía… [+1484 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-TJCDW5XVB5HZRPQARCJD322YPY.jpg?auth=452e7af23a8c79a997af79d1b50f4b197da8026dd4b4f4158a2a9393a75b1c1d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-19T14:43:02Z",
       "Content": "Este 19 de marzo, el precio del dólar en México es de $16,710, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un prome… [+2169 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Roberto Casado",
-      "Title": "Cómo afectaría al dólar y el euro el regreso de Donald Trump a la Casa Blanca",
-      "Description": "Una de las vías más claras para apostar ante las elecciones presidenciales que Estados Unidos celebra en el mes de noviembre se encuentra en el mercado de divisas. Así como el...",
-      "Url": "https://www.expansion.com/mercados/2024/03/18/65f88c58468aebce778b4584.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/61e74d82c2fee7fe54a02d15a299c06d/crop/287x123/1761x1105/resize/1200/f/webp/assets/multimedia/imagenes/2024/03/18/17107877242898.jpg",
-      "PublishedAt": "2024-03-18T19:39:52Z",
-      "Content": "Los analistas no descartan el regreso a la paridad entre las dos divisas.Una de las vías más claras para apostar ante las elecciones presidenciales que Estados Unidos celebra en el mes de noviembre s… [+319 chars]"
     }
   ]
 }
