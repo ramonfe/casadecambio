@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 52,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "First suspect convicted in Singapore billion-dollar money laundering case",
+      "Description": "SINGAPORE: The first suspect to plead guilty in Singapore's largest money laundering case was convicted in a district court on Tuesday (Apr 2). Su Wenqiang, 32, admitted to 11 charges of money laundering, possessing proceeds from illegal remote gambling offen…",
+      "Url": "https://www.channelnewsasia.com/singapore/su-wenqiang-pleads-guilty-billion-dollar-money-laundering-convicted-4234731",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--LucX7mgJ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/04/02/20240402-NS-SuWenqiang.jpg?itok=fnsD5q4z",
+      "PublishedAt": "2024-04-02T03:31:00Z",
+      "Content": "Su was living in Manila in 2019 when he engaged in online gambling. He got to know an individual named in court documents only as \"A\".\r\nThis person, A, was involved in providing remote gambling servi… [+3241 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Rupee to rely on central bank help to counter surging dollar",
+      "Description": "(marketscreener.com) The Indian rupee will be counting on the central bank's assistance on Tuesday to avoid declining to a record low, after robust U.S. manufacturing data pushed the dollar index to its highest level in more than four months. https://www.mark…",
+      "Url": "https://www.marketscreener.com/news/latest/Rupee-to-rely-on-central-bank-help-to-counter-surging-dollar-46333352/",
+      "UrlToImage": "https://www.marketscreener.com/images/reuters/2019-08/2019-08-07T020842Z_1_LYNXNPEF76030_RTROPTP_3_INDIA-MARKETS-RUPEE.JPG",
+      "PublishedAt": "2024-04-02T03:02:40Z",
+      "Content": "MUMBAI (Reuters) - The Indian rupee will be counting on the central bank's assistance on Tuesday to avoid declining to a record low, after robust U.S. manufacturing data pushed the dollar index to it… [+1955 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2019/08/Asian-Markets-770x433.jpg",
       "PublishedAt": "2024-03-18T00:50:23Z",
       "Content": "Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps a slower… [+4022 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
-      "Description": "Asia shares idle, dollar firm ahead of central bank bonanza",
-      "Url": "https://www.investing.com/news/economy/asia-shares-idle-dollar-firm-ahead-of-central-bank-bonanza-3341176",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_4_800x533_L_1413112066.jpg",
-      "PublishedAt": "2024-03-18T00:31:00Z",
-      "Content": "By Wayne Cole\r\nSYDNEY (Reuters) - Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free m… [+4064 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
-      "Description": "SYDNEY : Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps a slower glide path for U.S. rate cuts.Central banks in the…",
-      "Url": "https://www.channelnewsasia.com/business/asia-shares-idle-dollar-firm-ahead-central-bank-bonanza-4202051",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--X4w3NHCK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-03-18t002811z_1_lynxnpek2h00h_rtroptp_3_kenya-markets.jpg?itok=EPigJkdR",
-      "PublishedAt": "2024-03-18T00:28:11Z",
-      "Content": "SYDNEY : Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps… [+4153 chars]"
     }
   ]
 }
