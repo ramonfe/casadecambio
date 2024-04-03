@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso mexicano pierde terreno ante fortaleza del dólar",
+      "Description": "El peso mexicano no pudo contra la fortaleza del dólar, luego de que la actividad manufacturera de Estados Unidos creció por primera vez desde 2022.",
+      "Url": "https://www.jornada.com.mx/2024/04/02/economia/018n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-04-02T10:01:57Z",
+      "Content": "Periódico La JornadaMartes 2 de abril de 2024, p. 18\r\nEl peso mexicano no pudo contra la fortaleza del dólar, luego de que la actividad manufacturera de Estados Unidos creció por primera vez desde 20… [+3344 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-03-16T07:54:05Z",
       "Content": "Periódico La JornadaSábado 16 de marzo de 2024, p. 14\r\nEl tipo de cambio se colocó en su mejor nivel en siete meses, pues concluyó la jornada del viernes en 16.71 pesos por dólar, lo que se tradujo e… [+2341 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 15 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 15 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-15-de-marzo-nid15032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-el-dolar-en-los-bancos-de-mexico-este-F2ZJ3WN6CJHT7IVXEMUVM22HDI.jpg?auth=f76205d40a201a5f907bd517a1e3d52bb4cd3c2adf20ebaef7bb850c241119a2&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-15T15:24:00Z",
-      "Content": "Este viernes 15 de marzo, el precio del dólar en México es de $16,692, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2169 chars]"
     }
   ]
 }
