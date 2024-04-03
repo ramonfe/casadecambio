@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Dólar: ¿cuántos años tiene la moneda que se usa en Estados Unidos?",
+      "Description": "En abril de 1792, bajo la presidencia de George Washington se declaró la unidad monetaria nacional y se reguló la acuñación de monedas del país norteamericano",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-cuantos-anos-tiene-la-moneda-que-se-usa-en-estados-unidos-nid02042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-oficial-de-estados-unidos-cumple-232-JMRLISQGVJGX7EP3JM2UX2JIRE.jpg?auth=3d3edbc0458711b2b5f8c7b3110c03eed0bf2220a95d64ad6a5b8016daa71b87&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-02T12:57:38Z",
+      "Content": "Codiciados en el mundo entero, los dólares lograron erigirse como una de las monedas de referencia del mundo económico y de las finanzas. En sus 232 años de historia, la divisa estadounidense consigu… [+2791 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-a-pesos-mexicanos-como-esta-la-moneda-hoy-4M5JM5GTX5EO5J3UPXHODSZHIM.jpg?auth=1dbe33dba219bd0e29bfc6557f78def98292240a8c70879cb04f66f0d959624c&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-18T15:15:06Z",
       "Content": "Este 18 de marzo, el precio del dólar en México es de $16,692, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un prome… [+2278 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso es la moneda con mayor avance frente al dólar",
-      "Description": "El tipo de cambio se colocó en su mejor nivel en siete meses, pues concluyó la jornada del viernes en 16.71 pesos por dólar, lo que se tradujo en una apreciación semanal de 0.52 por ciento, de acuerdo con datos del Banco de México (BdeM).",
-      "Url": "https://www.jornada.com.mx/2024/03/16/economia/014n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-03-16T07:54:05Z",
-      "Content": "Periódico La JornadaSábado 16 de marzo de 2024, p. 14\r\nEl tipo de cambio se colocó en su mejor nivel en siete meses, pues concluyó la jornada del viernes en 16.71 pesos por dólar, lo que se tradujo e… [+2341 chars]"
     }
   ]
 }
