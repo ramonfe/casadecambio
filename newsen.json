@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNET"
+      },
+      "Author": "Katie Teague",
+      "Title": "You Don't Have to Pay Top Dollar on Expensive Airline Tickets: 3 Quick Tips to Save Money on Airfare - CNET",
+      "Description": "Now is one of the best times to get cheap tickets, especially ahead of summer flights.",
+      "Url": "https://www.cnet.com/personal-finance/credit-cards/you-dont-have-to-pay-top-dollar-on-expensive-airline-tickets-3-quick-tips-to-save-money-on-airfare/",
+      "UrlToImage": "https://www.cnet.com/a/img/resize/937fa97db9a02caf95dfdfb38074dac565c43e1f/hub/2021/08/12/8a9eea72-d7e4-4562-9ee0-de8ea7ef1044/airplanes-travel-flying-airports-40a4685.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "PublishedAt": "2024-04-02T20:20:01Z",
+      "Content": "Air travel could be getting more expensive soon. Following multiple safety incidents, including the door of an Alaska Airlines 737 Max detaching after takeoff, Boeing is expected to produce fewer new… [+3655 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-108572599,width-1200,height-630,imgsize-252278,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2024-03-18T02:21:00Z",
       "Content": "Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps a slower… [+4082 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Moneycontrol"
-      },
-      "Author": "Reuters",
-      "Title": "Asia shares idle, dollar firm ahead of central bank bonanza",
-      "Description": "Central banks in the United States, Japan, UK, Sweden, Switzerland, Australia, Brazil and Mexico all meet and, while most are expected to hold steady, there is plenty of scope for surprises.",
-      "Url": "https://www.moneycontrol.com/news/business/markets/asia-shares-idle-dollar-firm-ahead-of-central-bank-bonanza-12477191.html",
-      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2019/08/Asian-Markets-770x433.jpg",
-      "PublishedAt": "2024-03-18T00:50:23Z",
-      "Content": "Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps a slower… [+4022 chars]"
     }
   ]
 }
