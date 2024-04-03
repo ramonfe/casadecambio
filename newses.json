@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza tras retroceso del dólar y alza de precios de commodities",
+      "Description": "Forbes México.\n Peso avanza tras retroceso del dólar y alza de precios de commodities\n\nLa sesión estuvo marcada por la publicación de sólidas cifras económicas en EU, y el aumento de precios de materias primas.\nPeso avanza tras retroceso del dólar y alza de p…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-tras-retroceso-del-dolar-y-alza-de-precios-de-commodities/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
+      "PublishedAt": "2024-04-02T21:37:37Z",
+      "Content": "El peso avanzó este martes ante un retroceso global del dólar luego de la publicación de sólidas cifras económicas en Estados Unidos que fortalecieron las apuestas de que la Reserva Federal (Fed) pod… [+2714 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/3cHgCuJuEw5cZMB_tqU0RPrq870=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/N4KYUX5E5JB5BAZFIFBR2MX7DI.jpg",
       "PublishedAt": "2024-03-19T17:07:23Z",
       "Content": "El peso mexicano se ubicaba en el terreno de pérdidas durante este 19 de marzo a medida que los inversionistas asimilan la última decisión del Banco Central de Japón, el cual eliminó la última tasa d… [+1418 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 19 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este mates 19 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-19-de-marzo-nid19032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-martes-TJCDW5XVB5HZRPQARCJD322YPY.jpg?auth=452e7af23a8c79a997af79d1b50f4b197da8026dd4b4f4158a2a9393a75b1c1d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-19T14:43:02Z",
-      "Content": "Este 19 de marzo, el precio del dólar en México es de $16,710, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un prome… [+2169 chars]"
     }
   ]
 }

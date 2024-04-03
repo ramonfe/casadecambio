@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "You Don't Have to Pay Top Dollar on Expensive Airline Tickets: 3 Quick Tips to Save Money on Airfare - CNET",
+      "Description": "Now is one of the best times to get cheap tickets, especially ahead of summer flights.",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173436700",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-02T21:52:46Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-108572671,width-1200,height-630,imgsize-736658,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2024-03-18T02:25:05Z",
       "Content": "Gold struggled for momentum in early Asian hours on Monday as the dollar held firm and investors braced for a series of major central bank policy meetings including the U.S. Federal Reserve this week… [+1390 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Asian shares idle, dollar firm ahead of central bank bonanza",
-      "Description": "Central banks in the United States, Japan, UK, Sweden, Switzerland, Australia, Brazil and Mexico all meet and, while most are expected to hold steady, there is plenty of scope for surprises.",
-      "Url": "https://economictimes.indiatimes.com/markets/stocks/news/asia-shares-idle-dollar-firm-ahead-of-central-bank-bonanza/articleshow/108572563.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-108572599,width-1200,height-630,imgsize-252278,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-03-18T02:21:00Z",
-      "Content": "Asian shares idled and the dollar held firm on Monday as investors looked to navigate a minefield of central bank meetings this week that could see the end of free money in Japan and perhaps a slower… [+4082 chars]"
     }
   ]
 }
