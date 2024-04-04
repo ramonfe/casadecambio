@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "https://www.thegatewaypundit.com",
+      "Title": "PEAK CORRUPTION: Jesse Watters Reveals the Multi-Million Dollar Perks Going to Judge Merchan’s Family for Taking Trump to Court in Bogus Hush Money Case (VIDEO)",
+      "Description": "Jesse Watters ran a devastating segment last night on radical Judge Juan Merchan who silenced President Donald Trump from talking about his family’s financial ties to the current junk case he is presiding over against Donald Trump in New York City. Judge Merc…",
+      "Url": "https://freerepublic.com/focus/f-bloggers/4228750/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-03T16:59:22Z",
+      "Content": "Skip to comments.\r\nPEAK CORRUPTION: Jesse Watters Reveals the Multi-Million Dollar Perks Going to Judge Merchans Family for Taking Trump to Court in Bogus Hush Money Case (VIDEO)https://www.thegatewa… [+4842 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news-au",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
       "PublishedAt": "2024-03-19T11:12:42Z",
       "Content": "MUMBAI (Reuters) - Indiabulls Housing Finance plans to raise funds through the sale of dollar-denominated bonds maturing in three years and three months, two merchant bankers said on Tuesday.\r\n The n… [+414 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Star Online"
-      },
-      "Author": "The Star Online",
-      "Title": "Finance Ministry: Ringgit's decline driven by stronger US dollar, China uncertainty",
-      "Description": "KUALA LUMPUR: The recent depreciation of the ringgit was largely driven by the strengthening of the United States dollar (USD) and the uncertainty of China’s economic growth, says the Finance Ministry. Read full story",
-      "Url": "https://www.thestar.com.my/news/nation/2024/03/19/finance-ministry-ringgit039s-decline-driven-by-stronger-us-dollar-china-uncertainty",
-      "UrlToImage": "https://apicms.thestar.com.my/uploads/images/2024/03/19/2599485.jpg",
-      "PublishedAt": "2024-03-19T00:43:00Z",
-      "Content": "KUALA LUMPUR: The recent depreciation of the ringgit was largely driven by the strengthening of the United States dollar (USD) and the uncertainty of Chinas economic growth, says the Finance Ministry… [+1553 chars]"
     }
   ]
 }

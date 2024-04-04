@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso todavía ‘anda encobijado’: Se cotiza en las 16.53 unidades vs. el dólar",
+      "Description": "De acuerdo con datos de Citibanamex, el dólar aún se vende debajo del piso de las 17 unidades en ventanillas bancarias.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/03/peso-dolar-precio-hoy-3-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/I_OEEx3BHZt7YX-rN1zSmTi3rRI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DDR6B56LUBBOBBJXSPG7EEBDA4.jpg",
+      "PublishedAt": "2024-04-03T16:45:19Z",
+      "Content": "El peso mexicano opera volátil frente al dólar este 3 de abril tras la publicación de la encuesta de empleo en Estados Unidos que reveló que en marzo se crearon 184 mil empleos, dato que superó las p… [+1750 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/o2i-3NulX95rx7oiOo3K_dKY3jg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/AG6HVGHFYZEOVLJBE2SPHVFFAM.jpg",
       "PublishedAt": "2024-03-20T15:41:29Z",
       "Content": "El peso mexicano inicia con avances la jornada bursátil de este 20 de marzo en la que el catalizador principal para los mercados financieros será la decisión de política monetaria de la Reserva Feder… [+1554 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 20 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 20 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-20-de-marzo-nid20032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/20-de-marzo-asi-cotiza-el-dolar-en-mexico-NC2NTP2TNFBUJDZLC6EBYQ6AMQ.JPG?auth=a580d64e23d13f37f0a5c6847657ce3b63c7619d1b4af9f7fba405da295d5a2b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-20T14:46:03Z",
-      "Content": "Este 20 de marzo, el precio del dólar en México es de $16,852,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un promedi… [+2214 chars]"
     }
   ]
 }
