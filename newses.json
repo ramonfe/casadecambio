@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 3 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 3 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-3-de-abril-nid03042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-03T15:14:12Z",
+      "Content": "Este miércoles 3 de abril, el precio del dólar en México es de $16,5673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de… [+2440 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/20-de-marzo-asi-cotiza-el-dolar-en-mexico-NC2NTP2TNFBUJDZLC6EBYQ6AMQ.JPG?auth=a580d64e23d13f37f0a5c6847657ce3b63c7619d1b4af9f7fba405da295d5a2b&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-20T14:46:03Z",
       "Content": "Este 20 de marzo, el precio del dólar en México es de $16,852,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un promedi… [+2214 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Rebote’ del peso se alarga: Pierde contra el dólar y cotiza en las 16.85 unidades",
-      "Description": "Según cifras de Citibanamex, en ventanillas bancarias el precio del dólar es de 17.26 pesos cada uno.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/19/peso-dolar-precio-hoy-19-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/3cHgCuJuEw5cZMB_tqU0RPrq870=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/N4KYUX5E5JB5BAZFIFBR2MX7DI.jpg",
-      "PublishedAt": "2024-03-19T17:07:23Z",
-      "Content": "El peso mexicano se ubicaba en el terreno de pérdidas durante este 19 de marzo a medida que los inversionistas asimilan la última decisión del Banco Central de Japón, el cual eliminó la última tasa d… [+1418 chars]"
     }
   ]
 }
