@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "ABC News",
+      "Title": "Mariam Mohammed's parents taught her to share her money from the first dollar — however much or little she has",
+      "Description": "It's Pay Day! Mariam Mohammed says her anxiety about money comes from living in poverty after migrating to Australia alone as a teenager — she was skipping meals for weeks before she reached out for help.",
+      "Url": "https://www.abc.net.au/news/2024-04-03/pay-day-mariam-mohammed-money-girl/103636182",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/87a2951644dd8393edb72a7770efac38?impolicy=wcms_watermark_news&cropH=1350&cropW=2400&xPos=0&yPos=407&width=862&height=485&imformat=generic",
+      "PublishedAt": "2024-04-03T05:20:54Z",
+      "Content": "It's Pay Day! The ABC's new column where we ask Australians the money questions we don't like to talk about. We aim to demystify personal finance and normalise conversations about what we earn and ho… [+7011 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://apicms.thestar.com.my/uploads/images/2024/03/19/2599485.jpg",
       "PublishedAt": "2024-03-19T00:43:00Z",
       "Content": "KUALA LUMPUR: The recent depreciation of the ringgit was largely driven by the strengthening of the United States dollar (USD) and the uncertainty of Chinas economic growth, says the Finance Ministry… [+1553 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Gold listless as central bank meetings loom, dollar holds firm",
-      "Description": "Spot gold was little changed at $2,156.69 per ounce, as of 0059 GMT. U.S. gold futures inched 0.1% lower to $2,159.90.",
-      "Url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-listless-as-central-bank-meetings-loom-dollar-holds-firm/articleshow/108572648.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-108572671,width-1200,height-630,imgsize-736658,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-03-18T02:25:05Z",
-      "Content": "Gold struggled for momentum in early Asian hours on Monday as the dollar held firm and investors braced for a series of major central bank policy meetings including the U.S. Federal Reserve this week… [+1390 chars]"
     }
   ]
 }
