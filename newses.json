@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘pasea triunfal’ vs. el dólar: Ronda niveles no vistos desde noviembre de 2015",
+      "Description": "Gabriela Siller, directora de análisis económico en Banco Base, destacó que el avance del peso está cimentado en que los inversionistas siguen apostando a favor de la moneda mexicana.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/04/peso-dolar-precio-hoy-4-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZNyS6vHUj01z3BFNvLeF1_PREws=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L2EEQ24JWBDH3NGB6MS2AJ4VCA.jpg",
+      "PublishedAt": "2024-04-04T15:49:07Z",
+      "Content": "El peso mexicano extiende sus avances frente al dólar, lo que la ha llevado a operar en sus niveles más bajos desde finales de noviembre de 2015 en el comienzo de las negociaciones de este 4 de abril… [+1544 chars]"
+    },
+    {
+      "Source": {
         "Id": "la-nacion",
         "Name": "La Nacion"
       },
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizan-los-mercados-SJHJQQB565BJXDA4XB6O4NEL4A.jpg?auth=7f7a3c22b7f252fd78daf448eaca7643277a4d227ca6ab26fc3aedfbabf00d1b&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-22T14:54:07Z",
       "Content": "Este viernes 22 de marzo, el precio del dólar en México es de $16,762, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2890 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Al peso le da la ‘chiripiorca’ antes del anuncio de Banxico: Pierde 8 centavos vs. el dólar",
-      "Description": "Analistas de CIBanco pronosticaron que el tipo de cambio se moverá entre las 16.65 y 16.90 unidades por dólar durante la jornada de este jueves.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/21/peso-dolar-precio-hoy-21-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/08CjvOub2_lmgy--P1SghLA9Btw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/B7UC5MWWCVEAJIRNXA7YVGGJXA.jpg",
-      "PublishedAt": "2024-03-21T16:31:24Z",
-      "Content": "El peso mexicano comienza la jornada bursátil de este 21 de marzo con correcciones ante el dólar, previo a que el Banco de México dé a conocer su decisión de política monetaria. \r\nInformación de Bloo… [+1280 chars]"
     }
   ]
 }
