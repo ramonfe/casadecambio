@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Environmental Defense Fund"
+      },
+      "Author": "aopatik",
+      "Title": "New Agriculture Finance Sustainability Coalition partners with multi-billion dollar awardee of the EPA’s National Clean Investment Fund",
+      "Description": "The Agriculture Finance Sustainability Coalition, a new partnership between agriculture, environmental groups and financial institutions, supported a significant awardee of the U.S. Environmental Protection Agency's $14-billion National Clean Investment Fund.…",
+      "Url": "https://www.edf.org/media/new-agriculture-finance-sustainability-coalition-partners-multi-billion-dollar-awardee-epas",
+      "UrlToImage": "https://www.edf.org/sites/all/themes/edf/images/edf-logo-1200x630.png",
+      "PublishedAt": "2024-04-04T12:42:00Z",
+      "Content": "(Washington, D.C. April 4th, 2024) The Agriculture Finance Sustainability Coalition, a new partnership between agriculture, environmental groups and financial institutions, supported a significant aw… [+4022 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "First two men convicted in billion-dollar money laundering case to be deported: ICA",
+      "Description": "It is unclear where both individuals will be deported to after serving their sentences.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-two-convicted-men-deport-serve-jail-sentences-4242726",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TKtCP913--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/04/04/comp_of_illustrations_of_su_wenqiang_and_su_haijin.jpg?itok=QIddaxjD",
+      "PublishedAt": "2024-04-04T12:29:00Z",
+      "Content": "SINGAPORE: The first two men convicted in Singapores largest money laundering case will be deported after their jail terms, said the Immigration and Checkpoints Authority (ICA) on Thursday (Apr 4). \r… [+1157 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/03/bank-freeze-us-.jpg",
       "PublishedAt": "2024-03-22T23:15:24Z",
       "Content": "An Atlanta woman says a popular US bank abruptly froze her account and refused to let her cash out, leaving her to fend for herself.\r\nShelley Camp says Green Dot locked her out of her bank account ou… [+1274 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Gulf International Bank UK Ltd Sells 3,029 Shares of Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Gulf International Bank UK Ltd cut its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.0% during the fourth quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The institutional investor o…",
-      "Url": "https://www.etfdailynews.com/2024/03/22/gulf-international-bank-uk-ltd-sells-3029-shares-of-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-03-22T10:46:41Z",
-      "Content": "Gulf International Bank UK Ltd cut its position in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.0% during the fourth quarter, according to the company in its most recent disclosure with the Se… [+5472 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Man who jumped off balcony during raid set to plead guilty",
-      "Description": "Su Haijin faces two charges - resisting arrest and possessing S$4.06 million from illegal remote gambling offences.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-su-haijin-balcony-4214846",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SUzUtaFS--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/06/img_6866.jpg?itok=OZBFJeT5",
-      "PublishedAt": "2024-03-22T10:38:11Z",
-      "Content": "SINGAPORE: A man who jumped off a balcony during a raid to arrest suspects linked to a billion-dollar money laundering probe is set to plead guilty.\r\nSu Haijin, a 41-year-old man listed as Cypriot in… [+933 chars]"
     }
   ]
 }
