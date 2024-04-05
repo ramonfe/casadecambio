@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Dollar Tree: 9 Best New Arrivals for Your Money in April",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dcd69799-5b33-4ae9-94ac-bcb8cca06283",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-04T13:01:25Z",
+      "Content": "If you click 'Accept all', we and our partners (including 240 who are part of the IAB Transparency &amp; Consent Framework) will also use cookies and your personal data, such as IP address, precise l… [+686 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/25/cdef61e9-3795-4b1a-bdda-fd9e27110294/thumbnail/1200x630/c61ba4a3570468a527a85f000bf92f59/cbsn-fusion-busy-legal-day-for-trump-with-multimillion-dollar-bond-due-hush-money-case-hearing-thumbnail-2784932-640x360.jpg?v=4baa656f7af774a52a8c6a88476cb826",
       "PublishedAt": "2024-03-25T13:59:02Z",
       "Content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "Billion-Dollar Bank Abruptly Freezes Woman’s Account and Refuses To Return Funds, Forcing Her To Rely on Family and Friends for Survival: Report",
-      "Description": "An Atlanta woman says a popular US bank abruptly froze her account and refused to let her cash out, leaving her to fend for herself. Shelley Camp says Green Dot locked her out of her bank account out of nowhere for “unusual activity,” reports the ABC-affiliat…",
-      "Url": "https://dailyhodl.com/2024/03/22/billion-dollar-bank-abruptly-freezes-womans-account-and-refuses-to-return-funds-forcing-her-to-rely-on-family-and-friends-for-survival-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/03/bank-freeze-us-.jpg",
-      "PublishedAt": "2024-03-22T23:15:24Z",
-      "Content": "An Atlanta woman says a popular US bank abruptly froze her account and refused to let her cash out, leaving her to fend for herself.\r\nShelley Camp says Green Dot locked her out of her bank account ou… [+1274 chars]"
     }
   ]
 }
