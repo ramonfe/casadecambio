@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Peso rompe piso de $16.50 por dólar en mercado internacional",
+      "Description": "El peso se apreció con fuerza tras datos laborales de EU y cerró por debajo de 16.50 por dólar, nivel no visto desde noviembre de 2015.",
+      "Url": "https://www.reforma.com/peso-rompe-piso-de-16-50-por-dolar-en-mercado-internacional/ar2785048",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/270/5269193.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-05T14:58:06Z",
+      "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (05 abril 2024) .-08:54 (Actualización: 16:00 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Peso se aprecia y rompe piso de $16.50 por dólar",
+      "Description": "El peso se aprecia con fuerza tras datos laborales de EU y cotiza por debajo de $16.50 por dólar, nivel no visto desde noviembre de 2015.",
+      "Url": "https://www.reforma.com/peso-se-aprecia-y-rompe-piso-de-16-50-por-dolar/ar2785048",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/270/5269193.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-05T14:58:06Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (05 abril 2024) .-08:54 hrs"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 5 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 5 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-5-de-abril-nid05042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-5-de-JMRLISQGVJGX7EP3JM2UX2JIRE.jpg?auth=3d3edbc0458711b2b5f8c7b3110c03eed0bf2220a95d64ad6a5b8016daa71b87&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-05T14:47:25Z",
+      "Content": "Este viernes 5 de abril, el precio del dólar en México es de $16,5173, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2534 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso lleva al dólar ‘a la lona’: Marca su mejor nivel de 2024 en las 16.45 unidades",
+      "Description": "En los bancos, el dólar se vende en 16.87 pesos cada uno, reportó Citibanamex en la mañana de este 5 de abril.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/05/peso-dolar-precio-hoy-5-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v6uwIMiRjbtI0JeUYDVonJnGym0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I4LYNW6EZJCDFCDPYCPP55P6QQ.jpg",
+      "PublishedAt": "2024-04-05T14:22:03Z",
+      "Content": "El peso mexicano marca este viernes su mejor nivel en lo que va de 2024, impulsado por los datos de empleo en Estados Unidos que pueden beneficiar a México en el sector de las exportaciones. \r\nDe acu… [+1418 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,58 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-26-de-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-26T15:20:01Z",
       "Content": "Este martes 26 de marzo, el precio del dólar en México es de $16,762, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2611 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso inicia vacaciones de Semana Santa con ganancias vs. el dólar: Se cotiza en 16.70 unidades",
-      "Description": "De acuerdo con datos de Citibanamex, el dólar se vende en 17.16 pesos por cada uno en ventanillas bancarias.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/25/peso-dolar-precio-hoy-25-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/_X7ne9GkaH9aL93nmQtICCixc5k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UH477RYAD5BNFIHDUDIAZGKI7Q.jpg",
-      "PublishedAt": "2024-03-25T15:30:08Z",
-      "Content": "El peso mexicano vuelve a retomar sus ganancias frente al dólar este 25 de marzo, mientras los inversionistas se preparan para recibir el nuevo dato de inflación en Estados Unidos, cifra que será seg… [+2112 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 25 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 25 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-25-de-marzo-nid25032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lunes-25-de-2YLO54XIFFA2RAFQ4A2ISF363E.jpg?auth=1c5502736b68e6239ac6cf5c2ee6e6be8166b565b635e075cde1ee34cfd4af43&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-25T15:09:16Z",
-      "Content": "Este lunes 25 de marzo, el precio del dólar en México es de $16,762,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un p… [+2954 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "El peso ya se fue de vacaciones: Cotiza ‘tablas’ contra el dólar en las 16.73 unidades",
-      "Description": "El dólar se cotiza en 17.16 pesos por billete verde en ventanillas bancarias, de acuerdo con los datos reportados por Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/22/peso-dolar-precio-hoy-22-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Stf5FFTSr6XMY4GBUVTikvAd9gk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/44TJFSRSXZHYBADEO6ADS65JTI.jpg",
-      "PublishedAt": "2024-03-22T16:31:18Z",
-      "Content": "Con las expectativas de los operadores apuntando a que el Banco de Méxicono recortará su tasa de referencia de manera consecutiva, el peso mexicano inicia la sesión de este viernes casi tablas ante e… [+2091 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 22 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 22 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-22-de-marzo-nid22032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotizan-los-mercados-SJHJQQB565BJXDA4XB6O4NEL4A.jpg?auth=7f7a3c22b7f252fd78daf448eaca7643277a4d227ca6ab26fc3aedfbabf00d1b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-22T14:54:07Z",
-      "Content": "Este viernes 22 de marzo, el precio del dólar en México es de $16,762, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2890 chars]"
     }
   ]
 }
