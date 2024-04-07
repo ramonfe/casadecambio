@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Trump campaign expecting to raise $43 million at high-dollar Florida fundraiser - Yahoo Finance",
+      "Description": "Trump campaign expecting to raise $43 million at high-dollar Florida fundraiserYahoo Finance View Full Coverage on Google News ...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173461580",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-06T12:14:23Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.france24.com/media/display/08bfd96c-eada-11ee-b8b2-005056bf30b7/w:1280/p:16x9/565ff52413f23d334a0999c1d40f93f362cdda34.jpg",
       "PublishedAt": "2024-03-25T19:01:07Z",
       "Content": "Baghdad (AFP) Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said on … [+2709 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cbs-news",
-        "Name": "CBS News"
-      },
-      "Author": "CBS News",
-      "Title": "Busy legal day for Trump with multimillion-dollar bond due, \"hush money\" case hearing",
-      "Description": "Time is almost up for former President Donald Trump to post a bond of over $460 million in his civil fraud case or risk some of his New York properties being seized. Trump is also expected to appear in a courtroom Monday for a hearing in the Stormy Daniels \"h…",
-      "Url": "https://www.cbsnews.com/video/busy-legal-day-for-trump-with-multimillion-dollar-bond-due-hush-money-case-hearing/",
-      "UrlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/25/cdef61e9-3795-4b1a-bdda-fd9e27110294/thumbnail/1200x630/c61ba4a3570468a527a85f000bf92f59/cbsn-fusion-busy-legal-day-for-trump-with-multimillion-dollar-bond-due-hush-money-case-hearing-thumbnail-2784932-640x360.jpg?v=4baa656f7af774a52a8c6a88476cb826",
-      "PublishedAt": "2024-03-25T13:59:02Z",
-      "Content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     }
   ]
 }
