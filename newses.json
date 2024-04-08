@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
     {
       "Source": {
@@ -54,6 +54,19 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v6uwIMiRjbtI0JeUYDVonJnGym0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I4LYNW6EZJCDFCDPYCPP55P6QQ.jpg",
       "PublishedAt": "2024-04-05T14:22:03Z",
       "Content": "El peso mexicano marca este viernes su mejor nivel en lo que va de 2024, impulsado por los datos de empleo en Estados Unidos que pueden beneficiar a México en el sector de las exportaciones. \r\nDe acu… [+1418 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Libremercado.com"
+      },
+      "Author": null,
+      "Title": "TDND. La tertulia: \"El dólar puede hundir cualquier moneda\"",
+      "Description": "Comentamos con Gustavo Martínez y Javier Saenz de Cenzano los movimientos del precio del oro en las últimas semanas.",
+      "Url": "https://www.libremercado.com/2024-04-05/tdnd-la-tertulia-el-dolar-puede-hundir-cualquier-moneda-7113381/",
+      "UrlToImage": "https://s.libertaddigital.com/2024/04/05/1200/627/lm/tdnd-la-tertulia-el-dolar-puede-hundir-cualquier-moneda-7113381.jpg",
+      "PublishedAt": "2024-04-05T10:55:32Z",
+      "Content": "Comentamos con Gustavo Martínez y Javier Saenz de Cenzano los movimientos del precio del oro en las últimas semanas."
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RiX_k_PRT5UqOM3330IOK-Quckk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5EU7ZSSW7RH3PIGL5LJJKIW7QY.jpg",
       "PublishedAt": "2024-03-26T16:35:54Z",
       "Content": "El peso mexicano se ubica este martes en el terreno de pérdidas contra el dólar a medida que el mercado asimila los últimos datos económicos publicados en Estados Unidos.\r\nLos datos reportados por Bl… [+2206 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 26 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 26 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-26-de-marzo-nid26032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-26-de-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-26T15:20:01Z",
-      "Content": "Este martes 26 de marzo, el precio del dólar en México es de $16,762, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2611 chars]"
     }
   ]
 }

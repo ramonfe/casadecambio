@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "Confounded Interest",
+      "Title": "Fear The Talking Fed! How The Fed And Federal Government Destroyed The US Dollar (Purchasing Power DOWN -32% Since The Subprime Crisis While M2 Money Has Grown By 177%)",
+      "Description": "We are living in the USA where corruption, favoritism, open borders and an out-of-control Federal budget and debt are destroying this once great nation. Former Kansas City Fed President Thomas M. Hoenig was absolutely right when he said recently that The Fede…",
+      "Url": "https://freerepublic.com/focus/f-bloggers/4229555/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-07T09:48:22Z",
+      "Content": "Skip to comments.\r\nFear The Talking Fed! How The Fed And Federal Government Destroyed The US Dollar (Purchasing Power DOWN -32% Since The Subprime Crisis While M2 Money Has Grown By 177%)Confounded I… [+2611 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://d.ibtimes.com/en/full/4518767/customers-central-bank-iraq-which-says-many-foreign-trade-transactions-now-go-through-its.jpg",
       "PublishedAt": "2024-03-25T19:03:12Z",
       "Content": "Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said on Monday.\r\nWith … [+2681 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "Iraq Central Bank says regulated dollar transactions rising",
-      "Description": "With dollars dominating the country's economy, Baghdad has imposed a series of restrictions on the use of American greenbacks domestically. \n\nAt the end of 2022 the country's bankings sector also adopted the international financial messaging system known as S…",
-      "Url": "https://www.france24.com/en/live-news/20240325-iraq-central-bank-says-regulated-dollar-transactions-rising",
-      "UrlToImage": "https://s.france24.com/media/display/08bfd96c-eada-11ee-b8b2-005056bf30b7/w:1280/p:16x9/565ff52413f23d334a0999c1d40f93f362cdda34.jpg",
-      "PublishedAt": "2024-03-25T19:01:07Z",
-      "Content": "Baghdad (AFP) Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said on … [+2709 chars]"
     }
   ]
 }
