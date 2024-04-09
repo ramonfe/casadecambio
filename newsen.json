@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Chainwire",
+      "Title": "DigiFT Launches US Dollar Money Market Fund Token To Offer Stablecoin Holders An Actively Managed Investment Solution On-chain",
+      "Description": "DigiFT Launches US Dollar Money Market Fund Token To Offer Stablecoin Holders An Actively Managed Investment Solution On-chain",
+      "Url": "https://www.investing.com/news/cryptocurrency-news/digift-launches-us-dollar-money-market-fund-token-to-offer-stablecoin-holders-an-actively-managed-investment-solution-onchain-3368647",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981373.jpg",
+      "PublishedAt": "2024-04-08T03:30:38Z",
+      "Content": "Singapore, Singapore, April 8th, 2024, Chainwire\r\nDigiFT, the first on-chain Real World Asset (RWA) exchange regulated by the Monetary Authority of Singapore (MAS), is proud to announce the launch of… [+3918 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://gdb.voanews.com/6F440862-3548-4FD8-8095-C8F0A91F9399.jpg",
       "PublishedAt": "2024-03-25T21:54:13Z",
       "Content": "baghdad  Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said Monday.\r… [+2668 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "International Business Times"
-      },
-      "Author": "AFP News",
-      "Title": "Iraq Central Bank Says Regulated Dollar Transactions Rising",
-      "Description": "Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said on Monday.",
-      "Url": "https://www.ibtimes.com/iraq-central-bank-says-regulated-dollar-transactions-rising-3728085",
-      "UrlToImage": "https://d.ibtimes.com/en/full/4518767/customers-central-bank-iraq-which-says-many-foreign-trade-transactions-now-go-through-its.jpg",
-      "PublishedAt": "2024-03-25T19:03:12Z",
-      "Content": "Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said on Monday.\r\nWith … [+2681 chars]"
     }
   ]
 }
