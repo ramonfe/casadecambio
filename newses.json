@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Francisco Rivera",
+      "Title": "Peso rompe piso de las 16.40 unidades por dólar y tiene mejor nivel desde agosto de 2015",
+      "Description": "Forbes México.\n Peso rompe piso de las 16.40 unidades por dólar y tiene mejor nivel desde agosto de 2015\n\nEl dólar se ubicó al cierre de este lunes en 16.3368 pesos, según datos de Banxico.\nPeso rompe piso de las 16.40 unidades por dólar y tiene mejor nivel d…",
+      "Url": "https://www.forbes.com.mx/peso-rompe-piso-de-las-16-40-unidades-por-dolar-y-tiene-mejor-nivel-desde-agosto-de-2015/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-04-08T21:38:50Z",
+      "Content": "El peso rompió este lunes el piso de las 16.40 unidades por dólar al cierre de la sesión, algo que no ocurría desde el 16 de octubre de 2015, de acuerdo con datos de Banxico.\r\nEl dólar se ubicó al fi… [+778 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-como-cotiza-la-divisa-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-27T14:57:27Z",
       "Content": "Este miércoles 27 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de… [+2431 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Bendito’ peso: Se cotiza en las 16.59 unidades vs. el dólar en ‘Miércoles Santo’",
-      "Description": "El peso mexicano se perfila para cerrar esta semana en su mejor nivel en al menos 8 años.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/03/27/peso-dolar-precio-hoy-27-de-marzo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/dr37InQmu4n-ypj8XyR8BHBjel4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/W52DH5KSIVDXTJG3RFPWPC7GHY.jpg",
-      "PublishedAt": "2024-03-27T14:37:43Z",
-      "Content": "El peso mexicano está en modo bendito en plena Semana Santa y continúa su apreciación contra el dólar este miércoles, lo que ha llevado a la moneda nacional a su mejor nivel en más de 8 años. \r\nDatos… [+2105 chars]"
     }
   ]
 }

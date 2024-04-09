@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "CNA Explains: How were the sentences decided for duo convicted in billion-dollar money laundering case?",
+      "Description": "The amount of criminal proceeds laundered is just one factor, says a lawyer.",
+      "Url": "https://www.channelnewsasia.com/singapore/money-laundering-su-wenqiang-haijin-cna-explains-sentences-4244941",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TKtCP913--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/04/04/comp_of_illustrations_of_su_wenqiang_and_su_haijin.jpg?itok=QIddaxjD",
+      "PublishedAt": "2024-04-08T22:00:00Z",
+      "Content": "SINGAPORE: Two men accused of their involvement in a landmark S$3 billion (US$2.2 billion) money laundering case in Singapore received their sentences last week.\r\nOn Tuesday (Apr 2), Su Wenqiang was … [+1686 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2024-03-26T09:28:06Z",
       "Content": "SINGAPORE/LONDON, March 26 (Reuters) - The yen found\r\nsome stability on Tuesday, just shy of its weakest level in 34\r\nyears, as verbal intervention by Japanese officials continued,\r\nwhile the dollar … [+2951 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Moneycontrol"
-      },
-      "Author": "PTI",
-      "Title": "Axis Bank introduces digital opening of US dollar fixed deposit for NRI customers at GIFT City",
-      "Description": "With this introduction, Axis Bank becomes the first bank to offer a digital journey for GIFT City Deposits, the bank said in a statement.",
-      "Url": "https://www.moneycontrol.com/news/business/axis-bank-introduces-digital-opening-of-us-dollar-fixed-deposit-for-nri-customers-at-gift-city-12522551.html",
-      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/axis-bank-770x433.jpg",
-      "PublishedAt": "2024-03-26T06:15:16Z",
-      "Content": "Axis Bank on Tuesday announced the introduction of digital US dollar fixed deposit (FD) for NRI customers at the IFSC Banking Unit (IBU) at GIFT City, Gujarat.\r\nWith this introduction, Axis Bank beco… [+951 chars]"
     }
   ]
 }
