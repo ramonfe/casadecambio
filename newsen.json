@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bloody Disgusting"
+      },
+      "Author": "Joe Lipsett",
+      "Title": "Lifetime’s ‘Million Dollar Lethal Listing’ Is a Sensational Exploration of Money and Marriage [Review]",
+      "Description": "The latest Lifetime thriller from director David DeCoteau (Tall, Dark, and Dangerous), Million Dollar Lethal Listing, is a topical look at the dangerous financial implications of home ownership, unequal incomes, and trusting your partner. It’s clear early on …",
+      "Url": "https://bloody-disgusting.com/reviews/3807605/lifetimes-million-dollar-lethal-listing-is-a-sensational-exploration-of-money-and-marriage-review/",
+      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/04/Million-Dollar-Lethal-Listing-2024.jpeg?resize=1000%2C600&ssl=1",
+      "PublishedAt": "2024-04-08T15:00:01Z",
+      "Content": "The latest Lifetime thriller from director David DeCoteau (Tall, Dark, and Dangerous), Million Dollar Lethal Listing, is a topical look at the dangerous financial implications of home ownership, uneq… [+4607 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/axis-bank-770x433.jpg",
       "PublishedAt": "2024-03-26T06:15:16Z",
       "Content": "Axis Bank on Tuesday announced the introduction of digital US dollar fixed deposit (FD) for NRI customers at the IFSC Banking Unit (IBU) at GIFT City, Gujarat.\r\nWith this introduction, Axis Bank beco… [+951 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Agence France-Presse)",
-      "Title": "Iraq Central Bank Says Regulated Dollar Transactions Rising",
-      "Description": "baghdad — Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said Monday.\n\n\nWith dollars dominating the country's economy, Baghdad ha…",
-      "Url": "https://www.voanews.com/a/iraq-central-bank-says-regulated-dollar-transactions-rising-/7542206.html",
-      "UrlToImage": "https://gdb.voanews.com/6F440862-3548-4FD8-8095-C8F0A91F9399.jpg",
-      "PublishedAt": "2024-03-25T21:54:13Z",
-      "Content": "baghdad  Iraq, fighting a booming currency black market, has considerably increased overseas dollar transactions through the official global SWIFT system, the Central Bank vice governor said Monday.\r… [+2668 chars]"
     }
   ]
 }
