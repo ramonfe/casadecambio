@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT",
+      "Title": "Yuan displacing dollar on Russia’s foreign exchange market – Central Bank",
+      "Description": "The share of the Chinese yuan on Russia’s foreign exchange market hit an all-time high in March, according to the central bank Read Full Article at RT.com",
+      "Url": "https://www.rt.com/business/595642-yuan-trading-russian-forex-market/",
+      "UrlToImage": "https://mf.b37mrtl.ru/files/2024.04/article/6615390785f5403ee71f9b04.jpg",
+      "PublishedAt": "2024-04-09T14:11:21Z",
+      "Content": "The share of the Chinese yuan on Russia’s foreign exchange market hit an all-time high in March, the Bank of Russia (CBR) reported in its financial risk review on Monday.\r\nRussia’s shift away from ma… [+1724 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-108797775,width-1200,height-630,imgsize-90578,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2024-03-26T16:01:11Z",
       "Content": "The dollar dipped on Tuesday as traders waited on a fresh catalyst to give clues on Federal Reserve policy, while the yen was steady after Japan's finance minister said that he would not rule out any… [+2702 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decrypt"
-      },
-      "Author": "Andrew Hayward",
-      "Title": "Crypto Exchange KuCoin Charged With 'Multi-Billion Dollar Criminal Conspiracy'",
-      "Description": "The United States Department of Justice charged KuCoin and its founders with violations of the Bank Secrecy Act.",
-      "Url": "https://decrypt.co/223465/crypto-exchange-kucoin-charged-multi-billion-criminal-conspiracy",
-      "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/12/kucoin-shutterstock-gID_7.png",
-      "PublishedAt": "2024-03-26T15:20:14Z",
-      "Content": "Cryptocurrency exchange KuCoin and two of its founders were charged Tuesday by the United States Department of Justice with conspiring to violate the Bank Secrecy Act by failing to operate a complian… [+1028 chars]"
     }
   ]
 }

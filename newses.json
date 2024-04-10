@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 9 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 9 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-9-de-abril-nid09042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-se-mueven-los-56PRKMAQTVA63LMRTA4VGTMKNM.jpg?auth=fa8cd1c73e5b8685564641572225cd4c927d67ffc99d85d1236ce5874289274d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-09T14:51:04Z",
+      "Content": "Este martes 9 de abril, el precio del dólar en México es de $16,3357,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2104 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-03-27T21:24:17Z",
       "Content": "El peso tuvo este miércoles su mejor nivel frente al dólar desde diciembre de 2015.\r\nEl dólar se vendió al cierre de la sesión en 16.5625 pesos, una apreciación de 0.57% para la moneda nacional respe… [+1609 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 27 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 27 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-27-de-marzo-nid27032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-como-cotiza-la-divisa-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-27T14:57:27Z",
-      "Content": "Este miércoles 27 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de… [+2431 chars]"
     }
   ]
 }
