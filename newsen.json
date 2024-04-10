@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Pulsesports.ng"
+      },
+      "Author": "Funmilayo Fameso",
+      "Title": "Money Star: Sha'Carri Richardson Whoops' partnership deal with Van Dijk's multi-billion dollar fitness brand",
+      "Description": "Sha'Carri Richardson's money bag keeps rising with ease, as the world's fastest woman has secured a partnership deal with a multi-billion dollar wearable fitness company Whoop, which has football star Virgil van Dijk as an ambassador and investor.",
+      "Url": "https://www.pulsesports.ng/athletics/story/money-star-shacarri-richardson-whoops-partnership-deal-with-van-dijks-multi-billion-dollar-fitness-brand-2024040912412301001",
+      "UrlToImage": "https://sportal365images.com/process/smp-images-production/ringier.africa/09042024/0a036db5-3349-4037-a3a1-43e7ba9161bf.png?operations=fit(1200:630)",
+      "PublishedAt": "2024-04-09T13:47:03Z",
+      "Content": "Sha'Carri Richardson's money bag keeps rising with ease, as the world's fastest woman has secured a partnership deal with a multi-billion dollar wearable fitness company Whoop, which has soccer star … [+2087 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/12/kucoin-shutterstock-gID_7.png",
       "PublishedAt": "2024-03-26T15:20:14Z",
       "Content": "Cryptocurrency exchange KuCoin and two of its founders were charged Tuesday by the United States Department of Justice with conspiring to violate the Bank Secrecy Act by failing to operate a complian… [+1028 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Yen stabilises after finance minister comments, dollar dips",
-      "Description": "(marketscreener.com) The yen found\nsome stability on Tuesday, just shy of its weakest level in 34\nyears, as verbal intervention by Japanese officials continued,\nwhile the dollar was on the back foot.\n The euro was last at $1.0850 and the pound at\n$1.2645, bot…",
-      "Url": "https://www.marketscreener.com/news/latest/Yen-stabilises-after-finance-minister-comments-dollar-dips-46283736/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-03-26T09:28:06Z",
-      "Content": "SINGAPORE/LONDON, March 26 (Reuters) - The yen found\r\nsome stability on Tuesday, just shy of its weakest level in 34\r\nyears, as verbal intervention by Japanese officials continued,\r\nwhile the dollar … [+2951 chars]"
     }
   ]
 }
