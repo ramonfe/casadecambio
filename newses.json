@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "La ‘cruda’ tras el récord: Peso se deprecia vs. el dólar y cotiza en las 16.35 unidades",
+      "Description": "El peso mexicano arranca la jornada de este 9 de abril del lado de las monedas perdedoras junto con el rand sudafricano y el peso chileno, por ejemplo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/09/peso-dolar-precio-hoy-9-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/h-Oojo6O0Qw1ucmDBuG4EVdZsIU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7J22TV2YEZDNBEKLBM5EV2KH5Y.jpg",
+      "PublishedAt": "2024-04-09T15:21:28Z",
+      "Content": "El peso mexicano cede este martes contra el dólar después de que se publicó el dato de inflación de marzo, que mostró un repunte a 4.42 por ciento desde el 4.40 por ciento de febrero pasado. \r\nDe acu… [+1341 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/03/economia-pesos-20032024.jpg",
       "PublishedAt": "2024-03-28T01:59:56Z",
       "Content": "El peso mexicano alcanzó este miércoles un nuevo mínimo frente al dólar, no visto desde el 2 de diciembre de 2015, en mayor medida impulsado por un debilitamiento del dólar, que el mercado de futuros… [+3439 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Francisco Rivera",
-      "Title": "Peso tiene su mejor nivel frente al dólar desde diciembre de 2015",
-      "Description": "Forbes México.\n Peso tiene su mejor nivel frente al dólar desde diciembre de 2015\n\nEl avance récord no fue motivado por el dólar, sino por la percepción económica de México y la fortaleza de los atractivos niveles de interés de Banxico, considera Monex.\nPeso …",
-      "Url": "https://www.forbes.com.mx/peso-tiene-su-mejor-nivel-frente-al-dolar-desde-diciembre-de-2015/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-03-27T21:24:17Z",
-      "Content": "El peso tuvo este miércoles su mejor nivel frente al dólar desde diciembre de 2015.\r\nEl dólar se vendió al cierre de la sesión en 16.5625 pesos, una apreciación de 0.57% para la moneda nacional respe… [+1609 chars]"
     }
   ]
 }
