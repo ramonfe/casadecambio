@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Montevideo.com.uy"
+      },
+      "Author": "Montevideo Portal",
+      "Title": "Banco Central del Uruguay redujo tasa en medio de reclamos del agro por el dólar",
+      "Description": "La decisión se da cuando el peso muestra una tendencia a apreciarse, lo que provocó quejas de exportadores por la competitividad.",
+      "Url": "https://www.montevideo.com.uy/Noticias/Banco-Central-del-Uruguay-redujo-tasa-en-medio-de-reclamos-del-agro-por-el-dolar-uc885135",
+      "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201207/_W933_80/370861.jpg",
+      "PublishedAt": "2024-04-10T22:03:00Z",
+      "Content": "Montevideo Portal\r\nEl Banco\r\nCentral del Uruguay (BCU) redujo este miércoles en 50 puntos básicos su tasa de\r\ninterés de referencia, en medio de críticas\r\nde sectores productivos por lo que considera… [+2032 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/dolares-impuesto-riqueza-millonarios-pexels-23102023.jpg",
       "PublishedAt": "2024-04-01T21:34:33Z",
       "Content": "El peso mexicano se depreció el lunes ante un fortalecimiento global del dólar y tras la divulgación de sólidas cifras del sector manufacturero estadounidense, mientras que la bolsa subió por tercera… [+1816 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 1° de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 1° de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-1-de-abril-nid01042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-1°-de-JMRLISQGVJGX7EP3JM2UX2JIRE.jpg?auth=3d3edbc0458711b2b5f8c7b3110c03eed0bf2220a95d64ad6a5b8016daa71b87&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-01T15:10:34Z",
-      "Content": "Este lunes 1 de abril, el precio del dólar en México es de $16,5323,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un p… [+2168 chars]"
     }
   ]
 }
