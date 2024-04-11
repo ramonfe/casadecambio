@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Rebote pega ‘gacho’ al peso: Pierde 10 centavos y se cotiza en las 16.50 unidades vs. el dólar",
+      "Description": "La inflación en EU le 'está pasando factura' al peso en los mercados, después de que el dato fue más alto de lo esperado por especialistas.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/10/peso-dolar-precio-hoy-10-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bASaDYuHCO8J9bx4-Qst9Ey3B0E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MUHSICJRPBFBLPJRMZNDMM4SEI.jpg",
+      "PublishedAt": "2024-04-10T16:01:24Z",
+      "Content": "El peso mexicano anticipa otra jornada de pérdidas a medida que los operadores asimilan el último dato de inflación en Estados Unidos, el cual superó las expectativas del mercado al rebotar a 3.5 por… [+2209 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-29-de-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-29T15:34:24Z",
       "Content": "Este viernes 29 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que se vende en las ventanillas de Citibanamex en un promedio … [+1999 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 28 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 28 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-28-de-marzo-nid28032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-28-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-28T16:07:35Z",
-      "Content": "Este jueves 28 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2035 chars]"
     }
   ]
 }
