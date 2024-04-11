@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 10 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 10 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-10-de-abril-nid10042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-la-3T277DEURNC53DDP3M5CHFGHUY.jpg?auth=ed438205f4e0b6d833e00b5d05fc68cee3a3e2c15e1d0f1282785cda1f6c5e2b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-10T15:03:00Z",
+      "Content": "Este miércoles 10 de abril, el precio del dólar en México es de $17,03, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de … [+2018 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-28-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-03-28T16:07:35Z",
       "Content": "Este jueves 28 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2035 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / ES",
-      "Title": "Peso se cotiza en 16.51 pesos por dólar, nivel no visto desde 2015",
-      "Description": "La inflación anual se ubicó en 4,48 %, informó Gabriela Siller, directora de Análisis Económico y Financiero del Banco Base.",
-      "Url": "https://aristeguinoticias.com/2703/dinero-y-economia/peso-se-cotiza-en-16-51-pesos-por-dolar-nivel-no-visto-desde-2015/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/03/economia-pesos-20032024.jpg",
-      "PublishedAt": "2024-03-28T01:59:56Z",
-      "Content": "El peso mexicano alcanzó este miércoles un nuevo mínimo frente al dólar, no visto desde el 2 de diciembre de 2015, en mayor medida impulsado por un debilitamiento del dólar, que el mercado de futuros… [+3439 chars]"
     }
   ]
 }
