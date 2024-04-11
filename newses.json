@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar toca nuevo mínimo para este 2024 y se acerca a los ¢500",
+      "Description": "Cotización promedio del dólar en Monex fue de ¢502,40 este miércoles, una reducción de ¢2,59 respecto al mismo día de la semana anterior",
+      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-toca-nuevo-minimo-para/STENTTC26BDX7PISWXMK3Y5CZM/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/UREQUs8aeQxBp5q-7iyYccWH6iU=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/MH5PFUKGOBDA3CT55MQJFO46PQ.jpg",
+      "PublishedAt": "2024-04-10T21:53:52Z",
+      "Content": "El tipo de cambio del dólar respecto al colón alcanzó un nuevo mínimo en lo que va del 2024, con una cotización de cierre de ¢502,40 para el miércoles 10 de abril, en el Mercado de Monedas Extranjera… [+2780 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-1°-de-JMRLISQGVJGX7EP3JM2UX2JIRE.jpg?auth=3d3edbc0458711b2b5f8c7b3110c03eed0bf2220a95d64ad6a5b8016daa71b87&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-01T15:10:34Z",
       "Content": "Este lunes 1 de abril, el precio del dólar en México es de $16,5323,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un p… [+2168 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 29 de marzo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 29 de marzo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-29-de-marzo-nid29032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-este-29-de-GWKPU2OEENBTRG5P4N2T3NKU4I.jpg?auth=fe08688fde826c5a2a7f0c455ecdb2db3564751ed7b6db623e9c46ada82ae3c6&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-29T15:34:24Z",
-      "Content": "Este viernes 29 de marzo, el precio del dólar en México es de $16,678, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que se vende en las ventanillas de Citibanamex en un promedio … [+1999 chars]"
     }
   ]
 }
