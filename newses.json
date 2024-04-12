@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso, muévete, haz algo: Moneda arranca ‘casi tablas’ con el dólar",
+      "Description": "Esta ha sido una semana difícil para el peso después de alcanzar su mejor nivel contra el dólar desde agosto de 2015.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/11/peso-dolar-precio-hoy-11-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/frB777Zno9OuSkWuq22Vw9NWY7g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NHZA2WERF5H4HKYW7PH5S66Z7E.jpg",
+      "PublishedAt": "2024-04-11T16:58:41Z",
+      "Content": "El peso mexicano tiene movimientos marginales contra el dólar en la sesión de este jueves después de la publicación de la inflación al productor para la economía estadounidense, la cual repuntó 2.1 p… [+1530 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
       "PublishedAt": "2024-04-01T22:25:38Z",
       "Content": "El peso se depreció ante un fortalecimiento global del dólar y tras la publicación de sólidas cifras del sector manufacturero estadounidense.\r\nEl dólar se vendió al cierre en 16.6312 pesos, lo que si… [+2180 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Clarín"
-      },
-      "Author": "Juan Manuel Barca",
-      "Title": "Un banco de Wall Street espera leve baja de la inflación y dólar a $ 1.500 para fin de año",
-      "Description": "Según el JP Morgan, la inflación sería del 200% en 2024Alertó la velocidad de la recesiónEl rebote de la actividad llegaría en 2025",
-      "Url": "https://www.clarin.com/economia/banco-wall-street-espera-leve-baja-inflacion-dolar-1500-fin-ano_0_71i5GxMBxB.html",
-      "UrlToImage": "https://www.clarin.com/img/2024/04/01/SSYXhGiRT_2000x1500__1.jpg",
-      "PublishedAt": "2024-04-01T22:20:24Z",
-      "Content": "Por la fuerte recesión en marcha, algunos bancos de Wall Street esperan un desplome de la actividad y una leve baja de la inflación para fin de año. En sus últimos informes, el JP Morgan estimó una c… [+4250 chars]"
     }
   ]
 }
