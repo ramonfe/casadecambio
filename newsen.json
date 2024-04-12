@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Naturalnews.com"
+      },
+      "Author": "Richard Brown",
+      "Title": "Chinese renminbi replacing the U.S. dollar as most traded currency in Russia’s foreign exchange market",
+      "Description": "The Central Bank of Russia has just released a financial risk review noting how trading in the Chinese renminbi reached a historic high in March. This surge in yuan usage comes as part of Russia’s ongoing shift away from major Western currencies, spurred by s…",
+      "Url": "https://www.naturalnews.com/2024-04-11-renminbi-replacing-dollar-currency-russia-foreign-exchange.html",
+      "UrlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/04/chinese-currency-100-yuan-front-side.jpg",
+      "PublishedAt": "2024-04-11T06:00:00Z",
+      "Content": "The Central Bank of Russia has just released a financial risk review noting how trading in the Chinese renminbi reached a historic high in March.\r\nThis surge in yuan usage comes as part of Russia's o… [+4069 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2024-03-27T02:50:49Z",
       "Content": "MUMBAI (Reuters) - Indiabulls Housing Finance has accepted bids worth $350 million for dollar-denominated social bonds maturing in three years and three months, two merchant bankers said on Wednesday… [+446 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Dollar up: yen edges lower after Japanese finance minister comments",
-      "Description": "(marketscreener.com) The dollar rose on\nTuesday as traders waited on a fresh catalyst to give clues on\nFederal Reserve policy, while the yen slipped after Japans\nfinance minister said that he would not rule out any measures to\ncope with the weakening currenc…",
-      "Url": "https://www.marketscreener.com/news/latest/Dollar-up-yen-edges-lower-after-Japanese-finance-minister-comments-46291774/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2016-07/2016-07-27T205941Z_1006950001_LYNXNPEC6Q1GL_RTROPTP_2_CBUSINESS-US-GLOBAL-MARKETS.JPG",
-      "PublishedAt": "2024-03-26T19:16:23Z",
-      "Content": "NEW YORK, March 26 (Reuters) - The dollar rose on\r\nTuesday as traders waited on a fresh catalyst to give clues on\r\nFederal Reserve policy, while the yen slipped after Japans\r\nfinance minister said th… [+2997 chars]"
     }
   ]
 }
