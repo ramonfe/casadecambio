@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "BBC",
+      "Title": "Truong My Lan: Vietnamese billionaire accused in multi-billion dollar bank fraud",
+      "Description": "It is the most spectacular trial ever held in Vietnam, befitting one of the greatest bank frauds the world has ever seen. Behind the stately yellow portico of the colonial-era courthouse in Ho Chi Minh City, a 67-year-old property developer stands accused of …",
+      "Url": "https://freerepublic.com/focus/f-news/4230409/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-11T03:07:45Z",
+      "Content": "Skip to comments.\r\nTruong My Lan: Vietnamese billionaire accused in multi-billion dollar bank fraudBBC ^\r\n | April 10\r\n | BBC\r\nPosted on 04/10/2024 8:07:45 PM PDT by RandFan\r\nIt is the most spectacul… [+2828 chars]"
+    },
     {
       "Source": {
         "Id": "rt",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2016-07/2016-07-27T205941Z_1006950001_LYNXNPEC6Q1GL_RTROPTP_2_CBUSINESS-US-GLOBAL-MARKETS.JPG",
       "PublishedAt": "2024-03-26T19:16:23Z",
       "Content": "NEW YORK, March 26 (Reuters) - The dollar rose on\r\nTuesday as traders waited on a fresh catalyst to give clues on\r\nFederal Reserve policy, while the yen slipped after Japans\r\nfinance minister said th… [+2997 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar slips, yen steady after Japanese finance minister comments",
-      "Description": "​The dollar dipped on Tuesday as traders waited on a fresh catalyst to give clues on Federal Reserve policy, while the yen was steady after Japan's finance minister said that he would not rule out any measures to cope with the weakening currency.",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-slips-yen-steady-after-japanese-finance-minister-comments/articleshow/108797766.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-108797775,width-1200,height-630,imgsize-90578,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-03-26T16:01:11Z",
-      "Content": "The dollar dipped on Tuesday as traders waited on a fresh catalyst to give clues on Federal Reserve policy, while the yen was steady after Japan's finance minister said that he would not rule out any… [+2702 chars]"
     }
   ]
 }
