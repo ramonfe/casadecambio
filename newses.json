@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 11 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 11 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-11-de-abril-nid11042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-fluctuaciones-del-mercado-el-precio-del-dolar-3T277DEURNC53DDP3M5CHFGHUY.jpg?auth=ed438205f4e0b6d833e00b5d05fc68cee3a3e2c15e1d0f1282785cda1f6c5e2b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-11T14:45:26Z",
+      "Content": "Este jueves 11 de abril, el precio del dólar en México es de $16,4883, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2515 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.clarin.com/img/2024/04/01/SSYXhGiRT_2000x1500__1.jpg",
       "PublishedAt": "2024-04-01T22:20:24Z",
       "Content": "Por la fuerte recesión en marcha, algunos bancos de Wall Street esperan un desplome de la actividad y una leve baja de la inflación para fin de año. En sus últimos informes, el JP Morgan estimó una c… [+4250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN/ SBH",
-      "Title": "Peso mexicano cede terreno ante el dólar",
-      "Description": "El miércoles, el peso llegó a avanzar hasta 16.5060 unidades, su mejor nivel desde diciembre de 2015.",
-      "Url": "https://aristeguinoticias.com/0104/dinero-y-economia/peso-mexicano-cede-terreno-ante-el-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/dolares-impuesto-riqueza-millonarios-pexels-23102023.jpg",
-      "PublishedAt": "2024-04-01T21:34:33Z",
-      "Content": "El peso mexicano se depreció el lunes ante un fortalecimiento global del dólar y tras la divulgación de sólidas cifras del sector manufacturero estadounidense, mientras que la bolsa subió por tercera… [+1816 chars]"
     }
   ]
 }
