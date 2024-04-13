@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Dollar up on mixed central bank views, Middle East risk lifts oil and gold",
+      "Description": "(marketscreener.com) The U.S. dollar\nsoared on Friday while oil prices pushed higher and gold reached\na record peak as investors grappled with geopolitical tensions\nand potentially diverging interest rate paths between Europe and\nthe United States.\n Major U.S…",
+      "Url": "https://www.marketscreener.com/quote/commodity/WTI-2355639/news/Dollar-up-on-mixed-central-bank-views-Middle-East-risk-lifts-oil-and-gold-46425523/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2016-08/2016-08-18T133133Z_1_LYNXNPEC7H0OL_RTROPTP_2_RUSSIA-BASHNEFT-ROSNEFT.JPG",
+      "PublishedAt": "2024-04-12T15:38:19Z",
+      "Content": "(New throughout, updates prices at 1430 GMT)\r\nNEW YORK/LONDON, April 12 (Reuters) - The U.S. dollar\r\nsoared on Friday while oil prices pushed higher and gold reached\r\na record peak as investors grapp… [+2949 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar jumps on central bank divergence, euro hits five-month low",
+      "Description": "Dollar jumps on central bank divergence, euro hits five-month low",
+      "Url": "https://www.investing.com/news/economy/yen-crumbles-under-towering-dollar-and-us-treasury-yields-3375997",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_4_800x533_L_1413112066.jpg",
+      "PublishedAt": "2024-04-12T15:00:56Z",
+      "Content": "By Chuck Mikolajczak\r\nNEW YORK (Reuters) -The euro stumbled to a five-month low against the dollar on Friday after the European Central Bank indicated it could soon cut rates, a divergence from marke… [+3088 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--hMX5srcb--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/27/state_courts_file_photo.png?itok=smCNg_DF",
       "PublishedAt": "2024-03-27T06:24:53Z",
       "Content": "On Wednesday, defence lawyer Wendell Wong informed the court that this was the second time similar charges were tendered to the court, when in fact the issues were already known before this.\r\nMr Wong… [+560 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Moneycontrol"
-      },
-      "Author": "Reuters",
-      "Title": "Indiabulls Housing Finance accepts bids for dollar bonds, bankers say",
-      "Description": "The non-banking finance company will pay a coupon of 9.70% to investors, lower than the initial guidance of 9.95%, the bankers said.",
-      "Url": "https://www.moneycontrol.com/news/business/indiabulls-housing-finance-accepts-bids-for-dollar-bonds-bankers-say-12527951.html",
-      "UrlToImage": "https://images.moneycontrol.com/static-mcnews/2023/04/397635018-770x433.jpg",
-      "PublishedAt": "2024-03-27T03:05:06Z",
-      "Content": "Indiabulls Housing Finance has accepted bids worth $350 million for dollar-denominated social bonds maturing in three years and three months, two merchant bankers said on Wednesday.\r\nThe non-banking … [+365 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Indiabulls Housing Finance accepts bids for dollar bonds, bankers say",
-      "Description": "(marketscreener.com) Indiabulls Housing Finance has accepted bids worth $350 million for dollar-denominated social bonds maturing in three years and three months, two merchant bankers said on Wednesday.https://www.marketscreener.com/quote/stock/INDIABULLS-HOU…",
-      "Url": "https://www.marketscreener.com/quote/stock/INDIABULLS-HOUSING-FINANC-13704753/news/Indiabulls-Housing-Finance-accepts-bids-for-dollar-bonds-bankers-say-46293913/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-03-27T02:50:49Z",
-      "Content": "MUMBAI (Reuters) - Indiabulls Housing Finance has accepted bids worth $350 million for dollar-denominated social bonds maturing in three years and three months, two merchant bankers said on Wednesday… [+446 chars]"
     }
   ]
 }
