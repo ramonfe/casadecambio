@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso se deprecia con fuerza por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-con-fuerza-por-fortaleza-del-dolar/ar2788879",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-12T13:35:21Z",
+      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Peso se deprecia más de 1.7% por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-7-por-fortaleza-del-dolar/ar2788879",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-12T13:35:21Z",
+      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 08:24 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso se deprecia más de 1% por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se depreció hasta 1.7% este viernes y el yen japonés tocó mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-por-fortaleza-del-dolar/ar2788879",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-12T13:35:21Z",
+      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Peso y yen, víctimas de la fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso pierde más de 1% este viernes y el yen japonés cotiza en mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-y-yen-victimas-de-la-fortaleza-del-dolar/ar2788879",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-12T13:35:21Z",
+      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (12 abril 2024) .-07:34 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,58 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/TRJw8QB8DwJqYqAE2ajUk1swmx0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L7VMTC5C2FHHZB2VKUYNBPAXEY.jpg",
       "PublishedAt": "2024-04-02T15:51:17Z",
       "Content": "El peso mexicano regresa al terreno de las ganancias este 2 de abril ante especulaciones de que la Reserva Federal podría realizar menos recortes a la tasa de interés dada la fortaleza de la economía… [+1484 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 2 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 2 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-2-de-abril-nid02042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-blue-hoy-a-cuanto-cotiza-el-viernes-11-de-2D6JYLRRX5GUBBIKSOM7BZ4FQQ.jpg?auth=d22a2b4dd52b988a6919741cc6ece3457380cfcbd2a0a5731c1804d38ec0ce4d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-02T14:11:27Z",
-      "Content": "Este martes 2 de abril, el precio del dólar en México es de $16,6578, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2198 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Dólar: ¿cuántos años tiene la moneda que se usa en Estados Unidos?",
-      "Description": "En abril de 1792, bajo la presidencia de George Washington se declaró la unidad monetaria nacional y se reguló la acuñación de monedas del país norteamericano",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-cuantos-anos-tiene-la-moneda-que-se-usa-en-estados-unidos-nid02042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-oficial-de-estados-unidos-cumple-232-JMRLISQGVJGX7EP3JM2UX2JIRE.jpg?auth=3d3edbc0458711b2b5f8c7b3110c03eed0bf2220a95d64ad6a5b8016daa71b87&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-02T12:57:38Z",
-      "Content": "Codiciados en el mundo entero, los dólares lograron erigirse como una de las monedas de referencia del mundo económico y de las finanzas. En sus 232 años de historia, la divisa estadounidense consigu… [+2791 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso mexicano pierde terreno ante fortaleza del dólar",
-      "Description": "El peso mexicano no pudo contra la fortaleza del dólar, luego de que la actividad manufacturera de Estados Unidos creció por primera vez desde 2022.",
-      "Url": "https://www.jornada.com.mx/2024/04/02/economia/018n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-04-02T10:01:57Z",
-      "Content": "Periódico La JornadaMartes 2 de abril de 2024, p. 18\r\nEl peso mexicano no pudo contra la fortaleza del dólar, luego de que la actividad manufacturera de Estados Unidos creció por primera vez desde 20… [+3344 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso inicia la semana con una depreciación frente al dólar",
-      "Description": "Forbes México.\n Peso inicia la semana con una depreciación frente al dólar\n\nEl peso retrocede ante un fortalecimiento global del dólar, y tras la publicación de sólidas cifras del sector manufacturero de EU.\nPeso inicia la semana con una depreciación frente a…",
-      "Url": "https://www.forbes.com.mx/peso-inicia-la-semana-con-una-depreciacion-frente-al-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
-      "PublishedAt": "2024-04-01T22:25:38Z",
-      "Content": "El peso se depreció ante un fortalecimiento global del dólar y tras la publicación de sólidas cifras del sector manufacturero estadounidense.\r\nEl dólar se vendió al cierre en 16.6312 pesos, lo que si… [+2180 chars]"
     }
   ]
 }
