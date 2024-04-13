@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Stocks tumble, dollar firms amid geopolitical risk, mixed central bank views",
+      "Description": "(marketscreener.com) \n \n \n NEW YORK/LONDON, April 12 -\n U.S. stocks sold off sharply on Friday while the dollar\njumped as investors grappled with rising geopolitical tensions\nand persistent inflation that could lead to diverging monetary\npolicy between the U.…",
+      "Url": "https://www.marketscreener.com/quote/commodity/WTI-2355639/news/Stocks-tumble-dollar-firms-amid-geopolitical-risk-mixed-central-bank-views-46426907/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2016-11/2016-11-23T211715Z_1_LYNXMPECAM1G5_RTROPTP_2_USA.JPG",
+      "PublishedAt": "2024-04-12T20:57:08Z",
+      "Content": "(New throughout, updates prices as of 2015 GMT)\r\nNEW YORK/LONDON, April 12 (Reuters) -\r\nU.S. stocks sold off sharply on Friday while the dollar\r\njumped as investors grappled with rising geopolitical … [+3284 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2024-03-27T06:33:02Z",
       "Content": "Deutsche Bank has further diversified its investor base, successful raising 400 million Singapore Dollars (SGD) in senior non-preferred notes. \r\nThis marks Deutsche Bank's second visit to the SGD mar… [+1129 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Suspect handed 6 new charges over forged financial statements",
-      "Description": "SINGAPORE: Vang Shuiming, one of the 10 suspects involved in Singapore's billion-dollar money laundering probe, was on Wednesday (Mar 27) slapped with six new charges.",
-      "Url": "https://www.channelnewsasia.com/singapore/singapore-money-laundering-probe-vang-shuiming-new-charges-4225031",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--hMX5srcb--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/03/27/state_courts_file_photo.png?itok=smCNg_DF",
-      "PublishedAt": "2024-03-27T06:24:53Z",
-      "Content": "On Wednesday, defence lawyer Wendell Wong informed the court that this was the second time similar charges were tendered to the court, when in fact the issues were already known before this.\r\nMr Wong… [+560 chars]"
     }
   ]
 }
