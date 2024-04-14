@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "JPMorgan Chase To Sell Financial Data of 80,000,000 Clients As Trillion-Dollar Bank Launches Media Platform",
+      "Description": "JPMorgan Chase is launching a new business that will allow marketers and advertisers to target customers based on their spending data. To do that, the banking giant will be providing companies with the data it collects from its 80 million clients. The new ven…",
+      "Url": "https://dailyhodl.com/2024/04/13/jpmorgan-chase-to-sell-financial-data-of-80000000-clients-as-trillion-dollar-bank-launches-media-platform/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/jpmorgan-dollar-banks.jpg",
+      "PublishedAt": "2024-04-13T16:04:54Z",
+      "Content": "JPMorgan Chase is launching a new business that will allow marketers and advertisers to target customers based on their spending data.\r\nTo do that, the banking giant will be providing companies with … [+1575 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Sri Lanka Seeks Bank Bids for Potential Dollar-Bond Exchange",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9c37231c-5176-45d1-9af3-7ecdbf2ea30c",
-      "UrlToImage": null,
-      "PublishedAt": "2024-03-28T11:59:00Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
