@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Accused of Charging ‘Crippling’ Overdraft Fees As Customers Launch $5,000,000 Lawsuit: Report",
+      "Description": "A billion-dollar bank in the US is reportedly facing a potential class-action lawsuit for the second time in about three years over allegedly hammering customers with “crippling” overdraft fees. Customers LaNita Criswell and LaSheena Neal say Frost Bank’s his…",
+      "Url": "https://dailyhodl.com/2024/04/12/billion-dollar-bank-accused-of-charging-crippling-overdraft-fees-as-customers-launch-5000000-lawsuit-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-overdraft-fee.jpg",
+      "PublishedAt": "2024-04-12T23:04:19Z",
+      "Content": "A billion-dollar bank in the US is reportedly facing a potential class-action lawsuit for the second time in about three years over allegedly hammering customers with “crippling” overdraft fees.\r\nCus… [+1973 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-03-28T11:59:00Z",
       "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Deutsche Bank : successfully issues Singapore Dollar bond",
-      "Description": "(marketscreener.com) \n \n Deutsche Bank has further diversified its investor base, successful raising 400 million Singapore Dollars in senior non-preferred notes. \n \n \n This marks Deutsche Bank's second visit to the SGD market, following its inaugural issuance…",
-      "Url": "https://www.marketscreener.com/quote/stock/DEUTSCHE-BANK-AG-56358396/news/Deutsche-Bank-successfully-issues-Singapore-Dollar-bond-46294775/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-03-27T06:33:02Z",
-      "Content": "Deutsche Bank has further diversified its investor base, successful raising 400 million Singapore Dollars (SGD) in senior non-preferred notes. \r\nThis marks Deutsche Bank's second visit to the SGD mar… [+1129 chars]"
     }
   ]
 }
