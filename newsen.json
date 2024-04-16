@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Gigi Suhanic",
+      "Title": "Canadian dollar could ‘crater’ if Bank of Canada cuts faster and deeper than the Fed, say economists",
+      "Description": "Canadian dollar will fall if the Bank of Canada cuts interest rates sooner and deeper than the Fed, warn economists. Read more on the loonie",
+      "Url": "https://financialpost.com/news/economy/canadian-dollar-could-crater-if-bank-of-canada-cuts-more-than-fed",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/canadian-dollar-0415-ph.jpg",
+      "PublishedAt": "2024-04-15T13:37:39Z",
+      "Content": "This year has not been kind to the loonie, and it's about to get worse\r\nThe Canadian dollar could sink as low as 70 US cents this year if the Bank of Canada cuts interest rates more than the Fed, say… [+7574 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/reuters/2019-08/2019-08-07T020842Z_1_LYNXNPEF76030_RTROPTP_3_INDIA-MARKETS-RUPEE.JPG",
       "PublishedAt": "2024-04-02T03:02:40Z",
       "Content": "MUMBAI (Reuters) - The Indian rupee will be counting on the central bank's assistance on Tuesday to avoid declining to a record low, after robust U.S. manufacturing data pushed the dollar index to it… [+1955 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Billion-dollar battle: Where Charlotte grocery shoppers spent money in record amounts",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_efc19d7a-faf3-492b-8e9a-d71d0ac34858",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-01T09:50:00Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
