@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede tras datos sólidos de ventas minoristas en EU; se mantiene debajo de 17 unidades por dólar",
+      "Description": "Forbes México.\n Peso retrocede tras datos sólidos de ventas minoristas en EU; se mantiene debajo de 17 unidades por dólar\nEl peso cotizaba en 16.6847 unidades, con un retroceso de 0.39% frente al precio de referencia de Reuters del viernes, en su quinta jorna…",
+      "Url": "https://www.forbes.com.mx/peso-retrocede-tras-datos-solidos-de-ventas-minoristas-en-eu-se-mantiene-debajo-de-17-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
+      "PublishedAt": "2024-04-15T14:35:36Z",
+      "Content": "El peso se depreciaba este lunes en la apertura ante un fortalecimiento global del dólar, debido a crecientes preocupaciones de que la Reserva Federal (Fed) podría mantener elevadas sus tasas de inte… [+1643 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Davison Santana",
+      "Title": "Fondos de cobertura ‘le dan gasolina’ al peso: ¿Qué tanto se apreciará vs. el dólar?",
+      "Description": "El diferencial entre la tasa del Banxico con la de la Fed sigue siendo un atractivo para que los inversionistas apuesten su dinero a favor del peso.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/15/peso-mexicano-como-ayudan-los-fondos-de-cobertura-a-su-apreciacion-vs-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/kth-fJAqCGFjm8UX3Vn1PB67Iq8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WREH4CQNLZGFLAYHOR5R4Q6EWE.jpg",
+      "PublishedAt": "2024-04-15T14:33:26Z",
+      "Content": "Los fondos de cobertura continúan impulsando las apuestas alcistas sobre el peso mexicano, fortaleciendo su posición como la moneda con el mejor desempeño del mundo y manteniéndola en camino de alcan… [+3139 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 15 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 15 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-15-de-abril-nid15042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-15T14:32:02Z",
+      "Content": "Este lunes 15 de abril, el precio del dólar en México es de $16,6693, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2379 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -353,45 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-en-mexico-y-los-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-04T14:04:27Z",
       "Content": "Este jueves 4 de abril, el precio del dólar en México es de $16,5673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2360 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante un debilitamiento global del dólar",
-      "Description": "Forbes México.\n Peso avanza ante un debilitamiento global del dólar\n\nEl peso se aprecia 0.11%, según datos de Banxico; en el mercado accionario, Televisa tiene su mayor ganancia desde mediados de febrero tras anuncio sobre Sky México.\nPeso avanza ante un debi…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-ante-un-debilitamiento-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-04-03T22:36:57Z",
-      "Content": "El peso avanzó el miércoles ante un debilitamiento global del dólar después de que el jefe de la Reserva Federal (Fed), Jerome Powell, afirmó que el banco central estadounidense tiene tiempo para del… [+2018 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso todavía ‘anda encobijado’: Se cotiza en las 16.53 unidades vs. el dólar",
-      "Description": "De acuerdo con datos de Citibanamex, el dólar aún se vende debajo del piso de las 17 unidades en ventanillas bancarias.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/03/peso-dolar-precio-hoy-3-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/I_OEEx3BHZt7YX-rN1zSmTi3rRI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DDR6B56LUBBOBBJXSPG7EEBDA4.jpg",
-      "PublishedAt": "2024-04-03T16:45:19Z",
-      "Content": "El peso mexicano opera volátil frente al dólar este 3 de abril tras la publicación de la encuesta de empleo en Estados Unidos que reveló que en marzo se crearon 184 mil empleos, dato que superó las p… [+1750 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 3 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 3 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-3-de-abril-nid03042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-03T15:14:12Z",
-      "Content": "Este miércoles 3 de abril, el precio del dólar en México es de $16,5673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de… [+2440 chars]"
     }
   ]
 }
