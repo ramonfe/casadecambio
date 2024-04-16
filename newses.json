@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "El peso aún no cobra la quincena: Cae ante el dólar y cotiza en las 16.67 unidades",
+      "Description": "Analistas de CIBanco considera que el peso mexicano podría llegar a las 16.70 unidades durante la jornada de este lunes 15 de abril.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/15/peso-dolar-precio-hoy-15-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/MZGdhL8h1KloncR7UxzNTyPfMvs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YJCRS5Z6K5E3VBPZBHFHIRV5OI.jpg",
+      "PublishedAt": "2024-04-15T17:16:40Z",
+      "Content": "El peso mexicano comienza la semana en terreno de pérdidas, después de que durante el fin de semana las tensiones geopolíticas se acentuaron, ante un ataque de Irán a territorio de Israel.\r\nDe acuerd… [+1395 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Catalina Vergara",
+      "Title": "Céspedes del Banco Central ve repunte de la inflación en el corto plazo por el efecto del alza del dólar",
+      "Description": "El consejero señaló que el corredor de la tasa de interés \"no es una camisa de fuerza\". A su vez, el consejero Alberto Naudon se refirió al desempeño reciente del tipo de cambio en un evento de la UDD.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/cespedes-del-banco-central-ve-repunte-de-la-inflacion-en-el-corto-plazo",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240415/imag/foto_0000000120240415130220/luis_felipe_cespedes.jpg",
+      "PublishedAt": "2024-04-15T17:01:00Z",
+      "Content": "Hasta Valdivia llegó el consejero del Banco Central, Luis Felipe Céspedes, para presentar las claves del Informe de Política Monetaria (IPoM) de marzo. En el marco de un evento organizado por Coopeuc… [+3244 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://s.libertaddigital.com/2024/04/05/1200/627/lm/tdnd-la-tertulia-el-dolar-puede-hundir-cualquier-moneda-7113381.jpg",
       "PublishedAt": "2024-04-05T10:55:32Z",
       "Content": "Comentamos con Gustavo Martínez y Javier Saenz de Cenzano los movimientos del precio del oro en las últimas semanas."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘pasea triunfal’ vs. el dólar: Ronda niveles no vistos desde noviembre de 2015",
-      "Description": "Gabriela Siller, directora de análisis económico en Banco Base, destacó que el avance del peso está cimentado en que los inversionistas siguen apostando a favor de la moneda mexicana.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/04/peso-dolar-precio-hoy-4-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZNyS6vHUj01z3BFNvLeF1_PREws=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L2EEQ24JWBDH3NGB6MS2AJ4VCA.jpg",
-      "PublishedAt": "2024-04-04T15:49:07Z",
-      "Content": "El peso mexicano extiende sus avances frente al dólar, lo que la ha llevado a operar en sus niveles más bajos desde finales de noviembre de 2015 en el comienzo de las negociaciones de este 4 de abril… [+1544 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 4 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 4 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-4-de-abril-nid04042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-en-mexico-y-los-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-04T14:04:27Z",
-      "Content": "Este jueves 4 de abril, el precio del dólar en México es de $16,5673, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2360 chars]"
     }
   ]
 }
