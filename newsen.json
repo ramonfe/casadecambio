@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "Revolver News",
+      "Title": "What about the $17 million dollar secret “slush fund” Congress used to make hush money payments to sexual victims?",
+      "Description": "Thanks to the relentless political targeting of President Trump, there’s been a spotlight on the use of “hush money” and secret funds to sweep indiscretions under the rug in politics. This shouldn’t come as a shock to many, given the nature of fame and power,…",
+      "Url": "https://freerepublic.com/focus/f-news/4231643/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-16T22:27:55Z",
+      "Content": "Skip to comments.\r\nWhat about the $17 million dollar secret slush fund Congress used to make hush money payments to sexual victims?Revolver News ^\r\n | April 16, 2024 \r\nPosted on 04/16/2024 3:27:55 PM… [+9126 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TKtCP913--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/04/04/comp_of_illustrations_of_su_wenqiang_and_su_haijin.jpg?itok=QIddaxjD",
       "PublishedAt": "2024-04-04T12:29:00Z",
       "Content": "SINGAPORE: The first two men convicted in Singapores largest money laundering case will be deported after their jail terms, said the Immigration and Checkpoints Authority (ICA) on Thursday (Apr 4). \r… [+1157 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Independence Bank of Kentucky Buys 99 Shares of Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Independence Bank of Kentucky boosted its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.0% during the 4th quarter, HoldingsChannel reports. The institutional investor owned 759 shares of the company’s stock after acquiring an additional 99 s…",
-      "Url": "https://www.etfdailynews.com/2024/04/04/independence-bank-of-kentucky-buys-99-shares-of-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-04-04T11:12:46Z",
-      "Content": "Independence Bank of Kentucky boosted its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 15.0% during the 4th quarter, HoldingsChannel reports. The institutional investor owned 759 shar… [+6590 chars]"
     }
   ]
 }
