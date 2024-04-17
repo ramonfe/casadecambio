@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "China Loosens Grip on Yuan by Weakening Fix Amid Dollar Strength",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dfe5f6b4-07d8-462e-b9a7-2b037ed94357",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-16T02:40:17Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ibtimes.com.au"
+      },
+      "Author": "AFP news",
+      "Title": "Pakistan And IMF Discussing New Multi-billion-dollar Program, Finance Minister Says",
+      "Description": "Pakistan has initiated discussions with the IMF over a new multi-billion dollar loan agreement to support its economic reform program, its new finance minister told AFP on Monday.",
+      "Url": "https://www.ibtimes.com.au/pakistan-imf-discussing-new-multi-billion-dollar-program-finance-minister-says-1847701",
+      "UrlToImage": "https://d.ibtimes.com.au/en/full/1848419/pakistans-finance-minister-muhammad-aurangzeb-speaks-during-interview-afp-embassy-pakistan.jpg",
+      "PublishedAt": "2024-04-16T02:21:19Z",
+      "Content": "Pakistan has initiated discussions with the IMF over a new multi-billion dollar loan agreement to support its economic reform program, its new finance minister told AFP on Monday.\r\nThe South Asian na… [+4647 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "International Business Times"
+      },
+      "Author": "AFP News",
+      "Title": "Pakistan And IMF Discussing New Multi-billion-dollar Program, Finance Minister Says",
+      "Description": "Pakistan has initiated discussions with the IMF over a new multi-billion dollar loan agreement to support its economic reform program, its new finance minister told AFP on Monday.",
+      "Url": "https://www.ibtimes.com/pakistan-imf-discussing-new-multi-billion-dollar-program-finance-minister-says-3729704",
+      "UrlToImage": "https://d.ibtimes.com/en/full/4521914/pakistans-finance-minister-muhammad-aurangzeb-speaks-during-interview-afp-embassy-pakistan.jpg",
+      "PublishedAt": "2024-04-16T02:21:10Z",
+      "Content": "Pakistan has initiated discussions with the IMF over a new multi-billion dollar loan agreement to support its economic reform program, its new finance minister told AFP on Monday.\r\nThe South Asian na… [+4647 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Digital Journal"
+      },
+      "Author": "AFP",
+      "Title": "Pakistan and IMF discussing new multi-billion-dollar program, finance minister says",
+      "Description": "Pakistan has initiated discussions with the IMF over a new multi-billion dollar loan agreement to support its economic reform program, its new finance minister told AFP on Monday.  The South Asian nation is nearing the end of a nine-month, $3 billion loan pro…",
+      "Url": "https://www.digitaljournal.com/world/pakistan-and-imf-discussing-new-multi-billion-dollar-program-finance-minister-says/article",
+      "UrlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/04/42bfe3b4963ccb99d6e4382d436d4a70e01cffc1.jpg",
+      "PublishedAt": "2024-04-16T02:19:59Z",
+      "Content": "Pakistan's Finance Minister Muhammad Aurangzeb speaks during an interview with AFP at the Embassy of Pakistan in Washington, DC on April 15, 2024. Pakistan has initiated discussions with the IMF over… [+5060 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Pakistan and IMF discussing new multi-billion-dollar program, finance minister says",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_79ed61a5-a279-40df-b0c6-d9aae727f168",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-16T02:17:14Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -327,71 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-03T16:59:22Z",
       "Content": "Skip to comments.\r\nPEAK CORRUPTION: Jesse Watters Reveals the Multi-Million Dollar Perks Going to Judge Merchans Family for Taking Trump to Court in Bogus Hush Money Case (VIDEO)https://www.thegatewa… [+4842 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "ABC News",
-      "Title": "Mariam Mohammed's parents taught her to share her money from the first dollar — however much or little she has",
-      "Description": "It's Pay Day! Mariam Mohammed says her anxiety about money comes from living in poverty after migrating to Australia alone as a teenager — she was skipping meals for weeks before she reached out for help.",
-      "Url": "https://www.abc.net.au/news/2024-04-03/pay-day-mariam-mohammed-money-girl/103636182",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/87a2951644dd8393edb72a7770efac38?impolicy=wcms_watermark_news&cropH=1350&cropW=2400&xPos=0&yPos=407&width=862&height=485&imformat=generic",
-      "PublishedAt": "2024-04-03T05:20:54Z",
-      "Content": "It's Pay Day! The ABC's new column where we ask Australians the money questions we don't like to talk about. We aim to demystify personal finance and normalise conversations about what we earn and ho… [+7011 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "You Don't Have to Pay Top Dollar on Expensive Airline Tickets: 3 Quick Tips to Save Money on Airfare - CNET",
-      "Description": "Now is one of the best times to get cheap tickets, especially ahead of summer flights.",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173436700",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-02T21:52:46Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNET"
-      },
-      "Author": "Katie Teague",
-      "Title": "You Don't Have to Pay Top Dollar on Expensive Airline Tickets: 3 Quick Tips to Save Money on Airfare - CNET",
-      "Description": "Now is one of the best times to get cheap tickets, especially ahead of summer flights.",
-      "Url": "https://www.cnet.com/personal-finance/credit-cards/you-dont-have-to-pay-top-dollar-on-expensive-airline-tickets-3-quick-tips-to-save-money-on-airfare/",
-      "UrlToImage": "https://www.cnet.com/a/img/resize/937fa97db9a02caf95dfdfb38074dac565c43e1f/hub/2021/08/12/8a9eea72-d7e4-4562-9ee0-de8ea7ef1044/airplanes-travel-flying-airports-40a4685.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "PublishedAt": "2024-04-02T20:20:01Z",
-      "Content": "Air travel could be getting more expensive soon. Following multiple safety incidents, including the door of an Alaska Airlines 737 Max detaching after takeoff, Boeing is expected to produce fewer new… [+3655 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "First suspect convicted in Singapore billion-dollar money laundering case",
-      "Description": "SINGAPORE: The first suspect to plead guilty in Singapore's largest money laundering case was convicted in a district court on Tuesday (Apr 2). Su Wenqiang, 32, admitted to 11 charges of money laundering, possessing proceeds from illegal remote gambling offen…",
-      "Url": "https://www.channelnewsasia.com/singapore/su-wenqiang-pleads-guilty-billion-dollar-money-laundering-convicted-4234731",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--LucX7mgJ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/04/02/20240402-NS-SuWenqiang.jpg?itok=fnsD5q4z",
-      "PublishedAt": "2024-04-02T03:31:00Z",
-      "Content": "Su was living in Manila in 2019 when he engaged in online gambling. He got to know an individual named in court documents only as \"A\".\r\nThis person, A, was involved in providing remote gambling servi… [+3241 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Rupee to rely on central bank help to counter surging dollar",
-      "Description": "(marketscreener.com) The Indian rupee will be counting on the central bank's assistance on Tuesday to avoid declining to a record low, after robust U.S. manufacturing data pushed the dollar index to its highest level in more than four months. https://www.mark…",
-      "Url": "https://www.marketscreener.com/news/latest/Rupee-to-rely-on-central-bank-help-to-counter-surging-dollar-46333352/",
-      "UrlToImage": "https://www.marketscreener.com/images/reuters/2019-08/2019-08-07T020842Z_1_LYNXNPEF76030_RTROPTP_3_INDIA-MARKETS-RUPEE.JPG",
-      "PublishedAt": "2024-04-02T03:02:40Z",
-      "Content": "MUMBAI (Reuters) - The Indian rupee will be counting on the central bank's assistance on Tuesday to avoid declining to a record low, after robust U.S. manufacturing data pushed the dollar index to it… [+1955 chars]"
     }
   ]
 }
