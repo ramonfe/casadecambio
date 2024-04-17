@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Sergio Fernández, Cecilia Moya",
+      "Title": "Los inversores buscan refugio en los clásicos: el oro avanza un 15% en el año y el dólar saca un 3,6% al euro",
+      "Description": "La volatilidad del mercado está llevando a niveles récord al oro cotizado y al dólar estadounidense como divisa favorita de los inversores. Los dos activos vuelven a tomar su papel de valor refugio para el mercado ante la tensión por la guerra en Gaza y ante …",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12771116/04/24/los-inversores-buscan-refugio-en-los-clasicos-el-oro-avanza-un-15-en-el-ano-y-el-dolar-saca-un-36-al-euro.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x800/9/9/9/oro-dolar-dreamstime-1200.jpg",
+      "PublishedAt": "2024-04-16T12:02:51Z",
+      "Content": "La volatilidad del mercado está llevando a niveles récord al oro cotizado y al dólar estadounidense como divisa favorita de los inversores. Los dos activos vuelven a tomar su papel de valor refugio p… [+2503 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-5-de-JMRLISQGVJGX7EP3JM2UX2JIRE.jpg?auth=3d3edbc0458711b2b5f8c7b3110c03eed0bf2220a95d64ad6a5b8016daa71b87&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-05T14:47:25Z",
       "Content": "Este viernes 5 de abril, el precio del dólar en México es de $16,5173, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2534 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso lleva al dólar ‘a la lona’: Marca su mejor nivel de 2024 en las 16.45 unidades",
-      "Description": "En los bancos, el dólar se vende en 16.87 pesos cada uno, reportó Citibanamex en la mañana de este 5 de abril.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/05/peso-dolar-precio-hoy-5-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v6uwIMiRjbtI0JeUYDVonJnGym0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I4LYNW6EZJCDFCDPYCPP55P6QQ.jpg",
-      "PublishedAt": "2024-04-05T14:22:03Z",
-      "Content": "El peso mexicano marca este viernes su mejor nivel en lo que va de 2024, impulsado por los datos de empleo en Estados Unidos que pueden beneficiar a México en el sector de las exportaciones. \r\nDe acu… [+1418 chars]"
     }
   ]
 }
