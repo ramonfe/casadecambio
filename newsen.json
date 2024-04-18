@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.edf.org/sites/all/themes/edf/images/edf-logo-1200x630.png",
       "PublishedAt": "2024-04-04T12:42:00Z",
       "Content": "(Washington, D.C. April 4th, 2024) The Agriculture Finance Sustainability Coalition, a new partnership between agriculture, environmental groups and financial institutions, supported a significant aw… [+4022 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "First two men convicted in billion-dollar money laundering case to be deported: ICA",
-      "Description": "It is unclear where both individuals will be deported to after serving their sentences.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-two-convicted-men-deport-serve-jail-sentences-4242726",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TKtCP913--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/04/04/comp_of_illustrations_of_su_wenqiang_and_su_haijin.jpg?itok=QIddaxjD",
-      "PublishedAt": "2024-04-04T12:29:00Z",
-      "Content": "SINGAPORE: The first two men convicted in Singapores largest money laundering case will be deported after their jail terms, said the Immigration and Checkpoints Authority (ICA) on Thursday (Apr 4). \r… [+1157 chars]"
     }
   ]
 }
