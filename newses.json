@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 17 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 17 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-17-de-abril-nid17042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/actualizacion-financiera-la-cotizacion-del-dolar-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-17T15:37:58Z",
+      "Content": "Este miércoles 17 de abril, el precio del dólar en México es de $17,025 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de … [+2332 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -216,6 +229,19 @@
         "Id": null,
         "Name": "Reforma.com"
       },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso se deprecia con fuerza por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-con-fuerza-por-fortaleza-del-dolar/ar2788879",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-12T13:35:21Z",
+      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
       "Author": "Reuters",
       "Title": "Peso se deprecia más de 1.7% por fortaleza del dólar",
       "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
@@ -230,9 +256,9 @@
         "Name": "Reforma.com"
       },
       "Author": "Grupo REFORMA",
-      "Title": "Peso se deprecia con fuerza por fortaleza del dólar",
-      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-con-fuerza-por-fortaleza-del-dolar/ar2788879",
+      "Title": "Peso se deprecia más de 1% por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se depreció hasta 1.7% este viernes y el yen japonés tocó mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-por-fortaleza-del-dolar/ar2788879",
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-12T13:35:21Z",
       "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
@@ -249,19 +275,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-12T13:35:21Z",
       "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (12 abril 2024) .-07:34 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Peso se deprecia más de 1% por fortaleza del dólar",
-      "Description": "En medio de una fortaleza generalizada del dólar, el peso se depreció hasta 1.7% este viernes y el yen japonés tocó mínimos de 34 años.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-por-fortaleza-del-dolar/ar2788879",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-12T13:35:21Z",
-      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-04-08T21:38:50Z",
       "Content": "El peso rompió este lunes el piso de las 16.40 unidades por dólar al cierre de la sesión, algo que no ocurría desde el 16 de octubre de 2015, de acuerdo con datos de Banxico.\r\nEl dólar se ubicó al fi… [+778 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso desafía la barrera de 16.40 unidades por dólar, en espera de datos de inflación; BMV cae",
-      "Description": "Forbes México.\n Peso desafía la barrera de 16.40 unidades por dólar, en espera de datos de inflación; BMV cae\n\nEl peso cotizaba en 16.3549 por dólar, con una ganancia de 0.58% frente a las 16.4497 unidades del precio de referencia de Reuters del viernes, un n…",
-      "Url": "https://www.forbes.com.mx/peso-desafia-la-barrera-de-16-40-unidades-por-dolar-en-espera-de-datos-de-inflacion-bmv-cae/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso.webp",
-      "PublishedAt": "2024-04-08T14:43:33Z",
-      "Content": "El peso se apreciaba el lunes extendiendo el avance de la jornada anterior en un mercado a la espera de la divulgación de cifras de inflación tanto en México como en Estados Unidos esta semana que of… [+1651 chars]"
     }
   ]
 }
