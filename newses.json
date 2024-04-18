@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN/ SBH",
+      "Title": "Peso mexicano pierde y ya cotiza arriba de 17 por dólar",
+      "Description": "La moneda mexicana marcó su peor sesión desde octubre de 2023.",
+      "Url": "https://aristeguinoticias.com/1604/dinero-y-economia/peso-mexicano-pierde-y-ya-cotiza-arriba-de-17-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/03/dolar-economia-euro-2-08032024.jpg",
+      "PublishedAt": "2024-04-16T23:26:35Z",
+      "Content": "El peso mexicano se depreció el martes con más fuerza que sus pares internacionales, después de que el jefe de la Fed, Jerome Powell, afirmó que la política monetaria restrictiva del banco central es… [+2703 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -151,19 +164,6 @@
         "Id": null,
         "Name": "Reforma.com"
       },
-      "Author": "Grupo REFORMA",
-      "Title": "Peso se deprecia con fuerza por fortaleza del dólar",
-      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-con-fuerza-por-fortaleza-del-dolar/ar2788879",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-12T13:35:21Z",
-      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
       "Author": "Reuters",
       "Title": "Peso se deprecia más de 1.7% por fortaleza del dólar",
       "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
@@ -178,9 +178,9 @@
         "Name": "Reforma.com"
       },
       "Author": "Grupo REFORMA",
-      "Title": "Peso se deprecia más de 1% por fortaleza del dólar",
-      "Description": "En medio de una fortaleza generalizada del dólar, el peso se depreció hasta 1.7% este viernes y el yen japonés tocó mínimos de 34 años.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-por-fortaleza-del-dolar/ar2788879",
+      "Title": "Peso se deprecia con fuerza por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-con-fuerza-por-fortaleza-del-dolar/ar2788879",
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-12T13:35:21Z",
       "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
@@ -197,6 +197,19 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-12T13:35:21Z",
       "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (12 abril 2024) .-07:34 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso se deprecia más de 1% por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se depreció hasta 1.7% este viernes y el yen japonés tocó mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-por-fortaleza-del-dolar/ar2788879",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-12T13:35:21Z",
+      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/82/5081152.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-08T14:10:29Z",
       "Content": "Vuelve a disminuir el tipo de cambio. Ahora este nivel no le habíamos visto desde el 12 de agosto de 2015 cuando estuvo en 16.2976. https://t.co/l8JiimoIzv\r\n— Jonathan Heath (@JonathanHeath54) April … [+6 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Peso rompe piso de $16.50 por dólar en mercado internacional",
-      "Description": "El peso se apreció con fuerza tras datos laborales de EU y cerró por debajo de 16.50 por dólar, nivel no visto desde noviembre de 2015.",
-      "Url": "https://www.reforma.com/peso-rompe-piso-de-16-50-por-dolar-en-mercado-internacional/ar2785048",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/270/5269193.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-05T14:58:06Z",
-      "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (05 abril 2024) .-08:54 (Actualización: 16:00 hrs)"
     }
   ]
 }
