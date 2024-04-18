@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso anda ‘bien quién sabe cómo’ vs. dólar: Regresa a las 16 unidades tras ‘tropezón’",
+      "Description": "Es un buen día para las monedas latinoamericanas en los mercados, con el peso colombiano, el peso chileno y el real brasileño entre las divisas con más ganancias.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/17/peso-dolar-precio-hoy-17-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/JS1hQ5WNIzSPM6axry3EhxLMO9s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PTYVOCOWT5E57CH4Q4M3Q67BQU.jpg",
+      "PublishedAt": "2024-04-17T16:25:53Z",
+      "Content": "El peso mexicano presenta correcciones y vuelve a colocarse en terreno de ganancias este miércoles contra el dólar, luego de haber registrado una fuerte sesión de retrocesos por la aversión al riesgo… [+1477 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -229,19 +242,6 @@
         "Id": null,
         "Name": "Reforma.com"
       },
-      "Author": "Grupo REFORMA",
-      "Title": "Peso se deprecia con fuerza por fortaleza del dólar",
-      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-con-fuerza-por-fortaleza-del-dolar/ar2788879",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-12T13:35:21Z",
-      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
       "Author": "Reuters",
       "Title": "Peso se deprecia más de 1.7% por fortaleza del dólar",
       "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
@@ -256,9 +256,9 @@
         "Name": "Reforma.com"
       },
       "Author": "Grupo REFORMA",
-      "Title": "Peso se deprecia más de 1% por fortaleza del dólar",
-      "Description": "En medio de una fortaleza generalizada del dólar, el peso se depreció hasta 1.7% este viernes y el yen japonés tocó mínimos de 34 años.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-por-fortaleza-del-dolar/ar2788879",
+      "Title": "Peso se deprecia con fuerza por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-con-fuerza-por-fortaleza-del-dolar/ar2788879",
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-12T13:35:21Z",
       "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
@@ -275,6 +275,19 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-12T13:35:21Z",
       "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (12 abril 2024) .-07:34 hrs"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso se deprecia más de 1% por fortaleza del dólar",
+      "Description": "En medio de una fortaleza generalizada del dólar, el peso se depreció hasta 1.7% este viernes y el yen japonés tocó mínimos de 34 años.",
+      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-por-fortaleza-del-dolar/ar2788879",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-12T13:35:21Z",
+      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-se-mueven-los-56PRKMAQTVA63LMRTA4VGTMKNM.jpg?auth=fa8cd1c73e5b8685564641572225cd4c927d67ffc99d85d1236ce5874289274d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-09T14:51:04Z",
       "Content": "Este martes 9 de abril, el precio del dólar en México es de $16,3357,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2104 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Francisco Rivera",
-      "Title": "Peso rompe piso de las 16.40 unidades por dólar y tiene mejor nivel desde agosto de 2015",
-      "Description": "Forbes México.\n Peso rompe piso de las 16.40 unidades por dólar y tiene mejor nivel desde agosto de 2015\n\nEl dólar se ubicó al cierre de este lunes en 16.3368 pesos, según datos de Banxico.\nPeso rompe piso de las 16.40 unidades por dólar y tiene mejor nivel d…",
-      "Url": "https://www.forbes.com.mx/peso-rompe-piso-de-las-16-40-unidades-por-dolar-y-tiene-mejor-nivel-desde-agosto-de-2015/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-04-08T21:38:50Z",
-      "Content": "El peso rompió este lunes el piso de las 16.40 unidades por dólar al cierre de la sesión, algo que no ocurría desde el 16 de octubre de 2015, de acuerdo con datos de Banxico.\r\nEl dólar se ubicó al fi… [+778 chars]"
     }
   ]
 }
