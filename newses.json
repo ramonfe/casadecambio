@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así es el “Auto Dólar”, la extraña moneda china de casi un siglo que puede valer hasta US$192 mil",
+      "Description": "Originaria de la provincia de Kweichow, ha alcanzado un valor impresionante en el mercado debido a su historia y rareza",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-el-auto-dolar-la-extrana-moneda-china-de-casi-un-siglo-que-puede-valer-hasta-us192-mil-nid17042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-auto-dolar-fue-subastado-a-usdollar192000-en-CC76AMXNLZELRNFDRNBUKH77IY.jpg?auth=0261177673ff7b40f6e06c0ea2b5b18145b097861972e194b8e94950383fd519&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-17T10:51:57Z",
+      "Content": "Dentro del mundo de las monedas valiosas, hay una que destaca por haberse vendido a un alto precio en una subasta. Se trata del Auto Dólar, que es una edición limitada que lleva grabado el automóvil … [+3146 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso borra ganancias del año: cerró en 17.04 por dólar",
+      "Description": "El peso perdió en la jornada de ayer todo lo que había ganado en el año. La moneda nacional se depreció 1.92 por ciento, equivalente a 32.19 centavos frente a la divisa estadunidense, para cerrar en 17.0465 unidades por dólar spot.",
+      "Url": "https://www.jornada.com.mx/2024/04/17/economia/020n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-04-17T10:08:13Z",
+      "Content": "Periódico La JornadaMiércoles 17 de abril de 2024, p. 20\r\nEl peso perdió en la jornada de ayer todo lo que había ganado en el año. La moneda nacional se depreció 1.92 por ciento, equivalente a 32.19 … [+1319 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg",
+      "Title": "El renacer del dólar y la caída del peso: ¿Qué pasó en los mercados que desfondó a la moneda mexicana?",
+      "Description": "Así fue cómo se movierno los mercados para que el peso se debilitara tanto frente al dólar.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2024/04/17/depreciacion-del-peso-mexicano-ante-el-dolar-abril-2024-por-que-perdio-valor-la-moneda-mexicana/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/PmWhdN8R0rPT91SwT1xki2sJQmE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DPCZEXLSRVBHBJCBZXZKKQVA6M.jpg",
+      "PublishedAt": "2024-04-17T07:55:28Z",
+      "Content": "Las monedas del mundo en desarrollo se hundieron cuando el presidente de la Reserva Federal, Jerome Powell, señaló que las tasas de interés probablemente se mantendrán altas por más tiempo, lo que pr… [+3463 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/PhWDFdV_eNI5-FcZrzAyMtrc2u8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FX5PVZPIGFGCFDJNERKP4OSY5Q.jpg",
       "PublishedAt": "2024-04-08T14:41:46Z",
       "Content": "El peso mexicano está eclipsando al dólar en el arranque de esta semana bursátil, marcando un nuevo récord en 2024 mientras espera el dato de la inflación de marzo.\r\nDe acuerdo con Bloomberg, la mone… [+2020 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 8 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 8 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-8-de-abril-nid08042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-el-mercado-cambiario-JA7XW7WQZ5GIRE5UHUCEFLWE5Q.JPG?auth=265eb8e7f7e62b1bc25b69bdaf70b1ea77d32805bceb711f87e38e8fff709c2d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-08T14:22:38Z",
-      "Content": "Este lunes 8 de abril, el precio del dólar en México es de $16,4758, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2244 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Peso rompe otro piso: cotiza por debajo de $16.40 por dólar",
-      "Description": "El peso extendió su apreciación de la semana pasada y este lunes rompió otro piso al cotizar por debajo de los $16.40 por dólar.",
-      "Url": "https://www.reforma.com/peso-rompe-otro-piso-cotiza-por-debajo-de-16-40-por-dolar/ar2786356",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/82/5081152.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-08T14:10:29Z",
-      "Content": "01 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (08 abril 2024) .-07:56 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Cierra dólar abajo de 16.40; peso con mejor nivel en 8 años",
-      "Description": "El dólar cerró por debajo de $16.40 en cruces internacionales, con lo que peso acumula una apreciación de 20% en lo que va del sexenio.",
-      "Url": "https://www.reforma.com/cierra-dolar-abajo-de-16-40-peso-con-mejor-nivel-en-8-anos/ar2786356",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/82/5081152.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-08T14:10:29Z",
-      "Content": "Vuelve a disminuir el tipo de cambio. Ahora este nivel no le habíamos visto desde el 12 de agosto de 2015 cuando estuvo en 16.2976. https://t.co/l8JiimoIzv\r\n— Jonathan Heath (@JonathanHeath54) April … [+6 chars]"
     }
   ]
 }
