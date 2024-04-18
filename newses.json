@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: se recuperó el volumen de negocios y el Banco Central compró casi US$200 millones",
+      "Description": "La entidad aprovechó el mayor volumen de operaciones y aceleró marginalmente el ajuste del tipo de cambio oficial",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-se-recupero-el-volumen-de-negocios-y-el-banco-central-compro-casi-us200-millones-nid17042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-martes-venceran-letras-por-dollar6718785-35I3V2JMS5GZZFMFFH7JWI44KE.jpg?auth=bc4f5b7ea4f8633e1d2cfa7cfc18e51ad4b87a7af3462366e8b1468c03fd608f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-17T20:59:31Z",
+      "Content": "El Banco Central (BCRA) aprovechó hoy la marcada recuperación que tuvo el volumen operado por la plaza cambiaria oficial para adquirir otros casi US$200 millones y seguir adelante con la recuperación… [+3504 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/h-Oojo6O0Qw1ucmDBuG4EVdZsIU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7J22TV2YEZDNBEKLBM5EV2KH5Y.jpg",
       "PublishedAt": "2024-04-09T15:21:28Z",
       "Content": "El peso mexicano cede este martes contra el dólar después de que se publicó el dato de inflación de marzo, que mostró un repunte a 4.42 por ciento desde el 4.40 por ciento de febrero pasado. \r\nDe acu… [+1341 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 9 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 9 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-9-de-abril-nid09042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-se-mueven-los-56PRKMAQTVA63LMRTA4VGTMKNM.jpg?auth=fa8cd1c73e5b8685564641572225cd4c927d67ffc99d85d1236ce5874289274d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-09T14:51:04Z",
-      "Content": "Este martes 9 de abril, el precio del dólar en México es de $16,3357,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2104 chars]"
     }
   ]
 }
