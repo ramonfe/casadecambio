@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Electronics Giant LG Debuts Dollar Bond to Finance ESG Projects",
+      "Description": "LG Electronics Inc. is selling bonds denominated in US dollars to partly help the South Korean appliance maker fund sustainable initiatives, its first such offering.",
+      "Url": "https://financialpost.com/pmn/business-pmn/electronics-giant-lg-debuts-dollar-bond-to-finance-esg-projects",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/borrowers-issuing-green-debt-at-fastest-pace-ever-barclays-.jpg",
+      "PublishedAt": "2024-04-18T14:42:30Z",
+      "Content": "(Bloomberg) LG Electronics Inc. is selling bonds denominated in US dollars to partly help the South Korean appliance maker fund sustainable initiatives, its first such offering.\r\nThe company announce… [+2343 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-04T13:01:25Z",
       "Content": "If you click 'Accept all', we and our partners (including 240 who are part of the IAB Transparency &amp; Consent Framework) will also use cookies and your personal data, such as IP address, precise l… [+686 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Environmental Defense Fund"
-      },
-      "Author": "aopatik",
-      "Title": "New Agriculture Finance Sustainability Coalition partners with multi-billion dollar awardee of the EPA’s National Clean Investment Fund",
-      "Description": "The Agriculture Finance Sustainability Coalition, a new partnership between agriculture, environmental groups and financial institutions, supported a significant awardee of the U.S. Environmental Protection Agency's $14-billion National Clean Investment Fund.…",
-      "Url": "https://www.edf.org/media/new-agriculture-finance-sustainability-coalition-partners-multi-billion-dollar-awardee-epas",
-      "UrlToImage": "https://www.edf.org/sites/all/themes/edf/images/edf-logo-1200x630.png",
-      "PublishedAt": "2024-04-04T12:42:00Z",
-      "Content": "(Washington, D.C. April 4th, 2024) The Agriculture Finance Sustainability Coalition, a new partnership between agriculture, environmental groups and financial institutions, supported a significant aw… [+4022 chars]"
     }
   ]
 }

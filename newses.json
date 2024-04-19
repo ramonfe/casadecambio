@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 18 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 18 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-18-de-abril-nid18042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-informacion-mas-reciente-del-mercado-cambiario-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-18T14:24:02Z",
+      "Content": "Este jueves 18 de abril, el precio del dólar en México es de $16,9948 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2360 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/UREQUs8aeQxBp5q-7iyYccWH6iU=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/MH5PFUKGOBDA3CT55MQJFO46PQ.jpg",
       "PublishedAt": "2024-04-10T21:53:52Z",
       "Content": "El tipo de cambio del dólar respecto al colón alcanzó un nuevo mínimo en lo que va del 2024, con una cotización de cierre de ¢502,40 para el miércoles 10 de abril, en el Mercado de Monedas Extranjera… [+2780 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Rebote pega ‘gacho’ al peso: Pierde 10 centavos y se cotiza en las 16.50 unidades vs. el dólar",
-      "Description": "La inflación en EU le 'está pasando factura' al peso en los mercados, después de que el dato fue más alto de lo esperado por especialistas.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/10/peso-dolar-precio-hoy-10-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bASaDYuHCO8J9bx4-Qst9Ey3B0E=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MUHSICJRPBFBLPJRMZNDMM4SEI.jpg",
-      "PublishedAt": "2024-04-10T16:01:24Z",
-      "Content": "El peso mexicano anticipa otra jornada de pérdidas a medida que los operadores asimilan el último dato de inflación en Estados Unidos, el cual superó las expectativas del mercado al rebotar a 3.5 por… [+2209 chars]"
     }
   ]
 }
