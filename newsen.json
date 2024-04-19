@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Indonesian Finance Chief Aims to Shield Economy From Dollar Rise",
+      "Description": "The Indonesian government is working with central bank governor Perry Warjiyo to cushion the country’s economy from the rise in the US dollar, according to its finance minister.",
+      "Url": "https://financialpost.com/pmn/business-pmn/indonesian-finance-chief-aims-to-shield-economy-from-dollar-rise",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/776067469.jpg",
+      "PublishedAt": "2024-04-18T20:49:45Z",
+      "Content": "(Bloomberg) The Indonesian government is working with central bank governor Perry Warjiyo to cushion the countrys economy from the rise in the US dollar, according to its finance minister.\r\nWe work v… [+3094 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Grace Sihombing and Randy Thanthong-Knight",
+      "Title": "Indonesian Finance Chief Aims to Shield Economy From Dollar Rise",
+      "Description": "(Bloomberg) -- The Indonesian government is working with central bank governor Perry Warjiyo to cushion the country’s economy from the rise in the US dollar,...",
+      "Url": "https://finance.yahoo.com/news/indonesian-finance-chief-aims-shield-203140447.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/GImfUi5tRx2Vk2p0tYmZnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/2d72f51fa5e8b5a1bcfdedc0100fdbcd",
+      "PublishedAt": "2024-04-18T20:31:40Z",
+      "Content": "(Bloomberg) -- The Indonesian government is working with central bank governor Perry Warjiyo to cushion the countrys economy from the rise in the US dollar, according to its finance minister.\r\nMost R… [+3181 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -366,32 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-07T09:48:22Z",
       "Content": "Skip to comments.\r\nFear The Talking Fed! How The Fed And Federal Government Destroyed The US Dollar (Purchasing Power DOWN -32% Since The Subprime Crisis While M2 Money Has Grown By 177%)Confounded I… [+2611 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Trump campaign expecting to raise $43 million at high-dollar Florida fundraiser - Yahoo Finance",
-      "Description": "Trump campaign expecting to raise $43 million at high-dollar Florida fundraiserYahoo Finance View Full Coverage on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173461580",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-06T12:14:23Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Dollar Tree: 9 Best New Arrivals for Your Money in April",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dcd69799-5b33-4ae9-94ac-bcb8cca06283",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-04T13:01:25Z",
-      "Content": "If you click 'Accept all', we and our partners (including 240 who are part of the IAB Transparency &amp; Consent Framework) will also use cookies and your personal data, such as IP address, precise l… [+686 chars]"
     }
   ]
 }
