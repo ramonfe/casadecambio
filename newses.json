@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 19 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 19 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-19-de-abril-nid19042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-19-de-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-19T15:19:49Z",
+      "Content": "Este viernes 19 de abril, el precio del dólar en México es de $17,11 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+1994 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/frB777Zno9OuSkWuq22Vw9NWY7g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NHZA2WERF5H4HKYW7PH5S66Z7E.jpg",
       "PublishedAt": "2024-04-11T16:58:41Z",
       "Content": "El peso mexicano tiene movimientos marginales contra el dólar en la sesión de este jueves después de la publicación de la inflación al productor para la economía estadounidense, la cual repuntó 2.1 p… [+1530 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 11 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 11 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-11-de-abril-nid11042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-fluctuaciones-del-mercado-el-precio-del-dolar-3T277DEURNC53DDP3M5CHFGHUY.jpg?auth=ed438205f4e0b6d833e00b5d05fc68cee3a3e2c15e1d0f1282785cda1f6c5e2b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-11T14:45:26Z",
-      "Content": "Este jueves 11 de abril, el precio del dólar en México es de $16,4883, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2515 chars]"
     }
   ]
 }
