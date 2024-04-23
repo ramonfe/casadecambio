@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central retomó sus fuertes compras y podría abrir el Bopreal a empresas con dividendos atrapados en el cepo",
+      "Description": "Fue en una jornada que mostró un fuerte repunte de la oferta pese a que volvió a pisar al dólar oficial",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-retomo-sus-fuertes-compras-y-podria-abrir-el-bopreal-a-empresas-con-nid22042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-retomo-hoy-las-fuertes-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-22T20:59:12Z",
+      "Content": "El sólido rebote que mostró el volumen operado hoy en el mercado cambiario oficial (creció 80,25% respecto del registrado el viernes pasado) generó las condiciones para que el Banco Central (BCRA) re… [+4424 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -376,19 +389,6 @@
       "Title": "Peso se deprecia con fuerza por fortaleza del dólar",
       "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
       "Url": "https://www.reforma.com/peso-se-deprecia-con-fuerza-por-fortaleza-del-dolar/ar2788879",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-12T13:35:21Z",
-      "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Peso se deprecia más de 1% por fortaleza del dólar",
-      "Description": "En medio de una fortaleza generalizada del dólar, el peso se depreció hasta 1.7% este viernes y el yen japonés tocó mínimos de 34 años.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-por-fortaleza-del-dolar/ar2788879",
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-12T13:35:21Z",
       "Content": "03 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 09:24 hrs)"
