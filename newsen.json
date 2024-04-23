@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fark.com"
+      },
+      "Author": null,
+      "Title": "Bank teller gives nine reasons not to ask for 2 dollar bills. Would have had ten, but was due for her shift at Taco Bell in 26 minutes. Also how did they manage to avoid mentioning strip clubs? [Obvious]",
+      "Description": "Bank teller gives nine reasons not to ask for 2 dollar bills. Would have had ten, but was due for her shift at Taco Bell in 26 minutes. Also how did they manage to avoid mentioning strip clubs?",
+      "Url": "https://www.fark.com/comments/13229234/Bank-teller-gives-nine-reasons-not-to-ask-for-2-dollar-bills-Would-have-had-ten-but-was-due-for-her-shift-at-Taco-Bell-in-26-minutes-Also-how-did-they-manage-to-avoid-mentioning-strip-clubs",
+      "UrlToImage": "https://usrimg-full.fark.net/P/PX/fark_PXsa0KxcrQGsnSKYM2oAnqHb_p8.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1714363200&Signature=xOl9SVHI09zrqDNcRD4f0cRwlk8%3D",
+      "PublishedAt": "2024-04-22T13:35:04Z",
+      "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Canada Will Issue A Us-Dollar-Denominated Global Bond On April 23, Subject To Market Conditions - Finance Ministry",
+      "Description": "(marketscreener.com) \n April 22 -\n * CANADA WILL ISSUE A US-DOLLAR-DENOMINATED GLOBAL BOND ON\nAPRIL 23, SUBJECT TO MARKET CONDITIONS - FINANCE MINISTRY\nSource text for Eikon:\nFurther company coverage: [ ]\n\n https://www.marketscreener.com/news/latest/Canada-Wi…",
+      "Url": "https://www.marketscreener.com/news/latest/Canada-Will-Issue-A-Us-Dollar-Denominated-Global-Bond-On-April-23-Subject-To-Market-Conditions-F-46492238/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "PublishedAt": "2024-04-22T13:24:02Z",
+      "Content": "ANALYST RECOMMENDATIONS : AMD, Cisco, Alphabet, Apple, Netflix..."
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/04/Million-Dollar-Lethal-Listing-2024.jpeg?resize=1000%2C600&ssl=1",
       "PublishedAt": "2024-04-08T15:00:01Z",
       "Content": "The latest Lifetime thriller from director David DeCoteau (Tall, Dark, and Dangerous), Million Dollar Lethal Listing, is a topical look at the dangerous financial implications of home ownership, uneq… [+4607 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Chainwire",
-      "Title": "DigiFT Launches US Dollar Money Market Fund Token To Offer Stablecoin Holders An Actively Managed Investment Solution On-chain",
-      "Description": "DigiFT Launches US Dollar Money Market Fund Token To Offer Stablecoin Holders An Actively Managed Investment Solution On-chain",
-      "Url": "https://www.investing.com/news/cryptocurrency-news/digift-launches-us-dollar-money-market-fund-token-to-offer-stablecoin-holders-an-actively-managed-investment-solution-onchain-3368647",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981373.jpg",
-      "PublishedAt": "2024-04-08T03:30:38Z",
-      "Content": "Singapore, Singapore, April 8th, 2024, Chainwire\r\nDigiFT, the first on-chain Real World Asset (RWA) exchange regulated by the Monetary Authority of Singapore (MAS), is proud to announce the launch of… [+3918 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "Confounded Interest",
-      "Title": "Fear The Talking Fed! How The Fed And Federal Government Destroyed The US Dollar (Purchasing Power DOWN -32% Since The Subprime Crisis While M2 Money Has Grown By 177%)",
-      "Description": "We are living in the USA where corruption, favoritism, open borders and an out-of-control Federal budget and debt are destroying this once great nation. Former Kansas City Fed President Thomas M. Hoenig was absolutely right when he said recently that The Fede…",
-      "Url": "https://freerepublic.com/focus/f-bloggers/4229555/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-07T09:48:22Z",
-      "Content": "Skip to comments.\r\nFear The Talking Fed! How The Fed And Federal Government Destroyed The US Dollar (Purchasing Power DOWN -32% Since The Subprime Crisis While M2 Money Has Grown By 177%)Confounded I… [+2611 chars]"
     }
   ]
 }
