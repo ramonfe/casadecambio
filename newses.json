@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "¿Qué mosca le picó al peso? Baja y se cotiza en las 17 unidades vs. el dólar",
+      "Description": "El precio del dólar en los bancos sigue a la baja: De acuerdo con datos de Citibanamex, se cotiza en los 17.41 pesos por cada uno.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/23/peso-dolar-precio-hoy-23-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/HZh6-KVm-splpC4odv60d7-8aL4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UDRYP47HHNDABL3GUHKEANGO4A.jpg",
+      "PublishedAt": "2024-04-23T16:12:28Z",
+      "Content": "El peso mexicano inicia la sesión de este martes en el piso de las 17 unidades contra el dólar, favorecido por un aparente debilitamiento de la economía estadounidense, ya que tanto el sector manufac… [+1686 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/7ht2dZ3fWFEg4sqb49VxNyJEzSU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DABGZTRAQZFDTL4HCHVBMW6W64.jpg",
       "PublishedAt": "2024-04-12T14:15:39Z",
       "Content": "El peso mexicano se perfila para perder el balance semanal contra el dólar pues el tipo de cambio experimenta uno de sus rebotes más fuertes durante la jornada de este 12 de abril.\r\nDe acuerdo con da… [+2296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Peso se deprecia más de 1.7% por fortaleza del dólar",
-      "Description": "En medio de una fortaleza generalizada del dólar, el peso se deprecia más de 1.7% este viernes y el yen japonés opera en mínimos de 34 años.",
-      "Url": "https://www.reforma.com/peso-se-deprecia-mas-de-1-7-por-fortaleza-del-dolar/ar2788879",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/700/5699326.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-12T13:35:21Z",
-      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (12 abril 2024) .-07:34 (Actualización: 08:24 hrs)"
     }
   ]
 }
