@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso pierde tras fortalecimiento del dólar; advierten volatilidad por fondo de pensiones",
+      "Description": "Forbes México.\n Peso pierde tras fortalecimiento del dólar; advierten volatilidad por fondo de pensiones\n\nLa reforma, pendiente de aprobación en el Senado, constituye un riesgo para los recursos de los trabajadores y para las finanzas públicas, según BASE.\nPe…",
+      "Url": "https://www.forbes.com.mx/peso-pierde-tras-fortalecimiento-del-dolar-advierten-volatilidad-por-fondo-de-pensiones/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
+      "PublishedAt": "2024-04-24T23:00:31Z",
+      "Content": "El peso retrocedió este miércoles frente a un fortalecimiento generalizado del dólar.\r\nEl dólar se ubicó al cierre en 17.07 pesos, una depreciación de 0.64% para la moneda mexicana, de acuerdo con in… [+1189 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240415/imag/foto_0000000120240415130220/luis_felipe_cespedes.jpg",
       "PublishedAt": "2024-04-15T17:01:00Z",
       "Content": "Hasta Valdivia llegó el consejero del Banco Central, Luis Felipe Céspedes, para presentar las claves del Informe de Política Monetaria (IPoM) de marzo. En el marco de un evento organizado por Coopeuc… [+3244 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede tras datos sólidos de ventas minoristas en EU; se mantiene debajo de 17 unidades por dólar",
-      "Description": "Forbes México.\n Peso retrocede tras datos sólidos de ventas minoristas en EU; se mantiene debajo de 17 unidades por dólar\nEl peso cotizaba en 16.6847 unidades, con un retroceso de 0.39% frente al precio de referencia de Reuters del viernes, en su quinta jorna…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-tras-datos-solidos-de-ventas-minoristas-en-eu-se-mantiene-debajo-de-17-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
-      "PublishedAt": "2024-04-15T14:35:36Z",
-      "Content": "El peso se depreciaba este lunes en la apertura ante un fortalecimiento global del dólar, debido a crecientes preocupaciones de que la Reserva Federal (Fed) podría mantener elevadas sus tasas de inte… [+1643 chars]"
     }
   ]
 }
