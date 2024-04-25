@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central sigue comprando divisas y las reservas brutas superan los US$30.000 millones",
+      "Description": "Se ubican de este modo en el mayor nivel de los últimos diez meses, tras los US$109 millones que adquirió hoy",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-sigue-comprando-y-las-reservas-brutas-superan-los-us30000-millones-nid24042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-sigue-recomponiendo-su-QOGWUSKQMZH7LOI766JIEQ3H5A.jpg?auth=9dcfebfd1d9ca6609fa888e647283838d9b389070eca188d913b732721fdf44c&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-24T20:12:30Z",
+      "Content": "El Banco Central (BCRA) cerró su actividad cambiaria del día incorporando a sus reservas otros US$109 millones por sus intervenciones sobre el mercado cambiario oficial, un ingreso que impulsó a su v… [+3018 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0473.jpg",
       "PublishedAt": "2024-04-15T14:35:36Z",
       "Content": "El peso se depreciaba este lunes en la apertura ante un fortalecimiento global del dólar, debido a crecientes preocupaciones de que la Reserva Federal (Fed) podría mantener elevadas sus tasas de inte… [+1643 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Davison Santana",
-      "Title": "Fondos de cobertura ‘le dan gasolina’ al peso: ¿Qué tanto se apreciará vs. el dólar?",
-      "Description": "El diferencial entre la tasa del Banxico con la de la Fed sigue siendo un atractivo para que los inversionistas apuesten su dinero a favor del peso.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/15/peso-mexicano-como-ayudan-los-fondos-de-cobertura-a-su-apreciacion-vs-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/kth-fJAqCGFjm8UX3Vn1PB67Iq8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WREH4CQNLZGFLAYHOR5R4Q6EWE.jpg",
-      "PublishedAt": "2024-04-15T14:33:26Z",
-      "Content": "Los fondos de cobertura continúan impulsando las apuestas alcistas sobre el peso mexicano, fortaleciendo su posición como la moneda con el mejor desempeño del mundo y manteniéndola en camino de alcan… [+3139 chars]"
     }
   ]
 }
