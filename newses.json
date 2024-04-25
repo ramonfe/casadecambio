@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede ante el fortalecimiento global del dólar",
+      "Description": "Forbes México.\n Peso retrocede ante el fortalecimiento global del dólar\n\nEl peso cotizaba en 17.06 pesos por dólar, con una pérdida de 0.74 por ciento frente a las 16.93 unidades del precio de referencia de Reuters del martes.\nPeso retrocede ante el fortaleci…",
+      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-el-fortalecimiento-global-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
+      "PublishedAt": "2024-04-24T15:43:44Z",
+      "Content": "El peso retrocedía este miércoles en la apertura borrando parte de las ganancias logradas en la sesión previa y rompiendo nuevamente el techo de las 17.00 unidades por dólar ante el fortalecimiento d… [+1701 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/informe-del-tipo-de-cambio-el-precio-del-dolar-en-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-12T15:31:06Z",
       "Content": "Este viernes 12 de abril,el precio del dólar en México es de $16,4583,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+1971 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se ‘derrumba’ contra el dólar: Se deprecia 25 centavos por ‘culpa’ de la Fed",
-      "Description": "El rebote del peso mexicano de este 12 de abril es tal que el dólar ya se vende en los bancos por arriba de las 17 unidades, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/12/peso-dolar-precio-hoy-12-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/7ht2dZ3fWFEg4sqb49VxNyJEzSU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DABGZTRAQZFDTL4HCHVBMW6W64.jpg",
-      "PublishedAt": "2024-04-12T14:15:39Z",
-      "Content": "El peso mexicano se perfila para perder el balance semanal contra el dólar pues el tipo de cambio experimenta uno de sus rebotes más fuertes durante la jornada de este 12 de abril.\r\nDe acuerdo con da… [+2296 chars]"
     }
   ]
 }
