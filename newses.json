@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 24 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 24 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-24-de-abril-nid24042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-24-de-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-24T17:44:22Z",
+      "Content": "Este miércoles 24 de abril, el precio del dólar en México es de $16,995 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de … [+2413 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Dólar retoma avances; presiona al peso y al yen",
+      "Description": "El peso se depreció hasta 1% en cruces globales y el yen japonés cayó a su nivel más bajo en 34 años por fortaleza generalizada del dólar.",
+      "Url": "https://www.reforma.com/dolar-retoma-avances-presiona-al-peso-y-al-yen/ar2796459",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/707/5706718.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-24T17:04:08Z",
+      "Content": "02 MIN 00 SEG\r\nGrupo REFORMA\r\nCd. de México (24 abril 2024) .-10:37 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/kth-fJAqCGFjm8UX3Vn1PB67Iq8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WREH4CQNLZGFLAYHOR5R4Q6EWE.jpg",
       "PublishedAt": "2024-04-15T14:33:26Z",
       "Content": "Los fondos de cobertura continúan impulsando las apuestas alcistas sobre el peso mexicano, fortaleciendo su posición como la moneda con el mejor desempeño del mundo y manteniéndola en camino de alcan… [+3139 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 15 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 15 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-15-de-abril-nid15042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-15T14:32:02Z",
-      "Content": "Este lunes 15 de abril, el precio del dólar en México es de $16,6693, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2379 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 12 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 12 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-12-de-abril-nid12042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/informe-del-tipo-de-cambio-el-precio-del-dolar-en-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-12T15:31:06Z",
-      "Content": "Este viernes 12 de abril,el precio del dólar en México es de $16,4583,de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+1971 chars]"
     }
   ]
 }
