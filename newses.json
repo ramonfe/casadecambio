@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Ranking global: en lo que va del año, el peso argentino es la moneda que más se revalorizó frente al dólar",
+      "Description": "De acuerdo con el índice de Bloomberg, el peso argentino se fortaleció un 25% frente al dólar hasta marzo, si se toma la cotización libre; es la “número uno” a nivel internacional, y refleja el escenario de calma cambiaria que celebra el Gobierno",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/ranking-global-en-lo-que-va-del-ano-el-peso-argentino-es-la-moneda-que-mas-se-revalorizo-frente-al-nid25042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-mayorista-avanzo-8percent-en-lo-A5V65LWNZVF2REXG2M5XRXI77I.JPG?auth=1ae5d145152ce840f4fe6d2e5c2042b68defe0d7cb2de78d6660b9ba467d66e0&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-25T14:39:16Z",
+      "Content": "El peso argentino arrancó el año como la moneda que más se revalorizó frente al dólar, si se toma en cuenta la evolución del tipo de cambio paralelo. Si bien en los primeros meses del año la inflació… [+1906 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/MZGdhL8h1KloncR7UxzNTyPfMvs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YJCRS5Z6K5E3VBPZBHFHIRV5OI.jpg",
       "PublishedAt": "2024-04-15T17:16:40Z",
       "Content": "El peso mexicano comienza la semana en terreno de pérdidas, después de que durante el fin de semana las tensiones geopolíticas se acentuaron, ante un ataque de Irán a territorio de Israel.\r\nDe acuerd… [+1395 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Catalina Vergara",
-      "Title": "Céspedes del Banco Central ve repunte de la inflación en el corto plazo por el efecto del alza del dólar",
-      "Description": "El consejero señaló que el corredor de la tasa de interés \"no es una camisa de fuerza\". A su vez, el consejero Alberto Naudon se refirió al desempeño reciente del tipo de cambio en un evento de la UDD.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/cespedes-del-banco-central-ve-repunte-de-la-inflacion-en-el-corto-plazo",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240415/imag/foto_0000000120240415130220/luis_felipe_cespedes.jpg",
-      "PublishedAt": "2024-04-15T17:01:00Z",
-      "Content": "Hasta Valdivia llegó el consejero del Banco Central, Luis Felipe Céspedes, para presentar las claves del Informe de Política Monetaria (IPoM) de marzo. En el marco de un evento organizado por Coopeuc… [+3244 chars]"
     }
   ]
 }
