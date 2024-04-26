@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Suspect to plead guilty as he faces new charge of using criminal proceeds to buy S$332,280 car",
+      "Description": "SINGAPORE: Three more charges were read on Wednesday (April 24) to a suspect in a S$2.8 billion money laundering case and he is set to plead guilty next Monday.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-suspect-su-baolin-pleads-guilty-using-criminal-proceeds-buy-car-4290906",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
+      "PublishedAt": "2024-04-25T04:28:32Z",
+      "Content": "In January, the court heard eight charges against him, including his alleged refusal to sign various statements that he made to the authorities when required to do so by a Commercial Affairs Departme… [+1358 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TKtCP913--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/04/04/comp_of_illustrations_of_su_wenqiang_and_su_haijin.jpg?itok=QIddaxjD",
       "PublishedAt": "2024-04-08T22:00:00Z",
       "Content": "SINGAPORE: Two men accused of their involvement in a landmark S$3 billion (US$2.2 billion) money laundering case in Singapore received their sentences last week.\r\nOn Tuesday (Apr 2), Su Wenqiang was … [+1686 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "Joe Lipsett",
-      "Title": "Lifetime’s ‘Million Dollar Lethal Listing’ Is a Sensational Exploration of Money and Marriage [Review]",
-      "Description": "The latest Lifetime thriller from director David DeCoteau (Tall, Dark, and Dangerous), Million Dollar Lethal Listing, is a topical look at the dangerous financial implications of home ownership, unequal incomes, and trusting your partner. It’s clear early on …",
-      "Url": "https://bloody-disgusting.com/reviews/3807605/lifetimes-million-dollar-lethal-listing-is-a-sensational-exploration-of-money-and-marriage-review/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/04/Million-Dollar-Lethal-Listing-2024.jpeg?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2024-04-08T15:00:01Z",
-      "Content": "The latest Lifetime thriller from director David DeCoteau (Tall, Dark, and Dangerous), Million Dollar Lethal Listing, is a topical look at the dangerous financial implications of home ownership, uneq… [+4607 chars]"
     }
   ]
 }
