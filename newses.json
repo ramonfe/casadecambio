@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 25 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 25 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-25-de-abril-nid25042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-56PRKMAQTVA63LMRTA4VGTMKNM.jpg?auth=fa8cd1c73e5b8685564641572225cd4c927d67ffc99d85d1236ce5874289274d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-25T15:52:32Z",
+      "Content": "Este jueves 25 de abril, el precio del dólar en México es de $17,1098 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2478 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0132-1.jpg",
       "PublishedAt": "2024-04-15T22:54:53Z",
       "Content": "El peso se depreció este lunes ante un avance global del dólar debido a crecientes preocupaciones de que la Reserva Federal (Fed) podría mantener elevadas las tasas por más tiempo, mientras que la Bo… [+1942 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "El peso aún no cobra la quincena: Cae ante el dólar y cotiza en las 16.67 unidades",
-      "Description": "Analistas de CIBanco considera que el peso mexicano podría llegar a las 16.70 unidades durante la jornada de este lunes 15 de abril.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/15/peso-dolar-precio-hoy-15-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/MZGdhL8h1KloncR7UxzNTyPfMvs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YJCRS5Z6K5E3VBPZBHFHIRV5OI.jpg",
-      "PublishedAt": "2024-04-15T17:16:40Z",
-      "Content": "El peso mexicano comienza la semana en terreno de pérdidas, después de que durante el fin de semana las tensiones geopolíticas se acentuaron, ante un ataque de Irán a territorio de Israel.\r\nDe acuerd… [+1395 chars]"
     }
   ]
 }
