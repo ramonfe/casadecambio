@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Pamela Heaven",
+      "Title": "Posthaste: Canadian dollar could throw wrench into Bank of Canada rate cut plans",
+      "Description": "Growing gap between Bank of Canada and Federal Reserve could tank the Canadian dollar, and raise inflation. Find out what economists say",
+      "Url": "https://financialpost.com/news/canadian-dollar-could-thwart-bank-of-canada-rate-cuts",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/canadian-dollar-0425-ph.jpg",
+      "PublishedAt": "2024-04-25T12:03:12Z",
+      "Content": "Steep drop in currency could hike inflation by 1%, says BofA\r\nExpectations that the Bank of Canada will move before the United States Federal Reserve has put pressure on the Canadian dollar.Photo by … [+9927 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://sportal365images.com/process/smp-images-production/ringier.africa/09042024/0a036db5-3349-4037-a3a1-43e7ba9161bf.png?operations=fit(1200:630)",
       "PublishedAt": "2024-04-09T13:47:03Z",
       "Content": "Sha'Carri Richardson's money bag keeps rising with ease, as the world's fastest woman has secured a partnership deal with a multi-billion dollar wearable fitness company Whoop, which has soccer star … [+2087 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "CNA Explains: How were the sentences decided for duo convicted in billion-dollar money laundering case?",
-      "Description": "The amount of criminal proceeds laundered is just one factor, says a lawyer.",
-      "Url": "https://www.channelnewsasia.com/singapore/money-laundering-su-wenqiang-haijin-cna-explains-sentences-4244941",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--TKtCP913--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/04/04/comp_of_illustrations_of_su_wenqiang_and_su_haijin.jpg?itok=QIddaxjD",
-      "PublishedAt": "2024-04-08T22:00:00Z",
-      "Content": "SINGAPORE: Two men accused of their involvement in a landmark S$3 billion (US$2.2 billion) money laundering case in Singapore received their sentences last week.\r\nOn Tuesday (Apr 2), Su Wenqiang was … [+1686 chars]"
     }
   ]
 }
