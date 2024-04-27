@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencialdigital.com"
+      },
+      "Author": "Agencias",
+      "Title": "El Banco de Japón no sube tipos y el yen marca mínimos de 34 años frente al dólar",
+      "Description": "MADRID, 26 (EUROPA PRESS) El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios respecto de su anterior reunión y demorando...",
+      "Url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/banco-japon-sube-tipos-yen-marca-minimos-34-anos-frente-dolar/20240426090231768851.html",
+      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/04/26/2024042609023151628.jpg",
+      "PublishedAt": "2024-04-26T09:02:31Z",
+      "Content": "MADRID, 26 (EUROPA PRESS)\r\n El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios resp… [+2240 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "elEconomista.es",
+      "Title": "El Banco de Japón mantiene tipos y el yen marca mínimos de 34 años frente al dólar",
+      "Description": "El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios respecto de su anterior reunión y demorando por el momento el esperado endurecimiento de la …",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12787893/04/24/el-banco-de-japon-mantiene-tipos-y-el-yen-marca-minimos-de-34-anos-frente-al-dolar.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/1/6/5/1200x655_Banco_de_Japon_tipos.jpg",
+      "PublishedAt": "2024-04-26T09:01:13Z",
+      "Content": "El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios respecto de su anterior reunión … [+3315 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Tropieza el peso y cierra en 17.21 unidades por dólar; avanza la bolsa pese a pérdidas en NY",
+      "Description": "Después de un dato muy inferior al esperado del producto interno bruto (PIB) estadunidense para el primer trimestre, que generó dudas sobre la salud de la economía, el peso se debilitó frente a un dólar endeble a nivel mundial.",
+      "Url": "https://www.jornada.com.mx/2024/04/26/economia/019n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-04-26T08:38:42Z",
+      "Content": "Periódico La JornadaViernes 26 de abril de 2024, p. 19\r\nDespués de un dato muy inferior al esperado del producto interno bruto (PIB) estadunidense para el primer trimestre, que generó dudas sobre la … [+3299 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/wcGhIPhbzKSdapZmCT7E02C8re4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CJL67JZE4BCFTOZE32BXYTSKBI.jpg",
       "PublishedAt": "2024-04-16T16:24:23Z",
       "Content": "Un menor apetito por activos de riesgo provoca que el peso mexicano amplíe sus pérdidas frente al dólar, mientras los inversionistas siguen buscando pistas sobre el rumbo que tomará la política monet… [+1605 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 16 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 16 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-16-de-abril-nid16042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/desde-el-ambito-internacional-la-cotizacion-del-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-16T13:32:04Z",
-      "Content": "Este martes 16 de abril, el precio del dólar en México es de $16,6815 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2295 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Sergio Fernández, Cecilia Moya",
-      "Title": "Los inversores buscan refugio en los clásicos: el oro avanza un 15% en el año y el dólar saca un 3,6% al euro",
-      "Description": "La volatilidad del mercado está llevando a niveles récord al oro cotizado y al dólar estadounidense como divisa favorita de los inversores. Los dos activos vuelven a tomar su papel de valor refugio para el mercado ante la tensión por la guerra en Gaza y ante …",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12771116/04/24/los-inversores-buscan-refugio-en-los-clasicos-el-oro-avanza-un-15-en-el-ano-y-el-dolar-saca-un-36-al-euro.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x800/9/9/9/oro-dolar-dreamstime-1200.jpg",
-      "PublishedAt": "2024-04-16T12:02:51Z",
-      "Content": "La volatilidad del mercado está llevando a niveles récord al oro cotizado y al dólar estadounidense como divisa favorita de los inversores. Los dos activos vuelven a tomar su papel de valor refugio p… [+2503 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso pierde en el inicio de semana ante avance global del dólar",
-      "Description": "Forbes México.\n Peso pierde en el inicio de semana ante avance global del dólar\n\nHay crecientes preocupaciones de que la Reserva Federal podría mantener elevadas su tasas de interés por más tiempo.\nPeso pierde en el inicio de semana ante avance global del dól…",
-      "Url": "https://www.forbes.com.mx/peso-pierde-en-el-inicio-de-semana-ante-avance-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0132-1.jpg",
-      "PublishedAt": "2024-04-15T22:54:53Z",
-      "Content": "El peso se depreció este lunes ante un avance global del dólar debido a crecientes preocupaciones de que la Reserva Federal (Fed) podría mantener elevadas las tasas por más tiempo, mientras que la Bo… [+1942 chars]"
     }
   ]
 }
