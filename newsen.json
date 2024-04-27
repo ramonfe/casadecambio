@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Japan finance minister to attend ADB meeting, strong dollar may draw focus",
+      "Description": "(marketscreener.com) Japanese Finance Minister\nShunichi Suzuki said on Friday he will attend the Asian\nDevelopment Bank's annual meeting to be held in Tbilisi,\nGeorgia, on May 2-5, where currency market volatility could be\namong the focus of debate.\n Finance …",
+      "Url": "https://www.marketscreener.com/news/latest/Japan-finance-minister-to-attend-ADB-meeting-strong-dollar-may-draw-focus-46539081/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2024-04/2024-04-17T202232Z_1_LYNXNPEK3G0WK_RTROPTP_3_IMF-WORLDBANK-TRILATERAL.JPG",
+      "PublishedAt": "2024-04-26T01:15:20Z",
+      "Content": "TOKYO, April 26 (Reuters) - Japanese Finance Minister\r\nShunichi Suzuki said on Friday he will attend the Asian\r\nDevelopment Bank's (ADB) annual meeting to be held in Tbilisi,\r\nGeorgia, on May 2-5, wh… [+928 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/files/2024.04/article/6615390785f5403ee71f9b04.jpg",
       "PublishedAt": "2024-04-09T14:11:21Z",
       "Content": "The share of the Chinese yuan on Russia’s foreign exchange market hit an all-time high in March, the Bank of Russia (CBR) reported in its financial risk review on Monday.\r\nRussia’s shift away from ma… [+1724 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Pulsesports.ng"
-      },
-      "Author": "Funmilayo Fameso",
-      "Title": "Money Star: Sha'Carri Richardson Whoops' partnership deal with Van Dijk's multi-billion dollar fitness brand",
-      "Description": "Sha'Carri Richardson's money bag keeps rising with ease, as the world's fastest woman has secured a partnership deal with a multi-billion dollar wearable fitness company Whoop, which has football star Virgil van Dijk as an ambassador and investor.",
-      "Url": "https://www.pulsesports.ng/athletics/story/money-star-shacarri-richardson-whoops-partnership-deal-with-van-dijks-multi-billion-dollar-fitness-brand-2024040912412301001",
-      "UrlToImage": "https://sportal365images.com/process/smp-images-production/ringier.africa/09042024/0a036db5-3349-4037-a3a1-43e7ba9161bf.png?operations=fit(1200:630)",
-      "PublishedAt": "2024-04-09T13:47:03Z",
-      "Content": "Sha'Carri Richardson's money bag keeps rising with ease, as the world's fastest woman has secured a partnership deal with a multi-billion dollar wearable fitness company Whoop, which has soccer star … [+2087 chars]"
     }
   ]
 }
