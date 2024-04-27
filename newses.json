@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Víctor Ventura",
+      "Title": "Milei obra un milagro accidental: el peso argentino ya es la moneda más fuerte del mundo frente al dólar",
+      "Description": "Durante la campaña electoral, Javier Milei aseguró que el peso era \"un excremento\" que usaban los políticos argentinos para \"robar\" a los ciudadanos. Su promesa era deshacerse de esa moneda y dejar que la gente ahorrara en dólares, la moneda que sí tiene valo…",
+      "Url": "https://www.eleconomista.es/economia/noticias/12789289/04/24/milei-obra-un-milagro-accidental-el-peso-argentino-ya-es-la-moneda-mas-fuerte-del-mundo-frente-al-dolar-.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/4530x2472/1/5/2/1200x655_pesos-argentina-blumber.jpg",
+      "PublishedAt": "2024-04-26T17:27:34Z",
+      "Content": "Durante la campaña electoral, Javier Milei aseguró que el peso era \"un excremento\" que usaban los políticos argentinos para \"robar\" a los ciudadanos. Su promesa era deshacerse de esa moneda y dejar q… [+4506 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/PmWhdN8R0rPT91SwT1xki2sJQmE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DPCZEXLSRVBHBJCBZXZKKQVA6M.jpg",
       "PublishedAt": "2024-04-17T07:55:28Z",
       "Content": "Las monedas del mundo en desarrollo se hundieron cuando el presidente de la Reserva Federal, Jerome Powell, señaló que las tasas de interés probablemente se mantendrán altas por más tiempo, lo que pr… [+3463 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN/ SBH",
-      "Title": "Peso mexicano pierde y ya cotiza arriba de 17 por dólar",
-      "Description": "La moneda mexicana marcó su peor sesión desde octubre de 2023.",
-      "Url": "https://aristeguinoticias.com/1604/dinero-y-economia/peso-mexicano-pierde-y-ya-cotiza-arriba-de-17-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/03/dolar-economia-euro-2-08032024.jpg",
-      "PublishedAt": "2024-04-16T23:26:35Z",
-      "Content": "El peso mexicano se depreció el martes con más fuerza que sus pares internacionales, después de que el jefe de la Fed, Jerome Powell, afirmó que la política monetaria restrictiva del banco central es… [+2703 chars]"
     }
   ]
 }
