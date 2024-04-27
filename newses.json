@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La moneda de un centavo de dólar puede valer más de 300 mil dólares: cómo identificarla",
+      "Description": "Esta pieza es popular entre los coleccionistas; con el rostro de Abraham Lincoln en el anverso, se convirtió en un objeto valioso debido a un particular detalle de acuñación",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-un-centavo-de-dolar-puede-valer-mas-de-300-mil-dolares-como-identificarla-nid26042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-detalle-en-la-moneda-de-abraham-lincoln-que-MMMYQ6BT6BCYBL634YK7BV2M6E.jpg?auth=9e2f35a9886ac27c375c67686c6c24846484d4c41642083e04ff09b7a673588e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-26T19:53:52Z",
+      "Content": "La numismática, el estudio y colección de monedas y billetes, ha estado en auge últimamente debido a la atracción, tanto de aficionados como de expertos, en la búsqueda de rarezas y tesoros. En este … [+2716 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-04-17T10:08:13Z",
       "Content": "Periódico La JornadaMiércoles 17 de abril de 2024, p. 20\r\nEl peso perdió en la jornada de ayer todo lo que había ganado en el año. La moneda nacional se depreció 1.92 por ciento, equivalente a 32.19 … [+1319 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "El renacer del dólar y la caída del peso: ¿Qué pasó en los mercados que desfondó a la moneda mexicana?",
-      "Description": "Así fue cómo se movierno los mercados para que el peso se debilitara tanto frente al dólar.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2024/04/17/depreciacion-del-peso-mexicano-ante-el-dolar-abril-2024-por-que-perdio-valor-la-moneda-mexicana/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/PmWhdN8R0rPT91SwT1xki2sJQmE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DPCZEXLSRVBHBJCBZXZKKQVA6M.jpg",
-      "PublishedAt": "2024-04-17T07:55:28Z",
-      "Content": "Las monedas del mundo en desarrollo se hundieron cuando el presidente de la Reserva Federal, Jerome Powell, señaló que las tasas de interés probablemente se mantendrán altas por más tiempo, lo que pr… [+3463 chars]"
     }
   ]
 }
