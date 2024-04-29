@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Billion-Dollar Bank Facing Class Action Compliant After Data Breach Exposes Customers’ Names, Social Security Numbers and Other Sensitive Information",
+      "Description": "A US bank is facing a proposed class action lawsuit for allegedly failing to protect its customers’ sensitive personal information and suffering a massive data breach. SouthState Bank, which has over $45 billion in assets, is being hit with a class action law…",
+      "Url": "https://dailyhodl.com/2024/04/28/billion-dollar-bank-facing-class-action-compliant-after-data-breach-exposes-customers-names-social-security-numbers-and-other-sensitive-information/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-dollar-surveil.jpg",
+      "PublishedAt": "2024-04-28T20:04:59Z",
+      "Content": "A US bank is facing a proposed class action lawsuit for allegedly failing to protect its customers’ sensitive personal information and suffering a massive data breach.\r\nSouthState Bank, which has ove… [+1954 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-11T03:07:45Z",
       "Content": "Skip to comments.\r\nTruong My Lan: Vietnamese billionaire accused in multi-billion dollar bank fraudBBC ^\r\n | April 10\r\n | BBC\r\nPosted on 04/10/2024 8:07:45 PM PDT by RandFan\r\nIt is the most spectacul… [+2828 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT",
-      "Title": "Yuan displacing dollar on Russia’s foreign exchange market – Central Bank",
-      "Description": "The share of the Chinese yuan on Russia’s foreign exchange market hit an all-time high in March, according to the central bank Read Full Article at RT.com",
-      "Url": "https://www.rt.com/business/595642-yuan-trading-russian-forex-market/",
-      "UrlToImage": "https://mf.b37mrtl.ru/files/2024.04/article/6615390785f5403ee71f9b04.jpg",
-      "PublishedAt": "2024-04-09T14:11:21Z",
-      "Content": "The share of the Chinese yuan on Russia’s foreign exchange market hit an all-time high in March, the Bank of Russia (CBR) reported in its financial risk review on Monday.\r\nRussia’s shift away from ma… [+1724 chars]"
     }
   ]
 }
