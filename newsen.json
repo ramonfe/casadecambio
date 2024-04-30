@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Man pleads guilty to possessing car, S$777,000 from criminal proceeds",
+      "Description": "Su Baolin, a 42-year-old Cambodian, pleaded guilty to three out of 13 charges.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-man-pleads-guilty-possessing-car-s777000-criminal-proceeds-4299891",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
+      "PublishedAt": "2024-04-29T07:59:49Z",
+      "Content": "SINGAPORE: Another of 10 suspects involved in a S$3 billion (US$2.2 billion) money laundering case pleaded guilty in court on Monday (Apr 29). \r\nSu Baolin, a 42-year-old Cambodian, pleaded guilty to … [+1246 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Man jailed after pleading guilty to possessing car, S$777,000 from criminal proceeds",
+      "Description": "Su Baolin, a 42-year-old Cambodian, pleaded guilty to three out of 13 charges.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-man-jailed-after-pleading-guilty-possessing-car-s777000-criminal-proceeds-4299891",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
+      "PublishedAt": "2024-04-29T07:59:00Z",
+      "Content": "SINGAPORE: Another of 10 suspects involved in a S$3 billion (US$2.2 billion) money laundering case pleaded guilty in court on Monday (Apr 29). \r\nSu Baolin, a 42-year-old Cambodian, pleaded guilty to … [+1241 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: 14 months' jail for man who possessed car, S$777,000 from criminal proceeds",
+      "Description": "Su Baolin, a 42-year-old Cambodian, pleaded guilty to three out of 13 charges.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-14-months-jail-man-who-possessed-car-s777000-criminal-proceeds-4299891",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
+      "PublishedAt": "2024-04-29T07:59:00Z",
+      "Content": "SINGAPORE: Another of 10 suspects involved in a S$3 billion (US$2.2 billion) money laundering case was sentenced to 14 months' jail on Monday (Apr 29). \r\nSu Baolin, a 42-year-old Cambodian, had plead… [+1254 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2016-08/2016-08-18T133133Z_1_LYNXNPEC7H0OL_RTROPTP_2_RUSSIA-BASHNEFT-ROSNEFT.JPG",
       "PublishedAt": "2024-04-12T15:38:19Z",
       "Content": "(New throughout, updates prices at 1430 GMT)\r\nNEW YORK/LONDON, April 12 (Reuters) - The U.S. dollar\r\nsoared on Friday while oil prices pushed higher and gold reached\r\na record peak as investors grapp… [+2949 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar jumps on central bank divergence, euro hits five-month low",
-      "Description": "Dollar jumps on central bank divergence, euro hits five-month low",
-      "Url": "https://www.investing.com/news/economy/yen-crumbles-under-towering-dollar-and-us-treasury-yields-3375997",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_4_800x533_L_1413112066.jpg",
-      "PublishedAt": "2024-04-12T15:00:56Z",
-      "Content": "By Chuck Mikolajczak\r\nNEW YORK (Reuters) -The euro stumbled to a five-month low against the dollar on Friday after the European Central Bank indicated it could soon cut rates, a divergence from marke… [+3088 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Naturalnews.com"
-      },
-      "Author": "Richard Brown",
-      "Title": "Chinese renminbi replacing the U.S. dollar as most traded currency in Russia’s foreign exchange market",
-      "Description": "The Central Bank of Russia has just released a financial risk review noting how trading in the Chinese renminbi reached a historic high in March. This surge in yuan usage comes as part of Russia’s ongoing shift away from major Western currencies, spurred by s…",
-      "Url": "https://www.naturalnews.com/2024-04-11-renminbi-replacing-dollar-currency-russia-foreign-exchange.html",
-      "UrlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/04/chinese-currency-100-yuan-front-side.jpg",
-      "PublishedAt": "2024-04-11T06:00:00Z",
-      "Content": "The Central Bank of Russia has just released a financial risk review noting how trading in the Chinese renminbi reached a historic high in March.\r\nThis surge in yuan usage comes as part of Russia's o… [+4069 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "BBC",
-      "Title": "Truong My Lan: Vietnamese billionaire accused in multi-billion dollar bank fraud",
-      "Description": "It is the most spectacular trial ever held in Vietnam, befitting one of the greatest bank frauds the world has ever seen. Behind the stately yellow portico of the colonial-era courthouse in Ho Chi Minh City, a 67-year-old property developer stands accused of …",
-      "Url": "https://freerepublic.com/focus/f-news/4230409/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-11T03:07:45Z",
-      "Content": "Skip to comments.\r\nTruong My Lan: Vietnamese billionaire accused in multi-billion dollar bank fraudBBC ^\r\n | April 10\r\n | BBC\r\nPosted on 04/10/2024 8:07:45 PM PDT by RandFan\r\nIt is the most spectacul… [+2828 chars]"
     }
   ]
 }
