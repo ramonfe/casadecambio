@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 29 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 29 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-29-de-abril-nid29042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-29T14:05:09Z",
+      "Content": "Este lunes 29 de abril, el precio del dólar en México es de $17,1552 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2359 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-auto-dolar-fue-subastado-a-usdollar192000-en-CC76AMXNLZELRNFDRNBUKH77IY.jpg?auth=0261177673ff7b40f6e06c0ea2b5b18145b097861972e194b8e94950383fd519&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-17T10:51:57Z",
       "Content": "Dentro del mundo de las monedas valiosas, hay una que destaca por haberse vendido a un alto precio en una subasta. Se trata del Auto Dólar, que es una edición limitada que lleva grabado el automóvil … [+3146 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso borra ganancias del año: cerró en 17.04 por dólar",
-      "Description": "El peso perdió en la jornada de ayer todo lo que había ganado en el año. La moneda nacional se depreció 1.92 por ciento, equivalente a 32.19 centavos frente a la divisa estadunidense, para cerrar en 17.0465 unidades por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2024/04/17/economia/020n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-04-17T10:08:13Z",
-      "Content": "Periódico La JornadaMiércoles 17 de abril de 2024, p. 20\r\nEl peso perdió en la jornada de ayer todo lo que había ganado en el año. La moneda nacional se depreció 1.92 por ciento, equivalente a 32.19 … [+1319 chars]"
     }
   ]
 }
