@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Billion-Dollar Bank Paying $700,000 Penalty for Illegally Freezing Accounts, Transferring Customers’ Cash to Debt Collectors",
+      "Description": "New York’s Attorney General is penalizing a national bank for freezing its customers’ accounts and handing the funds over to debt collectors. New York AG Letitia James says an investigation by the Office of the Attorney General (OAG) found that South Dakota-b…",
+      "Url": "https://dailyhodl.com/2024/04/29/billion-dollar-bank-paying-700000-penalty-for-illegally-freezing-accounts-transferring-customers-cash-to-debt-collectors/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-freeze-dollar-.jpg",
+      "PublishedAt": "2024-04-29T15:04:47Z",
+      "Content": "New York’s Attorney General is penalizing a national bank for freezing its customers’ accounts and handing the funds over to debt collectors.\r\nNew York AG Letitia James says an investigation by the O… [+1939 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2016-11/2016-11-23T211715Z_1_LYNXMPECAM1G5_RTROPTP_2_USA.JPG",
       "PublishedAt": "2024-04-12T20:57:08Z",
       "Content": "(New throughout, updates prices as of 2015 GMT)\r\nNEW YORK/LONDON, April 12 (Reuters) -\r\nU.S. stocks sold off sharply on Friday while the dollar\r\njumped as investors grappled with rising geopolitical … [+3284 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Dollar up on mixed central bank views, Middle East risk lifts oil and gold",
-      "Description": "(marketscreener.com) The U.S. dollar\nsoared on Friday while oil prices pushed higher and gold reached\na record peak as investors grappled with geopolitical tensions\nand potentially diverging interest rate paths between Europe and\nthe United States.\n Major U.S…",
-      "Url": "https://www.marketscreener.com/quote/commodity/WTI-2355639/news/Dollar-up-on-mixed-central-bank-views-Middle-East-risk-lifts-oil-and-gold-46425523/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2016-08/2016-08-18T133133Z_1_LYNXNPEC7H0OL_RTROPTP_2_RUSSIA-BASHNEFT-ROSNEFT.JPG",
-      "PublishedAt": "2024-04-12T15:38:19Z",
-      "Content": "(New throughout, updates prices at 1430 GMT)\r\nNEW YORK/LONDON, April 12 (Reuters) - The U.S. dollar\r\nsoared on Friday while oil prices pushed higher and gold reached\r\na record peak as investors grapp… [+2949 chars]"
     }
   ]
 }
