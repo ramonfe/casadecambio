@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Alejandro Durán",
+      "Title": "Tipo de cambio del dólar dio un salto de ¢4 este lunes",
+      "Description": "Precio del dólar cerró en ¢508,47 este lunes en el Monex, frente a los  ¢504,46 del pasado viernes",
+      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-dio-un-salto-de-4-este/SQCTU3VGJ5HEZIAFIJMTOEUHAI/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/ZmDsYyrOOBHe3t9u_rtM4EywKiA=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/XC3EI2JYLZEZVF6ZOU3BOWKCNI.jpg",
+      "PublishedAt": "2024-04-29T19:29:16Z",
+      "Content": "El tipo de cambio del dólar respecto al colón presentó un aumento de ¢4,01 en el Mercado de Monedas Extranjeras (Monex), este lunes. El precio promedio ponderado de la divisa cerró en ¢508,47 tras la… [+450 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "El Financiero"
       },
       "Author": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/actualizacion-financiera-la-cotizacion-del-dolar-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-17T15:37:58Z",
       "Content": "Este miércoles 17 de abril, el precio del dólar en México es de $17,025 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de … [+2332 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Peso cotiza por debajo de $17 por dólar",
-      "Description": "El peso toma un respiro este miércoles y se aprecia más de 1%, con lo que vuelve a cotizar por debajo de $17 por dólar en el mercado global.",
-      "Url": "https://www.reforma.com/peso-toma-respiro-cotiza-por-debajo-de-17-por-dolar/ar2791440",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/86/5085533.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-17T14:02:12Z",
-      "Content": "02 MIN 00 SEG\r\nGrupo REFORMA\r\nCd. de México (17 abril 2024) .-07:47 hrs"
     }
   ]
 }
