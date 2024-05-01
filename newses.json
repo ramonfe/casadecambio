@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central compró reservas pese al paro portuario y confirma el ‘crawling’ al 2% mensual",
+      "Description": "Se alzó con US$194 millones, tras haber tendido que vender US$92 millones ayer, pero las reservas totales volvieron a caer por un pago al FMI",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-compro-reservas-pese-al-paro-portuario-y-confirma-el-crawling-al-2-mensual-nid30042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-se-quedo-hoy-con-mas-del-60percent-de-los-KX6A5FUNJJAMNPOYPZU24HBJNE.JPG?auth=f394b3181223872f44410ea95c5f95a888fb6e37f59de389244d37aa551270ff&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-30T20:47:15Z",
+      "Content": "El Banco Central (BCRA) se alzó hoy con US$194 millones para sus reservas por intervenciones sobre el mercado oficial, pese a los paros que afectan a los controles sanitarios y la actividad portuaria… [+4563 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-informacion-mas-reciente-del-mercado-cambiario-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-18T14:24:02Z",
       "Content": "Este jueves 18 de abril, el precio del dólar en México es de $16,9948 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2360 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Mercados financieros se ajustan a las nuevas perspectivas de tasas de interés; el peso recupera terreno frente al dólar",
-      "Description": "El peso recuperó parte de lo que perdió la sesión previa, al apreciarse 0.71 por ciento, equivalente a 6.91 centavos frente al dólar, para cerrar en 16.9774 unidades por dólar spot. La recuperación de la moneda nacional se dio en medio de un debilitamiento de…",
-      "Url": "https://www.jornada.com.mx/2024/04/18/economia/019n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-04-18T10:42:03Z",
-      "Content": "Periódico La JornadaJueves 18 de abril de 2024, p. 19\r\nEl peso recuperó parte de lo que perdió la sesión previa, al apreciarse 0.71 por ciento, equivalente a 6.91 centavos frente al dólar, para cerra… [+2419 chars]"
     }
   ]
 }
