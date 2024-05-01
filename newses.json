@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso argentino es el que más se ha revalorizado en el mundo frente al dólar por el impulso de Milei",
+      "Description": "Forbes México.\n Peso argentino es el que más se ha revalorizado en el mundo frente al dólar por el impulso de Milei\n\nEl peso argentino ha subido un 25% frente al dólar en los últimos tres meses en este mercado, más que las ganancias de 148 monedas.\nPeso argen…",
+      "Url": "https://www.forbes.com.mx/peso-argentino-es-el-que-mas-se-ha-revalorizado-en-el-mundo-frente-al-dolar-por-el-impulso-de-milei/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2024/02/milei.webp",
+      "PublishedAt": "2024-04-30T15:55:18Z",
+      "Content": "El presidente argentino Javier Milei, a cuatro meses de asumir su cargo, ha logrado un hecho fundamental en una nación devastada por la inflación descontrolada, esto es, lograr estabilizar el peso ar… [+2278 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 30 de abril",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 30 de abril",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-30-de-abril-nid30042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-en-mexico-hoy-30-de-B5HALFFZ4FB6TKIPMH4CT3S7UQ.jpg?auth=c22c91733e62e4f360db16d720a5309f7e6b55094242ddeb932cedb78db3990b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-30T15:32:12Z",
+      "Content": "Este martes 30 de abril, el precio del dólar en México es de $17,0243, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2489 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2021/01/dolar6.jpg",
       "PublishedAt": "2024-04-17T22:52:20Z",
       "Content": "El peso se apreció este miércoles recuperando parte de las fuertes pérdidas de la jornada anterior, ante un debilitamiento global del dólar debido a un mejor ambiente para los activos de riesgo, mien… [+1528 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: se recuperó el volumen de negocios y el Banco Central compró casi US$200 millones",
-      "Description": "La entidad aprovechó el mayor volumen de operaciones y aceleró marginalmente el ajuste del tipo de cambio oficial",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-se-recupero-el-volumen-de-negocios-y-el-banco-central-compro-casi-us200-millones-nid17042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-martes-venceran-letras-por-dollar6718785-35I3V2JMS5GZZFMFFH7JWI44KE.jpg?auth=bc4f5b7ea4f8633e1d2cfa7cfc18e51ad4b87a7af3462366e8b1468c03fd608f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-17T20:59:31Z",
-      "Content": "El Banco Central (BCRA) aprovechó hoy la marcada recuperación que tuvo el volumen operado por la plaza cambiaria oficial para adquirir otros casi US$200 millones y seguir adelante con la recuperación… [+3504 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso anda ‘bien quién sabe cómo’ vs. dólar: Regresa a las 16 unidades tras ‘tropezón’",
-      "Description": "Es un buen día para las monedas latinoamericanas en los mercados, con el peso colombiano, el peso chileno y el real brasileño entre las divisas con más ganancias.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/17/peso-dolar-precio-hoy-17-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/JS1hQ5WNIzSPM6axry3EhxLMO9s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PTYVOCOWT5E57CH4Q4M3Q67BQU.jpg",
-      "PublishedAt": "2024-04-17T16:25:53Z",
-      "Content": "El peso mexicano presenta correcciones y vuelve a colocarse en terreno de ganancias este miércoles contra el dólar, luego de haber registrado una fuerte sesión de retrocesos por la aversión al riesgo… [+1477 chars]"
     }
   ]
 }
