@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Sufre peso en abril mayor revés frente al dólar en 6 meses",
+      "Description": "Tras los beneficios logrados en febrero y marzo, en abril, el peso se depreció frente dólar al subir 58.16 centavos a 17.1402 unidades.",
+      "Url": "https://www.reforma.com/sufre-peso-en-abril-mayor-reves-frente-al-dolar-en-6-meses/ar2800031",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/675/5674614.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-04-30T22:16:14Z",
+      "Content": "En ventanillas de Citibanamex, la divisa de Washington subió 56 centavos en abril para ser su alza más significativa en seis meses, al ofrecerse a 17.52 y recibirse a 16.61 unidades. Crédito: AP"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/0tMDuDbA3oD1KgJlj2lzwELE7Cg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JMZQWXKULFAOZI5LTYL3LRG6X4.jpg",
       "PublishedAt": "2024-04-18T17:45:28Z",
       "Content": "El peso mexicano sigue con sus ajustes frente al dólar y cae, a la par que los operadores descuentan dan por hecho que la Reserva Federal tardará más de lo esperado en comenzar con su ciclo de recort… [+1533 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 18 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 18 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-18-de-abril-nid18042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-informacion-mas-reciente-del-mercado-cambiario-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-18T14:24:02Z",
-      "Content": "Este jueves 18 de abril, el precio del dólar en México es de $16,9948 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2360 chars]"
     }
   ]
 }
