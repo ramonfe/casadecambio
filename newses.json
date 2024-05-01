@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Dólar hace ‘calzón chino’ al peso en el Día del Niño: Cotiza en las 17.07 unidades",
+      "Description": "El peso mexicano estuvo a nada de regresar al terreno de las 16 unidades durante la apertura de esta semana.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/30/peso-dolar-precio-hoy-30-de-abril-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/u2ZAK3BFj2K4XV_Ma8-HizZbYc4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZH632PDDQVFHVGZALTHLYVH4FA.jpg",
+      "PublishedAt": "2024-04-30T16:59:51Z",
+      "Content": "Un aumento en los costos laborales en Estados Unidos llevaron al peso mexicano a operar en terreno de pérdidas en el inicio de la segunda jornada bursátil.\r\nLos datos reportados por Bloomberg muestra… [+1453 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-04-18T10:42:03Z",
       "Content": "Periódico La JornadaJueves 18 de abril de 2024, p. 19\r\nEl peso recuperó parte de lo que perdió la sesión previa, al apreciarse 0.71 por ciento, equivalente a 6.91 centavos frente al dólar, para cerra… [+2419 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso recupera terreno y vuelve al nivel de las 16 unidades por dólar",
-      "Description": "Forbes México.\n Peso recupera terreno y vuelve al nivel de las 16 unidades por dólar\n\nEl dólar se ubicó al cierre en 16.9774 pesos, una apreciación de 0.41% para la moneda nacional respecto a la jornada previa, según datos de Banxico.\nPeso recupera terreno y …",
-      "Url": "https://www.forbes.com.mx/peso-recupera-terreno-y-vuelve-al-nivel-de-las-16-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2021/01/dolar6.jpg",
-      "PublishedAt": "2024-04-17T22:52:20Z",
-      "Content": "El peso se apreció este miércoles recuperando parte de las fuertes pérdidas de la jornada anterior, ante un debilitamiento global del dólar debido a un mejor ambiente para los activos de riesgo, mien… [+1528 chars]"
     }
   ]
 }
