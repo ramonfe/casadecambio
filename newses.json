@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Tipo de cambio se fortalece a 17 pesos por dólar",
+      "Description": "La debilidad del dólar a nivel mundial apoyó al tipo de cambio en México a retomar el terreno positivo en el inicio de la semana.",
+      "Url": "https://www.jornada.com.mx/2024/04/30/economia/023n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-04-30T09:13:17Z",
+      "Content": "Periódico La JornadaMartes 30 de abril de 2024, p. 23\r\nLa debilidad del dólar a nivel mundial apoyó al tipo de cambio en México a retomar el terreno positivo en el inicio de la semana.\r\nEl peso mexic… [+1823 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/JS1hQ5WNIzSPM6axry3EhxLMO9s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PTYVOCOWT5E57CH4Q4M3Q67BQU.jpg",
       "PublishedAt": "2024-04-17T16:25:53Z",
       "Content": "El peso mexicano presenta correcciones y vuelve a colocarse en terreno de ganancias este miércoles contra el dólar, luego de haber registrado una fuerte sesión de retrocesos por la aversión al riesgo… [+1477 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 17 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 17 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-17-de-abril-nid17042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/actualizacion-financiera-la-cotizacion-del-dolar-5GLH5X4LFJHK7GPWUDWLWIA6DE.jpg?auth=3e604c42f60d9f0524cb6c9deaff69a6944665a4ee33b9695330a79377ae59e3&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-17T15:37:58Z",
-      "Content": "Este miércoles 17 de abril, el precio del dólar en México es de $17,025 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de … [+2332 chars]"
     }
   ]
 }
