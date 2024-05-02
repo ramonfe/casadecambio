@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se sabe la de chambear’: Avanza frente al dólar y cotiza en 17.06 unidades este miércoles",
+      "Description": "La moneda mexicana inicia sus negociaciones de este miércoles 1 de mayo ganando terreno frente al dólar; así cotiza este día.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/01/peso-dolar-precio-hoy-1-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/2eOjfRS_HkfU7QMwebc8IWVV8-o=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DTFLLWFPOFGLZE5EMZ3MVGUSRU.jpg",
+      "PublishedAt": "2024-05-01T15:33:19Z",
+      "Content": "La moneda mexicana inicia sus negociaciones de este miércoles 1 de mayo ganando terreno frente al dólar, a pesar de que los operadores estarán atentos a la decisión de política monetaria por parte de… [+1488 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 1° de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este feriado del miércoles 1° de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-1-de-mayo-nid01052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-01T15:21:54Z",
+      "Content": "Este miércoles 1° de mayo, el precio del dólar en México es de $17,0243, de acuerdo con el Diario Oficial de la Federación (DOF), sin embargo, es importante recordar que al ser un día feriado no hay … [+2055 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-19-de-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-19T15:19:49Z",
       "Content": "Este viernes 19 de abril, el precio del dólar en México es de $17,11 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+1994 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede y vuelve al nivel de las 17 unidades por dólar",
-      "Description": "Forbes México.\n Peso retrocede y vuelve al nivel de las 17 unidades por dólar\n\nEl dólar se vendió en 17.0566 pesos, una pérdida de 0.47% para la moneda nacional respecto a la sesión previa, según datos de Banxico.\nPeso retrocede y vuelve al nivel de las 17 un…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-y-vuelve-al-nivel-de-las-17-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/01/ACH9227.webp",
-      "PublishedAt": "2024-04-18T23:05:52Z",
-      "Content": "El peso se depreció este jueves luego de la publicación de cifras del mercado laboral de Estados Unidos que respaldaron crecientes apuestas a que la Reserva Federal (Fed) podría mantener las tasas de… [+2602 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘no se cayó, se deslizó' vs. el dólar: Se cotiza en las 17.12 unidades",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/18/peso-dolar-precio-hoy-18-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/0tMDuDbA3oD1KgJlj2lzwELE7Cg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JMZQWXKULFAOZI5LTYL3LRG6X4.jpg",
-      "PublishedAt": "2024-04-18T17:45:28Z",
-      "Content": "El peso mexicano sigue con sus ajustes frente al dólar y cae, a la par que los operadores descuentan dan por hecho que la Reserva Federal tardará más de lo esperado en comenzar con su ciclo de recort… [+1533 chars]"
     }
   ]
 }
