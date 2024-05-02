@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Dollar Tree: 10 Best New Arrivals For Your Money in May",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ff856274-deab-4eaa-a86b-a90c2451fd21",
+      "UrlToImage": null,
+      "PublishedAt": "2024-05-01T17:14:15Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-overdraft-fee.jpg",
       "PublishedAt": "2024-04-12T23:04:19Z",
       "Content": "A billion-dollar bank in the US is reportedly facing a potential class-action lawsuit for the second time in about three years over allegedly hammering customers with “crippling” overdraft fees.\r\nCus… [+1973 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Stocks tumble, dollar firms amid geopolitical risk, mixed central bank views",
-      "Description": "(marketscreener.com) \n \n \n NEW YORK/LONDON, April 12 -\n U.S. stocks sold off sharply on Friday while the dollar\njumped as investors grappled with rising geopolitical tensions\nand persistent inflation that could lead to diverging monetary\npolicy between the U.…",
-      "Url": "https://www.marketscreener.com/quote/commodity/WTI-2355639/news/Stocks-tumble-dollar-firms-amid-geopolitical-risk-mixed-central-bank-views-46426907/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2016-11/2016-11-23T211715Z_1_LYNXMPECAM1G5_RTROPTP_2_USA.JPG",
-      "PublishedAt": "2024-04-12T20:57:08Z",
-      "Content": "(New throughout, updates prices as of 2015 GMT)\r\nNEW YORK/LONDON, April 12 (Reuters) -\r\nU.S. stocks sold off sharply on Friday while the dollar\r\njumped as investors grappled with rising geopolitical … [+3284 chars]"
     }
   ]
 }
