@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza tras decisión de tasas de la Fed; cotiza debajo de 17 unidades por dólar",
+      "Description": "Forbes México.\n Peso avanza tras decisión de tasas de la Fed; cotiza debajo de 17 unidades por dólar\n\nEl peso cotizaba en 16.91 unidades por dólar, con lo que la divisa local mostraba una ganancia de 0.42%.\nPeso avanza tras decisión de tasas de la Fed; cotiza…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-tras-decision-de-tasas-de-la-fed-cotiza-debajo-de-17-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/MG_7308.jpg",
+      "PublishedAt": "2024-05-02T14:50:43Z",
+      "Content": "El peso avanzaba este jueves, extendiendo las notables ganancias frente al dólar estadounidense, después de que en la sesión de ayer, la moneda nacional se apreciara 0.88% tras la decisión de polític… [+1197 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-central-MAAU7GHWXNATPAF2OMZSHZRPQY.jpg?auth=322e580865e921d21fc70e49aa9345a0e0ed5a55a06bc0a84a42db2836023e8a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-19T22:09:11Z",
       "Content": "El Banco Central (BCRA) cerró hoy sus intervenciones sobre la plaza cambiaria oficial con saldo neutro por primera vez enla era Milei. Es decir, aunque presumiblemente compró y vendió reservas, el sa… [+4937 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 19 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 19 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-19-de-abril-nid19042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-19-de-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-19T15:19:49Z",
-      "Content": "Este viernes 19 de abril, el precio del dólar en México es de $17,11 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+1994 chars]"
     }
   ]
 }
