@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "New Zealand Herald"
+      },
+      "Author": "Tamsyn Parker",
+      "Title": "Stock Takes: Sky TV chair’s million-dollar share buy-up, Craigs’ bumper profit, watch on bank forecasts",
+      "Description": "And the food still in demand from financially strained Kiwis.",
+      "Url": "https://www.nzherald.co.nz/business/stock-takes-sky-tv-chairs-million-dollar-share-buy-up-craigs-bumper-profit-and-watch-on-bank-forecasts/IOBWZUI6NJDG7ETLKRFW2YUXGY/",
+      "UrlToImage": "https://www.nzherald.co.nz/resizer/v2/A6BXOXTQXEDC6BGA32LPS3FEFE.jpg?auth=b4ec4c3a02dd015b0f81b43099f97bd690587f754313b2d0dfa21e09bd9b4c1b&width=1200&height=675&quality=70&smart=true",
+      "PublishedAt": "2024-05-02T17:00:00Z",
+      "Content": "Sales of KFC and Pizza Hut remain strong in New Zealand. Photo / NZMEConsumers are under pressure from the cost-of-living crisis but it seems fast-food operator Restaurant Brands is still seeing stro… [+7966 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/jpmorgan-dollar-banks.jpg",
       "PublishedAt": "2024-04-13T16:04:54Z",
       "Content": "JPMorgan Chase is launching a new business that will allow marketers and advertisers to target customers based on their spending data.\r\nTo do that, the banking giant will be providing companies with … [+1575 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Billion-Dollar Bank Accused of Charging ‘Crippling’ Overdraft Fees As Customers Launch $5,000,000 Lawsuit: Report",
-      "Description": "A billion-dollar bank in the US is reportedly facing a potential class-action lawsuit for the second time in about three years over allegedly hammering customers with “crippling” overdraft fees. Customers LaNita Criswell and LaSheena Neal say Frost Bank’s his…",
-      "Url": "https://dailyhodl.com/2024/04/12/billion-dollar-bank-accused-of-charging-crippling-overdraft-fees-as-customers-launch-5000000-lawsuit-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-overdraft-fee.jpg",
-      "PublishedAt": "2024-04-12T23:04:19Z",
-      "Content": "A billion-dollar bank in the US is reportedly facing a potential class-action lawsuit for the second time in about three years over allegedly hammering customers with “crippling” overdraft fees.\r\nCus… [+1973 chars]"
     }
   ]
 }
