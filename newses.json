@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 2 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este feriado del jueves 2 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-2-de-mayo-nid02052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-jueves-2-de-mayo-6VCLWHEYGNALHGAHU4GSMWONZY.jpg?auth=af933ed446555bf30bee73320684510f100fbcd787f63b7b52d86a29ef148088&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-02T15:53:36Z",
+      "Content": "Este jueves 2 de mayo, el precio del dólar en México es de $17,0958, de acuerdo con el Diario Oficial de la Federación (DOF), sin embargo, es importante recordar que al ser un día feriado no hay asig… [+2000 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-blue-hoy-a-cuanto-cotiza-el-jueves-1-de-LPX7L6T7OVAQFGTEZTUMW3JBEU.jpg?auth=33f919a80a8380bebf7ab2416fd90f5afcafe6817d7c6b12d27945c279f9a0e1&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-22T14:38:23Z",
       "Content": "Este lunes 22 de abril, el precio del dólar en México es de $17,21 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un pr… [+2606 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central cerró sus intervenciones sobre el mercado de cambio con saldo neutro por primera vez en la era Milei",
-      "Description": "Aunque presumiblemente compró y vendió reservas, el saldo neto de la rueda le dio cero, o muy cerca de cero, en una jornada en la que se notó un aumento de la demanda",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-cerro-sus-intervenciones-sobre-el-mercado-de-cambio-con-saldo-neutro-por-nid19042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-central-MAAU7GHWXNATPAF2OMZSHZRPQY.jpg?auth=322e580865e921d21fc70e49aa9345a0e0ed5a55a06bc0a84a42db2836023e8a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-19T22:09:11Z",
-      "Content": "El Banco Central (BCRA) cerró hoy sus intervenciones sobre la plaza cambiaria oficial con saldo neutro por primera vez enla era Milei. Es decir, aunque presumiblemente compró y vendió reservas, el sa… [+4937 chars]"
     }
   ]
 }
