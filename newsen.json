@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "INDIA RUPEE-Rupee climbs on broad interbank dollar offers, dip in US yields",
+      "Description": "(marketscreener.com) The Indian rupee rose on\nFriday aided by broad-based offers to sell dollars by local and\nforeign banks and a dip in U.S. bond yields.\n The rupee was at 83.3450 against the U.S. dollar as\nof 10:25 a.m. IST, up 0.1% from its previous close …",
+      "Url": "https://www.marketscreener.com/quote/currency/EURO-US-DOLLAR-EUR-USD-4591/news/INDIA-RUPEE-Rupee-climbs-on-broad-interbank-dollar-offers-dip-in-US-yields-46613490/",
+      "UrlToImage": "https://www.marketscreener.com/images/reuters/2016-06-20T075720Z_1_LYNXNPEC5J0FF_RTROPTP_2_GLOBAL-FOREX.JPG",
+      "PublishedAt": "2024-05-03T04:58:18Z",
+      "Content": "MUMBAI, May 3 (Reuters) - The Indian rupee rose on\r\nFriday aided by broad-based offers to sell dollars by local and\r\nforeign banks and a dip in U.S. bond yields.\r\nThe rupee was at 83.3450 against the… [+1517 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-hand-cash.jpg",
       "PublishedAt": "2024-04-14T18:38:00Z",
       "Content": "Over $1.4 million in settlement cash is about to be handed out to clients at a large US bank after a data breach compromised their privacy and security.\r\nWebster Bank and several firms linked with it… [+1396 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "JPMorgan Chase To Sell Financial Data of 80,000,000 Clients As Trillion-Dollar Bank Launches Media Platform",
-      "Description": "JPMorgan Chase is launching a new business that will allow marketers and advertisers to target customers based on their spending data. To do that, the banking giant will be providing companies with the data it collects from its 80 million clients. The new ven…",
-      "Url": "https://dailyhodl.com/2024/04/13/jpmorgan-chase-to-sell-financial-data-of-80000000-clients-as-trillion-dollar-bank-launches-media-platform/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/jpmorgan-dollar-banks.jpg",
-      "PublishedAt": "2024-04-13T16:04:54Z",
-      "Content": "JPMorgan Chase is launching a new business that will allow marketers and advertisers to target customers based on their spending data.\r\nTo do that, the banking giant will be providing companies with … [+1575 chars]"
     }
   ]
 }
