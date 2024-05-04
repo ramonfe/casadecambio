@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 3 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 3 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-3-de-mayo-nid03052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/cotizacion-del-dolar-en-mexico-hoy-viernes-3-de-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-03T16:13:12Z",
+      "Content": "Este viernes 3 de mayo, el precio del dólar en México es de $16,9393, de acuerdo con el Diario Oficial de la Federación (DOF); mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2369 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-23-de-H4ZCNT6FTJEPLIP2D244QLIAB4.jpg?auth=bc7f3bac1677eb01d9cac9e54b32f775455822331be1de3d545d597e47f5e11e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-23T15:44:42Z",
       "Content": "Este martes 23 de abril, el precio del dólar en México es de $17,1243 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2050 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central retomó sus fuertes compras y podría abrir el Bopreal a empresas con dividendos atrapados en el cepo",
-      "Description": "Fue en una jornada que mostró un fuerte repunte de la oferta pese a que volvió a pisar al dólar oficial",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-retomo-sus-fuertes-compras-y-podria-abrir-el-bopreal-a-empresas-con-nid22042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-retomo-hoy-las-fuertes-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-22T20:59:12Z",
-      "Content": "El sólido rebote que mostró el volumen operado hoy en el mercado cambiario oficial (creció 80,25% respecto del registrado el viernes pasado) generó las condiciones para que el Banco Central (BCRA) re… [+4424 chars]"
     }
   ]
 }
