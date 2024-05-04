@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así es la extraordinaria moneda de un centavo de dólar que puede valer más de US$400 mil: cómo identificarla",
+      "Description": "Con el rostro de Abraham Lincoln en el anverso, se convirtió en un objeto valioso debido a un particular detalle de fabricación; se trata de una de las piezas más buscadas",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-la-extraordinaria-moneda-de-un-centavo-de-dolar-que-puede-valer-mas-de-us400-mil-como-nid03052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-acunada-en-1944-encabeza-la-lista-de-MGY7G5KVARAZXK7SXT77DUADJA.jpg?auth=bb6c6dec331833724559ff4c13ada1335a3f482e8d17eaf84fe77205f8d40476&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-03T19:05:40Z",
+      "Content": "La numismática, que es el estudio y colección de monedas y billetes, está en auge últimamente debido a la atracción tanto de aficionados como de expertos en la búsqueda de rarezas y tesoros. En este … [+2854 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/HZh6-KVm-splpC4odv60d7-8aL4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UDRYP47HHNDABL3GUHKEANGO4A.jpg",
       "PublishedAt": "2024-04-23T16:12:28Z",
       "Content": "El peso mexicano inicia la sesión de este martes en el piso de las 17 unidades contra el dólar, favorecido por un aparente debilitamiento de la economía estadounidense, ya que tanto el sector manufac… [+1686 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 23 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 23 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-23-de-abril-nid23042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-23-de-H4ZCNT6FTJEPLIP2D244QLIAB4.jpg?auth=bc7f3bac1677eb01d9cac9e54b32f775455822331be1de3d545d597e47f5e11e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-23T15:44:42Z",
-      "Content": "Este martes 23 de abril, el precio del dólar en México es de $17,1243 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2050 chars]"
     }
   ]
 }
