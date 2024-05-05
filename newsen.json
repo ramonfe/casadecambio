@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "A boy gave his only dollar to someone he mistook as homeless. In exchange, the businessman rewarded him for his generosity. - CBS News",
+      "Description": "A boy gave his only dollar to someone he mistook as homeless. In exchange, the businessman rewarded him for his generosity.CBS News...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173722802",
+      "UrlToImage": null,
+      "PublishedAt": "2024-05-04T01:53:50Z",
+      "Content": "\"Kill the Wabbit, Kill the Wabbit, Kill the Wabbit!\"\r\n-- Looney Tunes, \"What's Opera Doc?\" (1957, Chuck Jones)"
+    },
     {
       "Source": {
         "Id": "cbs-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://bitcoinist.com/wp-content/uploads/2024/04/a_a3a6ee.webp",
       "PublishedAt": "2024-04-15T13:00:39Z",
       "Content": "Cryptocurrency investigator ZachXBT has unearthed a connection between a notorious crew involved in fraudulent activities and the emerging cryptocurrency project known as Leaper Finance. This discove… [+3195 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Japan's finance minister watches FX moves closely after dollar surges",
-      "Description": "(marketscreener.com) Japanese Finance Minister\nShunichi Suzuki said on Monday he was watching currency moves\nclosely, repeating that Tokyo is \"fully prepared\" to act after\nthe dollar surged to a fresh 34-year high against the yen in\nAsia on Monday.\n The dolla…",
-      "Url": "https://www.marketscreener.com/news/latest/Japan-s-finance-minister-watches-FX-moves-closely-after-dollar-surges-46433488/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2024-04-15T09:23:34Z",
-      "Content": "TOKYO, April 15 (Reuters) - Japanese Finance Minister\r\nShunichi Suzuki said on Monday he was watching currency moves\r\nclosely, repeating that Tokyo is \"fully prepared\" to act after\r\nthe dollar surged… [+1254 chars]"
     }
   ]
 }
