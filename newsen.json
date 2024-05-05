@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 51,
+  "TotalResults": 52,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": "Steve Hartman",
+      "Title": "A boy gave away his only dollar. In exchange, he was rewarded for his generosity.",
+      "Description": "Nine-year-old Kelvin Ellis Jr. had just received the dollar for good grades, and it was the only money he had to his name.",
+      "Url": "https://www.cbsnews.com/news/boy-gets-shopping-spree-after-giving-away-one-dollar-kelvin-ellis-matt-busbice-louisiana/",
+      "UrlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/04/30b8d018-729e-48ca-9f05-dc54af657cc5/thumbnail/1200x630/3f57855a9b1c339fa321b32421b678f4/0503-en-hartman2.jpg?v=1d6c78a71b7b6252b543a329b3a5744d",
+      "PublishedAt": "2024-05-04T00:50:15Z",
+      "Content": "Baton Rouge, Louisiana — Matt Busbice and his partners have built and sold several outdoor companies worth hundreds of millions of dollars. But Busbice, the 42-year-old owner of sporting goods store … [+2115 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
       "PublishedAt": "2024-04-15T09:23:34Z",
       "Content": "TOKYO, April 15 (Reuters) - Japanese Finance Minister\r\nShunichi Suzuki said on Monday he was watching currency moves\r\nclosely, repeating that Tokyo is \"fully prepared\" to act after\r\nthe dollar surged… [+1254 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "$1,430,207 To Be Handed Out After Billion-Dollar Bank Suffers Data Breach – Here’s Who Qualifies As Claims Deadline Approaches",
-      "Description": "Over $1.4 million in settlement cash is about to be handed out to clients at a large US bank after a data breach compromised their privacy and security. Webster Bank and several firms linked with it were accused of failing to protect the personally identifiab…",
-      "Url": "https://dailyhodl.com/2024/04/14/1430207-to-be-handed-out-after-billion-dollar-bank-suffers-data-breach-heres-who-qualifies-as-claims-submission-deadline-approaches/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-hand-cash.jpg",
-      "PublishedAt": "2024-04-14T18:38:00Z",
-      "Content": "Over $1.4 million in settlement cash is about to be handed out to clients at a large US bank after a data breach compromised their privacy and security.\r\nWebster Bank and several firms linked with it… [+1396 chars]"
     }
   ]
 }
