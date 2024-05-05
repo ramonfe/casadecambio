@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+      "Title": "‘The Dollar Will Be Worth Nothing’—Elon Musk Issues Stark Fed Warning As ‘Stealth Money Printing’ Grinds Bitcoin, Ethereum And XRP Price Higher",
+      "Description": "Tesla billionaire Elon Musk has warned the U.S. dollar could be heading for collapse as \"steal money printing\" could push the price of bitcoin, ethereum, XRP and crypto higher...",
+      "Url": "https://www.forbes.com/sites/digital-assets/2024/05/04/the-dollar-will-be-worth-nothing-elon-musk-issues-stark-fed-warning-as-stealth-money-printing-grinds-bitcoin-ethereum-and-xrp-price-higher/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/62dd5b26d6efed46c0697810/0x0.jpg?format=jpg&crop=4826,3230,x180,y150,safe&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2024-05-04T11:15:08Z",
+      "Content": "BitcoinBitcoin\r\n has bounced back following a \"perfect storm\" this week, helping by a shock BlackRock bombshell that could trigger bitcoin price chaos.\r\nSubscribe now to Forbes' CryptoAsset &amp; Blo… [+3812 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/canadian-dollar-0415-ph.jpg",
       "PublishedAt": "2024-04-15T13:37:39Z",
       "Content": "This year has not been kind to the loonie, and it's about to get worse\r\nThe Canadian dollar could sink as low as 70 US cents this year if the Bank of Canada cuts interest rates more than the Fed, say… [+7574 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bitcoinist"
-      },
-      "Author": "Christian Encila",
-      "Title": "Leaper Finance Exposed: Sleuth Uncovers Alleged Multi-Million Dollar Crypto Scam",
-      "Description": "Cryptocurrency investigator ZachXBT has unearthed a connection between a notorious crew involved in fraudulent activities and the emerging cryptocurrency project known as Leaper Finance. This discovery comes amidst growing concerns over the security and integ…",
-      "Url": "https://bitcoinist.com/leaper-finance-sleuth-uncovers-alleged-anomaly/",
-      "UrlToImage": "https://bitcoinist.com/wp-content/uploads/2024/04/a_a3a6ee.webp",
-      "PublishedAt": "2024-04-15T13:00:39Z",
-      "Content": "Cryptocurrency investigator ZachXBT has unearthed a connection between a notorious crew involved in fraudulent activities and the emerging cryptocurrency project known as Leaper Finance. This discove… [+3195 chars]"
     }
   ]
 }
