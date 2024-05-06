@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Employee at Billion-Dollar Bank Arrested, Accused of Stealing $44,000 From Account of Deceased Customer",
+      "Description": "An employee at a billion-dollar bank has reportedly been arrested and accused of stealing money from the account of a deceased customer. Latia Wynn of Wilmington, Delaware, was arrested by police for allegedly withdrawing $44,000 from a deceased customer’s ac…",
+      "Url": "https://dailyhodl.com/2024/05/05/employee-at-billion-dollar-bank-arrested-accused-of-stealing-44000-from-account-of-deceased-customer/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/bank-employee-.jpg",
+      "PublishedAt": "2024-05-05T17:04:15Z",
+      "Content": "An employee at a billion-dollar bank has reportedly been arrested and accused of stealing money from the account of a deceased customer.\r\nLatia Wynn of Wilmington, Delaware, was arrested by police fo… [+1749 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://d.ibtimes.com/en/full/4521914/pakistans-finance-minister-muhammad-aurangzeb-speaks-during-interview-afp-embassy-pakistan.jpg",
       "PublishedAt": "2024-04-16T02:21:10Z",
       "Content": "Pakistan has initiated discussions with the IMF over a new multi-billion dollar loan agreement to support its economic reform program, its new finance minister told AFP on Monday.\r\nThe South Asian na… [+4647 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Digital Journal"
-      },
-      "Author": "AFP",
-      "Title": "Pakistan and IMF discussing new multi-billion-dollar program, finance minister says",
-      "Description": "Pakistan has initiated discussions with the IMF over a new multi-billion dollar loan agreement to support its economic reform program, its new finance minister told AFP on Monday.  The South Asian nation is nearing the end of a nine-month, $3 billion loan pro…",
-      "Url": "https://www.digitaljournal.com/world/pakistan-and-imf-discussing-new-multi-billion-dollar-program-finance-minister-says/article",
-      "UrlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/04/42bfe3b4963ccb99d6e4382d436d4a70e01cffc1.jpg",
-      "PublishedAt": "2024-04-16T02:19:59Z",
-      "Content": "Pakistan's Finance Minister Muhammad Aurangzeb speaks during an interview with AFP at the Embassy of Pakistan in Washington, DC on April 15, 2024. Pakistan has initiated discussions with the IMF over… [+5060 chars]"
     }
   ]
 }
