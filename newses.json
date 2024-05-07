@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 6 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 6 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-6-de-mayo-nid06052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-minuto-a-minuto-de-la-cotizacion-del-dolar-en-DN244MAFKBE7ZJEVUAZQ37NJ4U.jpg?auth=b95a6f8fee21151062e2571e409e880b2dfd00bd989d7402d39557dd34b87d7e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-06T14:40:44Z",
+      "Content": "Este lunes 6 de mayo, el precio del dólar en México es de $17,0243, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un p… [+2220 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2024-04-24T15:43:44Z",
       "Content": "El peso retrocedía este miércoles en la apertura borrando parte de las ganancias logradas en la sesión previa y rompiendo nuevamente el techo de las 17.00 unidades por dólar ante el fortalecimiento d… [+1701 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¿Qué mosca le picó al peso? Baja y se cotiza en las 17 unidades vs. el dólar",
-      "Description": "El precio del dólar en los bancos sigue a la baja: De acuerdo con datos de Citibanamex, se cotiza en los 17.41 pesos por cada uno.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/04/23/peso-dolar-precio-hoy-23-de-abril-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/HZh6-KVm-splpC4odv60d7-8aL4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UDRYP47HHNDABL3GUHKEANGO4A.jpg",
-      "PublishedAt": "2024-04-23T16:12:28Z",
-      "Content": "El peso mexicano inicia la sesión de este martes en el piso de las 17 unidades contra el dólar, favorecido por un aparente debilitamiento de la economía estadounidense, ya que tanto el sector manufac… [+1686 chars]"
     }
   ]
 }
