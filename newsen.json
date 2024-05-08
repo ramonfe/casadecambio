@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 51,
+  "TotalResults": 52,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "India's Muthoot Finance gives initial guidance for dollar bonds, bankers say",
+      "Description": "(marketscreener.com) India's Muthoot Finance is planning to raise funds through U.S. dollar-denominated bonds maturing in three years and nine months and has provided initial guidance for a coupon of around 7.375%, two bankers said on Tuesday.\n These Regulati…",
+      "Url": "https://www.marketscreener.com/quote/stock/MUTHOOT-FINANCE-LIMITED-9743895/news/India-s-Muthoot-Finance-gives-initial-guidance-for-dollar-bonds-bankers-say-46642818/",
+      "UrlToImage": "https://www.marketscreener.com/images/reuters/2023-11/2023-11-09T132225Z_1_LYNXMPEJA80IF_RTROPTP_3_INDIA-GOLD-LOANS.JPG",
+      "PublishedAt": "2024-05-07T04:05:08Z",
+      "Content": "MUMBAI (Reuters) - India's Muthoot Finance is planning to raise funds through U.S. dollar-denominated bonds maturing in three years and nine months and has provided initial guidance for a coupon of a… [+1233 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-109331965,width-1200,height-630,imgsize-168082,overlay-economictimes/photo.jpg",
       "PublishedAt": "2024-04-16T03:57:29Z",
       "Content": "Pakistan has initiated discussions with the IMF over a new multi-billion dollar loan agreement to support its economic reform program, its new finance minister told AFP on Monday. The South Asian nat… [+4501 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "China Loosens Grip on Yuan by Weakening Fix Amid Dollar Strength",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dfe5f6b4-07d8-462e-b9a7-2b037ed94357",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-16T02:40:17Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
