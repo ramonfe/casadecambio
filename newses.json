@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 7 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 7 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-7-de-mayo-nid07052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-el-mercado-B3N5UA5JYNCD7DTTHN4G3RCLAA.JPG?auth=167ffd8f957fb24b2fc94d6ac3e89dc32c8f46fd42e4f5a8168eade3d42971c4&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-07T14:30:27Z",
+      "Content": "Este martes 7 de mayo, el precio del dólar en México es de $16,8647, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2005 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-24-de-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-24T17:44:22Z",
       "Content": "Este miércoles 24 de abril, el precio del dólar en México es de $16,995 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de … [+2413 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Dólar retoma avances; presiona al peso y al yen",
-      "Description": "El peso se depreció hasta 1% en cruces globales y el yen japonés cayó a su nivel más bajo en 34 años por fortaleza generalizada del dólar.",
-      "Url": "https://www.reforma.com/dolar-retoma-avances-presiona-al-peso-y-al-yen/ar2796459",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/707/5706718.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-24T17:04:08Z",
-      "Content": "02 MIN 00 SEG\r\nGrupo REFORMA\r\nCd. de México (24 abril 2024) .-10:37 hrs"
     }
   ]
 }
