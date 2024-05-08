@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: comienza a repuntar la oferta y el Banco Central hizo la mayor compra de reservas del mes",
+      "Description": "Se quedó con US$219 millones, aprovechando la mejora que tuvo el volumen de negocios, que rebotó 82%",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-comienza-a-repuntar-la-oferta-y-el-banco-central-hizo-la-mayor-compra-de-reservas-del-mes-nid07052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-que-volco-al-mercado-usdollar-316-EQK24BXHZ5AT3DZP5BC4GRXYDM.jpg?auth=11dd4c31e1f2b4219f6dfb1203ea8315341f389f325f1c418eafdcc56c666801&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-07T21:57:09Z",
+      "Content": "El Banco Central (BCRA) realizó hoy la mayor compra de reservas en lo que va del mes y la más importante de los últimos 15 días, al cerrar sus intervenciones sobre el mercado cambiario oficial adquir… [+3481 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-mayorista-avanzo-8percent-en-lo-A5V65LWNZVF2REXG2M5XRXI77I.JPG?auth=1ae5d145152ce840f4fe6d2e5c2042b68defe0d7cb2de78d6660b9ba467d66e0&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-25T14:39:16Z",
       "Content": "El peso argentino arrancó el año como la moneda que más se revalorizó frente al dólar, si se toma en cuenta la evolución del tipo de cambio paralelo. Si bien en los primeros meses del año la inflació… [+1906 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso pierde tras fortalecimiento del dólar; advierten volatilidad por fondo de pensiones",
-      "Description": "Forbes México.\n Peso pierde tras fortalecimiento del dólar; advierten volatilidad por fondo de pensiones\n\nLa reforma, pendiente de aprobación en el Senado, constituye un riesgo para los recursos de los trabajadores y para las finanzas públicas, según BASE.\nPe…",
-      "Url": "https://www.forbes.com.mx/peso-pierde-tras-fortalecimiento-del-dolar-advierten-volatilidad-por-fondo-de-pensiones/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
-      "PublishedAt": "2024-04-24T23:00:31Z",
-      "Content": "El peso retrocedió este miércoles frente a un fortalecimiento generalizado del dólar.\r\nEl dólar se ubicó al cierre en 17.07 pesos, una depreciación de 0.64% para la moneda mexicana, de acuerdo con in… [+1189 chars]"
     }
   ]
 }
