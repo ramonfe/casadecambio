@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así es la moneda de dólar que puede valer más de US$200 mil, pero hay que tener cuidado con un detalle",
+      "Description": "Un aficionado de la numismática explicó las particularidades que se deben considerar para diferenciar una réplica de un modelo real; en enero de este año se subastó un ejemplar de la pieza por US$246 mil",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-la-moneda-de-dolar-que-puede-valer-mas-de-us200-mil-pero-hay-que-tener-cuidado-con-un-detalle-nid07052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/un-especialista-explico-los-detalles-a-los-que-IBGK3N6LVFCDNFU2LUFKHQSMVQ.png?auth=486650024e09ff23ae36b999b42c1eb2e2349ea66f5a6727b00973895b9294f9&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-07T15:52:29Z",
+      "Content": "El mundo de la numismática atrae a cada vez más personas, tanto profesionales como aficionados. En ese contexto, cobró relevancia una moneda de plata del siglo XVII que tiene un valor nominal de solo… [+2802 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-sigue-recomponiendo-su-QOGWUSKQMZH7LOI766JIEQ3H5A.jpg?auth=9dcfebfd1d9ca6609fa888e647283838d9b389070eca188d913b732721fdf44c&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-24T20:12:30Z",
       "Content": "El Banco Central (BCRA) cerró su actividad cambiaria del día incorporando a sus reservas otros US$109 millones por sus intervenciones sobre el mercado cambiario oficial, un ingreso que impulsó a su v… [+3018 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 24 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 24 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-24-de-abril-nid24042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-24-de-YHX2UUOB5BG3DJLQDANKPFTKQU.jpg?auth=e6ca0fa53e95d0c8690aa1e2e6af4d5d6e86aaa99b5d080de43a2dc4158213fa&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-24T17:44:22Z",
-      "Content": "Este miércoles 24 de abril, el precio del dólar en México es de $16,995 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de … [+2413 chars]"
     }
   ]
 }

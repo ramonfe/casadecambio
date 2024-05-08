@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Nearly S$650,000 spent to maintain, upkeep seized assets in billion-dollar money laundering case",
+      "Description": "These expenses are covered by the forfeited cash and the proceeds of sale of the forfeited non-cash assets, says Home Affairs and Law Minister K Shanmugam.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-seized-assets-cars-luxury-bags-watches-wine-liquor-bearbricks-properties-4319146",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--yRaUgYxQ--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/08/16/GCB raid comp (1)_0.jpg?itok=G3o1MJLI",
+      "PublishedAt": "2024-05-07T15:40:38Z",
+      "Content": "SINGAPORE: The police have spent about S$646,282 (US$477,758) so far to maintain billions of dollars of assets seized or frozen in relation to Singapores largest money laundering case.\r\nOver 150 prop… [+1465 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-16T09:12:00Z",
       "Content": "Hanoi (VNS/VNA) - The US dollar has continued to\r\nstrengthen against the Vietnamese dong (VND) as the exchange rate hit the ceiling\r\nlimit across commercial banks on April 16 morning.At noon, Vietcom… [+1182 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Third man jailed for buying luxury apartment with illegal proceeds",
-      "Description": "Wang Baosen is the third to be sentenced for his role in Singapore's largest money-laundering probe, following Su Wenqiang and Su Haijin.",
-      "Url": "https://www.channelnewsasia.com/singapore/wang-baosen-billion-dollar-money-laundering-jailed-third-man-4268751",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--ucL4SD2y--/c_crop,h_679,w_1208,x_25,y_1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/16/wang_baosen.png?itok=vzCKpUdd",
-      "PublishedAt": "2024-04-16T07:25:00Z",
-      "Content": "SINGAPORE: A third man linked to the S$3 billion money-laundering probe that led to the arrests of 10 people was sentenced to 13 months' jail on Tuesday (Apr 16).\r\nWang Baosen, a 32-year-old Chinese … [+2485 chars]"
     }
   ]
 }
