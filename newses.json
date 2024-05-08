@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Por segundo día seguido avanza el peso frente al dólar",
+      "Description": "El optimismo por los recortes de las tasas de interés en Estados Unidos tras el informe de nóminas no agrícolas de abril, que sugiere una moderación del empleo, provocó que el dólar perdiera fortaleza a escala mundial y se apreciaran las monedas emergentes, c…",
+      "Url": "https://www.jornada.com.mx/2024/05/07/economia/016n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-05-07T08:30:01Z",
+      "Content": "Periódico La JornadaMartes 7 de mayo de 2024, p. 16\r\nEl optimismo por los recortes de las tasas de interés en Estados Unidos tras el informe de nóminas no agrícolas de abril, que sugiere una moderaci… [+2292 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/707/5706718.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-24T17:04:08Z",
       "Content": "02 MIN 00 SEG\r\nGrupo REFORMA\r\nCd. de México (24 abril 2024) .-10:37 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante el fortalecimiento global del dólar",
-      "Description": "Forbes México.\n Peso retrocede ante el fortalecimiento global del dólar\n\nEl peso cotizaba en 17.06 pesos por dólar, con una pérdida de 0.74 por ciento frente a las 16.93 unidades del precio de referencia de Reuters del martes.\nPeso retrocede ante el fortaleci…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-el-fortalecimiento-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-04-24T15:43:44Z",
-      "Content": "El peso retrocedía este miércoles en la apertura borrando parte de las ganancias logradas en la sesión previa y rompiendo nuevamente el techo de las 17.00 unidades por dólar ante el fortalecimiento d… [+1701 chars]"
     }
   ]
 }
