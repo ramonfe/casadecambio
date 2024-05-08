@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, no vas a arruinar los planes del dólar: Se cotiza en las 16.91 unidades",
+      "Description": "Analistas de CIBanco estiman que el tipo de cambio podría llegar hasta las 16.80 unidades en las operaciones intradía.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/07/peso-dolar-precio-hoy-7-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/GhpSI9wtENAEDdBN_vPJTal3lAo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/K56HNKCENRESRPOVDNCGBKKAWA.jpg",
+      "PublishedAt": "2024-05-07T16:51:54Z",
+      "Content": "¿El peso mexicano verá interrumpida una nueva sesión de ganancias contra el dólar? El reporte de empleo en EU da espacio la expectativa de ver recortes a la tasa este año, mientras los operadores esp… [+1443 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9729.webp",
       "PublishedAt": "2024-04-24T23:00:31Z",
       "Content": "El peso retrocedió este miércoles frente a un fortalecimiento generalizado del dólar.\r\nEl dólar se ubicó al cierre en 17.07 pesos, una depreciación de 0.64% para la moneda mexicana, de acuerdo con in… [+1189 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central sigue comprando divisas y las reservas brutas superan los US$30.000 millones",
-      "Description": "Se ubican de este modo en el mayor nivel de los últimos diez meses, tras los US$109 millones que adquirió hoy",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-sigue-comprando-y-las-reservas-brutas-superan-los-us30000-millones-nid24042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-sigue-recomponiendo-su-QOGWUSKQMZH7LOI766JIEQ3H5A.jpg?auth=9dcfebfd1d9ca6609fa888e647283838d9b389070eca188d913b732721fdf44c&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-24T20:12:30Z",
-      "Content": "El Banco Central (BCRA) cerró su actividad cambiaria del día incorporando a sus reservas otros US$109 millones por sus intervenciones sobre el mercado cambiario oficial, un ingreso que impulsó a su v… [+3018 chars]"
     }
   ]
 }
