@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Bhaskar Dutta",
+      "Title": "Muthoot Finance raises $650 million through US dollar bonds",
+      "Description": "The non-banking financial company raised the funds through bonds maturing in three years and nine months at a coupon rate – or rate of interest – of 7.125%. The funds will be used for onward lending and other activities that are allowed under the Reserve Bank…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/muthoot-finance-raises-650-million-through-us-dollar-bonds/articleshow/109951203.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-109951184,width-1200,height-630,imgsize-202678,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-05-08T11:24:54Z",
+      "Content": "Muthoot Finance has raised $650 million through US dollar-denominated bonds, with global investors showing firm demand for the debt issued by the domestic gold financing heavyweight.The non-banking f… [+2011 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_acb2f6f3-12c1-46cd-a60d-141aed8c067c",
+      "UrlToImage": null,
+      "PublishedAt": "2024-05-08T09:39:02Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_559912c0-38ea-49e7-b051-2cce4c03c7a9",
+      "UrlToImage": null,
+      "PublishedAt": "2024-05-08T09:39:02Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Huileng Tan",
+      "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
+      "Description": "Not just China, but other central banks including Turkey and India are loading up on gold, amid a stronger US dollar.",
+      "Url": "https://www.businessinsider.com/dedollarization-usd-strong-china-pboc-central-banks-buy-gold-inflation-2024-5",
+      "UrlToImage": "https://i.insider.com/663b0905b4abc992e8c6c63a?width=1200&format=jpeg",
+      "PublishedAt": "2024-05-08T09:39:02Z",
+      "Content": "Robust Chinese gold buying has sent prices of the precious metal to record highs.Reuters\r\n<ul><li>China's economy is struggling, leading to a surge in gold purchases as a safe-haven asset.</li><li>Ce… [+3353 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://usrimg-full.fark.net/P/PX/fark_PXsa0KxcrQGsnSKYM2oAnqHb_p8.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1714363200&Signature=xOl9SVHI09zrqDNcRD4f0cRwlk8%3D",
       "PublishedAt": "2024-04-22T13:35:04Z",
       "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Canada Will Issue A Us-Dollar-Denominated Global Bond On April 23, Subject To Market Conditions - Finance Ministry",
-      "Description": "(marketscreener.com) \n April 22 -\n * CANADA WILL ISSUE A US-DOLLAR-DENOMINATED GLOBAL BOND ON\nAPRIL 23, SUBJECT TO MARKET CONDITIONS - FINANCE MINISTRY\nSource text for Eikon:\nFurther company coverage: [ ]\n\n https://www.marketscreener.com/news/latest/Canada-Wi…",
-      "Url": "https://www.marketscreener.com/news/latest/Canada-Will-Issue-A-Us-Dollar-Denominated-Global-Bond-On-April-23-Subject-To-Market-Conditions-F-46492238/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2024-04-22T13:24:02Z",
-      "Content": "ANALYST RECOMMENDATIONS : AMD, Cisco, Alphabet, Apple, Netflix..."
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Indonesian Finance Chief Aims to Shield Economy From Dollar Rise",
-      "Description": "The Indonesian government is working with central bank governor Perry Warjiyo to cushion the country’s economy from the rise in the US dollar, according to its finance minister.",
-      "Url": "https://financialpost.com/pmn/business-pmn/indonesian-finance-chief-aims-to-shield-economy-from-dollar-rise",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/776067469.jpg",
-      "PublishedAt": "2024-04-18T20:49:45Z",
-      "Content": "(Bloomberg) The Indonesian government is working with central bank governor Perry Warjiyo to cushion the countrys economy from the rise in the US dollar, according to its finance minister.\r\nWe work v… [+3094 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Grace Sihombing and Randy Thanthong-Knight",
-      "Title": "Indonesian Finance Chief Aims to Shield Economy From Dollar Rise",
-      "Description": "(Bloomberg) -- The Indonesian government is working with central bank governor Perry Warjiyo to cushion the country’s economy from the rise in the US dollar,...",
-      "Url": "https://finance.yahoo.com/news/indonesian-finance-chief-aims-shield-203140447.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/GImfUi5tRx2Vk2p0tYmZnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/2d72f51fa5e8b5a1bcfdedc0100fdbcd",
-      "PublishedAt": "2024-04-18T20:31:40Z",
-      "Content": "(Bloomberg) -- The Indonesian government is working with central bank governor Perry Warjiyo to cushion the countrys economy from the rise in the US dollar, according to its finance minister.\r\nMost R… [+3181 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Electronics Giant LG Debuts Dollar Bond to Finance ESG Projects",
-      "Description": "LG Electronics Inc. is selling bonds denominated in US dollars to partly help the South Korean appliance maker fund sustainable initiatives, its first such offering.",
-      "Url": "https://financialpost.com/pmn/business-pmn/electronics-giant-lg-debuts-dollar-bond-to-finance-esg-projects",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/borrowers-issuing-green-debt-at-fastest-pace-ever-barclays-.jpg",
-      "PublishedAt": "2024-04-18T14:42:30Z",
-      "Content": "(Bloomberg) LG Electronics Inc. is selling bonds denominated in US dollars to partly help the South Korean appliance maker fund sustainable initiatives, its first such offering.\r\nThe company announce… [+2343 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
