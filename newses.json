@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede ante avance global del dólar; BMV cae por segunda sesión",
+      "Description": "Forbes México.\n Peso retrocede ante avance global del dólar; BMV cae por segunda sesión\n\nEl peso cotizaba en 16.95 pesos por dólar, con un retroceso de 0.44 por ciento en su segunda jornada de pérdidas.\nPeso retrocede ante avance global del dólar; BMV cae por…",
+      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-avance-global-del-dolar-bmv-cae-por-segunda-sesion/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-1.webp",
+      "PublishedAt": "2024-05-08T14:49:09Z",
+      "Content": "El peso se depreciaba este miércoles ante un avance global del dólar mientras los inversionistas aguardan las participaciones de varios funcionarios de la Reserva Federal (Fed) estadunidense en el tr… [+1264 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-56PRKMAQTVA63LMRTA4VGTMKNM.jpg?auth=fa8cd1c73e5b8685564641572225cd4c927d67ffc99d85d1236ce5874289274d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-25T15:52:32Z",
       "Content": "Este jueves 25 de abril, el precio del dólar en México es de $17,1098 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2478 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Ranking global: en lo que va del año, el peso argentino es la moneda que más se revalorizó frente al dólar",
-      "Description": "De acuerdo con el índice de Bloomberg, el peso argentino se fortaleció un 25% frente al dólar hasta marzo, si se toma la cotización libre; es la “número uno” a nivel internacional, y refleja el escenario de calma cambiaria que celebra el Gobierno",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/ranking-global-en-lo-que-va-del-ano-el-peso-argentino-es-la-moneda-que-mas-se-revalorizo-frente-al-nid25042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-tipo-de-cambio-mayorista-avanzo-8percent-en-lo-A5V65LWNZVF2REXG2M5XRXI77I.JPG?auth=1ae5d145152ce840f4fe6d2e5c2042b68defe0d7cb2de78d6660b9ba467d66e0&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-25T14:39:16Z",
-      "Content": "El peso argentino arrancó el año como la moneda que más se revalorizó frente al dólar, si se toma en cuenta la evolución del tipo de cambio paralelo. Si bien en los primeros meses del año la inflació… [+1906 chars]"
     }
   ]
 }
