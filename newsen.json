@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a4287ec-baec-4a2a-befa-cd45e635b34a",
+      "UrlToImage": null,
+      "PublishedAt": "2024-05-08T17:39:02Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
       "PublishedAt": "2024-04-25T04:28:32Z",
       "Content": "In January, the court heard eight charges against him, including his alleged refusal to sign various statements that he made to the authorities when required to do so by a Commercial Affairs Departme… [+1358 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Bank teller gives nine reasons not to ask for 2 dollar bills. Would have had ten, but was due for her shift at Taco Bell in 26 minutes. Also how did they manage to avoid mentioning strip clubs? [Obvious]",
-      "Description": "Bank teller gives nine reasons not to ask for 2 dollar bills. Would have had ten, but was due for her shift at Taco Bell in 26 minutes. Also how did they manage to avoid mentioning strip clubs?",
-      "Url": "https://www.fark.com/comments/13229234/Bank-teller-gives-nine-reasons-not-to-ask-for-2-dollar-bills-Would-have-had-ten-but-was-due-for-her-shift-at-Taco-Bell-in-26-minutes-Also-how-did-they-manage-to-avoid-mentioning-strip-clubs",
-      "UrlToImage": "https://usrimg-full.fark.net/P/PX/fark_PXsa0KxcrQGsnSKYM2oAnqHb_p8.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1714363200&Signature=xOl9SVHI09zrqDNcRD4f0cRwlk8%3D",
-      "PublishedAt": "2024-04-22T13:35:04Z",
-      "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
     }
   ]
 }
