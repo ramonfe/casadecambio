@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se ‘acalora’ ante el dólar: Se cotiza en 16.93 unidades por comentarios de la Fed",
+      "Description": "Además del peso mexicano, entre las monedas que pierden contra el dólar están el rand sudafricano y el real brasileño.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/08/peso-dolar-precio-hoy-8-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/gQAKVCfxKcG7wCXi7AdhP_0liZY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MA7UGW34PBAWZKQK7GBV7HTIOA.jpg",
+      "PublishedAt": "2024-05-08T17:00:09Z",
+      "Content": "Luego de algunos comentarios restrictivos por parte de uno de los oficiales de la Reserva Federal, el dólar estadounidense se la devolvió' al peso mexicano en la sesión de este miércoles 8 de mayo.\r\n… [+1720 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/1/6/5/1200x655_Banco_de_Japon_tipos.jpg",
       "PublishedAt": "2024-04-26T09:01:13Z",
       "Content": "El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios respecto de su anterior reunión … [+3315 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Tropieza el peso y cierra en 17.21 unidades por dólar; avanza la bolsa pese a pérdidas en NY",
-      "Description": "Después de un dato muy inferior al esperado del producto interno bruto (PIB) estadunidense para el primer trimestre, que generó dudas sobre la salud de la economía, el peso se debilitó frente a un dólar endeble a nivel mundial.",
-      "Url": "https://www.jornada.com.mx/2024/04/26/economia/019n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-04-26T08:38:42Z",
-      "Content": "Periódico La JornadaViernes 26 de abril de 2024, p. 19\r\nDespués de un dato muy inferior al esperado del producto interno bruto (PIB) estadunidense para el primer trimestre, que generó dudas sobre la … [+3299 chars]"
     }
   ]
 }
