@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia y Adriana Arcos",
+      "Title": "Cae dólar a $17.23 ante anuncio de Banxico",
+      "Description": "El peso concluyó con apreciación al menudeo al disminuir el valor del dólar a 17.23 pesos, su menor cotización desde el 15 de abril.",
+      "Url": "https://www.reforma.com/cae-dolar-a-17-23-ante-anuncio-de-banxico/ar2805057",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714904.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-05-09T22:47:48Z",
+      "Content": "03 MIN 30 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (09 mayo 2024) .-16:45 hrs"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-en-este-viernes-26-3T277DEURNC53DDP3M5CHFGHUY.jpg?auth=ed438205f4e0b6d833e00b5d05fc68cee3a3e2c15e1d0f1282785cda1f6c5e2b&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-26T15:02:39Z",
       "Content": "Este viernes 26 de abril, el precio del dólar en México es de $17,1883 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2338 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencialdigital.com"
-      },
-      "Author": "Agencias",
-      "Title": "El Banco de Japón no sube tipos y el yen marca mínimos de 34 años frente al dólar",
-      "Description": "MADRID, 26 (EUROPA PRESS) El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios respecto de su anterior reunión y demorando...",
-      "Url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/banco-japon-sube-tipos-yen-marca-minimos-34-anos-frente-dolar/20240426090231768851.html",
-      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/04/26/2024042609023151628.jpg",
-      "PublishedAt": "2024-04-26T09:02:31Z",
-      "Content": "MADRID, 26 (EUROPA PRESS)\r\n El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios resp… [+2240 chars]"
     }
   ]
 }
