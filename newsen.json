@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "LaToya Harding",
+      "Title": "Pound falls against dollar after Bank of England interest rate news",
+      "Description": "Money markets are forecasting a 55% chance the bank rate will be cut by a quarter of a percentage point at its next meeting.",
+      "Url": "https://uk.finance.yahoo.com/news/pound-dollar-interest-rate-bank-of-england-114634719.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/H2.cHOA6ZUcVwtK.U8P8ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/13e69230-0d4f-11ef-b7b7-7b09e6ceec1b",
+      "PublishedAt": "2024-05-09T11:46:34Z",
+      "Content": "The pound was lower on Thursday as the Bank of England kept interest rates on hold at 5.25%. Above, governor Andrew Bailey. (Kim Chen)\r\nThe pound (GBPUSD=X) fell against the dollar on Thursday as the… [+2440 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/canadian-dollar-0425-ph.jpg",
       "PublishedAt": "2024-04-25T12:03:12Z",
       "Content": "Steep drop in currency could hike inflation by 1%, says BofA\r\nExpectations that the Bank of Canada will move before the United States Federal Reserve has put pressure on the Canadian dollar.Photo by … [+9927 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Suspect to plead guilty as he faces new charge of using criminal proceeds to buy S$332,280 car",
-      "Description": "SINGAPORE: Three more charges were read on Wednesday (April 24) to a suspect in a S$2.8 billion money laundering case and he is set to plead guilty next Monday.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-suspect-su-baolin-pleads-guilty-using-criminal-proceeds-buy-car-4290906",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
-      "PublishedAt": "2024-04-25T04:28:32Z",
-      "Content": "In January, the court heard eight charges against him, including his alleged refusal to sign various statements that he made to the authorities when required to do so by a Commercial Affairs Departme… [+1358 chars]"
     }
   ]
 }
