@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 9 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 9 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-9-de-mayo-nid09052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-ultimas-cifras-sobre-el-precio-del-dolar-en-XMUCHJ5MHFHAPJ23PV3GSZL5M4.jpg?auth=2c625f9564247b06d5b5b2716ec7624fc4296f0891dca3b4b01b95aa07d4a2e0&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-09T15:05:29Z",
+      "Content": "Este jueves 9 de mayo, el precio del dólar en México es de $16,9087, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2020 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/04/26/2024042609023151628.jpg",
       "PublishedAt": "2024-04-26T09:02:31Z",
       "Content": "MADRID, 26 (EUROPA PRESS)\r\n El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios resp… [+2240 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "elEconomista.es",
-      "Title": "El Banco de Japón mantiene tipos y el yen marca mínimos de 34 años frente al dólar",
-      "Description": "El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios respecto de su anterior reunión y demorando por el momento el esperado endurecimiento de la …",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12787893/04/24/el-banco-de-japon-mantiene-tipos-y-el-yen-marca-minimos-de-34-anos-frente-al-dolar.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/1/6/5/1200x655_Banco_de_Japon_tipos.jpg",
-      "PublishedAt": "2024-04-26T09:01:13Z",
-      "Content": "El Consejo de Política del Banco de Japón ha decidido este viernes por unanimidad mantener la tasa de referencia a corto plazo en un rango del 0% al 0,1%, sin cambios respecto de su anterior reunión … [+3315 chars]"
     }
   ]
 }
