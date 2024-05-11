@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso gana ante debilitamiento del dólar y tono restrictivo de Banxico",
+      "Description": "Forbes México.\n Peso gana ante debilitamiento del dólar y tono restrictivo de Banxico\n\nEl dólar se ubicó en 16.7926 pesos, una apreciación de 0.61% para la moneda nacional, de acuerdo con cifras del banco central.\nPeso gana ante debilitamiento del dólar y ton…",
+      "Url": "https://www.forbes.com.mx/peso-gana-ante-debilitamiento-del-dolar-y-tono-restrictivo-de-banxico/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2024-05-10T00:02:54Z",
+      "Content": "El peso se apreció este jueves debido a un debilitamiento generalizado del dólar, y tras un anuncio de política monetaria de Banxico que fue leído por el mercado como más restrictivo.\r\nEl dólar se ub… [+3465 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s03.s3c.es/imag/_v0/4530x2472/1/5/2/1200x655_pesos-argentina-blumber.jpg",
       "PublishedAt": "2024-04-26T17:27:34Z",
       "Content": "Durante la campaña electoral, Javier Milei aseguró que el peso era \"un excremento\" que usaban los políticos argentinos para \"robar\" a los ciudadanos. Su promesa era deshacerse de esa moneda y dejar q… [+4506 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 26 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 26 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-26-de-abril-nid26042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-en-este-viernes-26-3T277DEURNC53DDP3M5CHFGHUY.jpg?auth=ed438205f4e0b6d833e00b5d05fc68cee3a3e2c15e1d0f1282785cda1f6c5e2b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-26T15:02:39Z",
-      "Content": "Este viernes 26 de abril, el precio del dólar en México es de $17,1883 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2338 chars]"
     }
   ]
 }
