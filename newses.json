@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "¡Ay mamachita! Peso gana al dólar y se cotiza en las 16.75 unidades",
+      "Description": "Los pesos mexicano y chileno están entre las monedas que tienen avances modestos contra el dólar este 10 de mayo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/10/peso-dolar-precio-hoy-10-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/tYaKXcq2cJr4NtDtXg1QO109-1Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SMKAOWWZTJFM5PSERQFNKA4AB4.jpg",
+      "PublishedAt": "2024-05-10T15:40:26Z",
+      "Content": "El peso mexicano inicia la sesión del Día de las Madres ampliando sus avances frente al dólar, bajo la expectativa de que la Reserva Federal podría recortar sus tasas de interés este año, mientras qu… [+2090 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-29T14:05:09Z",
       "Content": "Este lunes 29 de abril, el precio del dólar en México es de $17,1552 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2359 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La moneda de un centavo de dólar puede valer más de 300 mil dólares: cómo identificarla",
-      "Description": "Esta pieza es popular entre los coleccionistas; con el rostro de Abraham Lincoln en el anverso, se convirtió en un objeto valioso debido a un particular detalle de acuñación",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-moneda-de-un-centavo-de-dolar-puede-valer-mas-de-300-mil-dolares-como-identificarla-nid26042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-detalle-en-la-moneda-de-abraham-lincoln-que-MMMYQ6BT6BCYBL634YK7BV2M6E.jpg?auth=9e2f35a9886ac27c375c67686c6c24846484d4c41642083e04ff09b7a673588e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-26T19:53:52Z",
-      "Content": "La numismática, el estudio y colección de monedas y billetes, ha estado en auge últimamente debido a la atracción, tanto de aficionados como de expertos, en la búsqueda de rarezas y tesoros. En este … [+2716 chars]"
     }
   ]
 }
