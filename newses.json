@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 10 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 10 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-10-de-mayo-nid10052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-en-mexico-para-hoy-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-10T14:13:43Z",
+      "Content": "Este viernes 10 de mayo, el precio del dólar en México es de $16,8660, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2118 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-detalle-en-la-moneda-de-abraham-lincoln-que-MMMYQ6BT6BCYBL634YK7BV2M6E.jpg?auth=9e2f35a9886ac27c375c67686c6c24846484d4c41642083e04ff09b7a673588e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-26T19:53:52Z",
       "Content": "La numismática, el estudio y colección de monedas y billetes, ha estado en auge últimamente debido a la atracción, tanto de aficionados como de expertos, en la búsqueda de rarezas y tesoros. En este … [+2716 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Víctor Ventura",
-      "Title": "Milei obra un milagro accidental: el peso argentino ya es la moneda más fuerte del mundo frente al dólar",
-      "Description": "Durante la campaña electoral, Javier Milei aseguró que el peso era \"un excremento\" que usaban los políticos argentinos para \"robar\" a los ciudadanos. Su promesa era deshacerse de esa moneda y dejar que la gente ahorrara en dólares, la moneda que sí tiene valo…",
-      "Url": "https://www.eleconomista.es/economia/noticias/12789289/04/24/milei-obra-un-milagro-accidental-el-peso-argentino-ya-es-la-moneda-mas-fuerte-del-mundo-frente-al-dolar-.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/4530x2472/1/5/2/1200x655_pesos-argentina-blumber.jpg",
-      "PublishedAt": "2024-04-26T17:27:34Z",
-      "Content": "Durante la campaña electoral, Javier Milei aseguró que el peso era \"un excremento\" que usaban los políticos argentinos para \"robar\" a los ciudadanos. Su promesa era deshacerse de esa moneda y dejar q… [+4506 chars]"
     }
   ]
 }
