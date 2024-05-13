@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "El bancor, el proyecto de moneda global cuyo fracaso permitió la hegemonía del dólar",
+      "Description": "Al acercarse el final de la Segunda Guerra Mundial, Estados Unidos y Gran Bretaña rediseñaron las bases de la economía global. Una de las ideas más revolucionarias fue descartada",
+      "Url": "https://www.bbc.com/mundo/articles/cyj304l3g8jo",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b5f3/live/2120f970-0379-11ef-82e8-cd354766a224.jpg",
+      "PublishedAt": "2024-05-12T10:07:43Z",
+      "Content": "Fuente de la imagen, Getty Images\r\nPie de foto, El dólar es la moneda de referencia mundial, pero la historia pudo haber sido diferente. \r\nArticle information\r\nEn el verano de 1944, cuando un mundo e… [+12586 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/OOyP54x_sIwpRUjY638n_C7M-Qc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7NYTKIQQL5C25IQWIRNH6ZJ2RY.jpg",
       "PublishedAt": "2024-04-29T15:55:47Z",
       "Content": "Un mayor apetito por riesgo está llevando al dólar al terreno de pérdidas durante este 29 de abril, permitiendo que la mayoría de las divisas emergentes, entre ellas el peso mexicano, inicien la jorn… [+1534 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 29 de abril",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 29 de abril",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-29-de-abril-nid29042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-29T14:05:09Z",
-      "Content": "Este lunes 29 de abril, el precio del dólar en México es de $17,1552 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2359 chars]"
     }
   ]
 }
