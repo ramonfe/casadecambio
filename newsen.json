@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Sued After Revealing Massive Data Breach Affecting Thousands of Customers, Exposing Account Details, Social Security Numbers and Medical Information: Report",
+      "Description": "A US lender is facing separate class action lawsuits over a security incident that exposed thousands of customers’ personal identifiable information (PII). Plaintiffs for the lawsuits say Centennial Bank suffered a data breach in April 2023 – but they allege …",
+      "Url": "https://dailyhodl.com/2024/05/13/billion-dollar-bank-sued-after-revealing-massive-data-breach-affecting-thousands-of-customers-exposing-account-details-social-security-numbers-and-medical-information-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/02/chase-jpmorgan-deposits-bank.jpg",
+      "PublishedAt": "2024-05-13T16:50:55Z",
+      "Content": "A US lender is facing separate class action lawsuits over a security incident that exposed thousands of customers’ personal identifiable information (PII).\r\nPlaintiffs for the lawsuits say Centennial… [+1996 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-dollar-surveil.jpg",
       "PublishedAt": "2024-04-28T20:04:59Z",
       "Content": "A US bank is facing a proposed class action lawsuit for allegedly failing to protect its customers’ sensitive personal information and suffering a massive data breach.\r\nSouthState Bank, which has ove… [+1954 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Japan finance minister to attend ADB meeting, strong dollar may draw focus",
-      "Description": "(marketscreener.com) Japanese Finance Minister\nShunichi Suzuki said on Friday he will attend the Asian\nDevelopment Bank's annual meeting to be held in Tbilisi,\nGeorgia, on May 2-5, where currency market volatility could be\namong the focus of debate.\n Finance …",
-      "Url": "https://www.marketscreener.com/news/latest/Japan-finance-minister-to-attend-ADB-meeting-strong-dollar-may-draw-focus-46539081/",
-      "UrlToImage": "https://img.zonebourse.com/reuters/2024-04/2024-04-17T202232Z_1_LYNXNPEK3G0WK_RTROPTP_3_IMF-WORLDBANK-TRILATERAL.JPG",
-      "PublishedAt": "2024-04-26T01:15:20Z",
-      "Content": "TOKYO, April 26 (Reuters) - Japanese Finance Minister\r\nShunichi Suzuki said on Friday he will attend the Asian\r\nDevelopment Bank's (ADB) annual meeting to be held in Tbilisi,\r\nGeorgia, on May 2-5, wh… [+928 chars]"
     }
   ]
 }
