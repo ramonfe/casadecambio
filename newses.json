@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 14 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 14 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-14-de-mayo-nid14052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/actualizacion-financiera-la-cotizacion-del-dolar-A5KOF4T7EFB4JMHXFYQFF467SM.jpg?auth=d242d00a05d806ef2b6ef0526edaa767ce08b3bd664d01cefae37df33fa13c90&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-14T14:13:58Z",
+      "Content": "Este martes 14 de mayo, el precio del dólar en México es de $16,8072, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2508 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-en-mexico-hoy-30-de-B5HALFFZ4FB6TKIPMH4CT3S7UQ.jpg?auth=c22c91733e62e4f360db16d720a5309f7e6b55094242ddeb932cedb78db3990b&width=768&quality=70&smart=false",
       "PublishedAt": "2024-04-30T15:32:12Z",
       "Content": "Este martes 30 de abril, el precio del dólar en México es de $17,0243, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2489 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Tipo de cambio se fortalece a 17 pesos por dólar",
-      "Description": "La debilidad del dólar a nivel mundial apoyó al tipo de cambio en México a retomar el terreno positivo en el inicio de la semana.",
-      "Url": "https://www.jornada.com.mx/2024/04/30/economia/023n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-04-30T09:13:17Z",
-      "Content": "Periódico La JornadaMartes 30 de abril de 2024, p. 23\r\nLa debilidad del dólar a nivel mundial apoyó al tipo de cambio en México a retomar el terreno positivo en el inicio de la semana.\r\nEl peso mexic… [+1823 chars]"
     }
   ]
 }
