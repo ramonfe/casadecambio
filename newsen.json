@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Sixth suspect jailed, forfeits largest sum yet of S$180 million",
+      "Description": "Vang Shuiming surrendered about 90 per cent of the assets seized from him, including apartments in Clarke Quay and Beach Road.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-vang-shuiming-jailed-forfeits-180-million-4334671",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--G9aGLNnb--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/vang_shuiming.png?itok=DjeNs1cT",
+      "PublishedAt": "2024-05-14T12:17:14Z",
+      "Content": "When Vang was nabbed in a Good Class Bungalow along Bishopsgate in Tanglin on Aug 15, 2023, he had funds totalling about S$2.42 million across four Singapore bank accounts.\r\nThe funds were suspected … [+2663 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
       "PublishedAt": "2024-04-29T07:59:00Z",
       "Content": "SINGAPORE: Another of 10 suspects involved in a S$3 billion (US$2.2 billion) money laundering case was sentenced to 14 months' jail on Monday (Apr 29). \r\nSu Baolin, a 42-year-old Cambodian, had plead… [+1254 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "Billion-Dollar Bank Facing Class Action Compliant After Data Breach Exposes Customers’ Names, Social Security Numbers and Other Sensitive Information",
-      "Description": "A US bank is facing a proposed class action lawsuit for allegedly failing to protect its customers’ sensitive personal information and suffering a massive data breach. SouthState Bank, which has over $45 billion in assets, is being hit with a class action law…",
-      "Url": "https://dailyhodl.com/2024/04/28/billion-dollar-bank-facing-class-action-compliant-after-data-breach-exposes-customers-names-social-security-numbers-and-other-sensitive-information/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/04/bank-dollar-surveil.jpg",
-      "PublishedAt": "2024-04-28T20:04:59Z",
-      "Content": "A US bank is facing a proposed class action lawsuit for allegedly failing to protect its customers’ sensitive personal information and suffering a massive data breach.\r\nSouthState Bank, which has ove… [+1954 chars]"
     }
   ]
 }
