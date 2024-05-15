@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así es la increíble moneda de un centavo de dólar que podría valer hasta US$1,7 millones",
+      "Description": "Se trata de un ejemplar que data del siglo pasado y rompe récords en los sitios de subasta; se acuñaron menos de 20; cómo reconocer una de estas piezas que todavía están en circulación",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-la-increible-moneda-de-un-centavo-de-dolar-que-podria-valer-hasta-us17-millones-nid14052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-acunada-en-1943-es-furor-entre-los-M664HRM355FSJPHJ6YS4GWBKC4.jpg?auth=a170183ad34795ad599abf73b60a3ade517c49eab343ad7b9d78f56cae752498&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-14T19:54:38Z",
+      "Content": "En el mundo de la numismática, la historia detrás de una moneda puede convertirla en una verdadera joya para los coleccionistas. Eso es exactamente lo que sucede con un centavo que tiene la imagen de… [+1863 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/u2ZAK3BFj2K4XV_Ma8-HizZbYc4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZH632PDDQVFHVGZALTHLYVH4FA.jpg",
       "PublishedAt": "2024-04-30T16:59:51Z",
       "Content": "Un aumento en los costos laborales en Estados Unidos llevaron al peso mexicano a operar en terreno de pérdidas en el inicio de la segunda jornada bursátil.\r\nLos datos reportados por Bloomberg muestra… [+1453 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso argentino es el que más se ha revalorizado en el mundo frente al dólar por el impulso de Milei",
-      "Description": "Forbes México.\n Peso argentino es el que más se ha revalorizado en el mundo frente al dólar por el impulso de Milei\n\nEl peso argentino ha subido un 25% frente al dólar en los últimos tres meses en este mercado, más que las ganancias de 148 monedas.\nPeso argen…",
-      "Url": "https://www.forbes.com.mx/peso-argentino-es-el-que-mas-se-ha-revalorizado-en-el-mundo-frente-al-dolar-por-el-impulso-de-milei/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/02/milei.webp",
-      "PublishedAt": "2024-04-30T15:55:18Z",
-      "Content": "El presidente argentino Javier Milei, a cuatro meses de asumir su cargo, ha logrado un hecho fundamental en una nación devastada por la inflación descontrolada, esto es, lograr estabilizar el peso ar… [+2278 chars]"
     }
   ]
 }
