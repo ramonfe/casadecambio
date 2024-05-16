@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 15 de mayo de 2024",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este miércoles 15 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-15-de-mayo-de-2024-nid15052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ultimas-noticias-sobre-el-valor-del-dolar-en-SJHJQQB565BJXDA4XB6O4NEL4A.jpg?auth=7f7a3c22b7f252fd78daf448eaca7643277a4d227ca6ab26fc3aedfbabf00d1b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-15T13:58:18Z",
+      "Content": "Este miércoles 15 de mayo, el precio del dólar en México es de $16,8072, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de… [+2123 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/675/5674614.jpg&wm=1&ang=0",
       "PublishedAt": "2024-04-30T22:16:14Z",
       "Content": "En ventanillas de Citibanamex, la divisa de Washington subió 56 centavos en abril para ser su alza más significativa en seis meses, al ofrecerse a 17.52 y recibirse a 16.61 unidades. Crédito: AP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central compró reservas pese al paro portuario y confirma el ‘crawling’ al 2% mensual",
-      "Description": "Se alzó con US$194 millones, tras haber tendido que vender US$92 millones ayer, pero las reservas totales volvieron a caer por un pago al FMI",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-compro-reservas-pese-al-paro-portuario-y-confirma-el-crawling-al-2-mensual-nid30042024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-se-quedo-hoy-con-mas-del-60percent-de-los-KX6A5FUNJJAMNPOYPZU24HBJNE.JPG?auth=f394b3181223872f44410ea95c5f95a888fb6e37f59de389244d37aa551270ff&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-04-30T20:47:15Z",
-      "Content": "El Banco Central (BCRA) se alzó hoy con US$194 millones para sus reservas por intervenciones sobre el mercado oficial, pese a los paros que afectan a los controles sanitarios y la actividad portuaria… [+4563 chars]"
     }
   ]
 }
