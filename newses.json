@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza ante debilitamiento global del dólar; BMV gana",
+      "Description": "Forbes México.\n Peso avanza ante debilitamiento global del dólar; BMV gana\n\nEl peso cotizaba en 16.7710 por dólar, con una ganancia de 0.37% frente al precio de referencia de Reuters del martes.\nPeso avanza ante debilitamiento global del dólar; BMV gana\nForbe…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-ante-debilitamiento-global-del-dolar-bmv-gana/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
+      "PublishedAt": "2024-05-15T15:37:29Z",
+      "Content": "El peso se apreciaba este miércoles luego de dos sesiones de pérdidas, ante un debilitamiento global del dólar tras conocer cifras de inflación y de las ventas al por menor en Estados Unidos que impu… [+2081 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-01T15:21:54Z",
       "Content": "Este miércoles 1° de mayo, el precio del dólar en México es de $17,0243, de acuerdo con el Diario Oficial de la Federación (DOF), sin embargo, es importante recordar que al ser un día feriado no hay … [+2055 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Sufre peso en abril mayor revés frente al dólar en 6 meses",
-      "Description": "Tras los beneficios logrados en febrero y marzo, en abril, el peso se depreció frente dólar al subir 58.16 centavos a 17.1402 unidades.",
-      "Url": "https://www.reforma.com/sufre-peso-en-abril-mayor-reves-frente-al-dolar-en-6-meses/ar2800031",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/675/5674614.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-04-30T22:16:14Z",
-      "Content": "En ventanillas de Citibanamex, la divisa de Washington subió 56 centavos en abril para ser su alza más significativa en seis meses, al ofrecerse a 17.52 y recibirse a 16.61 unidades. Crédito: AP"
     }
   ]
 }
