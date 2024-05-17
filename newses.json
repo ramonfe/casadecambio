@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso tiene avance marginal de 0.03% frente al dólar",
+      "Description": "Forbes México.\n Peso tiene avance marginal de 0.03% frente al dólar\n\nEl dólar se vendió en 16.6818 pesos al final de la jornada, según datos de Banxico.\nPeso tiene avance marginal de 0.03% frente al dólar\nForbes Staff",
+      "Url": "https://www.forbes.com.mx/peso-tiene-avance-marginal-de-0-03-frente-al-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
+      "PublishedAt": "2024-05-16T21:40:43Z",
+      "Content": "El peso se mantuvo prácticamente sin cambios al cierre de la sesión de este jueves al apreciarse apenas 0.03%.\r\nEl dólar se vendió en 16.6818 pesos al final de la jornada, según datos de Banxico.\r\nEl… [+1139 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-acunada-en-1944-encabeza-la-lista-de-MGY7G5KVARAZXK7SXT77DUADJA.jpg?auth=bb6c6dec331833724559ff4c13ada1335a3f482e8d17eaf84fe77205f8d40476&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-03T19:05:40Z",
       "Content": "La numismática, que es el estudio y colección de monedas y billetes, está en auge últimamente debido a la atracción tanto de aficionados como de expertos en la búsqueda de rarezas y tesoros. En este … [+2854 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 3 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este viernes 3 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-3-de-mayo-nid03052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/cotizacion-del-dolar-en-mexico-hoy-viernes-3-de-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-03T16:13:12Z",
-      "Content": "Este viernes 3 de mayo, el precio del dólar en México es de $16,9393, de acuerdo con el Diario Oficial de la Federación (DOF); mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2369 chars]"
     }
   ]
 }
