@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "No te duró nada el gusto, peso: Se deprecia a 16.69 ante el dólar",
+      "Description": "Entre las monedas que más pierden este jueves 16 de mayo está el shekel de Israel, de acuerdo con datos de Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/16/peso-dolar-precio-hoy-16-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/7-k0JUNwQzKGkWH72Cf8S1Dzwbw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/IHHZ2X2YHJHCBPKIT3RI2QBK6I.jpg",
+      "PublishedAt": "2024-05-16T16:13:28Z",
+      "Content": "El peso mexicano corrige su valor frente al dólar después de anotarse su mayor apreciación en los últimos dos meses, esto luego de que las cifras de inflación en Estados Unidos resultaron en línea co… [+1469 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/cotizacion-del-dolar-en-mexico-hoy-viernes-3-de-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-03T16:13:12Z",
       "Content": "Este viernes 3 de mayo, el precio del dólar en México es de $16,9393, de acuerdo con el Diario Oficial de la Federación (DOF); mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2369 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Alejandro Durán",
-      "Title": "Tipo de cambio del dólar cierra con leve aumento este jueves",
-      "Description": "Precio del dólar finalizó en ¢509,45 en el Monex este jueves, moderando así las alzas que presentó en días anteriores. Divisa suma cuatro sesiones consecutivas aumentando de valor",
-      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-cierra-con-leve-aumento/UDSS35EN2ZAONG2UWBKXMCOK34/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/MrNblO7-_U-NTRd5BoH1Sceg4Tk=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z6KWH5IU4VFGXCZDQIDTAXULRY.jpg",
-      "PublishedAt": "2024-05-02T20:24:00Z",
-      "Content": "El tipo de cambio del dólar respecto al colón subió por cuarto día consecutivo en el Mercado de Monedas Extranjeras (Monex), aunque en menor medida que en las sesiones anteriores. Este jueves, la div… [+2528 chars]"
     }
   ]
 }
