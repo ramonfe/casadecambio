@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 16 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este jueves 16 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-16-de-mayo-nid16052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ultimas-noticias-sobre-el-valor-del-dolar-en-56PRKMAQTVA63LMRTA4VGTMKNM.jpg?auth=fa8cd1c73e5b8685564641572225cd4c927d67ffc99d85d1236ce5874289274d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-16T13:08:32Z",
+      "Content": "Este jueves 16 de mayo, el precio del dólar en México es de $16,8072, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2467 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/MrNblO7-_U-NTRd5BoH1Sceg4Tk=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z6KWH5IU4VFGXCZDQIDTAXULRY.jpg",
       "PublishedAt": "2024-05-02T20:24:00Z",
       "Content": "El tipo de cambio del dólar respecto al colón subió por cuarto día consecutivo en el Mercado de Monedas Extranjeras (Monex), aunque en menor medida que en las sesiones anteriores. Este jueves, la div… [+2528 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 2 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este feriado del jueves 2 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-2-de-mayo-nid02052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-jueves-2-de-mayo-6VCLWHEYGNALHGAHU4GSMWONZY.jpg?auth=af933ed446555bf30bee73320684510f100fbcd787f63b7b52d86a29ef148088&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-02T15:53:36Z",
-      "Content": "Este jueves 2 de mayo, el precio del dólar en México es de $17,0958, de acuerdo con el Diario Oficial de la Federación (DOF), sin embargo, es importante recordar que al ser un día feriado no hay asig… [+2000 chars]"
     }
   ]
 }
