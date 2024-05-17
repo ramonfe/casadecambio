@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Suspect gets 6 new charges over fake property sale, loan agreement papers",
+      "Description": "SINGAPORE: Su Jianfeng, one of the 10 suspects involved in Singapore's billion-dollar money laundering probe, was on Thursday (May 16) slapped with six new charges. The fresh charges are related to his alleged fraudulent submission of forged documents to bank…",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-su-jianfeng-new-charges-4340726",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--atjNGpkQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/su_jianfeng.png?itok=9KfOsjim",
+      "PublishedAt": "2024-05-16T09:25:00Z",
+      "Content": "In another charge, Su allegedly used the same method for the sale of \"Residences_E2 Property Number 2302\" to a Lin Zhenghu, and submitted the contract to Maybank Singapore.\r\nIt involved a deposit of … [+765 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "SouthCoastToday.com"
+      },
+      "Author": "Frank Mulligan, The Standard-Times",
+      "Title": "New Bedford's half-billion-dollar budget will deliver more school, police money",
+      "Description": "Mayor Jon Mitchell's $536.3 million proposed budget delivers \"material\" funding increases to the school and police departments.",
+      "Url": "https://www.southcoasttoday.com/story/news/2024/05/16/mayor-jon-mitchell-says-pension-health-costs-threaten-city-services/73709258007/",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/uq6n7SylW6VRwU46_8mBiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTc-/https://media.zenfs.com/en/the-standard-times/27387134927704fc65b91cd0145b12da",
+      "PublishedAt": "2024-05-16T08:08:20Z",
+      "Content": "NEW BEDFORD - Mayor Jon Mitchell's $536.3 million proposed budget delivers \"material\" funding increases to the school and police departments.\r\nMitchell said that otherwise increases were modest when … [+3412 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
       "PublishedAt": "2024-04-29T07:59:49Z",
       "Content": "SINGAPORE: Another of 10 suspects involved in a S$3 billion (US$2.2 billion) money laundering case pleaded guilty in court on Monday (Apr 29). \r\nSu Baolin, a 42-year-old Cambodian, pleaded guilty to … [+1246 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Man jailed after pleading guilty to possessing car, S$777,000 from criminal proceeds",
-      "Description": "Su Baolin, a 42-year-old Cambodian, pleaded guilty to three out of 13 charges.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-man-jailed-after-pleading-guilty-possessing-car-s777000-criminal-proceeds-4299891",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
-      "PublishedAt": "2024-04-29T07:59:00Z",
-      "Content": "SINGAPORE: Another of 10 suspects involved in a S$3 billion (US$2.2 billion) money laundering case pleaded guilty in court on Monday (Apr 29). \r\nSu Baolin, a 42-year-old Cambodian, pleaded guilty to … [+1241 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: 14 months' jail for man who possessed car, S$777,000 from criminal proceeds",
-      "Description": "Su Baolin, a 42-year-old Cambodian, pleaded guilty to three out of 13 charges.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-14-months-jail-man-who-possessed-car-s777000-criminal-proceeds-4299891",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F_te7g_p--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=tmE1cgiC",
-      "PublishedAt": "2024-04-29T07:59:00Z",
-      "Content": "SINGAPORE: Another of 10 suspects involved in a S$3 billion (US$2.2 billion) money laundering case was sentenced to 14 months' jail on Monday (Apr 29). \r\nSu Baolin, a 42-year-old Cambodian, had plead… [+1254 chars]"
     }
   ]
 }
