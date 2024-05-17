@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Debilitamiento del dólar tras dato de inflación en EU favorece al peso",
+      "Description": "Forbes México.\n Debilitamiento del dólar tras dato de inflación en EU favorece al peso\n\nEl peso avanza tras la publicación de datos que crecen la especulación de que la Fed empezaría a recortar su tasa antes de que acabe el año.\nDebilitamiento del dólar tras …",
+      "Url": "https://www.forbes.com.mx/debilitamiento-del-dolar-tras-dato-de-inflacion-en-eu-favorece-al-peso/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-05-15T23:01:07Z",
+      "Content": "El peso se apreció este miércoles tras la publicación de datos económicos en EU que crecieron la especulación de que la Reserva Federal empezaría a recortar su tasa de interés clave antes de que conc… [+1291 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-jueves-2-de-mayo-6VCLWHEYGNALHGAHU4GSMWONZY.jpg?auth=af933ed446555bf30bee73320684510f100fbcd787f63b7b52d86a29ef148088&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-02T15:53:36Z",
       "Content": "Este jueves 2 de mayo, el precio del dólar en México es de $17,0958, de acuerdo con el Diario Oficial de la Federación (DOF), sin embargo, es importante recordar que al ser un día feriado no hay asig… [+2000 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza tras decisión de tasas de la Fed; cotiza debajo de 17 unidades por dólar",
-      "Description": "Forbes México.\n Peso avanza tras decisión de tasas de la Fed; cotiza debajo de 17 unidades por dólar\n\nEl peso cotizaba en 16.91 unidades por dólar, con lo que la divisa local mostraba una ganancia de 0.42%.\nPeso avanza tras decisión de tasas de la Fed; cotiza…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-tras-decision-de-tasas-de-la-fed-cotiza-debajo-de-17-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/MG_7308.jpg",
-      "PublishedAt": "2024-05-02T14:50:43Z",
-      "Content": "El peso avanzaba este jueves, extendiendo las notables ganancias frente al dólar estadounidense, después de que en la sesión de ayer, la moneda nacional se apreciara 0.88% tras la decisión de polític… [+1197 chars]"
     }
   ]
 }
