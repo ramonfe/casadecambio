@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 17 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 17 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-17-de-mayo-nid17052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/seguimiento-del-mercado-cambiario-el-valor-del-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-17T14:59:56Z",
+      "Content": "Este viernes 17 de mayo, el precio del dólar en México es de $16,6893, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2106 chars]"
+    },
     {
       "Source": {
         "Id": "rt",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-05-07T08:30:01Z",
       "Content": "Periódico La JornadaMartes 7 de mayo de 2024, p. 16\r\nEl optimismo por los recortes de las tasas de interés en Estados Unidos tras el informe de nóminas no agrícolas de abril, que sugiere una moderaci… [+2292 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 6 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 6 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-6-de-mayo-nid06052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-minuto-a-minuto-de-la-cotizacion-del-dolar-en-DN244MAFKBE7ZJEVUAZQ37NJ4U.jpg?auth=b95a6f8fee21151062e2571e409e880b2dfd00bd989d7402d39557dd34b87d7e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-06T14:40:44Z",
-      "Content": "Este lunes 6 de mayo, el precio del dólar en México es de $17,0243, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un p… [+2220 chars]"
     }
   ]
 }
