@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso, ‘bien peinadito’ ante el dólar en el cierre de semana: Cotiza en las 16.62 unidades",
+      "Description": "El rally de apreciación del peso se debe a los datos económicos publicados en la semana en México y Estados Unidos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/17/peso-dolar-precio-hoy-17-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/GyYM8St489UwSsCAY6fVHUIIIP0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NP4MLQEVHBBTBNYBAVQGDX6TNI.jpg",
+      "PublishedAt": "2024-05-17T16:02:58Z",
+      "Content": "El peso mexicano se perfila para cerrar la semana con ganancias contra el dólar durante una sesión floja debido a la ausencia de indicadores económicas de relevancia para este viernes 17 de mayo. \r\nL… [+1536 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-el-mercado-B3N5UA5JYNCD7DTTHN4G3RCLAA.JPG?auth=167ffd8f957fb24b2fc94d6ac3e89dc32c8f46fd42e4f5a8168eade3d42971c4&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-07T14:30:27Z",
       "Content": "Este martes 7 de mayo, el precio del dólar en México es de $16,8647, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2005 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Por segundo día seguido avanza el peso frente al dólar",
-      "Description": "El optimismo por los recortes de las tasas de interés en Estados Unidos tras el informe de nóminas no agrícolas de abril, que sugiere una moderación del empleo, provocó que el dólar perdiera fortaleza a escala mundial y se apreciaran las monedas emergentes, c…",
-      "Url": "https://www.jornada.com.mx/2024/05/07/economia/016n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-05-07T08:30:01Z",
-      "Content": "Periódico La JornadaMartes 7 de mayo de 2024, p. 16\r\nEl optimismo por los recortes de las tasas de interés en Estados Unidos tras el informe de nóminas no agrícolas de abril, que sugiere una moderaci… [+2292 chars]"
     }
   ]
 }
