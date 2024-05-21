@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Dylan Sloan",
+      "Title": "Fed governor highlights de-dollarization debate as concerns of global economy dropping the dollar grow: ‘The role of the U.S. economy in world finance is changing’",
+      "Description": "Russia sanctions, Chinese central bank policy are reopening long debate over the future of dollar dominance.",
+      "Url": "https://fortune.com/2024/05/20/dedollarization-dollar-dominance-fed-governor-china-russia-exchange-rates-sanctions-reserve-currency/",
+      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1236664891.jpg?resize=1200,600",
+      "PublishedAt": "2024-05-20T17:44:51Z",
+      "Content": "That has the Fed keeping a close eye on the risks of de-dollarization and how it could impact American consumers and businesses.\r\nThere has been for some time been commentary predicting that the doll… [+3249 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/reuters/2016-06-20T075720Z_1_LYNXNPEC5J0FF_RTROPTP_2_GLOBAL-FOREX.JPG",
       "PublishedAt": "2024-05-03T04:58:18Z",
       "Content": "MUMBAI, May 3 (Reuters) - The Indian rupee rose on\r\nFriday aided by broad-based offers to sell dollars by local and\r\nforeign banks and a dip in U.S. bond yields.\r\nThe rupee was at 83.3450 against the… [+1517 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "New Zealand Herald"
-      },
-      "Author": "Tamsyn Parker",
-      "Title": "Stock Takes: Sky TV chair’s million-dollar share buy-up, Craigs’ bumper profit, watch on bank forecasts",
-      "Description": "And the food still in demand from financially strained Kiwis.",
-      "Url": "https://www.nzherald.co.nz/business/stock-takes-sky-tv-chairs-million-dollar-share-buy-up-craigs-bumper-profit-and-watch-on-bank-forecasts/IOBWZUI6NJDG7ETLKRFW2YUXGY/",
-      "UrlToImage": "https://www.nzherald.co.nz/resizer/v2/A6BXOXTQXEDC6BGA32LPS3FEFE.jpg?auth=b4ec4c3a02dd015b0f81b43099f97bd690587f754313b2d0dfa21e09bd9b4c1b&width=1200&height=675&quality=70&smart=true",
-      "PublishedAt": "2024-05-02T17:00:00Z",
-      "Content": "Sales of KFC and Pizza Hut remain strong in New Zealand. Photo / NZMEConsumers are under pressure from the cost-of-living crisis but it seems fast-food operator Restaurant Brands is still seeing stro… [+7966 chars]"
     }
   ]
 }

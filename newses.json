@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, ‘armado y fabuloso’ contra el dólar: Ya se vende en las 16 unidades en bancos",
+      "Description": "De acuerdo con datos de Citibanamex, el dólar se vende en 16.99 pesos cada uno en ventanillas bancarias.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/20/peso-dolar-precio-hoy-20-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/GjTGrxR-J47Yw3KOTEMHr21Gh3Y=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WA7EIVVTBVBNFG7QGF4SCZASFE.jpg",
+      "PublishedAt": "2024-05-20T17:05:24Z",
+      "Content": "El peso mexicano arranca la semana bursátil con ganancias frente al dólar, acercándose al piso de las 16.50 unidades mientras los inversionistas asimilan una serie de datos sobre el desempeño de la e… [+2457 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/GhpSI9wtENAEDdBN_vPJTal3lAo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/K56HNKCENRESRPOVDNCGBKKAWA.jpg",
       "PublishedAt": "2024-05-07T16:51:54Z",
       "Content": "¿El peso mexicano verá interrumpida una nueva sesión de ganancias contra el dólar? El reporte de empleo en EU da espacio la expectativa de ver recortes a la tasa este año, mientras los operadores esp… [+1443 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Así es la moneda de dólar que puede valer más de US$200 mil, pero hay que tener cuidado con un detalle",
-      "Description": "Un aficionado de la numismática explicó las particularidades que se deben considerar para diferenciar una réplica de un modelo real; en enero de este año se subastó un ejemplar de la pieza por US$246 mil",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-la-moneda-de-dolar-que-puede-valer-mas-de-us200-mil-pero-hay-que-tener-cuidado-con-un-detalle-nid07052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/un-especialista-explico-los-detalles-a-los-que-IBGK3N6LVFCDNFU2LUFKHQSMVQ.png?auth=486650024e09ff23ae36b999b42c1eb2e2349ea66f5a6727b00973895b9294f9&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-07T15:52:29Z",
-      "Content": "El mundo de la numismática atrae a cada vez más personas, tanto profesionales como aficionados. En ese contexto, cobró relevancia una moneda de plata del siglo XVII que tiene un valor nominal de solo… [+2802 chars]"
     }
   ]
 }
