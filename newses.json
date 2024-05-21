@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 20 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 20 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-20-de-mayo-nid20052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-20T14:01:19Z",
+      "Content": "Este lunes 20 de mayo, el precio del dólar en México es de $16,6217, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a un… [+2181 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/un-especialista-explico-los-detalles-a-los-que-IBGK3N6LVFCDNFU2LUFKHQSMVQ.png?auth=486650024e09ff23ae36b999b42c1eb2e2349ea66f5a6727b00973895b9294f9&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-07T15:52:29Z",
       "Content": "El mundo de la numismática atrae a cada vez más personas, tanto profesionales como aficionados. En ese contexto, cobró relevancia una moneda de plata del siglo XVII que tiene un valor nominal de solo… [+2802 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 7 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este martes 7 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-7-de-mayo-nid07052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-el-mercado-B3N5UA5JYNCD7DTTHN4G3RCLAA.JPG?auth=167ffd8f957fb24b2fc94d6ac3e89dc32c8f46fd42e4f5a8168eade3d42971c4&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-07T14:30:27Z",
-      "Content": "Este martes 7 de mayo, el precio del dólar en México es de $16,8647, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2005 chars]"
     }
   ]
 }
