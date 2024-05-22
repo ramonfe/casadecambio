@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘le da chance’ al dólar: Se cotiza en las 16.59 unidades en sesión con pocos datos económicos",
+      "Description": "Los mercados le ‘echarán un ojo’ a las minutas que la Fed publique el miércoles 22 de mayo y que podrían dar aclarar qué va a hacer el Banco Central de EU con su tasa de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/21/peso-dolar-precio-hoy-21-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/GxSS_lmlqExlskuYFLl_AQVFHjU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OA4XGCJOQBH47CUCAV35BEYLYM.jpg",
+      "PublishedAt": "2024-05-21T16:27:28Z",
+      "Content": "El peso mexicano opera este 21 de mayo con una leve pérdida contra el dólar mientras los inversionistas esperan la publicación de más datos económicos para tomarlos como referencia.\r\nLa depreciación … [+1571 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-que-volco-al-mercado-usdollar-316-EQK24BXHZ5AT3DZP5BC4GRXYDM.jpg?auth=11dd4c31e1f2b4219f6dfb1203ea8315341f389f325f1c418eafdcc56c666801&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-07T21:57:09Z",
       "Content": "El Banco Central (BCRA) realizó hoy la mayor compra de reservas en lo que va del mes y la más importante de los últimos 15 días, al cerrar sus intervenciones sobre el mercado cambiario oficial adquir… [+3481 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, no vas a arruinar los planes del dólar: Se cotiza en las 16.91 unidades",
-      "Description": "Analistas de CIBanco estiman que el tipo de cambio podría llegar hasta las 16.80 unidades en las operaciones intradía.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/07/peso-dolar-precio-hoy-7-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/GhpSI9wtENAEDdBN_vPJTal3lAo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/K56HNKCENRESRPOVDNCGBKKAWA.jpg",
-      "PublishedAt": "2024-05-07T16:51:54Z",
-      "Content": "¿El peso mexicano verá interrumpida una nueva sesión de ganancias contra el dólar? El reporte de empleo en EU da espacio la expectativa de ver recortes a la tasa este año, mientras los operadores esp… [+1443 chars]"
     }
   ]
 }
