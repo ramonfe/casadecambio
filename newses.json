@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 21 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 21 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-21-de-mayo-nid21052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/seguimiento-del-mercado-cambiario-el-valor-del-G4ZEPDXD4NCVFFY7VMQQIVMWQA.jpg?auth=5094b03c22f9b98403bb121c90ecfc1d46b66d6adb89250b2a8ab68661dbf73b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-21T17:24:56Z",
+      "Content": "Este martes 21 de mayo, el precio del dólar en México es de $16,5667, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2024 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-1.webp",
       "PublishedAt": "2024-05-08T14:49:09Z",
       "Content": "El peso se depreciaba este miércoles ante un avance global del dólar mientras los inversionistas aguardan las participaciones de varios funcionarios de la Reserva Federal (Fed) estadunidense en el tr… [+1264 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: comienza a repuntar la oferta y el Banco Central hizo la mayor compra de reservas del mes",
-      "Description": "Se quedó con US$219 millones, aprovechando la mejora que tuvo el volumen de negocios, que rebotó 82%",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-comienza-a-repuntar-la-oferta-y-el-banco-central-hizo-la-mayor-compra-de-reservas-del-mes-nid07052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-que-volco-al-mercado-usdollar-316-EQK24BXHZ5AT3DZP5BC4GRXYDM.jpg?auth=11dd4c31e1f2b4219f6dfb1203ea8315341f389f325f1c418eafdcc56c666801&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-07T21:57:09Z",
-      "Content": "El Banco Central (BCRA) realizó hoy la mayor compra de reservas en lo que va del mes y la más importante de los últimos 15 días, al cerrar sus intervenciones sobre el mercado cambiario oficial adquir… [+3481 chars]"
     }
   ]
 }
