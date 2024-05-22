@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 45,
+  "TotalResults": 46,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thefly.com"
+      },
+      "Author": null,
+      "Title": "Dollar Tree price target lowered by $4 at Deutsche Bank, here's why",
+      "Description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "Url": "https://thefly.com/permalinks/entry.php/id3922300/DLTR-Dollar-Tree-price-target-lowered-by--at-Deutsche-Bank-heres-why",
+      "UrlToImage": "https://thefly.com/images/meta/streetresearch_recommendations.jpg",
+      "PublishedAt": "2024-05-21T14:17:41Z",
+      "Content": "Earnings calls, analyst events, roadshows and more"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-05-05T12:36:45Z",
       "Content": "Swiss National Bank lowered its position in shares of Dollar General Co. (NYSE:DG – Free Report) by 2.7% in the 4th quarter, according to its most recent disclosure with the SEC. The fund owned 686,3… [+6557 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
-      "Title": "‘The Dollar Will Be Worth Nothing’—Elon Musk Issues Stark Fed Warning As ‘Stealth Money Printing’ Grinds Bitcoin, Ethereum And XRP Price Higher",
-      "Description": "Tesla billionaire Elon Musk has warned the U.S. dollar could be heading for collapse as \"steal money printing\" could push the price of bitcoin, ethereum, XRP and crypto higher...",
-      "Url": "https://www.forbes.com/sites/digital-assets/2024/05/04/the-dollar-will-be-worth-nothing-elon-musk-issues-stark-fed-warning-as-stealth-money-printing-grinds-bitcoin-ethereum-and-xrp-price-higher/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/62dd5b26d6efed46c0697810/0x0.jpg?format=jpg&crop=4826,3230,x180,y150,safe&height=900&width=1600&fit=bounds",
-      "PublishedAt": "2024-05-04T11:15:08Z",
-      "Content": "BitcoinBitcoin\r\n has bounced back following a \"perfect storm\" this week, helping by a shock BlackRock bombshell that could trigger bitcoin price chaos.\r\nSubscribe now to Forbes' CryptoAsset &amp; Blo… [+3812 chars]"
     }
   ]
 }
