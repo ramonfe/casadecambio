@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Suspect gets new charges of using forged papers, having criminal proceeds",
+      "Description": "Lin Baoying told the court she intended to plead guilty and asked for an early date to do so.",
+      "Url": "https://www.channelnewsasia.com/singapore/money-laundering-billion-dollar-lin-baoying-new-charges-plead-guilty-4351131",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--mXclgcqV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/lin_baoying.png?itok=N4AxQIZa",
+      "PublishedAt": "2024-05-21T03:23:05Z",
+      "Content": "SINGAPORE: Lin Baoying, the only woman among 10 suspects in Singapore's multibillion-dollar money-laundering investigation, was on Tuesday (May 21) handed seven new charges.\r\nThe new charges are rela… [+2441 chars]"
+    },
     {
       "Source": {
         "Id": "fortune",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/04/30b8d018-729e-48ca-9f05-dc54af657cc5/thumbnail/1200x630/3f57855a9b1c339fa321b32421b678f4/0503-en-hartman2.jpg?v=1d6c78a71b7b6252b543a329b3a5744d",
       "PublishedAt": "2024-05-04T00:50:15Z",
       "Content": "Baton Rouge, Louisiana — Matt Busbice and his partners have built and sold several outdoor companies worth hundreds of millions of dollars. But Busbice, the 42-year-old owner of sporting goods store … [+2115 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "INDIA RUPEE-Rupee climbs on broad interbank dollar offers, dip in US yields",
-      "Description": "(marketscreener.com) The Indian rupee rose on\nFriday aided by broad-based offers to sell dollars by local and\nforeign banks and a dip in U.S. bond yields.\n The rupee was at 83.3450 against the U.S. dollar as\nof 10:25 a.m. IST, up 0.1% from its previous close …",
-      "Url": "https://www.marketscreener.com/quote/currency/EURO-US-DOLLAR-EUR-USD-4591/news/INDIA-RUPEE-Rupee-climbs-on-broad-interbank-dollar-offers-dip-in-US-yields-46613490/",
-      "UrlToImage": "https://www.marketscreener.com/images/reuters/2016-06-20T075720Z_1_LYNXNPEC5J0FF_RTROPTP_2_GLOBAL-FOREX.JPG",
-      "PublishedAt": "2024-05-03T04:58:18Z",
-      "Content": "MUMBAI, May 3 (Reuters) - The Indian rupee rose on\r\nFriday aided by broad-based offers to sell dollars by local and\r\nforeign banks and a dip in U.S. bond yields.\r\nThe rupee was at 83.3450 against the… [+1517 chars]"
     }
   ]
 }
