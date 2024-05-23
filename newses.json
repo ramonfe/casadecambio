@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso pierde ante el fortalecimiento global del dólar",
+      "Description": "Forbes México.\n Peso pierde ante el fortalecimiento global del dólar\n\nEl peso cotizaba en 16.6524 por dólar, con una pérdida de 0.19% frente al precio de referencia de Reuters del martes.\nPeso pierde ante el fortalecimiento global del dólar\nForbes Staff",
+      "Url": "https://www.forbes.com.mx/peso-pierde-ante-el-fortalecimiento-global-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
+      "PublishedAt": "2024-05-22T14:35:49Z",
+      "Content": "El peso se depreciaba este miércoles ante un fortalecimiento global del dólar debido a la cautela de los inversores que aguardan la divulgación más tarde de las minutas del más reciente encuentro de … [+970 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 22 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este miércoles 22 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-22-de-mayo-nid22052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-se-fortalece-frente-al-peso-mexicano-en-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-22T14:32:58Z",
+      "Content": "Este miércoles 22 de mayo, el precio del dólar en México es de $16,6138, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2300 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/gQAKVCfxKcG7wCXi7AdhP_0liZY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MA7UGW34PBAWZKQK7GBV7HTIOA.jpg",
       "PublishedAt": "2024-05-08T17:00:09Z",
       "Content": "Luego de algunos comentarios restrictivos por parte de uno de los oficiales de la Reserva Federal, el dólar estadounidense se la devolvió' al peso mexicano en la sesión de este miércoles 8 de mayo.\r\n… [+1720 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 8 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este miércoles 8 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-8-de-mayo-nid08052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-en-mexico-para-hoy-PNHG734HP5BIRHQ5JRBGRD76RA.jpg?auth=ccc52f21db057836042124995e048d8a715317bd91cd242fc16960af29117b47&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-08T15:45:07Z",
-      "Content": "Este miércoles 8 de mayo, el precio del dólar en México es de $16,8647, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de … [+2122 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante avance global del dólar; BMV cae por segunda sesión",
-      "Description": "Forbes México.\n Peso retrocede ante avance global del dólar; BMV cae por segunda sesión\n\nEl peso cotizaba en 16.95 pesos por dólar, con un retroceso de 0.44 por ciento en su segunda jornada de pérdidas.\nPeso retrocede ante avance global del dólar; BMV cae por…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-avance-global-del-dolar-bmv-cae-por-segunda-sesion/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-1.webp",
-      "PublishedAt": "2024-05-08T14:49:09Z",
-      "Content": "El peso se depreciaba este miércoles ante un avance global del dólar mientras los inversionistas aguardan las participaciones de varios funcionarios de la Reserva Federal (Fed) estadunidense en el tr… [+1264 chars]"
     }
   ]
 }
