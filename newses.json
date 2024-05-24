@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "El dólar baja levemente en la apertura tras fuerte avance de la víspera a la espera de anuncio del Banco Central",
+      "Description": "La divisa caía a pesar de que el cobre vive una tercera jornada consecutiva a la baja.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-8g28n",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240523/imag/foto_0000000120240523083404/384690718.jpg",
+      "PublishedAt": "2024-05-23T12:50:00Z",
+      "Content": "El precio del dólar en Chile comenzó su jornada de jueves con un leve retroceso en línea con una caída internacional de la divisa, en medio de las recalibraciones de las expectativas del mercado resp… [+1967 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-ultimas-cifras-sobre-el-precio-del-dolar-en-XMUCHJ5MHFHAPJ23PV3GSZL5M4.jpg?auth=2c625f9564247b06d5b5b2716ec7624fc4296f0891dca3b4b01b95aa07d4a2e0&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-09T15:05:29Z",
       "Content": "Este jueves 9 de mayo, el precio del dólar en México es de $16,9087, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2020 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se ‘acalora’ ante el dólar: Se cotiza en 16.93 unidades por comentarios de la Fed",
-      "Description": "Además del peso mexicano, entre las monedas que pierden contra el dólar están el rand sudafricano y el real brasileño.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/08/peso-dolar-precio-hoy-8-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/gQAKVCfxKcG7wCXi7AdhP_0liZY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MA7UGW34PBAWZKQK7GBV7HTIOA.jpg",
-      "PublishedAt": "2024-05-08T17:00:09Z",
-      "Content": "Luego de algunos comentarios restrictivos por parte de uno de los oficiales de la Reserva Federal, el dólar estadounidense se la devolvió' al peso mexicano en la sesión de este miércoles 8 de mayo.\r\n… [+1720 chars]"
     }
   ]
 }
