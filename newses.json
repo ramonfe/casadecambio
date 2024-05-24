@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 23 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este jueves 23 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-23-de-mayo-nid23052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-este-jueves-23-de-SJHJQQB565BJXDA4XB6O4NEL4A.jpg?auth=7f7a3c22b7f252fd78daf448eaca7643277a4d227ca6ab26fc3aedfbabf00d1b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-23T14:12:45Z",
+      "Content": "Este jueves 23 de mayo, el precio del dólar en México es de $16,6405, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2161 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714904.jpg&wm=1&ang=0",
       "PublishedAt": "2024-05-09T22:47:48Z",
       "Content": "03 MIN 30 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (09 mayo 2024) .-16:45 hrs"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 9 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este jueves 9 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-9-de-mayo-nid09052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-ultimas-cifras-sobre-el-precio-del-dolar-en-XMUCHJ5MHFHAPJ23PV3GSZL5M4.jpg?auth=2c625f9564247b06d5b5b2716ec7624fc4296f0891dca3b4b01b95aa07d4a2e0&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-09T15:05:29Z",
-      "Content": "Este jueves 9 de mayo, el precio del dólar en México es de $16,9087, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un … [+2020 chars]"
     }
   ]
 }
