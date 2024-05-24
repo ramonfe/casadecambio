@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Sol Amaya",
+      "Title": "¿Por qué la moneda de Costa Rica adquirió valor frente al dólar?",
+      "Description": "(CNN Español) -- Después del pico más alto en el tipo de cambio del colón para la venta con respecto al dólar, que se dio el 23 de junio de 2022 cuando rozó los 700 colones, la moneda costarricense experimentó una apreciación sostenida que ha beneficiado a se…",
+      "Url": "https://cnnespanol.cnn.com/2024/05/23/moneda-costa-rica-valor-dolar-orix/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2021/12/thumb_110657-e1716486066778.jpeg?quality=100&strip=info",
+      "PublishedAt": "2024-05-23T17:42:03Z",
+      "Content": "(CNN Español) -- Después del pico más alto en el tipo de cambio del colón para la venta con respecto al dólar, que se dio el 23 de junio de 2022 cuando rozó los 700 colones, la moneda costarricense e… [+4742 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-del-dolar-en-mexico-para-hoy-P26HH3HHUVDZLLCKFES556KZ2M.jpg?auth=e0270c6db0110f6f52922a72f28795652bd097f6d48b81bc46c084dc6c6d8d02&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-10T14:13:43Z",
       "Content": "Este viernes 10 de mayo, el precio del dólar en México es de $16,8660, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de u… [+2118 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso gana ante debilitamiento del dólar y tono restrictivo de Banxico",
-      "Description": "Forbes México.\n Peso gana ante debilitamiento del dólar y tono restrictivo de Banxico\n\nEl dólar se ubicó en 16.7926 pesos, una apreciación de 0.61% para la moneda nacional, de acuerdo con cifras del banco central.\nPeso gana ante debilitamiento del dólar y ton…",
-      "Url": "https://www.forbes.com.mx/peso-gana-ante-debilitamiento-del-dolar-y-tono-restrictivo-de-banxico/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2024-05-10T00:02:54Z",
-      "Content": "El peso se apreció este jueves debido a un debilitamiento generalizado del dólar, y tras un anuncio de política monetaria de Banxico que fue leído por el mercado como más restrictivo.\r\nEl dólar se ub… [+3465 chars]"
     }
   ]
 }
