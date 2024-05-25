@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 45,
+  "TotalResults": 46,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Daniel Ziffer",
+      "Title": "Reserve Bank of Asbestos — Inside a billion-dollar horror renovation",
+      "Description": "Renovating the Reserve Bank's headquarters is increasingly looking like a disastrous episode of home building show Grand Designs. The key difference? The budget for the horror reno is now north of $1 billion.",
+      "Url": "https://www.abc.net.au/news/2024-05-25/rba-billion-dollar-horror-renovation-martin-place-asbestos/103871056",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/482db896150f7f518dfc9256ddad91b8?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
+      "PublishedAt": "2024-05-24T19:22:12Z",
+      "Content": "<ul><li>In short: Australia's most expensive office renovation is underway at the Reserve Bank's headquarters in Martin Place, Sydney. They've found \"four to five times\" more dangerous asbestos than … [+7378 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/bank-employee-.jpg",
       "PublishedAt": "2024-05-05T17:04:15Z",
       "Content": "An employee at a billion-dollar bank has reportedly been arrested and accused of stealing money from the account of a deceased customer.\r\nLatia Wynn of Wilmington, Delaware, was arrested by police fo… [+1749 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Swiss National Bank Cuts Stock Position in Dollar Tree, Inc. (NASDAQ:DLTR)",
-      "Description": "Swiss National Bank trimmed its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 3.0% during the 4th quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission. The institutional investor owned 653,581 shares o…",
-      "Url": "https://www.etfdailynews.com/2024/05/05/swiss-national-bank-cuts-stock-position-in-dollar-tree-inc-nasdaqdltr/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
-      "PublishedAt": "2024-05-05T13:10:53Z",
-      "Content": "Swiss National Bank trimmed its holdings in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 3.0% during the 4th quarter, according to its most recent Form 13F filing with the Securities &amp; Exchan… [+6070 chars]"
     }
   ]
 }
