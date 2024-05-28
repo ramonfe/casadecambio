@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "Peso ‘le echa ganas’ en lunes de poca liquidez: Cotiza en 16.65 unidades por dólar",
+      "Description": "El dólar se vende en 17.17 unidades por billete en ventanillas, de acuerdo con Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/27/peso-dolar-hoy-27-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Aedk6ulQEsZTVxFmaYPfqjlbBRQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YNXTWEL7SBGYLJLP63WBINCVMU.jpeg",
+      "PublishedAt": "2024-05-27T17:20:51Z",
+      "Content": "El peso mexicano inicia la semana con una apreciación frente al dólar, con lo que se afianza por debajo de las 17 unidades en la última semana de mayo.\r\nA las 9:00 horas, tiempo de la Ciudad de Méxic… [+1796 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/fD-MJJQsohrNsGBPRjNXrFeVSxI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5GEBAUIFV5CMXNWLSAYCEP47J4.jpg",
       "PublishedAt": "2024-05-13T15:53:11Z",
       "Content": "El peso mexicano opera con lateralidad ante el dólar en el comienzo de esta semana bursátil, al tiempo que los inversionistas se preparan para conocer el reporte de inflación para la economía de EU d… [+1537 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes lunes 13 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa para este lunes 13 de mayo de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-lunes-13-de-mayo-nid13052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-ultimas-noticias-sobre-el-precio-del-dolar-en-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-13T14:26:52Z",
-      "Content": "Este lunes 13 de mayo, el precio del dólar en México es de $16,769, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un p… [+2083 chars]"
     }
   ]
 }
