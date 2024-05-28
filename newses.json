@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 27 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 27 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-27-de-mayo-nid27052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lunes-27-de-EV2MKK27YZDUTEXASUY7E4FJEM.jpg?auth=e1f8969e8a925a896858c74240410f2747f83f3a24e51370a37b6a9fee9468ec&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-27T13:38:49Z",
+      "Content": "Este lunes 27 de mayo, el precio del dólar en México es de $16,7053, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a un… [+2498 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-ultimas-noticias-sobre-el-precio-del-dolar-en-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-13T14:26:52Z",
       "Content": "Este lunes 13 de mayo, el precio del dólar en México es de $16,769, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un p… [+2083 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BBC News"
-      },
-      "Author": "https://www.facebook.com/bbcnews",
-      "Title": "El bancor, el proyecto de moneda global cuyo fracaso permitió la hegemonía del dólar",
-      "Description": "Al acercarse el final de la Segunda Guerra Mundial, Estados Unidos y Gran Bretaña rediseñaron las bases de la economía global. Una de las ideas más revolucionarias fue descartada",
-      "Url": "https://www.bbc.com/mundo/articles/cyj304l3g8jo",
-      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/b5f3/live/2120f970-0379-11ef-82e8-cd354766a224.jpg",
-      "PublishedAt": "2024-05-12T10:07:43Z",
-      "Content": "Fuente de la imagen, Getty Images\r\nPie de foto, El dólar es la moneda de referencia mundial, pero la historia pudo haber sido diferente. \r\nArticle information\r\nEn el verano de 1944, cuando un mundo e… [+12586 chars]"
     }
   ]
 }
