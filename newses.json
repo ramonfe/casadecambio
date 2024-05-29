@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 28 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 28 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-28-de-mayo-nid28052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ultimos-registros-el-valor-del-dolar-en-mexico-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-28T14:01:56Z",
+      "Content": "Este martes 28 de mayo, el precio del dólar en México es de $16,6568, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2265 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/actualizacion-financiera-la-cotizacion-del-dolar-A5KOF4T7EFB4JMHXFYQFF467SM.jpg?auth=d242d00a05d806ef2b6ef0526edaa767ce08b3bd664d01cefae37df33fa13c90&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-14T14:13:58Z",
       "Content": "Este martes 14 de mayo, el precio del dólar en México es de $16,8072, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2508 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso está ‘mimido’ ante el dólar: Se cotiza en 16.80 unidades a la espera de dato de inflación en EU",
-      "Description": "Las monedas emergentes, como el peso mexicano, podrían verse afectadas si el dato de inflación en Estados Unidos es mayor a los pronósticos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/13/peso-dolar-precio-hoy-13-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/fD-MJJQsohrNsGBPRjNXrFeVSxI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5GEBAUIFV5CMXNWLSAYCEP47J4.jpg",
-      "PublishedAt": "2024-05-13T15:53:11Z",
-      "Content": "El peso mexicano opera con lateralidad ante el dólar en el comienzo de esta semana bursátil, al tiempo que los inversionistas se preparan para conocer el reporte de inflación para la economía de EU d… [+1537 chars]"
     }
   ]
 }
