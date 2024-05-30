@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Tipo de cambio roza los $17 por dólar previo a Elecciones",
+      "Description": "El peso se deprecia ante un avance general del dólar, con lo que el tipo de cambio opera en $16.95 en el mercado global previo a Elecciones.",
+      "Url": "https://www.reforma.com/tipo-de-cambio-roza-los-17-por-dolar-previo-a-elecciones/ar2815776",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714906.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-05-29T15:02:33Z",
+      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (29 mayo 2024) .-08:39 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-acunada-en-1943-es-furor-entre-los-M664HRM355FSJPHJ6YS4GWBKC4.jpg?auth=a170183ad34795ad599abf73b60a3ade517c49eab343ad7b9d78f56cae752498&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-14T19:54:38Z",
       "Content": "En el mundo de la numismática, la historia detrás de una moneda puede convertirla en una verdadera joya para los coleccionistas. Eso es exactamente lo que sucede con un centavo que tiene la imagen de… [+1863 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se resbala’: Tipo de cambio se ubica en 16.87 unidades por dólar",
-      "Description": "El dólar se vende por abajo de las 18 unidades por billete verde en ventanillas bancarias, según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/14/peso-dolar-hoy-14-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/R3D3em34GqepL0h0haLgx4dzKn0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ILDDZPRYAFFOZMFLURABDDT5BY.jpg",
-      "PublishedAt": "2024-05-14T17:27:41Z",
-      "Content": "El peso mexicano amplía sus pérdidas frente al dólar, ante la expectativa de que el día de mañana la inflación al consumidor en Estados Unidos retome su senda decreciente lo que elevaría las apuestas… [+1622 chars]"
     }
   ]
 }
