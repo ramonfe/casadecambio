@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cae ante un avance global del dólar; BMV retrocede con atención a la Fed",
+      "Description": "Forbes México.\n Peso cae ante un avance global del dólar; BMV retrocede con atención a la Fed\n\nEl peso cotizaba en 16.9030 por dólar, con un retroceso de 0.73% frente al precio de referencia de Reuters del martes.\nPeso cae ante un avance global del dólar; BMV…",
+      "Url": "https://www.forbes.com.mx/peso-cae-ante-un-avance-global-del-dolar-bmv-retrocede-con-atencion-a-la-fed/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
+      "PublishedAt": "2024-05-29T14:59:03Z",
+      "Content": "El peso se depreciaba este miércoles ante un avance global del dólar mientras los inversores aguardan nuevos comentarios de autoridades de la Reserva Federal estadounidense (Fed) en busca de pistas s… [+2003 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/R3D3em34GqepL0h0haLgx4dzKn0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ILDDZPRYAFFOZMFLURABDDT5BY.jpg",
       "PublishedAt": "2024-05-14T17:27:41Z",
       "Content": "El peso mexicano amplía sus pérdidas frente al dólar, ante la expectativa de que el día de mañana la inflación al consumidor en Estados Unidos retome su senda decreciente lo que elevaría las apuestas… [+1622 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 14 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 14 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-14-de-mayo-nid14052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/actualizacion-financiera-la-cotizacion-del-dolar-A5KOF4T7EFB4JMHXFYQFF467SM.jpg?auth=d242d00a05d806ef2b6ef0526edaa767ce08b3bd664d01cefae37df33fa13c90&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-14T14:13:58Z",
-      "Content": "Este martes 14 de mayo, el precio del dólar en México es de $16,8072, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex es de un… [+2508 chars]"
     }
   ]
 }
