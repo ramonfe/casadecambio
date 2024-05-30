@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 29 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este miércoles 29 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-29-de-mayo-nid29052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-las-ultimas-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-29T16:59:29Z",
+      "Content": "Este miércoles 29 de mayo, el precio del dólar en México es de $16,7457, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2439 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/las-reservas-del-bcra-superaron-los-39000-7DZTQLN3NBDEBGYDLOSHPHVVKM.jpg?auth=799a58b16b15f0e8eca9082335f29eb5bac9966c77df5af59a9521abd7ebda34&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-14T20:10:36Z",
       "Content": "El Banco Central (BCRA) sumó hoy a sus reservas por intervenciones sobre el mercado cambiario local otros US$142 millones, cifra que le permite acumular un saldo de US$1350 millones en lo que va del … [+3442 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Así es la increíble moneda de un centavo de dólar que podría valer hasta US$1,7 millones",
-      "Description": "Se trata de un ejemplar que data del siglo pasado y rompe récords en los sitios de subasta; se acuñaron menos de 20; cómo reconocer una de estas piezas que todavía están en circulación",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/asi-es-la-increible-moneda-de-un-centavo-de-dolar-que-podria-valer-hasta-us17-millones-nid14052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-acunada-en-1943-es-furor-entre-los-M664HRM355FSJPHJ6YS4GWBKC4.jpg?auth=a170183ad34795ad599abf73b60a3ade517c49eab343ad7b9d78f56cae752498&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-14T19:54:38Z",
-      "Content": "En el mundo de la numismática, la historia detrás de una moneda puede convertirla en una verdadera joya para los coleccionistas. Eso es exactamente lo que sucede con un centavo que tiene la imagen de… [+1863 chars]"
     }
   ]
 }
