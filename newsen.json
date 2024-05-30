@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Investing.com",
+      "Title": "Dollar price forecast: JPMorgan shares their 2024 outlook",
+      "Description": "Dollar price forecast: JPMorgan shares their 2024 outlook",
+      "Url": "https://www.investing.com/news/forex-news/dollar-price-forecast-jpmorgan-shares-their-2024-outlook-3461018",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEF2Q19D_L.jpg",
+      "PublishedAt": "2024-05-29T12:49:59Z",
+      "Content": "As we approach the second half of 2024, investors are keenly eyeing currency movements for indicators of how the forex market could shape up over the next few months. \r\nIn this context, JPMorgan has … [+4132 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "INDIA RUPEE-Rupee to cling to 83.50/USD amid resurgent dollar, central bank support",
-      "Description": "(marketscreener.com) The Indian rupee is expected\nto open little changed and hold a narrow range on Wednesday amid\ndollar strength and a central bank that is likely to intervene.\n Non-deliverable forwards indicate the rupee will\nopen barely changed from its c…",
-      "Url": "https://www.marketscreener.com/quote/stock/BANK-OF-INDIA-LIMITED-9743081/news/Rupee-to-cling-to-83-50-USD-amid-resurgent-dollar-central-bank-support-46657176/",
-      "UrlToImage": "https://www.marketscreener.com/images/reuters/2023-10/2023-10-20T102825Z_1_LYNXMPEJ9J0H1_RTROPTP_3_INDIA-RUPEE-FX-SWAP.JPG",
-      "PublishedAt": "2024-05-08T02:53:39Z",
-      "Content": "MUMBAI (Reuters) - The Indian rupee is expected to open little changed and hold a narrow range on Wednesday amid dollar strength and a central bank that is likely to intervene.\r\nNon-deliverable forwa… [+1535 chars]"
     }
   ]
 }
