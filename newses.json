@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza tras debilitamiento global del dólar; BMV retrocede",
+      "Description": "Forbes México.\n Peso avanza tras debilitamiento global del dólar; BMV retrocede\n\nEl peso cotizaba en 16.9510 por dólar, con un marginal retroceso de 0.02% frente al precio de referencia de Reuters del miércoles, después de llegar a debilitarse más temprano ha…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-tras-debilitamiento-global-del-dolar-bmv-retrocede/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/ahorro_dinero-e1696015334287-1024x576.png",
+      "PublishedAt": "2024-05-30T15:04:23Z",
+      "Content": "El peso borraba este jueves sus perdidas iniciales ante un debilitamiento global del dólar después de que se dio a conocer que la economía estadounidense creció en el primer trimestre a un ritmo meno… [+1254 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-reboto-tras-la-baja-en-la-tasa-de-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-15T16:22:53Z",
       "Content": "Luego de que el Banco Central anunciara una nueva baja en las tasas de interés, el mercado cambiario reaccionó con un rebote en las cotizaciones financieras. Mientras el Gobierno ratifica que mantend… [+2622 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante debilitamiento global del dólar; BMV gana",
-      "Description": "Forbes México.\n Peso avanza ante debilitamiento global del dólar; BMV gana\n\nEl peso cotizaba en 16.7710 por dólar, con una ganancia de 0.37% frente al precio de referencia de Reuters del martes.\nPeso avanza ante debilitamiento global del dólar; BMV gana\nForbe…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-ante-debilitamiento-global-del-dolar-bmv-gana/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-05-15T15:37:29Z",
-      "Content": "El peso se apreciaba este miércoles luego de dos sesiones de pérdidas, ante un debilitamiento global del dólar tras conocer cifras de inflación y de las ventas al por menor en Estados Unidos que impu… [+2081 chars]"
     }
   ]
 }
