@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Woman gets 15 months' jail, forfeits S$154 million in seized assets",
+      "Description": "Lin Baoying, the only woman among the 10 people charged, pleaded guilty to money laundering and fraudulently using a forged document.",
+      "Url": "https://www.channelnewsasia.com/singapore/lin-baoying-billion-dollar-money-laundering-case-jail-forged-documents-4374381",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--mXclgcqV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/lin_baoying.png?itok=N4AxQIZa",
+      "PublishedAt": "2024-05-30T14:19:57Z",
+      "Content": "Between April 2020 and October 2020, Lin submitted forged documents to various financial institutions in Singapore, in response to their queries on the source of her funds.\r\nThis included submitting … [+1073 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.insider.com/663b0905b4abc992e8c6c63a?width=1200&format=jpeg",
       "PublishedAt": "2024-05-08T09:39:02Z",
       "Content": "Robust Chinese gold buying has sent prices of the precious metal to record highs.Reuters\r\n<ul><li>China's economy is struggling, leading to a surge in gold purchases as a safe-haven asset.</li><li>Ce… [+3353 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
