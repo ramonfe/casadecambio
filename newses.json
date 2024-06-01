@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 31 de mayo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 31 de mayo",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-31-de-mayo-nid31052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-05-31T14:35:25Z",
+      "Content": "Este viernes 31 de mayo, el precio del dólar en México es de $16,9377, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2508 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-05-15T23:01:07Z",
       "Content": "El peso se apreció este miércoles tras la publicación de datos económicos en EU que crecieron la especulación de que la Reserva Federal empezaría a recortar su tasa de interés clave antes de que conc… [+1291 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso, ‘maestro’ del dólar en la quincena: Se aprecia más de 1% por dato de inflación en EU",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/15/peso-dolar-precio-hoy-15-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/1DDbgQN8feFnYO2BfF-j6OjroOc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/XOKDJHZBUZCDHG42LTSSOYGIR4.jpg",
-      "PublishedAt": "2024-05-15T16:37:05Z",
-      "Content": "El peso mexicano registra avances contra el dólar este 15 de mayo después de que el dato de inflación en Estados Unidos se desaceleró durante abril, lo que aumenta las probabilidades de que la Reserv… [+1812 chars]"
     }
   ]
 }
