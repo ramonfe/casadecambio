@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 48,
+  "TotalResults": 49,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Daily Hodl Staff",
+      "Title": "30,000,000 Customers’ Data Allegedly Exposed and on Sale After Trillion-Dollar Bank Suffers Massive Data Breach: Report",
+      "Description": "An infamous hacker group says it’s behind a breach at one of the world’s largest banks. The notorious group ShinyHunters says it’s responsible for a new data breach at Santander, claiming personal information from 30 million customers is now for sale. The gro…",
+      "Url": "https://dailyhodl.com/2024/05/31/30000000-customers-data-allegedly-exposed-and-on-sale-after-trillion-dollar-bank-suffers-massive-data-breach-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/bank-dollar-breach.jpg",
+      "PublishedAt": "2024-05-31T20:31:11Z",
+      "Content": "An infamous hacker group says it’s behind a breach at one of the world’s largest banks.\r\nThe notorious group ShinyHunters says it’s responsible for a new data breach at Santander, claiming personal i… [+1409 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -376,19 +389,6 @@
       "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
       "Description": null,
       "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_acb2f6f3-12c1-46cd-a60d-141aed8c067c",
-      "UrlToImage": null,
-      "PublishedAt": "2024-05-08T09:39:02Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_559912c0-38ea-49e7-b051-2cce4c03c7a9",
       "UrlToImage": null,
       "PublishedAt": "2024-05-08T09:39:02Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
