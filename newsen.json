@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 47,
+  "TotalResults": 48,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Nigeria will launch diaspora dollar bond in Q3 - Finance Minister",
+      "Description": "(marketscreener.com) Nigeria will launch a\ndiaspora bond in the third quarter, the country's Finance\nMinister Olawale Edun told Reuters, and said the government was\nstill committed to abolishing fuel subsidies.\n The bond would be issued locally but denominate…",
+      "Url": "https://www.marketscreener.com/news/latest/Nigeria-will-launch-diaspora-dollar-bond-in-Q3-Finance-Minister-46874128/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2024-05-31T11:00:00Z",
+      "Content": "LONDON/LAGOS, May 31 (Reuters) - Nigeria will launch a\r\ndiaspora bond in the third quarter, the country's Finance\r\nMinister Olawale Edun told Reuters, and said the government was\r\nstill committed to … [+2111 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-05-08T09:39:02Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Huileng Tan",
-      "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
-      "Description": "Not just China, but other central banks including Turkey and India are loading up on gold, amid a stronger US dollar.",
-      "Url": "https://www.businessinsider.com/dedollarization-usd-strong-china-pboc-central-banks-buy-gold-inflation-2024-5",
-      "UrlToImage": "https://i.insider.com/663b0905b4abc992e8c6c63a?width=1200&format=jpeg",
-      "PublishedAt": "2024-05-08T09:39:02Z",
-      "Content": "Robust Chinese gold buying has sent prices of the precious metal to record highs.Reuters\r\n<ul><li>China's economy is struggling, leading to a surge in gold purchases as a safe-haven asset.</li><li>Ce… [+3353 chars]"
     }
   ]
 }
