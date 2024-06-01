@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "Ni modo que no se mueva: Peso arranca ‘tablas’ ante el dólar",
+      "Description": "El peso lleva una semana a la baja, justo antes de las elecciones del próximo domingo 2 de junio donde México escogerá a su primera presidenta.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/31/peso-dolar-precio-hoy-31-de-mayo-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Gc9eHpaD5m6lDuDTgxCVkw4PtKE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ODFJOBOCOJAGHIXACCAQBBHC7Q.jpg",
+      "PublishedAt": "2024-05-31T17:03:12Z",
+      "Content": "El peso mexicano está casi tablas frente al dólar en la última jornada de mayo, en momentos que el mercado recibió los datos de inflación en Estados Unidos y espera las elecciones presidenciales en M… [+1676 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ultimas-noticias-sobre-el-valor-del-dolar-en-56PRKMAQTVA63LMRTA4VGTMKNM.jpg?auth=fa8cd1c73e5b8685564641572225cd4c927d67ffc99d85d1236ce5874289274d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-16T13:08:32Z",
       "Content": "Este jueves 16 de mayo, el precio del dólar en México es de $16,8072, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2467 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Debilitamiento del dólar tras dato de inflación en EU favorece al peso",
-      "Description": "Forbes México.\n Debilitamiento del dólar tras dato de inflación en EU favorece al peso\n\nEl peso avanza tras la publicación de datos que crecen la especulación de que la Fed empezaría a recortar su tasa antes de que acabe el año.\nDebilitamiento del dólar tras …",
-      "Url": "https://www.forbes.com.mx/debilitamiento-del-dolar-tras-dato-de-inflacion-en-eu-favorece-al-peso/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-05-15T23:01:07Z",
-      "Content": "El peso se apreció este miércoles tras la publicación de datos económicos en EU que crecieron la especulación de que la Reserva Federal empezaría a recortar su tasa de interés clave antes de que conc… [+1291 chars]"
     }
   ]
 }
