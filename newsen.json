@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendhunter.com"
+      },
+      "Author": "Michael Hemsworth",
+      "Title": "Savvy Personal Finance Platforms - 'Savewise' Personal Finance Tools Helps Maximize Every Dollar (TrendHunter.com)",
+      "Description": "(TrendHunter.com) The &#8216;Savewise' personal finance tools are a series of solutions for consumers to help them maximize the amount of money they can spend, get the most value possible for what they spend...",
+      "Url": "https://www.trendhunter.com/trends/personal-finance-tools",
+      "UrlToImage": "https://cdn.trendhunterstatic.com/thumbs/535/personal-finance-tools.jpeg?auto=webp",
+      "PublishedAt": "2024-05-31T22:53:03Z",
+      "Content": "The 'Savewise' personal finance tools are a series of solutions for consumers to help them maximize the amount of money they can spend, get the most value possible for what they spend and feel more c… [+569 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-109951184,width-1200,height-630,imgsize-202678,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2024-05-08T11:24:54Z",
       "Content": "Muthoot Finance has raised $650 million through US dollar-denominated bonds, with global investors showing firm demand for the debt issued by the domestic gold financing heavyweight.The non-banking f… [+2011 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_acb2f6f3-12c1-46cd-a60d-141aed8c067c",
-      "UrlToImage": null,
-      "PublishedAt": "2024-05-08T09:39:02Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
