@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "John Tamny, Contributor, \n John Tamny, Contributor\n https://www.forbes.com/sites/johntamny/",
+      "Title": "Dollar Stability - Not Dollarization - Is the Fix for Javier Milei",
+      "Description": "What on earth does government decreeing the dollar as the currency of exchange have to do with free markets?",
+      "Url": "https://www.forbes.com/sites/johntamny/2024/06/01/dollar-price-stability-not-dollarization-is-the-fix-for-argentina/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/657b31e88371512f464691f3/0x0.jpg?format=jpg&crop=2258,1269,x0,y115,safe&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2024-06-01T14:00:00Z",
+      "Content": "In his 2001 book The Elusive Quest for Growth, former World Bank officer William Easterly showed readers what a billion Argetine pesos in the 1950s had shrunk to by the 1990s. What was once a fortune… [+3842 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-05-08T17:39:02Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Bhaskar Dutta",
-      "Title": "Muthoot Finance raises $650 million through US dollar bonds",
-      "Description": "The non-banking financial company raised the funds through bonds maturing in three years and nine months at a coupon rate – or rate of interest – of 7.125%. The funds will be used for onward lending and other activities that are allowed under the Reserve Bank…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/muthoot-finance-raises-650-million-through-us-dollar-bonds/articleshow/109951203.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-109951184,width-1200,height-630,imgsize-202678,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-05-08T11:24:54Z",
-      "Content": "Muthoot Finance has raised $650 million through US dollar-denominated bonds, with global investors showing firm demand for the debt issued by the domestic gold financing heavyweight.The non-banking f… [+2011 chars]"
     }
   ]
 }
