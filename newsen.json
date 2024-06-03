@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 51,
+  "TotalResults": 52,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Aja McClanahan",
+      "Title": "How I Make Money On the Side Using Supplies From Dollar Tree",
+      "Description": "Check out these ideas to make money from Dollar Tree items. You can craft, resell or even engage in retail arbitrage. Here are some tips to get started.",
+      "Url": "https://finance.yahoo.com/news/money-side-using-supplies-dollar-000030177.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/4JGpbRDCFdj0fy7SqQKBdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/3ab0cb20edaa27c94030b7e1c9dd7ecc",
+      "PublishedAt": "2024-06-02T00:00:30Z",
+      "Content": "RiverNorthPhotography / iStock.com\r\nWhats more fun than buying items from the local Dollar Tree? Buying products you can turn around and flip for profit, of course! Weve scoured Pinterest, Etsy, and … [+4589 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/H2.cHOA6ZUcVwtK.U8P8ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/13e69230-0d4f-11ef-b7b7-7b09e6ceec1b",
       "PublishedAt": "2024-05-09T11:46:34Z",
       "Content": "The pound was lower on Thursday as the Bank of England kept interest rates on hold at 5.25%. Above, governor Andrew Bailey. (Kim Chen)\r\nThe pound (GBPUSD=X) fell against the dollar on Thursday as the… [+2440 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "The US dollar is so strong that China's central bank, among others, just keeps loading up on gold",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a4287ec-baec-4a2a-befa-cd45e635b34a",
-      "UrlToImage": null,
-      "PublishedAt": "2024-05-08T17:39:02Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
