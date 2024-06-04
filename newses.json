@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el volumen negociado no repunta y afecta al nivel de compras del Banco Central",
+      "Description": "Por la plaza oficial se operaron apenas US$228,1 millones hoy: US$59 millones fueron a las arcas del ente monetario que enfrenta el riesgo de tener que comenzar a devolver la parte del swap chino gastado por la gestión de Alberto Fernández",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-volumen-negociado-no-repunta-y-afecta-al-nivel-de-compras-del-banco-central-nid03062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-7GXEWWSTDFH4XHZYOYPE76WAVY.jpg?auth=7a2cc6e555c5613cf348976910661454807ec70f9d5f8173af98772f6380b095&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-03T21:28:39Z",
+      "Content": "La dinámica que viene mostrando el mercado cambiario oficial en las últimas semanas hizo que muchos analistas volvieran a poner el foco en la evolución de las reservas, una tenencia cuya recuperación… [+3867 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/GjTGrxR-J47Yw3KOTEMHr21Gh3Y=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WA7EIVVTBVBNFG7QGF4SCZASFE.jpg",
       "PublishedAt": "2024-05-20T17:05:24Z",
       "Content": "El peso mexicano arranca la semana bursátil con ganancias frente al dólar, acercándose al piso de las 16.50 unidades mientras los inversionistas asimilan una serie de datos sobre el desempeño de la e… [+2457 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 20 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 20 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-20-de-mayo-nid20052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-20T14:01:19Z",
-      "Content": "Este lunes 20 de mayo, el precio del dólar en México es de $16,6217, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a un… [+2181 chars]"
     }
   ]
 }
