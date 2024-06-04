@@ -5,6 +5,32 @@
   "Articles": [
     {
       "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Pamela Heaven",
+      "Title": "Posthaste: What happened to the Canadian dollar the last time the Bank of Canada and Fed parted ways",
+      "Description": "Watch out below for a falling loonie",
+      "Url": "https://financialpost.com/news/bank-of-canada-fed-divergence-could-hit-canadian-dollar",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/canadian-dollar-2-0603-ph.jpg",
+      "PublishedAt": "2024-06-03T11:58:14Z",
+      "Content": "The divergence between Bank of Canada and Federal Reserve interest rates will put pressure on the Canadian dollar. Photo by Jonathan Hayward /The Canadian Press\r\nArticle content\r\nThe Bank of Canada a… [+9690 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Three men deported to Japan, Cambodia",
+      "Description": "Five of the eight people convicted in the case have now been deported from Singapore.",
+      "Url": "https://www.channelnewsasia.com/singapore/3-deported-japan-cambodia-billion-dollar-money-laundering-case-4380856",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--whYzgGGc--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/06/02/img_0908.jpg?itok=NCLbRjyL",
+      "PublishedAt": "2024-06-02T14:26:18Z",
+      "Content": "Su Baolin, 42, pleaded guilty to three out of 13 charges and was sentenced to 14 months' jail in April. Two charges were related to money laundering while the other was for making false representatio… [+1484 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "Yahoo Entertainment"
       },
@@ -366,32 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/02/chase-jpmorgan-deposits-bank.jpg",
       "PublishedAt": "2024-05-13T16:50:55Z",
       "Content": "A US lender is facing separate class action lawsuits over a security incident that exposed thousands of customers’ personal identifiable information (PII).\r\nPlaintiffs for the lawsuits say Centennial… [+1996 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "Billion-Dollar Bank Prepares for $450,000,000 Fine From US Government for Failing To Effectively Detect, Report, and Respond to Suspicious Activity",
-      "Description": "Banking giant Toronto Dominion (TD) is preparing to pay nearly half a billion dollars in penalties over an inadequate anti-money laundering (AML) program. In an announcement, TD says it has set aside an initial provision of $450 million to pay the US governme…",
-      "Url": "https://dailyhodl.com/2024/05/12/billion-dollar-bank-prepares-for-450000000-fine-from-us-government-for-failing-to-effectively-detect-report-and-respond-to-suspicious-activity/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/10/bank-jpmorgan-dollars.jpg",
-      "PublishedAt": "2024-05-13T00:04:30Z",
-      "Content": "Banking giant Toronto Dominion (TD) is preparing to pay nearly half a billion dollars in penalties over an inadequate anti-money laundering (AML) program.\r\nIn an announcement, TD says it has set asid… [+1282 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "LaToya Harding",
-      "Title": "Pound falls against dollar after Bank of England interest rate news",
-      "Description": "Money markets are forecasting a 55% chance the bank rate will be cut by a quarter of a percentage point at its next meeting.",
-      "Url": "https://uk.finance.yahoo.com/news/pound-dollar-interest-rate-bank-of-england-114634719.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/H2.cHOA6ZUcVwtK.U8P8ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/13e69230-0d4f-11ef-b7b7-7b09e6ceec1b",
-      "PublishedAt": "2024-05-09T11:46:34Z",
-      "Content": "The pound was lower on Thursday as the Bank of England kept interest rates on hold at 5.25%. Above, governor Andrew Bailey. (Kim Chen)\r\nThe pound (GBPUSD=X) fell against the dollar on Thursday as the… [+2440 chars]"
     }
   ]
 }
