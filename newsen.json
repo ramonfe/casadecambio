@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Traders prep for weaker Canadian dollar as Bank of Canada weighs cuts",
+      "Description": "The Bank of Canada will likely reduce interest rates before the U.S. Federal Reserve and traders are bracing for a weaker loonie. Read on.",
+      "Url": "https://financialpost.com/news/economy/bank-canada-weighs-cuts-traders-weaker-loonie",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/0605-bc-money.jpg",
+      "PublishedAt": "2024-06-04T19:12:05Z",
+      "Content": "Traders are bracing for weakness in the Canadian dollar amid wagers that local policymakers will likely reduce interest rates before their peers at the United States Federal Reserve.\r\nThat rate diffe… [+3299 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-05-17T11:01:10Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Suspect gets 6 new charges over fake property sale, loan agreement papers",
-      "Description": "SINGAPORE: Su Jianfeng, one of the 10 suspects involved in Singapore's billion-dollar money laundering probe, was on Thursday (May 16) slapped with six new charges. The fresh charges are related to his alleged fraudulent submission of forged documents to bank…",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-su-jianfeng-new-charges-4340726",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--atjNGpkQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/su_jianfeng.png?itok=9KfOsjim",
-      "PublishedAt": "2024-05-16T09:25:00Z",
-      "Content": "In another charge, Su allegedly used the same method for the sale of \"Residences_E2 Property Number 2302\" to a Lin Zhenghu, and submitted the contract to Maybank Singapore.\r\nIt involved a deposit of … [+765 chars]"
     }
   ]
 }
