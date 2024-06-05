@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 50,
+  "TotalResults": 51,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Bank of Nova Scotia Grows Stock Holdings in Dollar General Co. (NYSE:DG)",
+      "Description": "Bank of Nova Scotia increased its stake in Dollar General Co. (NYSE:DG – Free Report) by 228.3% during the 4th quarter, according to its most recent disclosure with the Securities and Exchange Commission. The fund owned 78,274 shares of the company’s stock af…",
+      "Url": "https://www.etfdailynews.com/2024/06/04/bank-of-nova-scotia-grows-stock-holdings-in-dollar-general-co-nysedg/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
+      "PublishedAt": "2024-06-04T11:24:56Z",
+      "Content": "Bank of Nova Scotia increased its stake in Dollar General Co. (NYSE:DG – Free Report) by 228.3% during the 4th quarter, according to its most recent disclosure with the Securities and Exchange Commis… [+6757 chars]"
+    },
     {
       "Source": {
         "Id": "time",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/uq6n7SylW6VRwU46_8mBiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTc-/https://media.zenfs.com/en/the-standard-times/27387134927704fc65b91cd0145b12da",
       "PublishedAt": "2024-05-16T08:08:20Z",
       "Content": "NEW BEDFORD - Mayor Jon Mitchell's $536.3 million proposed budget delivers \"material\" funding increases to the school and police departments.\r\nMitchell said that otherwise increases were modest when … [+3412 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Sixth suspect jailed, forfeits largest sum yet of S$180 million",
-      "Description": "Vang Shuiming surrendered about 90 per cent of the assets seized from him, including apartments in Clarke Quay and Beach Road.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-vang-shuiming-jailed-forfeits-180-million-4334671",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--G9aGLNnb--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/vang_shuiming.png?itok=DjeNs1cT",
-      "PublishedAt": "2024-05-14T12:17:14Z",
-      "Content": "When Vang was nabbed in a Good Class Bungalow along Bishopsgate in Tanglin on Aug 15, 2023, he had funds totalling about S$2.42 million across four Singapore bank accounts.\r\nThe funds were suspected … [+2663 chars]"
     }
   ]
 }
