@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Nervios’ se apoderan del peso: Rebasa techo de las 18 unidades ante el dólar",
+      "Description": "",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/04/peso-dolar-precio-hoy-4-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/qjOw2s-xp6oQfQ5PrgkgNfs-5Ws=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WHBDD73T4FEI5GJDDSCZF3A4AE.jpg",
+      "PublishedAt": "2024-06-04T15:41:33Z",
+      "Content": "El peso mexicano rebasó momentáneamente el techo de las 18 unidades por dólar tras una conferencia en la que Rogelio Ramírez de la O, secretario de Hacienda, trató de calmar a los mercados tras el lu… [+2665 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-se-fortalece-frente-al-peso-mexicano-en-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-22T14:32:58Z",
       "Content": "Este miércoles 22 de mayo, el precio del dólar en México es de $16,6138, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2300 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 21 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 21 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-21-de-mayo-nid21052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/seguimiento-del-mercado-cambiario-el-valor-del-G4ZEPDXD4NCVFFY7VMQQIVMWQA.jpg?auth=5094b03c22f9b98403bb121c90ecfc1d46b66d6adb89250b2a8ab68661dbf73b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-21T17:24:56Z",
-      "Content": "Este martes 21 de mayo, el precio del dólar en México es de $16,5667, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2024 chars]"
     }
   ]
 }
