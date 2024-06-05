@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: sigue en baja la oferta y se achican más las compras de reservas del Banco Central",
+      "Description": "El volumen operado hoy por la plaza oficial fue el menor en más de cuatro meses y medio: apenas hubo negocios de contado por US$172 millones, el nivel más bajo desde el 15 de enero",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-sigue-en-baja-la-oferta-y-se-achican-mas-las-compras-de-reservas-del-bcra-nid04062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/se-trata-ademas-de-una-cifra-246percent-menor-a-L6RRDLPRUZDXBHVY6ETYAZOOCQ.jpg?auth=dcf006ea1343c6bd13830173adce44dbe6fb93dd52120925a7d05d7475116d7b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-04T21:05:28Z",
+      "Content": "La oferta de dólares cursada por la plaza cambiario oficial tocó hoy un nuevo mínimo en cuatro meses y medio: apenas hubo negocios de contado por US$172 millones, el nivel más bajo desde el 15 de ene… [+5621 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2024-05-22T14:35:49Z",
       "Content": "El peso se depreciaba este miércoles ante un fortalecimiento global del dólar debido a la cautela de los inversores que aguardan la divulgación más tarde de las minutas del más reciente encuentro de … [+970 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 22 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este miércoles 22 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-22-de-mayo-nid22052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-se-fortalece-frente-al-peso-mexicano-en-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-22T14:32:58Z",
-      "Content": "Este miércoles 22 de mayo, el precio del dólar en México es de $16,6138, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2300 chars]"
     }
   ]
 }
