@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Y al tercer día, ‘resucitó': Peso mexicano gana más de 30 centavos ante el dólar",
+      "Description": "El peso mexicano cayó con fuerza debido al temor que corrió entre los inversionistas por la 'supermayoría' de Morena en el Congreso.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/05/peso-dolar-precio-hoy-5-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/YhpK3BIXLyg6GHXSoswzDACSM0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TN6XQVYXXZD5TJGQTZQQBGSHFA.jpg",
+      "PublishedAt": "2024-06-05T16:10:56Z",
+      "Content": "¡Resucitó, resucitó, el peso mexicano revivió! Después de dos días en los que acumuló una pérdida de más de 80 centavos y tocó su peor nivel en 4 años, la moneda nacional por fin se aprecia contra el… [+1749 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-este-jueves-23-de-SJHJQQB565BJXDA4XB6O4NEL4A.jpg?auth=7f7a3c22b7f252fd78daf448eaca7643277a4d227ca6ab26fc3aedfbabf00d1b&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-23T14:12:45Z",
       "Content": "Este jueves 23 de mayo, el precio del dólar en México es de $16,6405, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2161 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "El dólar baja levemente en la apertura tras fuerte avance de la víspera a la espera de anuncio del Banco Central",
-      "Description": "La divisa caía a pesar de que el cobre vive una tercera jornada consecutiva a la baja.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-8g28n",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240523/imag/foto_0000000120240523083404/384690718.jpg",
-      "PublishedAt": "2024-05-23T12:50:00Z",
-      "Content": "El precio del dólar en Chile comenzó su jornada de jueves con un leve retroceso en línea con una caída internacional de la divisa, en medio de las recalibraciones de las expectativas del mercado resp… [+1967 chars]"
     }
   ]
 }
