@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Bloomberg",
+      "Title": "Esperan que tipo de cambio regrese a los $17 por dólar",
+      "Description": "Prevén que peso se recuperará a 17 por dólar en los próximos meses luego que cayera 5% en dos días por resultado sorpresivo de elecciones.",
+      "Url": "https://www.reforma.com/esperan-que-tipo-de-cambio-regrese-a-los-17-por-dolar/ar2819901",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/633/5632891.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-06-05T15:23:52Z",
+      "Content": "El peso cotizaba alrededor de 17.5 por dólar este miércoles por la mañana, fortaleciéndose un 2 por ciento y recortando algunas de las pérdidas de esta semana. Crédito: Especial"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240523/imag/foto_0000000120240523083404/384690718.jpg",
       "PublishedAt": "2024-05-23T12:50:00Z",
       "Content": "El precio del dólar en Chile comenzó su jornada de jueves con un leve retroceso en línea con una caída internacional de la divisa, en medio de las recalibraciones de las expectativas del mercado resp… [+1967 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso pierde ante el fortalecimiento global del dólar",
-      "Description": "Forbes México.\n Peso pierde ante el fortalecimiento global del dólar\n\nEl peso cotizaba en 16.6524 por dólar, con una pérdida de 0.19% frente al precio de referencia de Reuters del martes.\nPeso pierde ante el fortalecimiento global del dólar\nForbes Staff",
-      "Url": "https://www.forbes.com.mx/peso-pierde-ante-el-fortalecimiento-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-05-22T14:35:49Z",
-      "Content": "El peso se depreciaba este miércoles ante un fortalecimiento global del dólar debido a la cautela de los inversores que aguardan la divulgación más tarde de las minutas del más reciente encuentro de … [+970 chars]"
     }
   ]
 }
