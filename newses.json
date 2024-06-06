@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 5 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este 5 de junio",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-5-de-junio-nid05062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-05T17:49:00Z",
+      "Content": "Este miércoles 5 de junio, el precio del dólar en México es de $17,0177, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2081 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ejusRRyK8T4TN91NPiF1tiY0fpc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QHS6NLFYL5G4BMHQLIMBKNJREA.jpg",
       "PublishedAt": "2024-05-23T16:30:29Z",
       "Content": "A pesar de que el peso mexicano registró ganancias tras la publicación del dato de inflación en mayo, la moneda no sostuvo sus avance y pierde contra el dólar en la sesión de este jueves 23 de mayo. … [+1229 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 23 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este jueves 23 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-23-de-mayo-nid23052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-este-jueves-23-de-SJHJQQB565BJXDA4XB6O4NEL4A.jpg?auth=7f7a3c22b7f252fd78daf448eaca7643277a4d227ca6ab26fc3aedfbabf00d1b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-23T14:12:45Z",
-      "Content": "Este jueves 23 de mayo, el precio del dólar en México es de $16,6405, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2161 chars]"
     }
   ]
 }
