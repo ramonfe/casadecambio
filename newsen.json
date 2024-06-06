@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Dollar edges up ahead of key data, Bank of Canada policy meeting",
+      "Description": "(marketscreener.com) The dollar rose ahead of key U.S.\neconomic data on Wednesday, with investors also waiting for a\nmonetary policy meeting in Canada that could set off a rate\ncutting cycle.\n Investors are looking out for U.S. services data on\nWednesday, and…",
+      "Url": "https://www.marketscreener.com/news/latest/Dollar-edges-up-ahead-of-key-data-Bank-of-Canada-policy-meeting-46909032/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "PublishedAt": "2024-06-05T11:05:11Z",
+      "Content": "June 5 (Reuters) - The dollar rose ahead of key U.S.\r\neconomic data on Wednesday, with investors also waiting for a\r\nmonetary policy meeting in Canada that could set off a rate\r\ncutting cycle.\r\nInves… [+3585 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/664b3431253de8dbee352aba.jpg",
       "PublishedAt": "2024-05-20T11:29:59Z",
       "Content": "ANKARA\r\nThere has been an unprecedented improvement in the Central Bank of Türkiyes dollar reserves, Finance Minister imek said on Monday.\r\nThe Central Bank's daily balance sheet shows an improvement… [+1711 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "5 Dollar Tree Items To Buy To Save Money This Memorial Day",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5a6db93-05f8-4b60-a76b-ad065712bcb5",
-      "UrlToImage": null,
-      "PublishedAt": "2024-05-18T16:01:27Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
