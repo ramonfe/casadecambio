@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Dollar finds footing as Bank of Canada weighs rate cut",
+      "Description": "(marketscreener.com) The dollar steadied on\nWednesday, ahead of a policy meeting in Canada that traders have\nbet will begin the cutting cycle for some of the world's biggest\neconomies.\n The Bank of Canada meets a day ahead of a European Central\nBank meeting o…",
+      "Url": "https://www.marketscreener.com/quote/currency/INDIAN-RUPEE-US-DOLLAR-IN-2373570/news/Dollar-finds-footing-as-Bank-of-Canada-weighs-rate-cut-46905271/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "PublishedAt": "2024-06-05T05:35:57Z",
+      "Content": "SINGAPORE, June 5 (Reuters) - The dollar steadied on\r\nWednesday, ahead of a policy meeting in Canada that traders have\r\nbet will begin the cutting cycle for some of the world's biggest\r\neconomies.\r\nT… [+2907 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -378,19 +391,6 @@
       "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5a6db93-05f8-4b60-a76b-ad065712bcb5",
       "UrlToImage": null,
       "PublishedAt": "2024-05-18T16:01:27Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Dollar Tree: 7 Best New Seasonal Items for Your Money in May",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_11203d44-a7b3-4110-8692-d4f73311a149",
-      "UrlToImage": null,
-      "PublishedAt": "2024-05-17T11:01:10Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
