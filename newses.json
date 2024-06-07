@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Marcela Vélez-Plickert",
+      "Title": "Las bolsas, el dólar y el euro estables antes de la decisión de tasas del BCE",
+      "Description": "El mercado da por sentado que hoy, por primera vez, el BCE recortará su tasa de interés de referencia antes que la Reserva Federal.",
+      "Url": "https://www.df.cl/primer-click/las-bolsas-el-dolar-y-el-euro-estables-antes-de-la-decision-de-tasas",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240606/imag/foto_0000000220240606061551/pcfoto.jpg",
+      "PublishedAt": "2024-06-06T11:30:00Z",
+      "Content": "El Banco Central Europeo se prepara para hacer historia. El mercado da por sentado que hoy, por primera vez, el BCE recortará su tasa de interés de referencia antes que la Reserva Federal. Se espera … [+3805 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2021/12/thumb_110657-e1716486066778.jpeg?quality=100&strip=info",
       "PublishedAt": "2024-05-23T17:42:03Z",
       "Content": "(CNN Español) -- Después del pico más alto en el tipo de cambio del colón para la venta con respecto al dólar, que se dio el 23 de junio de 2022 cuando rozó los 700 colones, la moneda costarricense e… [+4742 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Inflación ‘poncha’ avances del peso contra el dólar: Se cotiza en las 16.72 unidades",
-      "Description": "La inflación en México se aceleró por tercera quincena consecutiva, según datos del Inegi.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/23/peso-dolar-precio-hoy-23-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ejusRRyK8T4TN91NPiF1tiY0fpc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QHS6NLFYL5G4BMHQLIMBKNJREA.jpg",
-      "PublishedAt": "2024-05-23T16:30:29Z",
-      "Content": "A pesar de que el peso mexicano registró ganancias tras la publicación del dato de inflación en mayo, la moneda no sostuvo sus avance y pierde contra el dólar en la sesión de este jueves 23 de mayo. … [+1229 chars]"
     }
   ]
 }
