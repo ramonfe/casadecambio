@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 6 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este 6 de junio",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-6-de-junio-nid06062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-jueves-6-de-F3QHP5NJGVEWRJGVMBGPY4O6SI.jpg?auth=aa56bff6d3ed9baa61d3ba4f43a7f0e42c9617c5c48cfa96c154921bfe752953&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-06T16:04:17Z",
+      "Content": "Este jueves 6 de junio, el precio del dólar en México es de $17,5592, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2354 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/CQ8ytjHLlpQd_EX895I5wqPQ00U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/254CLEPRYBD6HAVMVOLQXBVUEE.jpg",
       "PublishedAt": "2024-05-24T16:27:23Z",
       "Content": "El peso mexicano presenta correcciones y regresa al terreno de las ganancias ante el dólar este 24 de mayo, debido a una mayor especulación sobre qué hará la Fed con su tasa de interés.\r\nLa apreciaci… [+1463 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 24 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes  24 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-24-de-mayo-nid24052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-24-de-CZNZXJXVDJGH7OV2NMW6XLSXTY.jpg?auth=07b2406b82b9b7cb34274822f0dddbb19ce719b800f272828fd431ce5004cc27&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-24T14:12:26Z",
-      "Content": "Este viernes 24 de mayo, el precio del dólar en México es de $16,6945, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2383 chars]"
     }
   ]
 }
