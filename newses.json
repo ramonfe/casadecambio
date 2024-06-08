@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 7 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este 7 de junio",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-7-de-junio-nid07062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-7-de-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-07T14:32:29Z",
+      "Content": "Este viernes 7 de junio, el precio del dólar en México es de $17,5335, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2240 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ultimos-registros-el-valor-del-dolar-en-mexico-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-28T14:01:56Z",
       "Content": "Este martes 28 de mayo, el precio del dólar en México es de $16,6568, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2265 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Peso ‘le echa ganas’ en lunes de poca liquidez: Cotiza en 16.65 unidades por dólar",
-      "Description": "El dólar se vende en 17.17 unidades por billete en ventanillas, de acuerdo con Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/27/peso-dolar-hoy-27-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Aedk6ulQEsZTVxFmaYPfqjlbBRQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YNXTWEL7SBGYLJLP63WBINCVMU.jpeg",
-      "PublishedAt": "2024-05-27T17:20:51Z",
-      "Content": "El peso mexicano inicia la semana con una apreciación frente al dólar, con lo que se afianza por debajo de las 17 unidades en la última semana de mayo.\r\nA las 9:00 horas, tiempo de la Ciudad de Méxic… [+1796 chars]"
     }
   ]
 }
