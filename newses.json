@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Cae el Peso frente al dólar",
+      "Description": "El dólar subió 47 centavos, a 17.99 pesos, después del anuncio de que Morena y aliados buscarán sacar adelante reformas pendientes de AMLO.",
+      "Url": "https://www.reforma.com/cae-el-peso-frente-al-dolar/ar2821002",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/739/5738999.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-06-07T11:00:47Z",
+      "Content": "El Peso rompió el techo de los 18 pesos después del anuncio de que Morena y aliados buscarán sacar adelante reformas pendientes de AMLO. Crédito: Especial"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Aedk6ulQEsZTVxFmaYPfqjlbBRQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YNXTWEL7SBGYLJLP63WBINCVMU.jpeg",
       "PublishedAt": "2024-05-27T17:20:51Z",
       "Content": "El peso mexicano inicia la semana con una apreciación frente al dólar, con lo que se afianza por debajo de las 17 unidades en la última semana de mayo.\r\nA las 9:00 horas, tiempo de la Ciudad de Méxic… [+1796 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 27 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 27 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-27-de-mayo-nid27052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lunes-27-de-EV2MKK27YZDUTEXASUY7E4FJEM.jpg?auth=e1f8969e8a925a896858c74240410f2747f83f3a24e51370a37b6a9fee9468ec&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-27T13:38:49Z",
-      "Content": "Este lunes 27 de mayo, el precio del dólar en México es de $16,7053, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a un… [+2498 chars]"
     }
   ]
 }
