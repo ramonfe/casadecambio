@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Tipo de cambio supera la barrera de 18 pesos por dólar",
+      "Description": "El valor del peso se debilitó al cierre de la semana, afectado por la publicación de datos sobre el mercado laboral en Estados Unidos, que apuntan a retrasar un ajuste en las tasas de interés, y comentarios en México, por segundo día consecutivo, sobre una pr…",
+      "Url": "https://www.jornada.com.mx/2024/06/08/economia/013n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-06-08T08:49:47Z",
+      "Content": "Periódico La JornadaSábado 8 de junio de 2024, p. 13\r\nEl valor del peso se debilitó al cierre de la semana, afectado por la publicación de datos sobre el mercado laboral en Estados Unidos, que apunta… [+4571 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
       "PublishedAt": "2024-05-29T14:59:03Z",
       "Content": "El peso se depreciaba este miércoles ante un avance global del dólar mientras los inversores aguardan nuevos comentarios de autoridades de la Reserva Federal estadounidense (Fed) en busca de pistas s… [+2003 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 28 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 28 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-28-de-mayo-nid28052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ultimos-registros-el-valor-del-dolar-en-mexico-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-28T14:01:56Z",
-      "Content": "Este martes 28 de mayo, el precio del dólar en México es de $16,6568, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2265 chars]"
     }
   ]
 }
