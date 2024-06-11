@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "JOSÉ MARÍA RODRÍGUEZ",
+      "Title": "El euro/dólar pierde soportes y activa una figura bajista",
+      "Description": "Con la vista puesta, principalmente, en el dato de inflación del mes de mayo de los Estados Unidos, el miércoles. Pero a media sesión el Euro Stoxx 50 cae un 1,5%, el Dax un...",
+      "Url": "https://www.expansion.com/mercados/2024/06/10/6666ced2468aeb95658b4574.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/3f719d1c32bb6452ede98aefd8b73594/crop/758x0/1913x770/f/webp/assets/multimedia/imagenes/2024/06/10/17180139110521.jpg",
+      "PublishedAt": "2024-06-10T10:28:37Z",
+      "Content": "En teoría todo hacía pensar que la primera mitad de la semana en los mercados iba a ser de mera transición.Con la vista puesta, principalmente, en el dato de inflación del mes de mayo de los Estados … [+353 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714906.jpg&wm=1&ang=0",
       "PublishedAt": "2024-05-29T15:02:33Z",
       "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (29 mayo 2024) .-08:39 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cae ante un avance global del dólar; BMV retrocede con atención a la Fed",
-      "Description": "Forbes México.\n Peso cae ante un avance global del dólar; BMV retrocede con atención a la Fed\n\nEl peso cotizaba en 16.9030 por dólar, con un retroceso de 0.73% frente al precio de referencia de Reuters del martes.\nPeso cae ante un avance global del dólar; BMV…",
-      "Url": "https://www.forbes.com.mx/peso-cae-ante-un-avance-global-del-dolar-bmv-retrocede-con-atencion-a-la-fed/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0102.jpg",
-      "PublishedAt": "2024-05-29T14:59:03Z",
-      "Content": "El peso se depreciaba este miércoles ante un avance global del dólar mientras los inversores aguardan nuevos comentarios de autoridades de la Reserva Federal estadounidense (Fed) en busca de pistas s… [+2003 chars]"
     }
   ]
 }
