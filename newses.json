@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Silvia Rodríguez",
+      "Title": "El peso inicia la semana con una depreciación; así cotiza por dólar",
+      "Description": "Forbes México.\n El peso inicia la semana con una depreciación; así cotiza por dólar\n\nPersiste la aversión al riesgo por posibles reformas constitucionales, pero también tras las elecciones parlamentarias en Europa.\nEl peso inicia la semana con una depreciació…",
+      "Url": "https://www.forbes.com.mx/el-peso-inicia-la-semana-con-una-depreciacion-asi-cotiza-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-mexicano.webp",
+      "PublishedAt": "2024-06-10T14:40:56Z",
+      "Content": "El peso inicia la semana con una depreciación de 0.65%, por lo que sigue la tendencia alcista que inició la semana pasada, debido al entorno de aversión al riesgo que inició tras los comicios del 2 d… [+2201 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-las-ultimas-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-29T16:59:29Z",
       "Content": "Este miércoles 29 de mayo, el precio del dólar en México es de $16,7457, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2439 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Tipo de cambio roza los $17 por dólar previo a Elecciones",
-      "Description": "El peso se deprecia ante un avance general del dólar, con lo que el tipo de cambio opera en $16.95 en el mercado global previo a Elecciones.",
-      "Url": "https://www.reforma.com/tipo-de-cambio-roza-los-17-por-dolar-previo-a-elecciones/ar2815776",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714906.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-05-29T15:02:33Z",
-      "Content": "01 MIN 30 SEG\r\nReuters\r\nCd. de México (29 mayo 2024) .-08:39 hrs"
     }
   ]
 }
