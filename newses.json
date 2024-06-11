@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 10 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este 10 de junio",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-10-de-junio-nid10062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-en-mexico-asi-cotiza-la-moneda-este-lunes-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-10T15:16:43Z",
+      "Content": "Este lunes 10 de junio, el precio del dólar en México es de $18,2622, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2190 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bi5NjynceVYq0OshVJjn1H53cag=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FANR5DE2LVHB3AGJM5XSB7XOLI.jpg",
       "PublishedAt": "2024-05-29T17:17:30Z",
       "Content": "El peso mexicano extiende sus pérdidas frente al dólar estadounidense por segunda sesión consecutiva y roza las 17 unidades, algo que no ha sucedido desde el 30 de abril.\r\nLa depreciación del peso es… [+1964 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 29 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este miércoles 29 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-29-de-mayo-nid29052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-las-ultimas-J4AYBXPNHRE4JAXKI5QA7MD7TM.jpg?auth=2217616d3116a0a65360dad58bd35e6829f22650708b1a8b4891b70936d07e34&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-29T16:59:29Z",
-      "Content": "Este miércoles 29 de mayo, el precio del dólar en México es de $16,7457, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2439 chars]"
     }
   ]
 }
