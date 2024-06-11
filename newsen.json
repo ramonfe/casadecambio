@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 37,
+  "TotalResults": 38,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Melody Heald",
+      "Title": "‘You can literally use stuff from the Dollar Store’: Man shares how to fix foggy headlights with Dollar Store baking soda",
+      "Description": "Over time, exposure to the sun’s UV rays, along with other residue like debris, can cause a car’s headlights to become foggy. This can be dangerous, making it difficult to see while driving and difficult for other cars to see you while they're driving. \n\n\nPop…",
+      "Url": "https://www.dailydot.com/news/foggy-headlights-baking-soda-hack/",
+      "UrlToImage": "https://uploads.dailydot.com/2024/06/dollar-store-cleaning-products.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2024-06-10T14:00:00Z",
+      "Content": "Over time, exposure to the suns UV rays, along with other residue like debris, can cause a cars headlights to become foggy. This can be dangerous, making it difficult to see while driving and difficu… [+4222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1236664891.jpg?resize=1200,600",
       "PublishedAt": "2024-05-20T17:44:51Z",
       "Content": "That has the Fed keeping a close eye on the risks of de-dollarization and how it could impact American consumers and businesses.\r\nThere has been for some time been commentary predicting that the doll… [+3249 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hurriyet Daily News"
-      },
-      "Author": "hurriyetdailynews.com",
-      "Title": "Central Bank dollar reserves improving, says Şimşek",
-      "Description": "There has been an unprecedented improvement in the Central Bank of Türkiye’s dollar reserves, Finance Minister Şimşek said on Monday.",
-      "Url": "https://www.hurriyetdailynews.com/central-bank-dollar-reserves-improving-says-simsek-193730",
-      "UrlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/664b3431253de8dbee352aba.jpg",
-      "PublishedAt": "2024-05-20T11:29:59Z",
-      "Content": "ANKARA\r\nThere has been an unprecedented improvement in the Central Bank of Türkiyes dollar reserves, Finance Minister imek said on Monday.\r\nThe Central Bank's daily balance sheet shows an improvement… [+1711 chars]"
     }
   ]
 }
