@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central congeló otra vez al tipo de cambio mayorista y vendió reservas por tercer día consecutivo",
+      "Description": "Se desprendió de otros US$31 millones con lo que vendió en US$67 millones en tres días; tuvo saldo en rojo en seis de las última 12 ruedas",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-congelo-otra-vez-al-tipo-de-cambio-mayorista-y-vendio-reservas-por-tercer-dia-nid11062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-perdio-en-lo-que-va-del-ano-mas-de-JU2OXGGISZAXBL7QZ2F6SRTXWE.jpg?auth=f77a3219126982efceb83e77420cf1edde79bebecb42cc2fd4f65aca9061ad47&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-11T20:23:20Z",
+      "Content": "El Banco Central (BCRA) volvió hoy a vender reservas: debió desprenderse de otros US$31 millones, con lo que ya perdió mediante intervenciones sobre el mercado US$67 millones en las últimas tres rued… [+3516 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-2-de-4AKIH3WCX5EFNCNWMUZV76P4WA.jpg?auth=4b34c68a9679ddc3aeaf0ad7737560d23ea470ee0ee76296ecb517c3867024ae&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-03T02:48:12Z",
       "Content": "Este domingo 2 de junio, el precio del dólar en México es de $16,9377, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que se vende en las ventanillas del Citibanamex a un promedio … [+1825 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Silvia Rodríguez",
-      "Title": "Tras jornada electoral, el peso muestra fortaleza frente al dólar",
-      "Description": "Forbes México.\n Tras jornada electoral, el peso muestra fortaleza frente al dólar\n\nLa apreciación del peso se atribuye a que la jornada electoral en México transcurrió en relativa paz y lo más importante es que se respete la democracia en el país.\nTras jornad…",
-      "Url": "https://www.forbes.com.mx/tras-jornada-electoral-el-peso-muestra-fortaleza-frente-al-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-06-03T02:41:01Z",
-      "Content": "Poco después de dos horas de terminada la jornada electoral en México, la divisa nacional muestra fortaleza frente al dólar, se ubica en 16.94 pesos por billete verde, ligeramente por debajo de los 1… [+2038 chars]"
     }
   ]
 }
