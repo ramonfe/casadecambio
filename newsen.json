@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 38,
+  "TotalResults": 39,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Rupee caught between dollar uptick, central bank intervention",
+      "Description": "(marketscreener.com) The Indian rupee is expected to open flat on Tuesday amidst weakness in Asian peers on one hand and a central bank that does not want the currency to fall to an all-time low on the other. \n Non-deliverable forwards indicate the rupee will…",
+      "Url": "https://www.marketscreener.com/news/latest/Rupee-caught-between-dollar-uptick-central-bank-intervention-46943710/",
+      "UrlToImage": "https://www.marketscreener.com/images/reuters/2023-07/2023-07-13T024611Z_1_LYNXMPEJ6C02A_RTROPTP_3_INDIA-STOCKS-FUNDS.JPG",
+      "PublishedAt": "2024-06-11T02:48:33Z",
+      "Content": "MUMBAI (Reuters) - The Indian rupee is expected to open flat on Tuesday amidst weakness in Asian peers on one hand and a central bank that does not want the currency to fall to an all-time low on the… [+1907 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--mXclgcqV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/lin_baoying.png?itok=N4AxQIZa",
       "PublishedAt": "2024-05-21T03:23:05Z",
       "Content": "SINGAPORE: Lin Baoying, the only woman among 10 suspects in Singapore's multibillion-dollar money-laundering investigation, was on Tuesday (May 21) handed seven new charges.\r\nThe new charges are rela… [+2441 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Dylan Sloan",
-      "Title": "Fed governor highlights de-dollarization debate as concerns of global economy dropping the dollar grow: ‘The role of the U.S. economy in world finance is changing’",
-      "Description": "Russia sanctions, Chinese central bank policy are reopening long debate over the future of dollar dominance.",
-      "Url": "https://fortune.com/2024/05/20/dedollarization-dollar-dominance-fed-governor-china-russia-exchange-rates-sanctions-reserve-currency/",
-      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/05/GettyImages-1236664891.jpg?resize=1200,600",
-      "PublishedAt": "2024-05-20T17:44:51Z",
-      "Content": "That has the Fed keeping a close eye on the risks of de-dollarization and how it could impact American consumers and businesses.\r\nThere has been for some time been commentary predicting that the doll… [+3249 chars]"
     }
   ]
 }

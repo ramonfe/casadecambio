@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "¿A dónde vamos a parar? Peso puede llegar a 20 unidades por dólar por reformas de AMLO",
+      "Description": "El peso mexicano podría llegar a las 20 unidades por dólar, tras la incertidumbre de los inversionistas sobre el paquete de reformas de AMLO previo a la entrada de Claudia Sheinbaum a la presidencia.",
+      "Url": "https://www.elfinanciero.com.mx/economia/2024/06/10/a-donde-vamos-a-parar-peso-puede-llegar-a-20-unidades-por-dolar-por-reformas-de-amlo/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mA3E0nY54TsNO-S0a4Ch1I51cpQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ISB53MH2VJBZJI3Q2OX4AZGVZY.jpeg",
+      "PublishedAt": "2024-06-11T02:27:46Z",
+      "Content": "El nerviosismo en los mercados financieros ante la posible discusión del paquete de reformas constitucionales que el presidente Andrés Manuel López Obrador envió al Congreso, el pasado 5 de febrero, … [+2572 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/fbKvQNxK2mdxOEn7h6jcKbhqS3k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7IVNTDYKXFFY7G4ZH4DYYHTVKI.jpg",
       "PublishedAt": "2024-05-30T16:08:28Z",
       "Content": "El peso mexicano recorta las pérdidas frente al dólar en la jornada de este jueves, ante una debilidad generalizada del billete verde y el mercado evaluando datos sobre la economía de Estados Unidos.… [+1716 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza tras debilitamiento global del dólar; BMV retrocede",
-      "Description": "Forbes México.\n Peso avanza tras debilitamiento global del dólar; BMV retrocede\n\nEl peso cotizaba en 16.9510 por dólar, con un marginal retroceso de 0.02% frente al precio de referencia de Reuters del miércoles, después de llegar a debilitarse más temprano ha…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-tras-debilitamiento-global-del-dolar-bmv-retrocede/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/ahorro_dinero-e1696015334287-1024x576.png",
-      "PublishedAt": "2024-05-30T15:04:23Z",
-      "Content": "El peso borraba este jueves sus perdidas iniciales ante un debilitamiento global del dólar después de que se dio a conocer que la economía estadounidense creció en el primer trimestre a un ritmo meno… [+1254 chars]"
     }
   ]
 }
