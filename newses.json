@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Qué hará el Banco Central con la tasa de interés: las señales que espera el mercado para ponerle fin a la suba del dólar",
+      "Description": "La baja de tasas de interés, a mediados de mayo, terminó por empujar a los inversores hacia la dolarización de carteras; este jueves habrá reunión del directorio, tras conocerse el dato de inflación de mayo",
+      "Url": "https://www.lanacion.com.ar/economia/que-hara-el-banco-central-con-la-tasa-de-interes-las-senales-que-espera-el-mercado-para-ponerle-fin-nid11062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/actualmente-la-tasa-de-politica-monetaria-es-del-NLMFH6PJUZA3RGGXLU2Y6Y2C24.JPG?auth=5845c119b51c9d493abc5e936674c3b58e361247361901f8c8384fe5901f7865&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-11T18:34:31Z",
+      "Content": "La baja de la tasa de interés del Banco Central, que ocurrió a mediados de mayo pasado, terminó por marcar un antes y un después en el humor de los mercados. El recorte fue más brusco del esperado, u… [+5783 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-06-03T02:41:01Z",
       "Content": "Poco después de dos horas de terminada la jornada electoral en México, la divisa nacional muestra fortaleza frente al dólar, se ubica en 16.94 pesos por billete verde, ligeramente por debajo de los 1… [+2038 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Ni modo que no se mueva: Peso arranca ‘tablas’ ante el dólar",
-      "Description": "El peso lleva una semana a la baja, justo antes de las elecciones del próximo domingo 2 de junio donde México escogerá a su primera presidenta.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/31/peso-dolar-precio-hoy-31-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Gc9eHpaD5m6lDuDTgxCVkw4PtKE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ODFJOBOCOJAGHIXACCAQBBHC7Q.jpg",
-      "PublishedAt": "2024-05-31T17:03:12Z",
-      "Content": "El peso mexicano está casi tablas frente al dólar en la última jornada de mayo, en momentos que el mercado recibió los datos de inflación en Estados Unidos y espera las elecciones presidenciales en M… [+1676 chars]"
     }
   ]
 }
