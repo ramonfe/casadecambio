@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "New Zealand Herald"
+      },
+      "Author": "Thomas Coughlan",
+      "Title": "The billion dollar problems with Kāinga Ora and why plans to fix it might make the problem worse",
+      "Description": "The Government plans a radical shake-up in public housing, but some are worried.",
+      "Url": "https://www.nzherald.co.nz/nz/politics/inside-kainga-ora-what-the-government-wants-to-fix-and-why-its-solution-could-make-things-worse/36IR67UFUBCFRJMTAMXAF5BGP4/",
+      "UrlToImage": "https://www.nzherald.co.nz/resizer/v2/TMKGQWYZUNEBRGQ3GYVC2PVFNM.jpg?auth=6b68da7f00bd6de02d563137bc1730da67f535590b0920498e6e7c73c723bc1a&width=1200&height=675&quality=70&smart=true",
+      "PublishedAt": "2024-06-11T17:00:00Z",
+      "Content": "The Government landlord is in the spotlight. Photo / Nate McKinnonOn the spectrum of business models, selling something expensive to people who cant afford it lands somewhere between foolish and impo… [+28219 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-05-21T11:44:51Z",
       "Content": "Norges Bank acquired a new stake in Dollar General Co. (NYSE:DG – Free Report) in the 4th quarter, according to the company in its most recent Form 13F filing with the SEC. The institutional investor… [+6342 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Suspect gets new charges of using forged papers, having criminal proceeds",
-      "Description": "Lin Baoying told the court she intended to plead guilty and asked for an early date to do so.",
-      "Url": "https://www.channelnewsasia.com/singapore/money-laundering-billion-dollar-lin-baoying-new-charges-plead-guilty-4351131",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--mXclgcqV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/lin_baoying.png?itok=N4AxQIZa",
-      "PublishedAt": "2024-05-21T03:23:05Z",
-      "Content": "SINGAPORE: Lin Baoying, the only woman among 10 suspects in Singapore's multibillion-dollar money-laundering investigation, was on Tuesday (May 21) handed seven new charges.\r\nThe new charges are rela… [+2441 chars]"
     }
   ]
 }
