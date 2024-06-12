@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar bajó ¢8 en dos días",
+      "Description": "El tipo de cambio del dólar respecto al colón disminuyó ¢7,98 entre lunes y martes, en el Mercado de Monedas Extranjeras, tras haber cerrado el viernes pasado con un alza de ¢4,06 en comparación con el día anterior.",
+      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-bajo-8-en-dos-dias/ZISRFG7EABEA7AMK2D6J4VZTLE/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/2Rq1wtrsokWLwoH0uZlhmqNZOWo=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RWU5FO6YDZDRNPBBTM6LPCY2YE.jpg",
+      "PublishedAt": "2024-06-11T21:24:41Z",
+      "Content": "El tipo de cambio del dólar respecto al colón disminuyó ¢7,98 entre lunes y martes de esta semana, en el Mercado de Monedas Extranjeras (Monex), tras haber cerrado el viernes pasado con un aumento de… [+2903 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/kNr-B-Ah-gXewlcbqkFKbk7j8Ck=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LWVQ7SQI6RC25MHE4X4VAI27AI.jpg",
       "PublishedAt": "2024-06-03T03:18:01Z",
       "Content": "El peso mexicanose aprecia levemente frente al dólar ante los primeros resultados de salida de la elección presidencial, que dan como posible ganadora a Claudia Sheinbaum, candidata de Morena, PT y e… [+1670 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Dólar hoy, en México: a cuánto cotiza la moneda este domingo 2 de junio, día de elecciones presidenciales",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este domingo 2 de junio, día de comicios federales en el país latinoamericano",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/dolar-hoy-en-mexico-a-cuanto-cotiza-la-moneda-este-domingo-2-de-junio-dia-de-elecciones-nid02062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-2-de-4AKIH3WCX5EFNCNWMUZV76P4WA.jpg?auth=4b34c68a9679ddc3aeaf0ad7737560d23ea470ee0ee76296ecb517c3867024ae&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-03T02:48:12Z",
-      "Content": "Este domingo 2 de junio, el precio del dólar en México es de $16,9377, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que se vende en las ventanillas del Citibanamex a un promedio … [+1825 chars]"
     }
   ]
 }
