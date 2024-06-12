@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 11 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-11-de-junio-nid11062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-pequeno-le-ofrecio-el-unico-dolar-que-ASOIH47BIJDNHDDAPGD63C7AHI.jpg?auth=04c25625dd7b489fac48162c8fc219c1e5dfcec42893a83a0f6101be6310ce25&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-11T14:26:26Z",
+      "Content": "Este martes 11 de junio, el precio del dólar en México es de $18,2622, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2468 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-05-31T14:35:25Z",
       "Content": "Este viernes 31 de mayo, el precio del dólar en México es de $16,9377, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2508 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "‘Turbulencia’ para el peso antes de las elecciones 2024: ¿En cuánto se cotiza vs. el dólar?",
-      "Description": "El franco suiza, el yen japonés, la corona noruega y el dólar australiano están entre las divisas que más se aprecian este jueves ante el dólar.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/05/30/peso-dolar-precio-hoy-30-de-mayo-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/fbKvQNxK2mdxOEn7h6jcKbhqS3k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7IVNTDYKXFFY7G4ZH4DYYHTVKI.jpg",
-      "PublishedAt": "2024-05-30T16:08:28Z",
-      "Content": "El peso mexicano recorta las pérdidas frente al dólar en la jornada de este jueves, ante una debilidad generalizada del billete verde y el mercado evaluando datos sobre la economía de Estados Unidos.… [+1716 chars]"
     }
   ]
 }
