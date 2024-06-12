@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Por qué sube el dólar en México: el impacto de la conferencia de Sheinbaum",
+      "Description": "La presidenta electa señaló que la reforma constitucional al poder judicial,  presentada por el mandatario Andrés Manuel López Obrador, será de las primeras en avanzar",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/por-que-sube-el-dolar-en-mexico-el-impacto-de-la-conferencia-de-sheinbaum-nid11062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-presidenta-electa-de-mexico-claudia-sheinbaum-2OKGREL6K5D57G5XJKLVNDLRKM.jpg?auth=8e88e6cfd7f750b40d07eaab74f3bc82ef1ebbcd1c6e35ea48f9c7f085543bea&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-11T17:07:47Z",
+      "Content": "El lunes, la presidenta electa de México, Claudia Sheinbaum, ofreció una conferencia de prensa y después se reunió con el actual mandatario, Andrés Manuel López Obrador, lo que provocó volatilidad en… [+2651 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Gc9eHpaD5m6lDuDTgxCVkw4PtKE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ODFJOBOCOJAGHIXACCAQBBHC7Q.jpg",
       "PublishedAt": "2024-05-31T17:03:12Z",
       "Content": "El peso mexicano está casi tablas frente al dólar en la última jornada de mayo, en momentos que el mercado recibió los datos de inflación en Estados Unidos y espera las elecciones presidenciales en M… [+1676 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 31 de mayo",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 31 de mayo",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-31-de-mayo-nid31052024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-05-31T14:35:25Z",
-      "Content": "Este viernes 31 de mayo, el precio del dólar en México es de $16,9377, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2508 chars]"
     }
   ]
 }
