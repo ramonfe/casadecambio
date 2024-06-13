@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN/ SBH",
+      "Title": "Banxico entraría al quite si dólar si subiendo… ya va en 18.72",
+      "Description": "Según el reporte presentado el miércoles por la institución, el sistema financiero mexicano mantiene una posición sólida y de resiliencia pese a un complejo entorno global.",
+      "Url": "https://aristeguinoticias.com/1206/dinero-y-economia/banxico-entraria-al-quite-si-dolar-si-subiendo-ya-va-en-18-72/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/09/dolar-economia-moneda-estados-unidos-2-29092023.jpg",
+      "PublishedAt": "2024-06-12T22:59:09Z",
+      "Content": "El Banco de México afirmó que cuenta con recursos, y los usará en caso de ser necesario, si se agrava la volatilidad cambiaria en el país, donde los mercados siguen con preocupación la posibilidad de… [+2737 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-04T14:30:52Z",
       "Content": "Este martes 4 de junio, el precio del dólar en México es de $17,0177, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2334 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el volumen negociado no repunta y afecta al nivel de compras del Banco Central",
-      "Description": "Por la plaza oficial se operaron apenas US$228,1 millones hoy: US$59 millones fueron a las arcas del ente monetario que enfrenta el riesgo de tener que comenzar a devolver la parte del swap chino gastado por la gestión de Alberto Fernández",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-volumen-negociado-no-repunta-y-afecta-al-nivel-de-compras-del-banco-central-nid03062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-7GXEWWSTDFH4XHZYOYPE76WAVY.jpg?auth=7a2cc6e555c5613cf348976910661454807ec70f9d5f8173af98772f6380b095&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-03T21:28:39Z",
-      "Content": "La dinámica que viene mostrando el mercado cambiario oficial en las últimas semanas hizo que muchos analistas volvieran a poner el foco en la evolución de las reservas, una tenencia cuya recuperación… [+3867 chars]"
     }
   ]
 }
