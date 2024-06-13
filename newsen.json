@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 51,
+  "TotalResults": 52,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "CNBC",
+      "Title": "Dollar and euro trade halted on Russia's biggest exchange due to new U.S. sanctions",
+      "Description": "New U.S. sanctions against Russia will shut down trading in dollars and euros on its leading financial marketplace, the Moscow Exchange, the bourse and the central bank said on Wednesday. \"Due to the introduction of restrictive measures by the United States a…",
+      "Url": "https://freerepublic.com/focus/f-chat/4243906/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-12T20:18:39Z",
+      "Content": "Skip to comments.\r\nDollar and euro trade halted on Russia's biggest exchange due to new U.S. sanctionsCNBC ^\r\n | 6/12/2024\r\n | Reuters \r\nPosted on 06/12/2024 1:18:39 PM PDT by marcusmaximus\r\nNew U.S.… [+2682 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEF2Q19D_L.jpg",
       "PublishedAt": "2024-05-29T12:49:59Z",
       "Content": "As we approach the second half of 2024, investors are keenly eyeing currency movements for indicators of how the forex market could shape up over the next few months. \r\nIn this context, JPMorgan has … [+4132 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Newyorkfed.org"
-      },
-      "Author": "Patrick Douglass, Linda S. Goldberg, and Oliver Z. Hannaoui",
-      "Title": "Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves",
-      "Description": "Global central banks and finance ministries held nearly $12 trillion of foreign exchange reserves as of the end of 2023, with nearly $7 trillion composed of U.S. dollar assets. Nevertheless, a narrative has emerged that an observed decline in the share of dol…",
-      "Url": "https://libertystreeteconomics.newyorkfed.org/2024/05/taking-stock-dollar-assets-gold-and-official-foreign-exchange-reserves/",
-      "UrlToImage": "https://libertystreeteconomics.newyorkfed.org/wp-content/uploads/sites/2/2024/05/LSE_2024_understanding-dollar_goldberg_460.jpg",
-      "PublishedAt": "2024-05-28T16:11:42Z",
-      "Content": "Patrick Douglass, Linda S. Goldberg, and Oliver Z. Hannaoui\n\n\n\n\n\n\n\n\nGlobal central banks and finance ministries held nearly $12 trillion of foreign exchange reserves as of the end of 2023, with nearl… [+14343 chars]"
     }
   ]
 }
