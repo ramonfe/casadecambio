@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "Biz community",
+      "Title": "Saudi Arabia's petro-dollar exit: A global finance paradigm shift",
+      "Description": "The financial world is bracing for a significant upheaval following Saudi Arabia's decision not to renew its 50-year petro-dollar deal with the United States, which expired on Sunday, 9 June, 2024. The lapsed security agreement - signed by the United States a…",
+      "Url": "https://freerepublic.com/focus/f-news/4243820/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-12T14:02:26Z",
+      "Content": "Skip to comments.\r\nSaudi Arabia's petro-dollar exit: A global finance paradigm shiftBiz community ^\r\n | 10 June 25\r\n | Katharine Hsmilton\r\nPosted on 06/12/2024 7:02:26 AM PDT by delta7\r\nThe financial… [+7228 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/482db896150f7f518dfc9256ddad91b8?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
       "PublishedAt": "2024-05-24T19:22:12Z",
       "Content": "<ul><li>In short: Australia's most expensive office renovation is underway at the Reserve Bank's headquarters in Martin Place, Sydney. They've found \"four to five times\" more dangerous asbestos than … [+7378 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "15 months' jail for seventh man who pleaded guilty in billion-dollar money laundering case",
-      "Description": "Chen Qingyuan's 15-month jail term is the longest among those dealt with so far and is on par with Zhang Ruijin.",
-      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-seventh-man-sentenced-jail-chen-qingyuan-4357206",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--5R8Au1dt--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/chen_qingyuan.png?itok=rnsRRPix",
-      "PublishedAt": "2024-05-23T05:27:05Z",
-      "Content": "SINGAPORE: The seventh of 10 suspects to be caught up in Singapore's multibillion-dollar money laundering crackdown was on Thursday (May 23) sentenced to 15 months in jail.\r\nChen Qingyuan, a 34-year-… [+1792 chars]"
     }
   ]
 }
