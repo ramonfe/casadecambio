@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘mira al precipicio’ de las 19 unidades ante el dólar: Se deprecia 1.16%",
+      "Description": "Este mañana, el presidente Andrés Manuel López Obrador dijo que 'no habrá marcha atrás' a la reforma al Poder Judicial a pesar del nerviosismo de los mercados.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/12/peso-dolar-precio-hoy-12-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/I_qfdHSW76vcsQkieIG3xeZw4uA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CUNUQVTHCJHN3LORD6L7DB6PYI.jpg",
+      "PublishedAt": "2024-06-12T15:43:09Z",
+      "Content": "El peso mexicano intensifica su depreciación ante el dólar y coqueteó con cruzar a las 19 unidades, a pesar de que momentáneamente las cifras de inflación en Estados Unidos le beneficiaron al ubicars… [+1779 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2024-06-03T14:04:31Z",
       "Content": "Aunque en las primeras horas, tras el triunfo de Claudia Sheinbaum en las elecciones del 2 de junio por la presidencia de la República, el peso se fortaleció frente al dólar, en la madrugada del lune… [+1679 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 3 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 3 de junio",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-3-de-junio-nid03062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-el-dia-despues-de-las-ANBGMTZRW5DYFM5V5N767HZENU.jpg?auth=24bf0d887095b456e11269083ad1585ba8a76974d0ba500823e88c90dca14864&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-03T14:01:18Z",
-      "Content": "Este lunes 3 de junio, el precio del dólar en México es de $17,0177, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a un… [+2034 chars]"
     }
   ]
 }
