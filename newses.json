@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sopitas.com"
+      },
+      "Author": "Lucy Sanabria",
+      "Title": "¿Por qué el precio del dólar ha aumentado desde las elecciones 2024 en México?",
+      "Description": "Si se han dado un rol por X seguro han topado algunos tuits sobre la depreciación del peso mexa frente al mero mero billete verde, acompañados...\nThe post ¿Por qué el precio del dólar ha aumentado desde las elecciones 2024 en México? appeared first on Sopitas…",
+      "Url": "https://www.sopitas.com/noticias/dolar-precio-aumento-elecciones-2024-mexico/",
+      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/06/precio-dolar-aumento-elecciones-mexico.jpg",
+      "PublishedAt": "2024-06-12T18:45:39Z",
+      "Content": "Lo que necesitas saber:\r\nPoco después de conocer los resultados de las elecciones, el peso se fue depreciando frente al dólar.\r\nSi se han dado un rol por X seguro han topado algunos tuits sobre la de… [+4654 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/banco-7GXEWWSTDFH4XHZYOYPE76WAVY.jpg?auth=7a2cc6e555c5613cf348976910661454807ec70f9d5f8173af98772f6380b095&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-03T21:28:39Z",
       "Content": "La dinámica que viene mostrando el mercado cambiario oficial en las últimas semanas hizo que muchos analistas volvieran a poner el foco en la evolución de las reservas, una tenencia cuya recuperación… [+3867 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Silvia Rodríguez",
-      "Title": "Tras mayoría de Morena y aliados en el Congreso, peso cae y cotiza en 17.41 pesos por dólar",
-      "Description": "Forbes México.\n Tras mayoría de Morena y aliados en el Congreso, peso cae y cotiza en 17.41 pesos por dólar\n\nAnalistas estiman que con mayoría en el Congreso, Morena podría hacer cambios en la Constitución.\nTras mayoría de Morena y aliados en el Congreso, pes…",
-      "Url": "https://www.forbes.com.mx/tras-mayoria-de-morena-y-aliados-en-el-congreso-peso-cae-y-cotiza-en-17-41-pesos-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-06-03T14:04:31Z",
-      "Content": "Aunque en las primeras horas, tras el triunfo de Claudia Sheinbaum en las elecciones del 2 de junio por la presidencia de la República, el peso se fortaleció frente al dólar, en la madrugada del lune… [+1679 chars]"
     }
   ]
 }
