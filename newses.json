@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Rozó tipo de cambio 19 pesos por dólar",
+      "Description": "En una sesión marcada por la inflación de Estados Unidos, el anuncio de política monetaria de la Reserva Federal (Fed) y el seguimiento de los inversionistas al plan C, con la la nueva composición del Congreso en México para septiembre, el peso mexicano tocó …",
+      "Url": "https://www.jornada.com.mx/2024/06/13/economia/023n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-06-13T10:15:20Z",
+      "Content": "Periódico La JornadaJueves 13 de junio de 2024, p. 23\r\nEn una sesión marcada por la inflación de Estados Unidos, el anuncio de política monetaria de la Reserva Federal (Fed) y el seguimiento de los i… [+2678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-04T14:41:16Z",
       "Content": "El peso extendía este martes las fuertes pérdidas de la jornada anterior, desafiando brevemente la barrera de 18 unidades por dólar, debido a preocupaciones de los inversionistas de que una mayoría c… [+1757 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 4 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 4 de junio",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-4-de-junio-nid04062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-04T14:30:52Z",
-      "Content": "Este martes 4 de junio, el precio del dólar en México es de $17,0177, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2334 chars]"
     }
   ]
 }

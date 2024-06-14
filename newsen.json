@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": null,
+      "Title": "Russia Suspends Dollar, Euro Trade on Flagship Stock Exchange After U.S. Expands Sanctions",
+      "Description": "(marketscreener.com) \n By Mauro Orru \n\n\n Russia halted trading in U.S. dollars, the euro and Hong Kong dollars on the country's flagship stock exchange Thursday after the U.S. set out fresh sanctions aimed at further tightening the screws on Moscow's war mach…",
+      "Url": "https://www.marketscreener.com/quote/currency/US-DOLLAR-RUSSIAN-ROUBLE--2370597/news/Russia-Suspends-Dollar-Euro-Trade-on-Flagship-Stock-Exchange-After-U-S-Expands-Sanctions-46966163/",
+      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "PublishedAt": "2024-06-13T11:29:31Z",
+      "Content": "By Mauro Orru \r\nRussia halted trading in U.S. dollars, the euro and Hong Kong dollars on the country's flagship stock exchange Thursday after the U.S. set out fresh sanctions aimed at further tighten… [+727 chars]"
+    },
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": null,
+      "Title": "New US sanctions against Russia force end of dollar and euro trading on Moscow Exchange",
+      "Description": "New US sanctions against Russia have caused an immediate suspension of trading in dollars and euros on the country’s leading financial marketplace, the Moscow Exchange.",
+      "Url": "https://www.cnn.com/2024/06/13/investing/us-russia-sanctions-dollar-euro-trading/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1246478607.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-06-13T09:53:26Z",
+      "Content": "New US sanctions against Russia have causedan immediate suspension of trading in dollars and euros on the countrysleading financial marketplace, the Moscow Exchange.\r\nThe exchange, also known as MOEX… [+3316 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Bloomberg News",
+      "Title": "US Sanctions Force Moscow Exchange to Halt Dollar, Euro Trading",
+      "Description": "(Bloomberg) -- Russia’s main exchange said it’s halting trading in US dollars and the euro after President Joe Biden’s administration unveiled a raft of...",
+      "Url": "https://finance.yahoo.com/news/us-sanctions-force-moscow-exchange-081321590.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/sYTVmk4WkNN.Gryj7U2xVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://media.zenfs.com/en/bloomberg_markets_842/21335db84619ea9a4076727d296a4f94",
+      "PublishedAt": "2024-06-13T08:13:21Z",
+      "Content": "(Bloomberg) -- Russias main exchange said its halting trading in US dollars and the euro after President Joe Bidens administration unveiled a raft of measures designed to further isolate Moscow from … [+4196 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/bank-dollar-breach.jpg",
       "PublishedAt": "2024-05-31T20:31:11Z",
       "Content": "An infamous hacker group says it’s behind a breach at one of the world’s largest banks.\r\nThe notorious group ShinyHunters says it’s responsible for a new data breach at Santander, claiming personal i… [+1409 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Nigeria will launch diaspora dollar bond in Q3 - Finance Minister",
-      "Description": "(marketscreener.com) Nigeria will launch a\ndiaspora bond in the third quarter, the country's Finance\nMinister Olawale Edun told Reuters, and said the government was\nstill committed to abolishing fuel subsidies.\n The bond would be issued locally but denominate…",
-      "Url": "https://www.marketscreener.com/news/latest/Nigeria-will-launch-diaspora-dollar-bond-in-Q3-Finance-Minister-46874128/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-05-31T11:00:00Z",
-      "Content": "LONDON/LAGOS, May 31 (Reuters) - Nigeria will launch a\r\ndiaspora bond in the third quarter, the country's Finance\r\nMinister Olawale Edun told Reuters, and said the government was\r\nstill committed to … [+2111 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Woman gets 15 months' jail, forfeits S$154 million in seized assets",
-      "Description": "Lin Baoying, the only woman among the 10 people charged, pleaded guilty to money laundering and fraudulently using a forged document.",
-      "Url": "https://www.channelnewsasia.com/singapore/lin-baoying-billion-dollar-money-laundering-case-jail-forged-documents-4374381",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--mXclgcqV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/05/03/lin_baoying.png?itok=N4AxQIZa",
-      "PublishedAt": "2024-05-30T14:19:57Z",
-      "Content": "Between April 2020 and October 2020, Lin submitted forged documents to various financial institutions in Singapore, in response to their queries on the source of her funds.\r\nThis included submitting … [+1073 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Dollar price forecast: JPMorgan shares their 2024 outlook",
-      "Description": "Dollar price forecast: JPMorgan shares their 2024 outlook",
-      "Url": "https://www.investing.com/news/forex-news/dollar-price-forecast-jpmorgan-shares-their-2024-outlook-3461018",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEF2Q19D_L.jpg",
-      "PublishedAt": "2024-05-29T12:49:59Z",
-      "Content": "As we approach the second half of 2024, investors are keenly eyeing currency movements for indicators of how the forex market could shape up over the next few months. \r\nIn this context, JPMorgan has … [+4132 chars]"
     }
   ]
 }
