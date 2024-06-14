@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 13 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-13-de-junio-nid13062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-la-ciudad-de-mexico-este-6U7DEYPCVVADHH6BSNXZXQED4E.jpg?auth=5478ee2b68ff6dec8eb7904bdb4376e9375230bff8623bee1545a95d70c76b58&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-13T14:34:50Z",
+      "Content": "Este jueves 13 de junio, el precio del dólar en México es de $18,7832, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2462 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/qjOw2s-xp6oQfQ5PrgkgNfs-5Ws=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WHBDD73T4FEI5GJDDSCZF3A4AE.jpg",
       "PublishedAt": "2024-06-04T15:41:33Z",
       "Content": "El peso mexicano rebasó momentáneamente el techo de las 18 unidades por dólar tras una conferencia en la que Rogelio Ramírez de la O, secretario de Hacienda, trató de calmar a los mercados tras el lu… [+2665 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso extiende caída tras triunfo de Sheinbaum; se acerca a la barrera de 18 unidades por dólar",
-      "Description": "Forbes México.\n Peso extiende caída tras triunfo de Sheinbaum; se acerca a la barrera de 18 unidades por dólar\n\nEl peso cotizaba en 17.9415 unidades, con una depreciación de 1.5% frente al precio de referencia de Reuters del lunes, aunque más temprano llegó a…",
-      "Url": "https://www.forbes.com.mx/peso-extiende-caida-tras-triunfo-de-sheinbaum-se-acerca-a-la-barrera-de-18-unidades-por-dolar/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-04T14:41:16Z",
-      "Content": "El peso extendía este martes las fuertes pérdidas de la jornada anterior, desafiando brevemente la barrera de 18 unidades por dólar, debido a preocupaciones de los inversionistas de que una mayoría c… [+1757 chars]"
     }
   ]
 }
