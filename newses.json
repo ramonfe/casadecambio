@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘ve la luz’: Gana 1.53% ante el dólar tras tropezones",
+      "Description": "La moneda mexicana todavía se ubica por arriba de las 18 unidades por dólar este jueves.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/13/peso-dolar-precio-hoy-13-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZNrs1fiFO9qyVmrr7schHcFtA7M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/G6BLLN5WJJC7VHCBUEJIQSPXB4.jpg",
+      "PublishedAt": "2024-06-13T20:51:58Z",
+      "Content": "El peso mexicano ha comenzado a corregir su camino de ganancias frente al dólar este jueves, ayudado por factores externos como las señales de desinflación para la economía estadounidense, que apoyan… [+2069 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/633/5632891.jpg&wm=1&ang=0",
       "PublishedAt": "2024-06-05T15:23:52Z",
       "Content": "El peso cotizaba alrededor de 17.5 por dólar este miércoles por la mañana, fortaleciéndose un 2 por ciento y recortando algunas de las pérdidas de esta semana. Crédito: Especial"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: sigue en baja la oferta y se achican más las compras de reservas del Banco Central",
-      "Description": "El volumen operado hoy por la plaza oficial fue el menor en más de cuatro meses y medio: apenas hubo negocios de contado por US$172 millones, el nivel más bajo desde el 15 de enero",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-sigue-en-baja-la-oferta-y-se-achican-mas-las-compras-de-reservas-del-bcra-nid04062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/se-trata-ademas-de-una-cifra-246percent-menor-a-L6RRDLPRUZDXBHVY6ETYAZOOCQ.jpg?auth=dcf006ea1343c6bd13830173adce44dbe6fb93dd52120925a7d05d7475116d7b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-04T21:05:28Z",
-      "Content": "La oferta de dólares cursada por la plaza cambiario oficial tocó hoy un nuevo mínimo en cuatro meses y medio: apenas hubo negocios de contado por US$172 millones, el nivel más bajo desde el 15 de ene… [+5621 chars]"
     }
   ]
 }
