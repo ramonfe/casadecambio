@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "fdemott@insider.com (Filip De Mott)",
+      "Title": "Broadcom is the next stock that could enter the trillion-dollar club, according to Bank of America",
+      "Description": "Broadcom surged on Thursday after posting estimate-beating revenue and announcing a stock split. Shares could reach $2,000, Bank of America said.",
+      "Url": "https://markets.businessinsider.com/news/stocks/broadcom-stock-earnings-record-price-trillion-market-cap-ai-revenue-2024-6",
+      "UrlToImage": "https://i.insider.com/666b02c3764df16112596ec3?width=1200&format=jpeg",
+      "PublishedAt": "2024-06-13T16:25:33Z",
+      "Content": "Chip maker Broadcom looks like a contender to be the next member of the stock market's trillion-dollar club, Bank of America said Thursday. \r\nInvestors cheered the semiconductor manufacturer in Thurs… [+2040 chars]"
+    },
     {
       "Source": {
         "Id": "financial-post",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/657b31e88371512f464691f3/0x0.jpg?format=jpg&crop=2258,1269,x0,y115,safe&height=900&width=1600&fit=bounds",
       "PublishedAt": "2024-06-01T14:00:00Z",
       "Content": "In his 2001 book The Elusive Quest for Growth, former World Bank officer William Easterly showed readers what a billion Argetine pesos in the 1950s had shrunk to by the 1990s. What was once a fortune… [+3842 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendhunter.com"
-      },
-      "Author": "Michael Hemsworth",
-      "Title": "Savvy Personal Finance Platforms - 'Savewise' Personal Finance Tools Helps Maximize Every Dollar (TrendHunter.com)",
-      "Description": "(TrendHunter.com) The &#8216;Savewise' personal finance tools are a series of solutions for consumers to help them maximize the amount of money they can spend, get the most value possible for what they spend...",
-      "Url": "https://www.trendhunter.com/trends/personal-finance-tools",
-      "UrlToImage": "https://cdn.trendhunterstatic.com/thumbs/535/personal-finance-tools.jpeg?auto=webp",
-      "PublishedAt": "2024-05-31T22:53:03Z",
-      "Content": "The 'Savewise' personal finance tools are a series of solutions for consumers to help them maximize the amount of money they can spend, get the most value possible for what they spend and feel more c… [+569 chars]"
     }
   ]
 }
