@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": "financial-post",
+        "Name": "Financial Post"
+      },
+      "Author": "Bloomberg News",
+      "Title": "Russians See Little Fallout After US Sanctions Hit Dollar Exchange Trade",
+      "Description": "The latest round of US sanctions effectively ended three decades of daily exchange trading in the dollar for Russia’s ruble that first began in the twilight of the Soviet Union. Russians mostly took the news in stride.",
+      "Url": "https://financialpost.com/pmn/business-pmn/russians-see-little-fallout-after-us-sanctions-hit-dollar-exchange-trade",
+      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/ruble-rate-on-otc-market-reaches-year-high.jpg",
+      "PublishedAt": "2024-06-13T15:18:35Z",
+      "Content": "The latest round of US sanctions effectively ended three decades of daily exchange trading in the dollar for Russias ruble that first began in the twilight of the Soviet Union. Russians mostly took t… [+7491 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.trendhunterstatic.com/thumbs/535/personal-finance-tools.jpeg?auto=webp",
       "PublishedAt": "2024-05-31T22:53:03Z",
       "Content": "The 'Savewise' personal finance tools are a series of solutions for consumers to help them maximize the amount of money they can spend, get the most value possible for what they spend and feel more c… [+569 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Daily Hodl Staff",
-      "Title": "30,000,000 Customers’ Data Allegedly Exposed and on Sale After Trillion-Dollar Bank Suffers Massive Data Breach: Report",
-      "Description": "An infamous hacker group says it’s behind a breach at one of the world’s largest banks. The notorious group ShinyHunters says it’s responsible for a new data breach at Santander, claiming personal information from 30 million customers is now for sale. The gro…",
-      "Url": "https://dailyhodl.com/2024/05/31/30000000-customers-data-allegedly-exposed-and-on-sale-after-trillion-dollar-bank-suffers-massive-data-breach-report/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/bank-dollar-breach.jpg",
-      "PublishedAt": "2024-05-31T20:31:11Z",
-      "Content": "An infamous hacker group says it’s behind a breach at one of the world’s largest banks.\r\nThe notorious group ShinyHunters says it’s responsible for a new data breach at Santander, claiming personal i… [+1409 chars]"
     }
   ]
 }
