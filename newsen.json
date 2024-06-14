@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT",
+      "Title": "Yuan to replace dollar as Russia’s main foreign currency – Central Bank",
+      "Description": "The renminbi has surpassed the US dollar to become the most traded currency with the ruble in Moscow, according to Russia’s central bank Read Full Article at RT.com",
+      "Url": "https://www.rt.com/business/599225-yuan-moscow-exchange-trading/",
+      "UrlToImage": "https://mf.b37mrtl.ru/files/2024.06/article/666b25d085f5407a6d0bbfca.jpg",
+      "PublishedAt": "2024-06-13T17:09:02Z",
+      "Content": "The yuan/ruble exchange rate will now set the trajectory for other currency pairs on the Moscow Exchange (MOEX), including for the euro and dollar, the Bank of Russia (CBR) announced on Thursday.\r\nTh… [+2112 chars]"
+    },
+    {
+      "Source": {
         "Id": "business-insider",
         "Name": "Business Insider"
       },
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/4JGpbRDCFdj0fy7SqQKBdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/3ab0cb20edaa27c94030b7e1c9dd7ecc",
       "PublishedAt": "2024-06-02T00:00:30Z",
       "Content": "RiverNorthPhotography / iStock.com\r\nWhats more fun than buying items from the local Dollar Tree? Buying products you can turn around and flip for profit, of course! Weve scoured Pinterest, Etsy, and … [+4589 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "John Tamny, Contributor, \n John Tamny, Contributor\n https://www.forbes.com/sites/johntamny/",
-      "Title": "Dollar Stability - Not Dollarization - Is the Fix for Javier Milei",
-      "Description": "What on earth does government decreeing the dollar as the currency of exchange have to do with free markets?",
-      "Url": "https://www.forbes.com/sites/johntamny/2024/06/01/dollar-price-stability-not-dollarization-is-the-fix-for-argentina/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/657b31e88371512f464691f3/0x0.jpg?format=jpg&crop=2258,1269,x0,y115,safe&height=900&width=1600&fit=bounds",
-      "PublishedAt": "2024-06-01T14:00:00Z",
-      "Content": "In his 2001 book The Elusive Quest for Growth, former World Bank officer William Easterly showed readers what a billion Argetine pesos in the 1950s had shrunk to by the 1990s. What was once a fortune… [+3842 chars]"
     }
   ]
 }

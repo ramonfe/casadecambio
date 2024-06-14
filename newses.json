@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "Tkachenko",
+      "Title": "El yuan chino se convierte oficialmente en la principal divisa de Rusia, en sustitución del dólar y el euro (EN)",
+      "Description": "El banco central ruso ha anunciado que el yuan chino se convertirá en la principal moneda extranjera en Rusia, sustituyendo al dólar y al euro, en medio de la ampliación de las sanciones estadounidenses contra Moscú.etiquetas: yuan, china, rusia, euro, ue, ee…",
+      "Url": "https://www.meneame.net/m/actualidad/yuan-chino-convierte-oficialmente-principal-divisa-rusia-dolar",
+      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
+      "PublishedAt": "2024-06-13T17:57:23Z",
+      "Content": "El Yuan se ha revalorizado un ~10% contra el euro en estos últimos 2 años... Y el rublo un ~59%.\r\nEl plan sin fisuras de sanciones boomerang (para destrozar europa) sigue su curso."
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/se-trata-ademas-de-una-cifra-246percent-menor-a-L6RRDLPRUZDXBHVY6ETYAZOOCQ.jpg?auth=dcf006ea1343c6bd13830173adce44dbe6fb93dd52120925a7d05d7475116d7b&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-04T21:05:28Z",
       "Content": "La oferta de dólares cursada por la plaza cambiario oficial tocó hoy un nuevo mínimo en cuatro meses y medio: apenas hubo negocios de contado por US$172 millones, el nivel más bajo desde el 15 de ene… [+5621 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Nervios’ se apoderan del peso: Rebasa techo de las 18 unidades ante el dólar",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/04/peso-dolar-precio-hoy-4-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/qjOw2s-xp6oQfQ5PrgkgNfs-5Ws=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WHBDD73T4FEI5GJDDSCZF3A4AE.jpg",
-      "PublishedAt": "2024-06-04T15:41:33Z",
-      "Content": "El peso mexicano rebasó momentáneamente el techo de las 18 unidades por dólar tras una conferencia en la que Rogelio Ramírez de la O, secretario de Hacienda, trató de calmar a los mercados tras el lu… [+2665 chars]"
     }
   ]
 }
