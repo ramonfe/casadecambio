@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘resbala’ 0.55% en la semana y cierra en las 18.46 unidades por dólar",
+      "Description": "El peso mexicano se posiciona por arriba de las 18 unidades al cierre de la semana.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/14/peso-dolar-precio-hoy-14-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/AcPo8nyDBWJsDbeLgfT7zJaGP40=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZNZWOD6EABBBJBAWNTIBDMO4PI.jpg",
+      "PublishedAt": "2024-06-14T21:38:02Z",
+      "Content": "A pesar de que la atención de los operadores continúa estando sobre la posible aprobación a la reforma al Poder Judicial el próximo mes de septiembre, el peso mexicano consiguió ligar una segunda ses… [+2297 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-05T17:49:00Z",
       "Content": "Este miércoles 5 de junio, el precio del dólar en México es de $17,0177, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Y al tercer día, ‘resucitó': Peso mexicano gana más de 30 centavos ante el dólar",
-      "Description": "El peso mexicano cayó con fuerza debido al temor que corrió entre los inversionistas por la 'supermayoría' de Morena en el Congreso.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/05/peso-dolar-precio-hoy-5-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/YhpK3BIXLyg6GHXSoswzDACSM0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TN6XQVYXXZD5TJGQTZQQBGSHFA.jpg",
-      "PublishedAt": "2024-06-05T16:10:56Z",
-      "Content": "¡Resucitó, resucitó, el peso mexicano revivió! Después de dos días en los que acumuló una pérdida de más de 80 centavos y tocó su peor nivel en 4 años, la moneda nacional por fin se aprecia contra el… [+1749 chars]"
     }
   ]
 }
