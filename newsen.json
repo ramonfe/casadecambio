@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Niamh Rowe",
+      "Title": "Bank of America says Broadcom could be the next trillion-dollar company—but rival Nvidia would still be 3 times larger",
+      "Description": "While Nvidia stands as the undisputed winner of the AI chip wars, it soon could have a rival.",
+      "Url": "https://fortune.com/2024/06/14/bank-of-america-broadcom-nvidia-chips-chipmakers-artificial-intelligence/",
+      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1232724006-e1718384747814.jpg?resize=1200,600",
+      "PublishedAt": "2024-06-14T19:41:16Z",
+      "Content": "The chipmakers powering the artificial intelligence revolution have become stock market darlings. And while Nvidia is, thus far, the undisputed winner of the chip wars, it soon could be facing a robu… [+2308 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Bank of America says Broadcom could be the next trillion-dollar company—but rival Nvidia would still be 3 times larger",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c27bea84-4445-4b86-9867-6733d7d25595",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-14T19:41:16Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
       "PublishedAt": "2024-06-04T11:24:56Z",
       "Content": "Bank of Nova Scotia increased its stake in Dollar General Co. (NYSE:DG – Free Report) by 228.3% during the 4th quarter, according to its most recent disclosure with the Securities and Exchange Commis… [+6757 chars]"
-    },
-    {
-      "Source": {
-        "Id": "time",
-        "Name": "Time"
-      },
-      "Author": "Will Henshall",
-      "Title": "The Billion-Dollar Price Tag of Building AI",
-      "Description": "A new study shows that expensive computing power and top researcher salaries means the cost of building AI is doubling every nine months.",
-      "Url": "https://time.com/6984292/cost-artificial-intelligence-compute-epoch-report/",
-      "UrlToImage": "https://api.time.com/wp-content/uploads/2024/05/AI-costing-more-and-more-to-train.gif?w=1200&h=628&crop=1",
-      "PublishedAt": "2024-06-03T19:22:54Z",
-      "Content": "Artificial intelligence executives have big plansand theyre not cheap. In a recent interview with TIME, Dario Amodei, CEO of AI company Anthropic predicted that the cost to develop the next generatio… [+5268 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Pamela Heaven",
-      "Title": "Posthaste: What happened to the Canadian dollar the last time the Bank of Canada and Fed parted ways",
-      "Description": "Watch out below for a falling loonie",
-      "Url": "https://financialpost.com/news/bank-of-canada-fed-divergence-could-hit-canadian-dollar",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/canadian-dollar-2-0603-ph.jpg",
-      "PublishedAt": "2024-06-03T11:58:14Z",
-      "Content": "The divergence between Bank of Canada and Federal Reserve interest rates will put pressure on the Canadian dollar. Photo by Jonathan Hayward /The Canadian Press\r\nArticle content\r\nThe Bank of Canada a… [+9690 chars]"
     }
   ]
 }
