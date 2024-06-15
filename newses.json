@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 14 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-14-de-junio-nid14062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-pequeno-le-ofrecio-el-unico-dolar-que-ASOIH47BIJDNHDDAPGD63C7AHI.jpg?auth=04c25625dd7b489fac48162c8fc219c1e5dfcec42893a83a0f6101be6310ce25&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-14T15:07:30Z",
+      "Content": "Este viernes 14 de junio, el precio del dólar en México es de $18,5385, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a… [+2444 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/YhpK3BIXLyg6GHXSoswzDACSM0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TN6XQVYXXZD5TJGQTZQQBGSHFA.jpg",
       "PublishedAt": "2024-06-05T16:10:56Z",
       "Content": "¡Resucitó, resucitó, el peso mexicano revivió! Después de dos días en los que acumuló una pérdida de más de 80 centavos y tocó su peor nivel en 4 años, la moneda nacional por fin se aprecia contra el… [+1749 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Bloomberg",
-      "Title": "Esperan que tipo de cambio regrese a los $17 por dólar",
-      "Description": "Prevén que peso se recuperará a 17 por dólar en los próximos meses luego que cayera 5% en dos días por resultado sorpresivo de elecciones.",
-      "Url": "https://www.reforma.com/esperan-que-tipo-de-cambio-regrese-a-los-17-por-dolar/ar2819901",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/633/5632891.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-06-05T15:23:52Z",
-      "Content": "El peso cotizaba alrededor de 17.5 por dólar este miércoles por la mañana, fortaleciéndose un 2 por ciento y recortando algunas de las pérdidas de esta semana. Crédito: Especial"
     }
   ]
 }
