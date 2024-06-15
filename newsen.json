@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Globalsecurity.org"
+      },
+      "Author": "John Pike",
+      "Title": "Russia halts dollar, euro trade on Moscow Exchange",
+      "Description": "The Moscow Exchange (MOEX) has stopped trading in dollars and euros, a move prompted by a new round of US sanctions targeting Russia's financial institutions.",
+      "Url": "https://www.globalsecurity.org/wmd/library/news/russia/2024/06/russia-240613-irna01.htm",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-14T08:50:39Z",
+      "Content": "IRNA - Islamic Republic News Agency\r\nJun 13, 2024\r\nTehran, IRNA -- The Moscow Exchange (MOEX) has stopped trading in dollars and euros, a move prompted by a new round of US sanctions targeting Russia… [+1262 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Globalsecurity.org"
+      },
+      "Author": "John Pike",
+      "Title": "Moscow Exchange Stops Dollar, Euro Trades Over New Sanctions",
+      "Description": "Russia's main stock exchange on June 13 halted dollar and euro trades after the United States hit Moscow with a new package of sanctions over its military offensive in Ukraine.",
+      "Url": "https://www.globalsecurity.org/wmd/library/news/russia/2024/06/russia-240613-rferl02.htm",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-14T08:50:37Z",
+      "Content": "By RFE/RL June 13, 2024\r\nRussia's main stock exchange on June 13 halted dollar and euro trades after the United States hit Moscow with a new package of sanctions over its military offensive in Ukrain… [+3176 chars]"
+    },
     {
       "Source": {
         "Id": "rt",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/canadian-dollar-2-0603-ph.jpg",
       "PublishedAt": "2024-06-03T11:58:14Z",
       "Content": "The divergence between Bank of Canada and Federal Reserve interest rates will put pressure on the Canadian dollar. Photo by Jonathan Hayward /The Canadian Press\r\nArticle content\r\nThe Bank of Canada a… [+9690 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Billion-dollar money laundering case: Three men deported to Japan, Cambodia",
-      "Description": "Five of the eight people convicted in the case have now been deported from Singapore.",
-      "Url": "https://www.channelnewsasia.com/singapore/3-deported-japan-cambodia-billion-dollar-money-laundering-case-4380856",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--whYzgGGc--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/06/02/img_0908.jpg?itok=NCLbRjyL",
-      "PublishedAt": "2024-06-02T14:26:18Z",
-      "Content": "Su Baolin, 42, pleaded guilty to three out of 13 charges and was sentenced to 14 months' jail in April. Two charges were related to money laundering while the other was for making false representatio… [+1484 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Aja McClanahan",
-      "Title": "How I Make Money On the Side Using Supplies From Dollar Tree",
-      "Description": "Check out these ideas to make money from Dollar Tree items. You can craft, resell or even engage in retail arbitrage. Here are some tips to get started.",
-      "Url": "https://finance.yahoo.com/news/money-side-using-supplies-dollar-000030177.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/4JGpbRDCFdj0fy7SqQKBdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/3ab0cb20edaa27c94030b7e1c9dd7ecc",
-      "PublishedAt": "2024-06-02T00:00:30Z",
-      "Content": "RiverNorthPhotography / iStock.com\r\nWhats more fun than buying items from the local Dollar Tree? Buying products you can turn around and flip for profit, of course! Weve scoured Pinterest, Etsy, and … [+4589 chars]"
     }
   ]
 }
