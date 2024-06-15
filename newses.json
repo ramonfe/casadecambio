@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso, la moneda más depreciada frente al dólar en lo que va de junio",
+      "Description": "Forbes México.\n Peso, la moneda más depreciada frente al dólar en lo que va de junio\n\nAcumula una pérdida de 8.52% debido a preocupaciones del mercado por el déficit público y las polémicas reformas, según el grupo financiero Base.\nPeso, la moneda más depreci…",
+      "Url": "https://www.forbes.com.mx/peso-la-moneda-mas-depreciada-frente-al-dolar-en-lo-que-va-de-junio/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-06-14T23:02:29Z",
+      "Content": "El peso ha sido la moneda más depreciada frente al dólar en lo que va de junio debido a las preocupaciones del mercado por el déficit público y las reformas que promueve AMLO, y que apoya la futura p… [+3098 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240606/imag/foto_0000000220240606061551/pcfoto.jpg",
       "PublishedAt": "2024-06-06T11:30:00Z",
       "Content": "El Banco Central Europeo se prepara para hacer historia. El mercado da por sentado que hoy, por primera vez, el BCE recortará su tasa de interés de referencia antes que la Reserva Federal. Se espera … [+3805 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 5 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este 5 de junio",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-5-de-junio-nid05062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-05T17:49:00Z",
-      "Content": "Este miércoles 5 de junio, el precio del dólar en México es de $17,0177, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está … [+2081 chars]"
     }
   ]
 }
