@@ -5,19 +5,6 @@
   "Articles": [
     {
       "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Niamh Rowe",
-      "Title": "Bank of America says Broadcom could be the next trillion-dollar company—but rival Nvidia would still be 3 times larger",
-      "Description": "While Nvidia stands as the undisputed winner of the AI chip wars, it soon could have a rival.",
-      "Url": "https://fortune.com/2024/06/14/bank-of-america-broadcom-nvidia-chips-chipmakers-artificial-intelligence/",
-      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1232724006-e1718384747814.jpg?resize=1200,600",
-      "PublishedAt": "2024-06-14T19:41:16Z",
-      "Content": "The chipmakers powering the artificial intelligence revolution have become stock market darlings. And while Nvidia is, thus far, the undisputed winner of the chip wars, it soon could be facing a robu… [+2308 chars]"
-    },
-    {
-      "Source": {
         "Id": null,
         "Name": "Yahoo Entertainment"
       },
@@ -28,6 +15,19 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-14T19:41:16Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Niamh Rowe",
+      "Title": "Bank of America says Broadcom could be the next trillion-dollar company—but rival Nvidia would still be 3 times larger",
+      "Description": "While Nvidia stands as the undisputed winner of the AI chip wars, it soon could have a rival.",
+      "Url": "https://fortune.com/2024/06/14/bank-of-america-broadcom-nvidia-chips-chipmakers-artificial-intelligence/",
+      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1232724006-e1718384747814.jpg?resize=1200,600",
+      "PublishedAt": "2024-06-14T19:41:16Z",
+      "Content": "The chipmakers powering the artificial intelligence revolution have become stock market darlings. And while Nvidia is, thus far, the undisputed winner of the chip wars, it soon could be facing a robu… [+2308 chars]"
     },
     {
       "Source": {
