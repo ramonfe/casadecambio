@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 18 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-18-de-junio-nid18062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-18-de-J4SFBNT7MZF63NBW2TES2OG4S4.jpg?auth=f980da33901feeb10037553f8ea5a29d1d0725c8c244969c52c9e1713265b75f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-18T14:19:28Z",
+      "Content": "Este martes 18 de junio, el precio del dólar en México es de $18,5248, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está en… [+2066 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-7-de-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-07T14:32:29Z",
       "Content": "Este viernes 7 de junio, el precio del dólar en México es de $17,5335, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2240 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Cae el Peso frente al dólar",
-      "Description": "El dólar subió 47 centavos, a 17.99 pesos, después del anuncio de que Morena y aliados buscarán sacar adelante reformas pendientes de AMLO.",
-      "Url": "https://www.reforma.com/cae-el-peso-frente-al-dolar/ar2821002",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/739/5738999.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-06-07T11:00:47Z",
-      "Content": "El Peso rompió el techo de los 18 pesos después del anuncio de que Morena y aliados buscarán sacar adelante reformas pendientes de AMLO. Crédito: Especial"
     }
   ]
 }
