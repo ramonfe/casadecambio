@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘toma oxígeno’ ante el dólar: Se cotiza en las 18.39 unidades",
+      "Description": "El precio del dólar en ventanillas bancarias pues se cotiza en los 18.89 pesos cada según los datos publicados por Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/18/peso-dolar-precio-hoy-18-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ObmYyArhhM9ppchbp_px1MoXvKs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UBVY7WYDG5EAJDFWV5ETLDBABU.jpg",
+      "PublishedAt": "2024-06-18T16:27:59Z",
+      "Content": "El peso mexicano toma un respiro y arroja ganancias en el comienzo de la sesión de este martes, al igual que la mayoría de las divisas emergentes, las cuales se ven beneficiadas por un debilitamiento… [+1744 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-06-08T08:49:47Z",
       "Content": "Periódico La JornadaSábado 8 de junio de 2024, p. 13\r\nEl valor del peso se debilitó al cierre de la semana, afectado por la publicación de datos sobre el mercado laboral en Estados Unidos, que apunta… [+4571 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 7 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este 7 de junio",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-7-de-junio-nid07062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-7-de-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-07T14:32:29Z",
-      "Content": "Este viernes 7 de junio, el precio del dólar en México es de $17,5335, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2240 chars]"
     }
   ]
 }
