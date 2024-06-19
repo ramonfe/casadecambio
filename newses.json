@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso no libró la depreciación y cerró en 18.54 unidades por dólar",
+      "Description": "El peso mexicano se depreció 0.44 por ciento este lunes (equivalente a 8.15 centavos), frente a un dólar débil a escala mundial, para cerrar en 18.5447 unidades por dólar spot, en medio de los anuncios de la próxima administración acerca de que la reforma al …",
+      "Url": "https://www.jornada.com.mx/2024/06/18/economia/017n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-06-18T08:54:17Z",
+      "Content": "Periódico La JornadaMartes 18 de junio de 2024, p. 17\r\nEl peso mexicano se depreció 0.44 por ciento este lunes (equivalente a 8.15 centavos), frente a un dólar débil a escala mundial, para cerrar en … [+3318 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-mayorista-opero-en-baja-por-segunda-vez-K36QDXOEAFBKLAJJFLRJ5XCTYE.jpg?auth=52ba71ed7c3bcedfd50e7a2955ca94c0f634ecaaebb0534cc9e01fea94baeecf&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-06T20:59:29Z",
       "Content": "En medio del incipiente debate sobre un nuevo retraso del tipo de cambio real, el Banco Central (BCRA) dejó caer 0,1% hoy al dólar mayorista que cerró la jornada a $898,00 por unidad para la venta, c… [+3110 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 6 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este 6 de junio",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-6-de-junio-nid06062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-jueves-6-de-F3QHP5NJGVEWRJGVMBGPY4O6SI.jpg?auth=aa56bff6d3ed9baa61d3ba4f43a7f0e42c9617c5c48cfa96c154921bfe752953&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-06T16:04:17Z",
-      "Content": "Este jueves 6 de junio, el precio del dólar en México es de $17,5592, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2354 chars]"
     }
   ]
 }
