@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "Dólar cae en primeras operaciones a la espera de la decisión de tasas del Banco Central",
+      "Description": "El retroceso se daba a pesar de que el cobre extendía su baja a mínimos de dos meses.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vajh9",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240618/imag/foto_0000000220240618084647/DolarBBG.jpg",
+      "PublishedAt": "2024-06-18T12:36:00Z",
+      "Content": "El precio del dólar en Chile comenzó su jornada de martes a la baja, ante nuevos datos de consumo en Estados Unidos que potencian las esperanzas del mercado por un pronto recorte de tasas de la Reser… [+1287 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/739/5738999.jpg&wm=1&ang=0",
       "PublishedAt": "2024-06-07T11:00:47Z",
       "Content": "El Peso rompió el techo de los 18 pesos después del anuncio de que Morena y aliados buscarán sacar adelante reformas pendientes de AMLO. Crédito: Especial"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "El Banco Central dejó caer el dólar mayorista por primera vez en seis meses",
-      "Description": "Este tipo de cambio cerró a $898, cincuenta centavos por debajo de ayer, en una jornada en la que pudo comprar US$20 millones para sus reservas, pese a que se mantuvo un magro volumen",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-dejo-caer-el-dolar-mayorista-por-primera-vez-en-seis-meses-nid06062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-mayorista-opero-en-baja-por-segunda-vez-K36QDXOEAFBKLAJJFLRJ5XCTYE.jpg?auth=52ba71ed7c3bcedfd50e7a2955ca94c0f634ecaaebb0534cc9e01fea94baeecf&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-06T20:59:29Z",
-      "Content": "En medio del incipiente debate sobre un nuevo retraso del tipo de cambio real, el Banco Central (BCRA) dejó caer 0,1% hoy al dólar mayorista que cerró la jornada a $898,00 por unidad para la venta, c… [+3110 chars]"
     }
   ]
 }
