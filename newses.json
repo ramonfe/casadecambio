@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se estanca’ ante el dólar: Se cotiza en las 18.43 unidades",
+      "Description": "El precio del dólar en los bancos se mantiene  por debajo del piso de las 19 unidades, según cifras de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/19/peso-dolar-precio-hoy-19-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Rp99KbFv99ThGDWt83rOc4WH-mU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GP46ZRCGOFEGRLPUN7LNX5NNGY.jpg",
+      "PublishedAt": "2024-06-19T17:48:46Z",
+      "Content": "El peso mexicano cede terreno ante el dólar en el inicio de una jornada con baja liquidez, ya que los mercados en Estados Unidos permanecerán cerrados por el feriado del Día de la Emancipación.\r\nLa d… [+1607 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-en-mexico-asi-cotiza-la-moneda-este-lunes-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-10T15:16:43Z",
       "Content": "Este lunes 10 de junio, el precio del dólar en México es de $18,2622, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2190 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Silvia Rodríguez",
-      "Title": "El peso inicia la semana con una depreciación; así cotiza por dólar",
-      "Description": "Forbes México.\n El peso inicia la semana con una depreciación; así cotiza por dólar\n\nPersiste la aversión al riesgo por posibles reformas constitucionales, pero también tras las elecciones parlamentarias en Europa.\nEl peso inicia la semana con una depreciació…",
-      "Url": "https://www.forbes.com.mx/el-peso-inicia-la-semana-con-una-depreciacion-asi-cotiza-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-mexicano.webp",
-      "PublishedAt": "2024-06-10T14:40:56Z",
-      "Content": "El peso inicia la semana con una depreciación de 0.65%, por lo que sigue la tendencia alcista que inició la semana pasada, debido al entorno de aversión al riesgo que inició tras los comicios del 2 d… [+2201 chars]"
     }
   ]
 }
