@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Equipo DF",
+      "Title": "Dólar cae en primeras operaciones tras anuncio del Banco Central de una pausa en baja de tasas",
+      "Description": "Analistas esperan movimientos bajistas en el corto plazo para la divisa, de cara a mejores expectativas para la política monetaria local.",
+      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hakuc",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240619/imag/foto_0000000120240619083648/foto_0000000220220215092437.jpg",
+      "PublishedAt": "2024-06-19T12:36:00Z",
+      "Content": "El precio del dólar en Chile comenzó su jornada de miércoles con retrocesos y amenazaba con perder los $ 930, luego de que el Banco Central bajara ayer su política monetaria según lo esperado, pero a… [+1509 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/3f719d1c32bb6452ede98aefd8b73594/crop/758x0/1913x770/f/webp/assets/multimedia/imagenes/2024/06/10/17180139110521.jpg",
       "PublishedAt": "2024-06-10T10:28:37Z",
       "Content": "En teoría todo hacía pensar que la primera mitad de la semana en los mercados iba a ser de mera transición.Con la vista puesta, principalmente, en el dato de inflación del mes de mayo de los Estados … [+353 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Tipo de cambio supera la barrera de 18 pesos por dólar",
-      "Description": "El valor del peso se debilitó al cierre de la semana, afectado por la publicación de datos sobre el mercado laboral en Estados Unidos, que apuntan a retrasar un ajuste en las tasas de interés, y comentarios en México, por segundo día consecutivo, sobre una pr…",
-      "Url": "https://www.jornada.com.mx/2024/06/08/economia/013n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-06-08T08:49:47Z",
-      "Content": "Periódico La JornadaSábado 8 de junio de 2024, p. 13\r\nEl valor del peso se debilitó al cierre de la semana, afectado por la publicación de datos sobre el mercado laboral en Estados Unidos, que apunta… [+4571 chars]"
     }
   ]
 }
