@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central hizo hoy la mayor venta de la era Milei y se deprendió de US$156 millones",
+      "Description": "La entidad aportó de sus arcas al mercado casi US$6 de cada 10 negociados y se vio obligada a vender en cinco de las últimas ocho ruedas de negocios",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-hizo-hoy-la-mayor-venta-de-la-era-milei-y-se-deprendio-de-us156-millones-nid19062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-otra-vez-en-la-mira-del-mercado-BVZTI55FOBHINJZJ5EBXOMA4QY.jpg?auth=0a51144632629973d3a5e73261ff875f4fe1ac63f7ba5a8b382ee8cd01759ae8&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-19T20:53:33Z",
+      "Content": "El Banco Central (BCRA) debió hoy aportar al mercado US$156 millones de sus reservas, con lo que concretó la mayor venta de reservas (para abastecer demanda local) de la era Milei, al superar los US$… [+3774 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-mostrar-complicaciones-para-ZH3DF5O3KREVFCM2G4UOTFNJME.jpg?auth=4db95206c260f9a421bbe007588de2d0027df81913e50d421bffa05b6c29b346&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-10T20:49:45Z",
       "Content": "El Banco Central (BCRA) debió asistir al mercado con otros US$9 millones de sus reservas hoy. De esta manera, se anotó el segundo saldo por intervenciones negativo consecutivo por primera vez en lo q… [+3946 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 10 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este 10 de junio",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-10-de-junio-nid10062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-en-mexico-asi-cotiza-la-moneda-este-lunes-IGC33EUSDFA7NFOC2J76NPD5HY.jpeg?auth=fda4df16682f5888bda54e93382e683da18b09cc63cf7004a947ae85220d805a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-10T15:16:43Z",
-      "Content": "Este lunes 10 de junio, el precio del dólar en México es de $18,2622, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2190 chars]"
     }
   ]
 }
