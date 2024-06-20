@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 19 de junio de 2024",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-19-de-junio-de-2024-nid19062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-PA6OM4GJENBG3CMYLLFQP3KNNI.jpg?auth=ff0f24be5abbb98f8156a978fa7efb491bef1ee89485053c1319b4cabdd4a79d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-19T14:50:41Z",
+      "Content": "Este miércoles 19 de junio, el precio del dólar en México es de $18,4128, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está… [+2158 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-mexicano.webp",
       "PublishedAt": "2024-06-10T14:40:56Z",
       "Content": "El peso inicia la semana con una depreciación de 0.65%, por lo que sigue la tendencia alcista que inició la semana pasada, debido al entorno de aversión al riesgo que inició tras los comicios del 2 d… [+2201 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "JOSÉ MARÍA RODRÍGUEZ",
-      "Title": "El euro/dólar pierde soportes y activa una figura bajista",
-      "Description": "Con la vista puesta, principalmente, en el dato de inflación del mes de mayo de los Estados Unidos, el miércoles. Pero a media sesión el Euro Stoxx 50 cae un 1,5%, el Dax un...",
-      "Url": "https://www.expansion.com/mercados/2024/06/10/6666ced2468aeb95658b4574.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/3f719d1c32bb6452ede98aefd8b73594/crop/758x0/1913x770/f/webp/assets/multimedia/imagenes/2024/06/10/17180139110521.jpg",
-      "PublishedAt": "2024-06-10T10:28:37Z",
-      "Content": "En teoría todo hacía pensar que la primera mitad de la semana en los mercados iba a ser de mera transición.Con la vista puesta, principalmente, en el dato de inflación del mes de mayo de los Estados … [+353 chars]"
     }
   ]
 }
