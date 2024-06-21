@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar rises, pound, Swiss franc drop on busy central bank day",
+      "Description": "LONDON : The dollar climbed on Thursday, while the Swiss franc and the pound dropped as a busy day of central bank meetings kept currency traders alert.The dollar index, which tracks the currency against six peers, was last up 0.2 per cent at 105.42 after a v…",
+      "Url": "https://www.channelnewsasia.com/business/dollar-rises-pound-swiss-franc-drop-busy-central-bank-day-4423066",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--Fjjpxnx9--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-06-20t091228z_1_lynxmpek5j09j_rtroptp_3_britain-eu.jpg?itok=y8WdhLeX",
+      "PublishedAt": "2024-06-20T09:12:28Z",
+      "Content": "LONDON : The dollar climbed on Thursday, while the Swiss franc and the pound dropped as a busy day of central bank meetings kept currency traders alert.\r\nThe dollar index, which tracks the currency a… [+3055 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Dollar rises and Swiss franc drops on busy central bank day",
+      "Description": "LONDON : The dollar climbed on Thursday, while the Swiss franc dropped and the pound dipped as a busy day of central bank meetings kept currency traders alert.The dollar index, which tracks the currency against six peers, was last up 0.28 per cent at 105.49 a…",
+      "Url": "https://www.channelnewsasia.com/business/dollar-rises-and-swiss-franc-drops-busy-central-bank-day-4423066",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--Fjjpxnx9--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-06-20t091228z_1_lynxmpek5j09j_rtroptp_3_britain-eu.jpg?itok=y8WdhLeX",
+      "PublishedAt": "2024-06-20T09:12:28Z",
+      "Content": "LONDON : The dollar climbed on Thursday, while the Swiss franc dropped and the pound dipped as a busy day of central bank meetings kept currency traders alert.\r\nThe dollar index, which tracks the cur… [+3217 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2024-06-05T11:05:11Z",
       "Content": "June 5 (Reuters) - The dollar rose ahead of key U.S.\r\neconomic data on Wednesday, with investors also waiting for a\r\nmonetary policy meeting in Canada that could set off a rate\r\ncutting cycle.\r\nInves… [+3585 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Dollar finds footing as Bank of Canada weighs rate cut",
-      "Description": "(marketscreener.com) The dollar steadied on\nWednesday, ahead of a policy meeting in Canada that traders have\nbet will begin the cutting cycle for some of the world's biggest\neconomies.\n The Bank of Canada meets a day ahead of a European Central\nBank meeting o…",
-      "Url": "https://www.marketscreener.com/quote/currency/INDIAN-RUPEE-US-DOLLAR-IN-2373570/news/Dollar-finds-footing-as-Bank-of-Canada-weighs-rate-cut-46905271/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2024-06-05T05:35:57Z",
-      "Content": "SINGAPORE, June 5 (Reuters) - The dollar steadied on\r\nWednesday, ahead of a policy meeting in Canada that traders have\r\nbet will begin the cutting cycle for some of the world's biggest\r\neconomies.\r\nT… [+2907 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Traders prep for weaker Canadian dollar as Bank of Canada weighs cuts",
-      "Description": "The Bank of Canada will likely reduce interest rates before the U.S. Federal Reserve and traders are bracing for a weaker loonie. Read on.",
-      "Url": "https://financialpost.com/news/economy/bank-canada-weighs-cuts-traders-weaker-loonie",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/0605-bc-money.jpg",
-      "PublishedAt": "2024-06-04T19:12:05Z",
-      "Content": "Traders are bracing for weakness in the Canadian dollar amid wagers that local policymakers will likely reduce interest rates before their peers at the United States Federal Reserve.\r\nThat rate diffe… [+3299 chars]"
     }
   ]
 }
