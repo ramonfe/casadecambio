@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Latamnews.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "El oro sube de peso y desplaza al dólar de las reservas mundiales por la inquietud geopolítica",
+      "Description": "Bancos centrales de los países tanto desarrollados como en vías de desarrollo seguirán aumentando la proporción de oro en sus reservas debido a las tensiones políticas y financieras a escala mundial, revela nueva encuesta del Consejo Mundial del Oro (WGC). El…",
+      "Url": "https://latamnews.lat/20240620/el-oro-sube-de-peso-y-desplaza-al-dolar-de-las-reservas-mundiales-por-la-inquietud-geopolitica-1155582767.html",
+      "UrlToImage": "https://cdn.img.latamnews.lat/images/sharing/article/spa/1155582767.jpg?11555843211718887033",
+      "PublishedAt": "2024-06-20T12:33:00Z",
+      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/741/5740684.jpg&wm=1&ang=0",
       "PublishedAt": "2024-06-10T22:37:48Z",
       "Content": "This photo illustration shows US dollar notes (R) next to a stack of Myanmar kyat notes in Yangon on May 30, 2024. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar y reservas: el Banco Central volvió a vender y por primera vez en la gestión Milei muestra dos días con saldo negativo",
-      "Description": "La entidad, que venía de desprenderse de US$27 millones el viernes, tuvo que aportar hoy otros US$9 millones al mercado pese a una tibia recuperación en el volumen de negocios",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-y-reservas-el-banco-central-volvio-a-vender-y-por-primera-vez-en-la-gestion-milei-muestra-dos-nid10062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-mostrar-complicaciones-para-ZH3DF5O3KREVFCM2G4UOTFNJME.jpg?auth=4db95206c260f9a421bbe007588de2d0027df81913e50d421bffa05b6c29b346&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-10T20:49:45Z",
-      "Content": "El Banco Central (BCRA) debió asistir al mercado con otros US$9 millones de sus reservas hoy. De esta manera, se anotó el segundo saldo por intervenciones negativo consecutivo por primera vez en lo q… [+3946 chars]"
     }
   ]
 }
