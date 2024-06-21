@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 20 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-20-de-junio-nid20062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-20T14:31:25Z",
+      "Content": "Este jueves 20 de junio, el precio del dólar en México es de $18,4230, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2294 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mA3E0nY54TsNO-S0a4Ch1I51cpQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ISB53MH2VJBZJI3Q2OX4AZGVZY.jpeg",
       "PublishedAt": "2024-06-11T02:27:46Z",
       "Content": "El nerviosismo en los mercados financieros ante la posible discusión del paquete de reformas constitucionales que el presidente Andrés Manuel López Obrador envió al Congreso, el pasado 5 de febrero, … [+2572 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Baja el dólar este lunes tras dura semana para el peso",
-      "Description": "Tras la fuerte alza en el tipo de cambio en la primera semana de junio, el dólar cayó 15.17 centavos este lunes, a 18.24 pesos en el Forex.",
-      "Url": "https://www.reforma.com/baja-el-dolar-este-lunes-tras-dura-semana-para-el-peso/ar2822748",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/741/5740684.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-06-10T22:37:48Z",
-      "Content": "This photo illustration shows US dollar notes (R) next to a stack of Myanmar kyat notes in Yangon on May 30, 2024. Crédito: AFP"
     }
   ]
 }

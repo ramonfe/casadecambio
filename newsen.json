@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dollar rises and Swiss franc drops on busy central bank day By Reuters - Investing.com",
+      "Description": "Dollar rises and Swiss franc drops on busy central bank day By ReutersInvesting.com View Full Coverage on Google News ...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174213563",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-20T14:12:55Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2024/06/dollar-store-cleaning-products.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2024-06-10T14:00:00Z",
       "Content": "Over time, exposure to the suns UV rays, along with other residue like debris, can cause a cars headlights to become foggy. This can be dangerous, making it difficult to see while driving and difficu… [+4222 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Dollar edges up ahead of key data, Bank of Canada policy meeting",
-      "Description": "(marketscreener.com) The dollar rose ahead of key U.S.\neconomic data on Wednesday, with investors also waiting for a\nmonetary policy meeting in Canada that could set off a rate\ncutting cycle.\n Investors are looking out for U.S. services data on\nWednesday, and…",
-      "Url": "https://www.marketscreener.com/news/latest/Dollar-edges-up-ahead-of-key-data-Bank-of-Canada-policy-meeting-46909032/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-06-05T11:05:11Z",
-      "Content": "June 5 (Reuters) - The dollar rose ahead of key U.S.\r\neconomic data on Wednesday, with investors also waiting for a\r\nmonetary policy meeting in Canada that could set off a rate\r\ncutting cycle.\r\nInves… [+3585 chars]"
     }
   ]
 }
