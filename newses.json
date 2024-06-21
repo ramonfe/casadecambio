@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Criptonoticias.com"
+      },
+      "Author": "Glenda González",
+      "Title": "Más allá del dólar, el euro pierde terreno como moneda de reserva",
+      "Description": "Según el Banco Central Europeo, la gestión de reservas está influenciada por cambios geopolíticos que impulsan la desdolarización y la “deseurización”. \nLeer más",
+      "Url": "https://www.criptonoticias.com/finanzas/dolar-euro-moneda-reservas-mundiales-desdolarizacion/",
+      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/06/euro.webp",
+      "PublishedAt": "2024-06-20T21:20:14Z",
+      "Content": "Hechos clave:\r\n<ul><li>La proporción del euro en las reservas mundiales registró una baja de 20% en los últimos años.\r\n</li><li>El dólar mantiene su dominio, pero crece el interés por el oro y el yua… [+5899 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-pequeno-le-ofrecio-el-unico-dolar-que-ASOIH47BIJDNHDDAPGD63C7AHI.jpg?auth=04c25625dd7b489fac48162c8fc219c1e5dfcec42893a83a0f6101be6310ce25&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-11T14:26:26Z",
       "Content": "Este martes 11 de junio, el precio del dólar en México es de $18,2622, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2468 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "¿A dónde vamos a parar? Peso puede llegar a 20 unidades por dólar por reformas de AMLO",
-      "Description": "El peso mexicano podría llegar a las 20 unidades por dólar, tras la incertidumbre de los inversionistas sobre el paquete de reformas de AMLO previo a la entrada de Claudia Sheinbaum a la presidencia.",
-      "Url": "https://www.elfinanciero.com.mx/economia/2024/06/10/a-donde-vamos-a-parar-peso-puede-llegar-a-20-unidades-por-dolar-por-reformas-de-amlo/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mA3E0nY54TsNO-S0a4Ch1I51cpQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ISB53MH2VJBZJI3Q2OX4AZGVZY.jpeg",
-      "PublishedAt": "2024-06-11T02:27:46Z",
-      "Content": "El nerviosismo en los mercados financieros ante la posible discusión del paquete de reformas constitucionales que el presidente Andrés Manuel López Obrador envió al Congreso, el pasado 5 de febrero, … [+2572 chars]"
     }
   ]
 }
