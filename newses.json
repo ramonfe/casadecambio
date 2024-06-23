@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Peso se aprecia 1.04%; enfila a nivel de 18 unidades por dólar",
+      "Description": "El peso concluyó la sesión del viernes con una apreciación de 1.04 por ciento frente al cierre reportado el jueves, comportamiento que mostró todavía el efecto del nombramiento de seis funcionarios del gabinete de la virtual presidenta electa, Claudia Sheinba…",
+      "Url": "https://www.jornada.com.mx/2024/06/22/economia/016n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-06-22T09:04:44Z",
+      "Content": "Periódico La JornadaSábado 22 de junio de 2024, p. 16\r\nEl peso concluyó la sesión del viernes con una apreciación de 1.04 por ciento frente al cierre reportado el jueves, comportamiento que mostró to… [+2295 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-perdio-en-lo-que-va-del-ano-mas-de-JU2OXGGISZAXBL7QZ2F6SRTXWE.jpg?auth=f77a3219126982efceb83e77420cf1edde79bebecb42cc2fd4f65aca9061ad47&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-11T20:23:20Z",
       "Content": "El Banco Central (BCRA) volvió hoy a vender reservas: debió desprenderse de otros US$31 millones, con lo que ya perdió mediante intervenciones sobre el mercado US$67 millones en las últimas tres rued… [+3516 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Melisa Reinhold",
-      "Title": "Qué hará el Banco Central con la tasa de interés: las señales que espera el mercado para ponerle fin a la suba del dólar",
-      "Description": "La baja de tasas de interés, a mediados de mayo, terminó por empujar a los inversores hacia la dolarización de carteras; este jueves habrá reunión del directorio, tras conocerse el dato de inflación de mayo",
-      "Url": "https://www.lanacion.com.ar/economia/que-hara-el-banco-central-con-la-tasa-de-interes-las-senales-que-espera-el-mercado-para-ponerle-fin-nid11062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/actualmente-la-tasa-de-politica-monetaria-es-del-NLMFH6PJUZA3RGGXLU2Y6Y2C24.JPG?auth=5845c119b51c9d493abc5e936674c3b58e361247361901f8c8384fe5901f7865&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-11T18:34:31Z",
-      "Content": "La baja de la tasa de interés del Banco Central, que ocurrió a mediados de mayo pasado, terminó por marcar un antes y un después en el humor de los mercados. El recorte fue más brusco del esperado, u… [+5783 chars]"
     }
   ]
 }
