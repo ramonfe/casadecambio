@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Washington Free Beacon"
+      },
+      "Author": "Adam Kredo",
+      "Title": "Israeli Terror Victims Sue UNRWA for Leading 'Billion-Dollar Money Laundering Operation That Funded Hamas'",
+      "Description": "Israeli victims of Hamas's Oct. 7 terror attack are suing the United Nations' leading aid organization in the Gaza Strip, alleging that the organization \"led a billion-dollar money laundering operation that funded Hamas\" and enabled the terror group to carry …",
+      "Url": "https://freebeacon.com/israel/israeli-terror-victims-sue-unrwa-for-leading-billion-dollar-money-laundering-operation-that-funded-hamas/",
+      "UrlToImage": "https://freebeacon.com/wp-content/uploads/2024/01/MixCollage-31-Jan-2024-12-42-PM-8223-e1706723075894.jpg",
+      "PublishedAt": "2024-06-24T12:00:33Z",
+      "Content": "Israeli victims of Hamas's Oct. 7 terror attack are suing the United Nations' leading aid organization in the Gaza Strip, alleging that the organization \"led a billion-dollar money laundering operati… [+4924 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nzherald.co.nz/resizer/v2/TMKGQWYZUNEBRGQ3GYVC2PVFNM.jpg?auth=6b68da7f00bd6de02d563137bc1730da67f535590b0920498e6e7c73c723bc1a&width=1200&height=675&quality=70&smart=true",
       "PublishedAt": "2024-06-11T17:00:00Z",
       "Content": "The Government landlord is in the spotlight. Photo / Nate McKinnonOn the spectrum of business models, selling something expensive to people who cant afford it lands somewhere between foolish and impo… [+28219 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Rupee caught between dollar uptick, central bank intervention",
-      "Description": "(marketscreener.com) The Indian rupee is expected to open flat on Tuesday amidst weakness in Asian peers on one hand and a central bank that does not want the currency to fall to an all-time low on the other. \n Non-deliverable forwards indicate the rupee will…",
-      "Url": "https://www.marketscreener.com/news/latest/Rupee-caught-between-dollar-uptick-central-bank-intervention-46943710/",
-      "UrlToImage": "https://www.marketscreener.com/images/reuters/2023-07/2023-07-13T024611Z_1_LYNXMPEJ6C02A_RTROPTP_3_INDIA-STOCKS-FUNDS.JPG",
-      "PublishedAt": "2024-06-11T02:48:33Z",
-      "Content": "MUMBAI (Reuters) - The Indian rupee is expected to open flat on Tuesday amidst weakness in Asian peers on one hand and a central bank that does not want the currency to fall to an all-time low on the… [+1907 chars]"
     }
   ]
 }
