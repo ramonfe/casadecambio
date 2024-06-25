@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 24 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-24-de-junio-nid24062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-los-ultimos-registros-de-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-24T14:55:58Z",
+      "Content": "Este lunes 24 de junio, el precio del dólar en México es de $18,4027, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2214 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "Jornada.com.mx"
       },
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/2Rq1wtrsokWLwoH0uZlhmqNZOWo=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RWU5FO6YDZDRNPBBTM6LPCY2YE.jpg",
       "PublishedAt": "2024-06-11T21:24:41Z",
       "Content": "El tipo de cambio del dólar respecto al colón disminuyó ¢7,98 entre lunes y martes de esta semana, en el Mercado de Monedas Extranjeras (Monex), tras haber cerrado el viernes pasado con un aumento de… [+2903 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central congeló otra vez al tipo de cambio mayorista y vendió reservas por tercer día consecutivo",
-      "Description": "Se desprendió de otros US$31 millones con lo que vendió en US$67 millones en tres días; tuvo saldo en rojo en seis de las última 12 ruedas",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-congelo-otra-vez-al-tipo-de-cambio-mayorista-y-vendio-reservas-por-tercer-dia-nid11062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-perdio-en-lo-que-va-del-ano-mas-de-JU2OXGGISZAXBL7QZ2F6SRTXWE.jpg?auth=f77a3219126982efceb83e77420cf1edde79bebecb42cc2fd4f65aca9061ad47&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-11T20:23:20Z",
-      "Content": "El Banco Central (BCRA) volvió hoy a vender reservas: debió desprenderse de otros US$31 millones, con lo que ya perdió mediante intervenciones sobre el mercado US$67 millones en las últimas tres rued… [+3516 chars]"
     }
   ]
 }
