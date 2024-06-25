@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘huele’ el terreno de las 17 unidades: Así cotiza este lunes ante el dólar",
+      "Description": "Según especialistas de CIBanco, se proyecta que el tipo de cambio se moverá entre las 18 y 18.16 unidades durante este lunes.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/24/peso-dolar-precio-hoy-24-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/jhhEFiMeXm2jL_jJhbolsdxLXiA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I3V6BYJ4JNGPVNP5KOQY2J3MM4.jpg",
+      "PublishedAt": "2024-06-24T15:46:05Z",
+      "Content": "El peso mexicano abre la última semana de junio con ganancias frente al dólar y amenaza con regresar al terreno de las 17 unidades después de que la cifra de inflación en México se ubicó muy por enci… [+1540 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-12-de-J4SFBNT7MZF63NBW2TES2OG4S4.jpg?auth=f980da33901feeb10037553f8ea5a29d1d0725c8c244969c52c9e1713265b75f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-12T14:30:47Z",
       "Content": "Este miércoles 12 de junio, el precio del dólar en México es de $18,2622, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está… [+2214 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar bajó ¢8 en dos días",
-      "Description": "El tipo de cambio del dólar respecto al colón disminuyó ¢7,98 entre lunes y martes, en el Mercado de Monedas Extranjeras, tras haber cerrado el viernes pasado con un alza de ¢4,06 en comparación con el día anterior.",
-      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-bajo-8-en-dos-dias/ZISRFG7EABEA7AMK2D6J4VZTLE/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/2Rq1wtrsokWLwoH0uZlhmqNZOWo=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RWU5FO6YDZDRNPBBTM6LPCY2YE.jpg",
-      "PublishedAt": "2024-06-11T21:24:41Z",
-      "Content": "El tipo de cambio del dólar respecto al colón disminuyó ¢7,98 entre lunes y martes de esta semana, en el Mercado de Monedas Extranjeras (Monex), tras haber cerrado el viernes pasado con un aumento de… [+2903 chars]"
     }
   ]
 }
