@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: el Banco Central volvió a comprar reservas tras la fuerte venta del último miércoles",
+      "Description": "Se quedó con US$47 millones, 30% de lo sacrificado al final de la semana pasada, pero no despeja las dudas sobre la sustentabilidad del proceso de acumulación de reservas",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-volvio-a-comprar-reservas-tras-la-fuerte-venta-del-ultimo-miercoles-nid24062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-volvio-a-comprar-tras-la-fuerte-IIWTPFNGIJGMTJBBVHRFDER4ZQ.JPG?auth=5495d4f1740324982c8fef813d088207a1cc563d27a5bc0f0804f75bb1619c78&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-24T20:16:23Z",
+      "Content": "El Banco Central (BCRA) logró comprar hoy US$47 millones mediante intervenciones sobre el mercado cambiario oficial, en la rueda que marcó el reinicio de esta actividad tras el fin de una semana plag… [+3638 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/ACH0470.jpg",
       "PublishedAt": "2024-06-12T14:56:39Z",
       "Content": "El tipo de cambio se ha debilitado aún más, alcanza niveles de 18.95 pesos por dólar. Además de la aversión al riesgo que existe por el entorno en México ante la posibilidad de cambios en la constitu… [+2320 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 12 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-12-de-junio-nid12062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-12-de-J4SFBNT7MZF63NBW2TES2OG4S4.jpg?auth=f980da33901feeb10037553f8ea5a29d1d0725c8c244969c52c9e1713265b75f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-12T14:30:47Z",
-      "Content": "Este miércoles 12 de junio, el precio del dólar en México es de $18,2622, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está… [+2214 chars]"
     }
   ]
 }
