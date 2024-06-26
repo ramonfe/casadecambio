@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 25 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-25-de-junio-nid25062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-25-de-F3QHP5NJGVEWRJGVMBGPY4O6SI.jpg?auth=aa56bff6d3ed9baa61d3ba4f43a7f0e42c9617c5c48cfa96c154921bfe752953&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-25T15:22:06Z",
+      "Content": "Este martes 25 de junio, el precio del dólar en México es de $17,9627, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2006 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-la-ciudad-de-mexico-este-6U7DEYPCVVADHH6BSNXZXQED4E.jpg?auth=5478ee2b68ff6dec8eb7904bdb4376e9375230bff8623bee1545a95d70c76b58&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-13T14:34:50Z",
       "Content": "Este jueves 13 de junio, el precio del dólar en México es de $18,7832, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a … [+2462 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Rozó tipo de cambio 19 pesos por dólar",
-      "Description": "En una sesión marcada por la inflación de Estados Unidos, el anuncio de política monetaria de la Reserva Federal (Fed) y el seguimiento de los inversionistas al plan C, con la la nueva composición del Congreso en México para septiembre, el peso mexicano tocó …",
-      "Url": "https://www.jornada.com.mx/2024/06/13/economia/023n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-06-13T10:15:20Z",
-      "Content": "Periódico La JornadaJueves 13 de junio de 2024, p. 23\r\nEn una sesión marcada por la inflación de Estados Unidos, el anuncio de política monetaria de la Reserva Federal (Fed) y el seguimiento de los i… [+2678 chars]"
     }
   ]
 }
