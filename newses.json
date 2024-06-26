@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Qué es el “Dólar Lafayette” y por qué esta moneda puede valer hasta US$ 8.000",
+      "Description": "Emitida en 1900 y diseñada para homenajear al Marqués de Lafayette, esta moneda de plata es altamente valorada en las subastas por su rareza y detalles únicos",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/que-es-el-dolar-lafayette-y-por-que-esta-moneda-puede-valer-hasta-us-8000-nid25062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-lafayette-una-moneda-de-plata-emitida-en-el-LAZG4LBFQBH7LDNRV7JT4N6WIU.jpg?auth=1f2e758ad648e648d4df413c477a5888e85c432a3b5f274e74f95a11eaf4a58e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-25T18:06:10Z",
+      "Content": "En el coleccionismo de dinero, ciertas piezas no solo tienen un valor histórico, sino también un considerable valor económico. Tal es el caso del Dólar Lafayette, una moneda de plata emitida en el añ… [+2582 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZNrs1fiFO9qyVmrr7schHcFtA7M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/G6BLLN5WJJC7VHCBUEJIQSPXB4.jpg",
       "PublishedAt": "2024-06-13T20:51:58Z",
       "Content": "El peso mexicano ha comenzado a corregir su camino de ganancias frente al dólar este jueves, ayudado por factores externos como las señales de desinflación para la economía estadounidense, que apoyan… [+2069 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "Tkachenko",
-      "Title": "El yuan chino se convierte oficialmente en la principal divisa de Rusia, en sustitución del dólar y el euro (EN)",
-      "Description": "El banco central ruso ha anunciado que el yuan chino se convertirá en la principal moneda extranjera en Rusia, sustituyendo al dólar y al euro, en medio de la ampliación de las sanciones estadounidenses contra Moscú.etiquetas: yuan, china, rusia, euro, ue, ee…",
-      "Url": "https://www.meneame.net/m/actualidad/yuan-chino-convierte-oficialmente-principal-divisa-rusia-dolar",
-      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
-      "PublishedAt": "2024-06-13T17:57:23Z",
-      "Content": "El Yuan se ha revalorizado un ~10% contra el euro en estos últimos 2 años... Y el rublo un ~59%.\r\nEl plan sin fisuras de sanciones boomerang (para destrozar europa) sigue su curso."
     }
   ]
 }
