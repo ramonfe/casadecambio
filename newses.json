@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "El peso regresa a niveles por encima de las 18 unidades por dólar",
+      "Description": "Forbes México.\n El peso regresa a niveles por encima de las 18 unidades por dólar\n\nLa moneda nacional se deprecia ante un fortalecimiento global del dólar, mientras inversionistas aguardan la decisión de Banxico el jueves.\nEl peso regresa a niveles por encima…",
+      "Url": "https://www.forbes.com.mx/el-peso-regresa-a-niveles-por-encima-de-las-18-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2024-06-25T21:59:22Z",
+      "Content": "El peso retrocedió este martes ante un fortalecimiento global del dólar mientras inversionistas en México aguardan el anuncio de política monetaria del banco central programada para el jueves.\r\nLa at… [+1753 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central compra poco y el mercado cree que se acerca el fin del actual esquema cambiario",
+      "Description": "Aunque se quedó hoy con otros US$43 millones, crece y se encarece la demanda de dólar futuro; en el Gobierno sostienen que no se moverán del actual modelo",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-compra-poco-y-el-mercado-cree-que-se-acerca-el-fin-del-actual-esquema-nid25062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-sigue-aferrado-al-crawling-peg-al-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-25T21:13:09Z",
+      "Content": "El Banco Central (BCRA) logró comprar hoy otros US$43 millones mediante intervenciones sobre el mercado, ingreso con el que sumó a sus reservas por esta vía US$90 millones en lo que va de la semana y… [+4570 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-06-14T23:02:29Z",
       "Content": "El peso ha sido la moneda más depreciada frente al dólar en lo que va de junio debido a las preocupaciones del mercado por el déficit público y las reformas que promueve AMLO, y que apoya la futura p… [+3098 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘resbala’ 0.55% en la semana y cierra en las 18.46 unidades por dólar",
-      "Description": "El peso mexicano se posiciona por arriba de las 18 unidades al cierre de la semana.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/14/peso-dolar-precio-hoy-14-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/AcPo8nyDBWJsDbeLgfT7zJaGP40=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZNZWOD6EABBBJBAWNTIBDMO4PI.jpg",
-      "PublishedAt": "2024-06-14T21:38:02Z",
-      "Content": "A pesar de que la atención de los operadores continúa estando sobre la posible aprobación a la reforma al Poder Judicial el próximo mes de septiembre, el peso mexicano consiguió ligar una segunda ses… [+2297 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 14 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-14-de-junio-nid14062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-pequeno-le-ofrecio-el-unico-dolar-que-ASOIH47BIJDNHDDAPGD63C7AHI.jpg?auth=04c25625dd7b489fac48162c8fc219c1e5dfcec42893a83a0f6101be6310ce25&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-14T15:07:30Z",
-      "Content": "Este viernes 14 de junio, el precio del dólar en México es de $18,5385, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a… [+2444 chars]"
     }
   ]
 }
