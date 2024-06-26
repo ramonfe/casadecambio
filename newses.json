@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia",
+      "Title": "Peso cede terreno y dólar rebota a $18.09",
+      "Description": "El dólar en el mercado internacional avanzó 14.34 centavos a 18.09 pesos después de tres jornadas con retrocesos.",
+      "Url": "https://www.reforma.com/peso-cede-terreno-y-dolar-rebota-a-18-09/ar2830867",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/733/5732918.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-06-25T22:37:11Z",
+      "Content": "01 MIN 30 SEG\r\nErnesto Sarabia\r\nCd. de México (25 junio 2024) .-16:34 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-divisa-abre-la-semana-UNO42I6NJVEMLIZA7OHLN3SENQ.jpg?auth=a225f4dcf54a40afaebdc62fc7d03482247f59ed49fa48ee350a31163d2bd070&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-17T14:59:10Z",
       "Content": "Este lunes 17 de junio, el precio del dólar en México es de $18,5385, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2501 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso, la moneda más depreciada frente al dólar en lo que va de junio",
-      "Description": "Forbes México.\n Peso, la moneda más depreciada frente al dólar en lo que va de junio\n\nAcumula una pérdida de 8.52% debido a preocupaciones del mercado por el déficit público y las polémicas reformas, según el grupo financiero Base.\nPeso, la moneda más depreci…",
-      "Url": "https://www.forbes.com.mx/peso-la-moneda-mas-depreciada-frente-al-dolar-en-lo-que-va-de-junio/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-06-14T23:02:29Z",
-      "Content": "El peso ha sido la moneda más depreciada frente al dólar en lo que va de junio debido a las preocupaciones del mercado por el déficit público y las reformas que promueve AMLO, y que apoya la futura p… [+3098 chars]"
     }
   ]
 }
