@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Twistedsifter.com"
+      },
+      "Author": "Matthew Gilligan",
+      "Title": "Savvy Shopper Says Going To Family Dollar Saved Her A Ton of Money",
+      "Description": "Time to load up at Family Dollar!",
+      "Url": "http://twistedsifter.com/2024/06/this-savvy-shopper-says-going-to-family-dollar-saved-her-a-ton-of-money/",
+      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2024/06/redditfdollar.png",
+      "PublishedAt": "2024-06-25T19:33:07Z",
+      "Content": "Food prices seem to be slowly declining lately, but there’s no doubt that a lot of folks out there are still struggling to afford groceries.\r\nBut a TikTokker named Queen Tay thinks she’s found out ho… [+1742 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-12T10:11:04Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Argentina economy snapshot: central bank dollar buying spree slows",
-      "Description": "(marketscreener.com) Argentina's central\nbank has started to put the brakes on its aggressive buying of\ndollars, a key push to build up reserves under new libertarian\nPresident Javier Milei, something analysts pegged to\nweaker-than-expected sales of grains by…",
-      "Url": "https://www.marketscreener.com/quote/currency/EURO-ARGENTINE-PESO-EUR-A-2356444/news/Argentina-economy-snapshot-central-bank-dollar-buying-spree-slows-46956003/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-06-12T10:00:00Z",
-      "Content": "Currency: The Euro isn't penalized by rate cuts, but by European elections\r\nJune 10, 2024 at 09:52 am EDT"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / LP",
+      "Title": "Peso mexicano se deprecia y regresa a niveles por encima de 18 por dólar",
+      "Description": "La moneda nacional cotizaba en 18.15 por dólar, con una depreciación del 1.19% frente a las 17.93 unidades del precio de referencia del lunes.",
+      "Url": "https://aristeguinoticias.com/2506/dinero-y-economia/peso-mexicano-se-deprecia-y-regresa-a-niveles-por-encima-de-18-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
+      "PublishedAt": "2024-06-25T19:29:00Z",
+      "Content": "Los mercados mexicanos retrocedían el martes ante un avance global del dólar mientras los inversionistas aguardan por un cúmulo de información tanto en México como en Estados Unidos en el transcurso … [+1642 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-pequeno-le-ofrecio-el-unico-dolar-que-ASOIH47BIJDNHDDAPGD63C7AHI.jpg?auth=04c25625dd7b489fac48162c8fc219c1e5dfcec42893a83a0f6101be6310ce25&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-14T15:07:30Z",
       "Content": "Este viernes 14 de junio, el precio del dólar en México es de $18,5385, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a… [+2444 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘ve la luz’: Gana 1.53% ante el dólar tras tropezones",
-      "Description": "La moneda mexicana todavía se ubica por arriba de las 18 unidades por dólar este jueves.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/13/peso-dolar-precio-hoy-13-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZNrs1fiFO9qyVmrr7schHcFtA7M=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/G6BLLN5WJJC7VHCBUEJIQSPXB4.jpg",
-      "PublishedAt": "2024-06-13T20:51:58Z",
-      "Content": "El peso mexicano ha comenzado a corregir su camino de ganancias frente al dólar este jueves, ayudado por factores externos como las señales de desinflación para la economía estadounidense, que apoyan… [+2069 chars]"
     }
   ]
 }
