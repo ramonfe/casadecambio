@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El dólar, por debajo de $18; tercera sesión de ganancia para el peso",
+      "Description": "Luego de 12 jornadas, el dólar cerró ayer por debajo de 18 pesos en el mercado al mayoreo. La moneda nacional se apreció 0.81 por ciento (14.66 centavos) para concluir en 17.9705 unidades por dólar spot.",
+      "Url": "https://www.jornada.com.mx/2024/06/25/economia/018n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-06-25T08:51:27Z",
+      "Content": "Periódico La JornadaMartes 25 de junio de 2024, p. 18\r\nLuego de 12 jornadas, el dólar cerró ayer por debajo de 18 pesos en el mercado al mayoreo. La moneda nacional se apreció 0.81 por ciento (14.66 … [+1828 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/09/dolar-economia-moneda-estados-unidos-2-29092023.jpg",
       "PublishedAt": "2024-06-12T22:59:09Z",
       "Content": "El Banco de México afirmó que cuenta con recursos, y los usará en caso de ser necesario, si se agrava la volatilidad cambiaria en el país, donde los mercados siguen con preocupación la posibilidad de… [+2737 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sopitas.com"
-      },
-      "Author": "Lucy Sanabria",
-      "Title": "¿Por qué el precio del dólar ha aumentado desde las elecciones 2024 en México?",
-      "Description": "Si se han dado un rol por X seguro han topado algunos tuits sobre la depreciación del peso mexa frente al mero mero billete verde, acompañados...\nThe post ¿Por qué el precio del dólar ha aumentado desde las elecciones 2024 en México? appeared first on Sopitas…",
-      "Url": "https://www.sopitas.com/noticias/dolar-precio-aumento-elecciones-2024-mexico/",
-      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/06/precio-dolar-aumento-elecciones-mexico.jpg",
-      "PublishedAt": "2024-06-12T18:45:39Z",
-      "Content": "Lo que necesitas saber:\r\nPoco después de conocer los resultados de las elecciones, el peso se fue depreciando frente al dólar.\r\nSi se han dado un rol por X seguro han topado algunos tuits sobre la de… [+4654 chars]"
     }
   ]
 }
