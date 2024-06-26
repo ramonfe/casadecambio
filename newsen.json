@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Saikat Das",
+      "Title": "India’s new finance hub in Gujarat eyes real-time dollar settlement by 2025",
+      "Description": "Real-time dollar settlement in India’s newest financial hub in Gujarat, GIFT City, is set to begin later this year. The service aims to attract foreign investors by streamlining transactions and reducing delays.",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/indias-new-finance-hub-in-gujarat-eyes-real-time-dollar-settlement-by-2025/articleshow/111245197.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-111245188,width-1200,height-630,imgsize-272886,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-06-25T02:28:32Z",
+      "Content": "Real-time dollar settlement in Indias newest financial hub in Gujarat is likely to become operational later this year or by early 2025, according to a senior official, a step that could burnish the c… [+1748 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2024-06-12T10:00:00Z",
       "Content": "Currency: The Euro isn't penalized by rate cuts, but by European elections\r\nJune 10, 2024 at 09:52 am EDT"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "New Zealand Herald"
-      },
-      "Author": "Thomas Coughlan",
-      "Title": "The billion dollar problems with Kāinga Ora and why plans to fix it might make the problem worse",
-      "Description": "The Government plans a radical shake-up in public housing, but some are worried.",
-      "Url": "https://www.nzherald.co.nz/nz/politics/inside-kainga-ora-what-the-government-wants-to-fix-and-why-its-solution-could-make-things-worse/36IR67UFUBCFRJMTAMXAF5BGP4/",
-      "UrlToImage": "https://www.nzherald.co.nz/resizer/v2/TMKGQWYZUNEBRGQ3GYVC2PVFNM.jpg?auth=6b68da7f00bd6de02d563137bc1730da67f535590b0920498e6e7c73c723bc1a&width=1200&height=675&quality=70&smart=true",
-      "PublishedAt": "2024-06-11T17:00:00Z",
-      "Content": "The Government landlord is in the spotlight. Photo / Nate McKinnonOn the spectrum of business models, selling something expensive to people who cant afford it lands somewhere between foolish and impo… [+28219 chars]"
     }
   ]
 }
