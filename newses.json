@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Roberto Casado",
+      "Title": "El temido escenario francés que acercaría la paridad del euro con el dólar",
+      "Description": "La prima de riesgo de Francia se ha disparado hasta niveles no vistos desde 2017, por la incertidumbre política en ese país, mientras que el euro, aunque ha sufrido al descender...",
+      "Url": "https://www.expansion.com/mercados/2024/06/26/667c484ee5fdea495e8b45a8.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/0aa5541afecd9d1cc73edebfc6f2d892/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/26/17194209412115.jpg",
+      "PublishedAt": "2024-06-26T18:34:54Z",
+      "Content": "Los analistas calculan la relación entre la prima de riesgo gala y el tipo de cambio de la moneda común europea.La prima de riesgo de Francia se ha disparado hasta niveles no vistos desde 2017, por l… [+358 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ObmYyArhhM9ppchbp_px1MoXvKs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UBVY7WYDG5EAJDFWV5ETLDBABU.jpg",
       "PublishedAt": "2024-06-18T16:27:59Z",
       "Content": "El peso mexicano toma un respiro y arroja ganancias en el comienzo de la sesión de este martes, al igual que la mayoría de las divisas emergentes, las cuales se ven beneficiadas por un debilitamiento… [+1744 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 18 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-18-de-junio-nid18062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-18-de-J4SFBNT7MZF63NBW2TES2OG4S4.jpg?auth=f980da33901feeb10037553f8ea5a29d1d0725c8c244969c52c9e1713265b75f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-18T14:19:28Z",
-      "Content": "Este martes 18 de junio, el precio del dólar en México es de $18,5248, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está en… [+2066 chars]"
     }
   ]
 }
