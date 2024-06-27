@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 26 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-26-de-junio-nid26062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-cotiza-a-la-alza-en-mexico-este-PA6OM4GJENBG3CMYLLFQP3KNNI.jpg?auth=ff0f24be5abbb98f8156a978fa7efb491bef1ee89485053c1319b4cabdd4a79d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-26T15:35:56Z",
+      "Content": "Este miércoles 26 de junio, el precio del dólar en México es de $18,1372, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+1849 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Anya Andrianova y Carter Johnson",
+      "Title": "Sorry, peso... Dólar toca nuevo máximo de 2024: ¿Cómo es que la Fed lo ayudó?",
+      "Description": "Analistas de JPMorgan estiman que si bien el dólar se ve beneficiado por el momento, el ‘apoyo’ de la Fed no será ‘eterno’ y se agotará en algún punto del año.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/26/dolar-toca-nuevo-maximo-de-2024-como-lo-ayudo-la-fed/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/YbFV525qMaVpt-pubpLaQ_FkR6I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7NVSSU2UHBG6ZDHJXCLTTEYV7Q.jpg",
+      "PublishedAt": "2024-06-26T15:33:15Z",
+      "Content": "Un indicador de la fortaleza del dólar alcanzó su nivel más alto desde noviembre, ya que el primer recorte de tasas de la Reserva Federal parece lejano.\r\nEl índice Bloomberg Dollar Spot subió 0.4 por… [+2055 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Cecilia Moya",
+      "Title": "El euro desciende a niveles de abril frente al dólar y ya pierde un 3% en el año",
+      "Description": "El euro sigue mostrando debilidades en su batalla contra el dólar, con una tibia caída de en torno el 0,3% en la jornada del miércoles que dejaba a la divisa continental en niveles no vistos desde abril, en la cota de los 1,068 dólares.",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12883893/06/24/el-euro-desciende-a-niveles-de-abril-frente-al-dolar-y-ya-pierde-un-3-en-el-ano.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/2/5/1/euro-simbolo-billetes-dinero-divisa-bandera-ue-bloomberg-1200x655.jpg",
+      "PublishedAt": "2024-06-26T15:33:01Z",
+      "Content": "El euro sigue mostrando debilidades en su batalla contra el dólar, con una tibia caída de en torno el 0,3% en la jornada del miércoles que dejaba a la divisa continental en niveles no vistos desde ab… [+1700 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240618/imag/foto_0000000220240618084647/DolarBBG.jpg",
       "PublishedAt": "2024-06-18T12:36:00Z",
       "Content": "El precio del dólar en Chile comenzó su jornada de martes a la baja, ante nuevos datos de consumo en Estados Unidos que potencian las esperanzas del mercado por un pronto recorte de tasas de la Reser… [+1287 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso no libró la depreciación y cerró en 18.54 unidades por dólar",
-      "Description": "El peso mexicano se depreció 0.44 por ciento este lunes (equivalente a 8.15 centavos), frente a un dólar débil a escala mundial, para cerrar en 18.5447 unidades por dólar spot, en medio de los anuncios de la próxima administración acerca de que la reforma al …",
-      "Url": "https://www.jornada.com.mx/2024/06/18/economia/017n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-06-18T08:54:17Z",
-      "Content": "Periódico La JornadaMartes 18 de junio de 2024, p. 17\r\nEl peso mexicano se depreció 0.44 por ciento este lunes (equivalente a 8.15 centavos), frente a un dólar débil a escala mundial, para cerrar en … [+3318 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Silvia Rodríguez",
-      "Title": "Peso se deprecia ante el dólar por aversión al riesgo; es la divisa que más pierde esta mañana",
-      "Description": "Forbes México.\n Peso se deprecia ante el dólar por aversión al riesgo; es la divisa que más pierde esta mañana\n\nAdemás del nerviosismo por posibles reformas en México, datos económicos en China fueron desfavorables para el peso y se prevé que la Reserva Feder…",
-      "Url": "https://www.forbes.com.mx/peso-se-deprecia-ante-el-dolar-por-aversion-al-riesgo-es-la-divisa-que-mas-pierde-esta-manana/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-peso-dinero-_ACH0046.jpg",
-      "PublishedAt": "2024-06-17T15:00:25Z",
-      "Content": "El tipo de cambio inicia la primera sesión de la semana con pérdidas, y el peso cotiza en 18.60 unidades por dólar y con ello se coloca como la divisa más depreciada, debido a un entorno nacional e i… [+1841 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 17 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-17-de-junio-nid17062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-divisa-abre-la-semana-UNO42I6NJVEMLIZA7OHLN3SENQ.jpg?auth=a225f4dcf54a40afaebdc62fc7d03482247f59ed49fa48ee350a31163d2bd070&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-17T14:59:10Z",
-      "Content": "Este lunes 17 de junio, el precio del dólar en México es de $18,5385, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está a u… [+2501 chars]"
     }
   ]
 }
