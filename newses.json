@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se ‘hace bolita’ por dólar ‘machuchón’: Pierde y se cotiza en las 18.15 unidades",
+      "Description": "En ventanillas bancarias, quienes quieran comprar dólares tendrán que pagar 18.69 pesos por cada uno según datos de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/26/peso-dolar-precio-hoy-26-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RLSfBeqRV-D_cV9N8dHm2oJpGw4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UBRYGLI6KRG4NGGQ3KKSJ2RIT4.jpg",
+      "PublishedAt": "2024-06-26T16:26:48Z",
+      "Content": "El peso mexicano cae ante el dólar en la sesión de este miércoles 26 de junio frente a la cautela de operadores previo a que se dé a conocer la nueva decisión de política monetaria del Banco de Méxic… [+1798 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-18-de-J4SFBNT7MZF63NBW2TES2OG4S4.jpg?auth=f980da33901feeb10037553f8ea5a29d1d0725c8c244969c52c9e1713265b75f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-18T14:19:28Z",
       "Content": "Este martes 18 de junio, el precio del dólar en México es de $18,5248, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está en… [+2066 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "Dólar cae en primeras operaciones a la espera de la decisión de tasas del Banco Central",
-      "Description": "El retroceso se daba a pesar de que el cobre extendía su baja a mínimos de dos meses.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vajh9",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240618/imag/foto_0000000220240618084647/DolarBBG.jpg",
-      "PublishedAt": "2024-06-18T12:36:00Z",
-      "Content": "El precio del dólar en Chile comenzó su jornada de martes a la baja, ante nuevos datos de consumo en Estados Unidos que potencian las esperanzas del mercado por un pronto recorte de tasas de la Reser… [+1287 chars]"
     }
   ]
 }
