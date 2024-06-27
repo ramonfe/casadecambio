@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: el Banco Central volvió a vender reservas y podría cerrar junio con saldo negativo",
+      "Description": "Se desprendió hoy de otros US$76 millones, lo que confirma que se le complica sumar divisas por esta vía  y acrecienta las dudas del mercado",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-volvio-a-vender-reservas-y-podria-cerrar-junio-con-saldo-negativo-nid26062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-vender-reservas-hoy-y-lleva-5VLKH7KES5HD7ESATNMQZK7TG4.JPG?auth=d068fdc92d943c2ae6b48fded79e5128a2f407c7ea5fc288b6a4cbe01cec9fbb&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-26T21:06:52Z",
+      "Content": "El objetivo explicitado a comienzos de año por el Banco Central (BCRA) de ir en busca de una recuperación de su nivel de reservas para aportar a la tranquilidad y estabilización de la economía volvió… [+4367 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.df.cl"
+      },
+      "Author": "Catalina Vergara",
+      "Title": "Consejero del Banco Central atribuye a la Fed y al cobre reciente alza del dólar y califica IPoM de junio como “más controversial” que anteriores",
+      "Description": "En el marco de una presentación del IPoM en la Universidad Católica, Claudio Soto se refirió también al efecto de las tarifas eléctricas y bases de comparación “más exigentes” en la inflación.",
+      "Url": "https://www.df.cl/economia-y-politica/macro/consejero-del-banco-central-atribuye-a-la-fed-y-el-cobre-la-reciente",
+      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240626/imag/foto_0000001320240626164955/CS.jpg",
+      "PublishedAt": "2024-06-26T21:05:00Z",
+      "Content": "El Informe de Política Monetaria (IPoM) de junio ha sido más noticioso o más controversial que otros reportes, expresó este miércoles el consejero del Banco Central, Claudio Soto.\r\nEn el marco de la … [+2934 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-PA6OM4GJENBG3CMYLLFQP3KNNI.jpg?auth=ff0f24be5abbb98f8156a978fa7efb491bef1ee89485053c1319b4cabdd4a79d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-19T14:50:41Z",
       "Content": "Este miércoles 19 de junio, el precio del dólar en México es de $18,4128, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende en las ventanillas del Citibanamex está… [+2158 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Equipo DF",
-      "Title": "Dólar cae en primeras operaciones tras anuncio del Banco Central de una pausa en baja de tasas",
-      "Description": "Analistas esperan movimientos bajistas en el corto plazo para la divisa, de cara a mejores expectativas para la política monetaria local.",
-      "Url": "https://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hakuc",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240619/imag/foto_0000000120240619083648/foto_0000000220220215092437.jpg",
-      "PublishedAt": "2024-06-19T12:36:00Z",
-      "Content": "El precio del dólar en Chile comenzó su jornada de miércoles con retrocesos y amenazaba con perder los $ 930, luego de que el Banco Central bajara ayer su política monetaria según lo esperado, pero a… [+1509 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘toma oxígeno’ ante el dólar: Se cotiza en las 18.39 unidades",
-      "Description": "El precio del dólar en ventanillas bancarias pues se cotiza en los 18.89 pesos cada según los datos publicados por Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/18/peso-dolar-precio-hoy-18-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ObmYyArhhM9ppchbp_px1MoXvKs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UBVY7WYDG5EAJDFWV5ETLDBABU.jpg",
-      "PublishedAt": "2024-06-18T16:27:59Z",
-      "Content": "El peso mexicano toma un respiro y arroja ganancias en el comienzo de la sesión de este martes, al igual que la mayoría de las divisas emergentes, las cuales se ven beneficiadas por un debilitamiento… [+1744 chars]"
     }
   ]
 }
