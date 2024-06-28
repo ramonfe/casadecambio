@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso hila tres sesiones con pérdidas frente al dólar",
+      "Description": "Forbes México.\n Peso hila tres sesiones con pérdidas frente al dólar\n\nEl dólar se ubicó en 18.4088 pesos, una depreciación de 0.24% frente a la sesión previa, de acuerdo con datos de Banxico. \nPeso hila tres sesiones con pérdidas frente al dólar\nForbes Staff",
+      "Url": "https://www.forbes.com.mx/peso-hila-tres-sesiones-con-perdidas-frente-al-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-06-27T21:19:00Z",
+      "Content": "El peso hiló este jueves tres sesiones con pérdidas frente al dólar, en una jornada marcada por datos económicos de EU, y en el ámbito local por el anuncio de política monetaria de Banxico.\r\nEl dólar… [+1924 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
       "PublishedAt": "2024-06-21T21:50:39Z",
       "Content": "El peso tuvo este viernes su mejor nivel frente al dólar desde el 6 de junio debido a que los mercados en México relajaron su nerviosismo frente a las próximas reformas, en particular la judicial.\r\nE… [+2196 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 21 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-21-de-junio-nid21062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-billete-de-dolar-en-mexico-asi-cotizan-los-JLIVG5M7WFGMTEH6MG4P7GV3DY.jpg?auth=ed634feefe233436599ca395c097242c011b5a2a9d14478ca5082b6a2e3f496b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-21T15:03:45Z",
-      "Content": "Este viernes 21 de junio, el precio del dólar en México es de $18,4027, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1955 chars]"
     }
   ]
 }
