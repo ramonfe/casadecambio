@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Miriam Acuña",
+      "Title": "¿Por qué el dólar estadounidense es la moneda de reserva por excelencia?",
+      "Description": "El billete verde sigue siendo la moneda más utilizada en el mundo y su evidente influencia en el comercio mundial ha llevado a países como Ecuador o El Salvador a adoptarla.",
+      "Url": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2024/06/27/por-que-el-dolar-estadounidense-es-la-moneda-de-reserva-por-excelencia/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/i1ozqDuxU-F3r93Lm5cLYI1tR8w=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ETB3R3DA2NFOJHUX3FA2VP5ZRM.jpg",
+      "PublishedAt": "2024-06-27T07:30:00Z",
+      "Content": "Economista en Jefe GBM.\r\nEntender la importancia y el rol que han jugado los acontecimientos históricos, como las guerras mundiales o movimientos sociales, es necesario para poder procesar y estimar … [+4052 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-otra-vez-en-la-mira-del-mercado-BVZTI55FOBHINJZJ5EBXOMA4QY.jpg?auth=0a51144632629973d3a5e73261ff875f4fe1ac63f7ba5a8b382ee8cd01759ae8&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-19T20:53:33Z",
       "Content": "El Banco Central (BCRA) debió hoy aportar al mercado US$156 millones de sus reservas, con lo que concretó la mayor venta de reservas (para abastecer demanda local) de la era Milei, al superar los US$… [+3774 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se estanca’ ante el dólar: Se cotiza en las 18.43 unidades",
-      "Description": "El precio del dólar en los bancos se mantiene  por debajo del piso de las 19 unidades, según cifras de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/19/peso-dolar-precio-hoy-19-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Rp99KbFv99ThGDWt83rOc4WH-mU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GP46ZRCGOFEGRLPUN7LNX5NNGY.jpg",
-      "PublishedAt": "2024-06-19T17:48:46Z",
-      "Content": "El peso mexicano cede terreno ante el dólar en el inicio de una jornada con baja liquidez, ya que los mercados en Estados Unidos permanecerán cerrados por el feriado del Día de la Emancipación.\r\nLa d… [+1607 chars]"
     }
   ]
 }
