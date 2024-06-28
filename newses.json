@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 27 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-27-de-junio-nid27062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-27T15:26:51Z",
+      "Content": "Este jueves 27 de junio, el precio del dólar en México es de $18,1372, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1916 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-20T14:31:25Z",
       "Content": "Este jueves 20 de junio, el precio del dólar en México es de $18,4230, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2294 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latamnews.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "El oro sube de peso y desplaza al dólar de las reservas mundiales por la inquietud geopolítica",
-      "Description": "Bancos centrales de los países tanto desarrollados como en vías de desarrollo seguirán aumentando la proporción de oro en sus reservas debido a las tensiones políticas y financieras a escala mundial, revela nueva encuesta del Consejo Mundial del Oro (WGC). El…",
-      "Url": "https://latamnews.lat/20240620/el-oro-sube-de-peso-y-desplaza-al-dolar-de-las-reservas-mundiales-por-la-inquietud-geopolitica-1155582767.html",
-      "UrlToImage": "https://cdn.img.latamnews.lat/images/sharing/article/spa/1155582767.jpg?11555843211718887033",
-      "PublishedAt": "2024-06-20T12:33:00Z",
-      "Content": "Suscríbete a nuestros canales de Telegram a través de estosenlaces.\r\nYa que la aplicación Sputnik está bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo móv… [+78 chars]"
     }
   ]
 }
