@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘agarra carrera’ rumbo al ‘finde’: Se aprecia más de 1% ante el dólar",
+      "Description": "El peso mexicano se ve beneficiado por las apuestas del mercado sobre que la Fed recortará su tasa en el tercer trimestre del año.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/28/peso-dolar-precio-hoy-28-de-junio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/-zkTuK3gPxKKbUJnP-OTWN-NTwA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ELSCWMU4J5GEPNSTVPYFWAW6YI.jpg",
+      "PublishedAt": "2024-06-28T16:18:43Z",
+      "Content": "El peso mexicano corrige sus movimientos ante el dólar en el arranque de la última sesión de junio tras tres jornadas con caídas, esto después de que el Banco de México dejó ver que su política monet… [+1872 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-los-ultimos-registros-de-BFNBW7GFZ5DM5P7IELYTPBO7DY.jpg?auth=cb208dc7b07503443de826d04d3a2e7d6aa31a40b187d12cf09c5f4904a36c90&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-24T14:55:58Z",
       "Content": "Este lunes 24 de junio, el precio del dólar en México es de $18,4027, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2214 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Peso se aprecia 1.04%; enfila a nivel de 18 unidades por dólar",
-      "Description": "El peso concluyó la sesión del viernes con una apreciación de 1.04 por ciento frente al cierre reportado el jueves, comportamiento que mostró todavía el efecto del nombramiento de seis funcionarios del gabinete de la virtual presidenta electa, Claudia Sheinba…",
-      "Url": "https://www.jornada.com.mx/2024/06/22/economia/016n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-06-22T09:04:44Z",
-      "Content": "Periódico La JornadaSábado 22 de junio de 2024, p. 16\r\nEl peso concluyó la sesión del viernes con una apreciación de 1.04 por ciento frente al cierre reportado el jueves, comportamiento que mostró to… [+2295 chars]"
     }
   ]
 }
