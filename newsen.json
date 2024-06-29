@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thenightly.com.au"
+      },
+      "Author": "The Nightly",
+      "Title": "Chalmers approves ANZ's multi-billion dollar bid for Suncorp Bank",
+      "Description": "The federal treasurer has approved ANZ's plan to buy the banking arm of insurer Suncorp under a million-billion dollar deal, subject to conditions.",
+      "Url": "https://thenightly.com.au/business/treasurer-jim-chalmers-approves-anzs-multi-billion-dollar-bid-for-suncorp-bank-c-15170586",
+      "UrlToImage": "https://images.thenightly.com.au/publication/C-15170586/acf1151cd7c8596978541d6730a14157532047ea-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "PublishedAt": "2024-06-27T23:39:49Z",
+      "Content": "ANZs hoped-for acquisition of insurer Suncorps banking arm is back on track after the federal treasurer signed off on the deal.\r\nANZs pursuit of the business under a deal worth up to $5 billion has b… [+1707 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
       "PublishedAt": "2024-06-12T10:16:10Z",
       "Content": "By Hernan Nessi\r\nBUENOS AIRES (Reuters) - Argentina's central bank has started to put the brakes on its aggressive buying of dollars, a key push to build up reserves under new libertarian President J… [+1055 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Argentina economy snapshot: central bank dollar buying spree slows",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0c421f3c-89fb-4a70-a29a-7f0dbbe38273",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-12T10:11:04Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
