@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 28 de junio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-28-de-junio-nid28062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/cotizacion-del-dolar-en-mexico-hoy-viernes-28-de-NZIN756KEJCULIWFBJJX2ATSLM.jpg?auth=6ee5b387ab88f23b3822653b540597d45407c28a21841af5623d96e1cd223fcb&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-28T14:52:25Z",
+      "Content": "Este viernes 28 de junio, el precio del dólar en México es de $18,1372, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1973 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-06-22T09:04:44Z",
       "Content": "Periódico La JornadaSábado 22 de junio de 2024, p. 16\r\nEl peso concluyó la sesión del viernes con una apreciación de 1.04 por ciento frente al cierre reportado el jueves, comportamiento que mostró to… [+2295 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Un respiro para el peso: dólar se acerca al piso de las 18 unidades",
-      "Description": "Forbes México.\n Un respiro para el peso: dólar se acerca al piso de las 18 unidades\n\nEl peso tiene su mejor nivel frente a la divisa estadounidense desde el 6 de junio, de acuerdo con datos de Banxico.\nUn respiro para el peso: dólar se acerca al piso de las 1…",
-      "Url": "https://www.forbes.com.mx/un-respiro-para-el-peso-dolar-se-acerca-al-piso-de-las-18-unidades/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
-      "PublishedAt": "2024-06-21T21:50:39Z",
-      "Content": "El peso tuvo este viernes su mejor nivel frente al dólar desde el 6 de junio debido a que los mercados en México relajaron su nerviosismo frente a las próximas reformas, en particular la judicial.\r\nE… [+2196 chars]"
     }
   ]
 }
