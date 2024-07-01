@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 47,
+  "TotalResults": 48,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Exposes Customers’ Full Names, Account Numbers, Dates of Birth and More in ‘Foreseeable and Preventable’ Data Breach: Class-Action Allegations",
+      "Description": "A North Carolina-based bank is facing a proposed class-action lawsuit over a data breach that has allegedly placed customers at serious risk of fraud and identity theft. The plaintiff of the lawsuit accuses Truist Bank of failing to secure and safeguard its c…",
+      "Url": "https://dailyhodl.com/2024/06/30/billion-dollar-bank-exposes-customers-full-names-account-numbers-dates-of-birth-and-more-in-foreseeable-and-preventable-data-breach-class-action-allegations/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/06/bank-failures-dollar-likely.jpg",
+      "PublishedAt": "2024-06-30T19:54:04Z",
+      "Content": "A North Carolina-based bank is facing a proposed class-action lawsuit over a data breach that has allegedly placed customers at serious risk of fraud and identity theft.\r\nThe plaintiff of the lawsuit… [+1885 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-12T14:02:26Z",
       "Content": "Skip to comments.\r\nSaudi Arabia's petro-dollar exit: A global finance paradigm shiftBiz community ^\r\n | 10 June 25\r\n | Katharine Hsmilton\r\nPosted on 06/12/2024 7:02:26 AM PDT by delta7\r\nThe financial… [+7228 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Reuters",
-      "Title": "Argentina economy snapshot: central bank dollar buying spree slows",
-      "Description": "Argentina economy snapshot: central bank dollar buying spree slows",
-      "Url": "https://www.investing.com/news/economy-news/argentina-economy-snapshot-central-bank-dollar-buying-spree-slows-3480771",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
-      "PublishedAt": "2024-06-12T10:16:10Z",
-      "Content": "By Hernan Nessi\r\nBUENOS AIRES (Reuters) - Argentina's central bank has started to put the brakes on its aggressive buying of dollars, a key push to build up reserves under new libertarian President J… [+1055 chars]"
     }
   ]
 }
