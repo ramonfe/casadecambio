@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 1° de julio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-1-de-julio-nid01072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lines-lunes-1°-3YJXLYJ6OZDS7CUKFHURO5YU4M.jpg?auth=37c9b920fd6a03f5e6c71444968f3529ba9e424420101ad7681a668d07b81072&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-01T15:34:47Z",
+      "Content": "Este lunes 1° de julio, el precio del dólar en México es de $18,2482, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+1919 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-volvio-a-comprar-tras-la-fuerte-IIWTPFNGIJGMTJBBVHRFDER4ZQ.JPG?auth=5495d4f1740324982c8fef813d088207a1cc563d27a5bc0f0804f75bb1619c78&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-24T20:16:23Z",
       "Content": "El Banco Central (BCRA) logró comprar hoy US$47 millones mediante intervenciones sobre el mercado cambiario oficial, en la rueda que marcó el reinicio de esta actividad tras el fin de una semana plag… [+3638 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘huele’ el terreno de las 17 unidades: Así cotiza este lunes ante el dólar",
-      "Description": "Según especialistas de CIBanco, se proyecta que el tipo de cambio se moverá entre las 18 y 18.16 unidades durante este lunes.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/24/peso-dolar-precio-hoy-24-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/jhhEFiMeXm2jL_jJhbolsdxLXiA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I3V6BYJ4JNGPVNP5KOQY2J3MM4.jpg",
-      "PublishedAt": "2024-06-24T15:46:05Z",
-      "Content": "El peso mexicano abre la última semana de junio con ganancias frente al dólar y amenaza con regresar al terreno de las 17 unidades después de que la cifra de inflación en México se ubicó muy por enci… [+1540 chars]"
     }
   ]
 }
