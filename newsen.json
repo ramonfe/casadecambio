@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 48,
+  "TotalResults": 49,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Parliament to hear ministerial statements on oil spill, discuss billion-dollar money laundering case",
+      "Description": "Members of Parliament also filed questions on the fatal incident at PUB's Choa Chu Kang Waterworks and about Singapore's position on recognising Palestine as a state.",
+      "Url": "https://www.channelnewsasia.com/singapore/parliament-order-paper-oil-spill-billion-dollar-money-laundering-pub-toxic-gas-4448186",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--spjFzsYE--/c_crop,h_840,w_1494,x_5,y_139/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/03/sya_7027.jpg?itok=xHxSXxSq",
+      "PublishedAt": "2024-07-01T09:03:00Z",
+      "Content": "MONEY LAUNDERING CASE\r\nMPs also filed questions about the billion-dollar money laundering case, which concluded last month after all 10 offenders were sentenced. \r\nThe nine men and one woman involved… [+1818 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-12T15:36:50Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "Biz community",
-      "Title": "Saudi Arabia's petro-dollar exit: A global finance paradigm shift",
-      "Description": "The financial world is bracing for a significant upheaval following Saudi Arabia's decision not to renew its 50-year petro-dollar deal with the United States, which expired on Sunday, 9 June, 2024. The lapsed security agreement - signed by the United States a…",
-      "Url": "https://freerepublic.com/focus/f-news/4243820/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-12T14:02:26Z",
-      "Content": "Skip to comments.\r\nSaudi Arabia's petro-dollar exit: A global finance paradigm shiftBiz community ^\r\n | 10 June 25\r\n | Katharine Hsmilton\r\nPosted on 06/12/2024 7:02:26 AM PDT by delta7\r\nThe financial… [+7228 chars]"
     }
   ]
 }
