@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg / Anya Andrianova, Carter Johnson y George Lei",
+      "Title": "Dólar y Trump son ‘BFFs’: ¿Por qué inmunidad parcial del expresidente empoderó a la moneda de EU?",
+      "Description": "Para analistas, las políticas proteccionistas del expresidente Donald Trump pueden beneficiar al dólar en el futuro.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/01/dolar-y-trump-son-bffs-por-que-inmunidad-parcial-del-expresidente-empodero-a-la-moneda-de-eu/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/6WXq2nK1SPnrFBmR3r10_9TGneU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/XMYW4EDZGZG6VHPT3DWFET2HMU.jpg",
+      "PublishedAt": "2024-07-01T20:24:47Z",
+      "Content": "El avance del dólar tras un fallo crucial de la Corte Suprema este lunes 1 de julio resalta el potencial de mayores ganancias de la moneda estadounidense en caso de una segunda Presidencia de Donald … [+2846 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central frenó la racha vendedora y arrancó julio comprando US$50 millones",
+      "Description": "Fue al cabo de una rueda de pocos negocios, lo que revela que la oferta de divisas sigue contendida",
+      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-freno-la-racha-vendedora-arranco-julio-comprando-us50-millones-nid01072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-freno-su-racha-vendedora-en-la-NLMFH6PJUZA3RGGXLU2Y6Y2C24.JPG?auth=5845c119b51c9d493abc5e936674c3b58e361247361901f8c8384fe5901f7865&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-01T20:01:50Z",
+      "Content": "El Banco Central (BCRA) logró cortar hoy, en la primera rueda de julio, la racha vendedora con la que venía de cerrar junio y que le deparó el primer saldo de intervenciones sobre el mercado negativo… [+3298 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-06-25T08:51:27Z",
       "Content": "Periódico La JornadaMartes 25 de junio de 2024, p. 18\r\nLuego de 12 jornadas, el dólar cerró ayer por debajo de 18 pesos en el mercado al mayoreo. La moneda nacional se apreció 0.81 por ciento (14.66 … [+1828 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Francisco Rivera",
-      "Title": "Mercados relajados: el peso vuelve al nivel de las 17 unidades por dólar",
-      "Description": "Forbes México.\n Mercados relajados: el peso vuelve al nivel de las 17 unidades por dólar\n\nEl dólar se ubicó en 17.9705 pesos, una apreciación de 0.81% para la moneda nacional respecto al cierre previo, de acuerdo con Banxico.\nMercados relajados: el peso vuelv…",
-      "Url": "https://www.forbes.com.mx/mercados-relajados-el-peso-vuelve-al-nivel-de-las-17-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-06-24T22:00:48Z",
-      "Content": "El tipo de cambio rompió el piso de los 18 pesos por dólar al cierre de la sesión de este lunes, mientras los mercados relajan su nerviosismo por las futuras reformas constitucionales, en particular … [+1460 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN/ SBH",
-      "Title": "El peso gana terreno y cierra abajo de 18 unidades por dólar",
-      "Description": "La moneda sumó un retorno de alrededor de un 2.5% en las últimas tres sesiones.",
-      "Url": "https://aristeguinoticias.com/2406/dinero-y-economia/el-peso-gana-terreno-y-cierra-abajo-de-18-unidades-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/02/dolares-exportaciones-08022024.jpg",
-      "PublishedAt": "2024-06-24T21:53:52Z",
-      "Content": "La moneda de México avanzó el lunes y regresó a niveles por debajo de la barrera de las 18 unidades, ante un retroceso global del dólar y crecientes expectativas de que el banco central mantendría la… [+1799 chars]"
     }
   ]
 }
