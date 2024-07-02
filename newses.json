@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Julio ‘no pinta bien’ para el peso: Arranca mes con caída de 0.46% ante el dólar",
+      "Description": "El dato del sector manufacturero de EU, que tuvo un desempeño peor de lo esperado, puede representar problemas para las remesas enviadas a México.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/01/peso-dolar-precio-hoy-1-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/pxQVbZ_ynHDh16jZIJ9K_UQTlRw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TB74EZBLVVAYFGKX5EHLHHRU5M.jpg",
+      "PublishedAt": "2024-07-01T18:03:15Z",
+      "Content": "El peso mexicano opera en terreno de pérdidas ante el dólar en el arranque de julio ante la continua aversión al riesgo dentro del mercado local y el reacomodo de expectativas sobre los recortes de l… [+1652 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/02/dolares-exportaciones-08022024.jpg",
       "PublishedAt": "2024-06-24T21:53:52Z",
       "Content": "La moneda de México avanzó el lunes y regresó a niveles por debajo de la barrera de las 18 unidades, ante un retroceso global del dólar y crecientes expectativas de que el banco central mantendría la… [+1799 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central volvió a comprar reservas tras la fuerte venta del último miércoles",
-      "Description": "Se quedó con US$47 millones, 30% de lo sacrificado al final de la semana pasada, pero no despeja las dudas sobre la sustentabilidad del proceso de acumulación de reservas",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-volvio-a-comprar-reservas-tras-la-fuerte-venta-del-ultimo-miercoles-nid24062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-volvio-a-comprar-tras-la-fuerte-IIWTPFNGIJGMTJBBVHRFDER4ZQ.JPG?auth=5495d4f1740324982c8fef813d088207a1cc563d27a5bc0f0804f75bb1619c78&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-24T20:16:23Z",
-      "Content": "El Banco Central (BCRA) logró comprar hoy US$47 millones mediante intervenciones sobre el mercado cambiario oficial, en la rueda que marcó el reinicio de esta actividad tras el fin de una semana plag… [+3638 chars]"
     }
   ]
 }
