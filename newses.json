@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza ante retroceso global del dólar",
+      "Description": "Forbes México.\n Peso avanza ante retroceso global del dólar\n\nLa moneda estadounidense pierde terreno luego de que el presidente de la Fed dijera que se necesitan más datos de inflación antes de recortar tasas en EU.\nPeso avanza ante retroceso global del dólar…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-ante-retroceso-global-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2024-07-02T22:17:32Z",
+      "Content": "El peso se apreció este martes ante un retroceso global del dólar después de que el jefe de la Reserva Federal, Jerome Powell, afirmó que se necesitan conocer más datos de inflación antes de recortar… [+2211 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-lafayette-una-moneda-de-plata-emitida-en-el-LAZG4LBFQBH7LDNRV7JT4N6WIU.jpg?auth=1f2e758ad648e648d4df413c477a5888e85c432a3b5f274e74f95a11eaf4a58e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-25T18:06:10Z",
       "Content": "En el coleccionismo de dinero, ciertas piezas no solo tienen un valor histórico, sino también un considerable valor económico. Tal es el caso del Dólar Lafayette, una moneda de plata emitida en el añ… [+2582 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¡Toing! Peso ‘rebota’ al terreno de las 18 unidades ante el dólar: ¿Cuánto se deprecia?",
-      "Description": "En lo que se respecta al precio del dólar, este es de 18.57 pesos por cada uno según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/25/peso-dolar-precio-hoy-25-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/-skZc8A7QAossTAf2nHNoY3sH7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/U3HA2GHYN5HLJJXMLWA3NSKXG4.jpg",
-      "PublishedAt": "2024-06-25T16:45:54Z",
-      "Content": "El peso mexicano rebota en la sesión de este martes ante el dólar como parte de una corrección después de haberse apreciado durante las últimas tres jornadas consecutivas y regresa al terreno de las … [+1519 chars]"
     }
   ]
 }
