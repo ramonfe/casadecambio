@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso arranca julio presionado por el dólar",
+      "Description": "El peso mexicano inició julio con pérdidas frente al dólar. La moneda tuvo una depreciación diaria de 0.43 por ciento para cerrar en 18.3640 unidades por dólar spot. De acuerdo con el Banco de México (BdeM), el tipo de cambio operó entre un máximo de 18.4380 …",
+      "Url": "https://www.jornada.com.mx/2024/07/02/economia/016n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-07-02T08:52:19Z",
+      "Content": "Periódico La JornadaMartes 2 de julio de 2024, p. 16\r\nEl peso mexicano inició julio con pérdidas frente al dólar. La moneda tuvo una depreciación diaria de 0.43 por ciento para cerrar en 18.3640 unid… [+1768 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2024-06-25T14:29:28Z",
       "Content": "El peso retrocedía este martes ante un avance global del dólar, mientras los inversores aguardan un cúmulo de información en el transcurso de la semana, entre ella el anuncio de política monetaria de… [+765 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El dólar, por debajo de $18; tercera sesión de ganancia para el peso",
-      "Description": "Luego de 12 jornadas, el dólar cerró ayer por debajo de 18 pesos en el mercado al mayoreo. La moneda nacional se apreció 0.81 por ciento (14.66 centavos) para concluir en 17.9705 unidades por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2024/06/25/economia/018n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-06-25T08:51:27Z",
-      "Content": "Periódico La JornadaMartes 25 de junio de 2024, p. 18\r\nLuego de 12 jornadas, el dólar cerró ayer por debajo de 18 pesos en el mercado al mayoreo. La moneda nacional se apreció 0.81 por ciento (14.66 … [+1828 chars]"
     }
   ]
 }
