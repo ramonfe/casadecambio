@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Dólar que se ‘duerme’, se lo lleva el peso: Esto pierde ante la moneda mexicana hoy",
+      "Description": "Los analistas prestaron atención al mensaje de Jerome Powell, quien dijo que la Fed aún no está decidida a recortar la tasa de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/02/peso-dolar-precio-hoy-2-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/0g6SLIR3lAbAPcSSMfAyZ1O7F2Y=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OCBHCQBFFJEQJFRPQMYPIBPRZ4.jpg",
+      "PublishedAt": "2024-07-02T17:09:31Z",
+      "Content": "El peso mexicano toma ventaja sobre el dólar en el inicio de las operaciones de este martes, a la par que los precios del petróleo aumentan y el billete verde muestra grietas en su fortaleza. \r\nLa ap… [+1868 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/-skZc8A7QAossTAf2nHNoY3sH7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/U3HA2GHYN5HLJJXMLWA3NSKXG4.jpg",
       "PublishedAt": "2024-06-25T16:45:54Z",
       "Content": "El peso mexicano rebota en la sesión de este martes ante el dólar como parte de una corrección después de haberse apreciado durante las últimas tres jornadas consecutivas y regresa al terreno de las … [+1519 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 25 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-25-de-junio-nid25062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-25-de-F3QHP5NJGVEWRJGVMBGPY4O6SI.jpg?auth=aa56bff6d3ed9baa61d3ba4f43a7f0e42c9617c5c48cfa96c154921bfe752953&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-25T15:22:06Z",
-      "Content": "Este martes 25 de junio, el precio del dólar en México es de $17,9627, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2006 chars]"
     }
   ]
 }
