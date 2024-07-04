@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "El ‘3D julio’ empuja al peso: Gana al dólar y se cotiza en las 18.12 unidades",
+      "Description": "El peso mexicano va a contracorriente de la tendencia de las monedas latinoamericanas que lideran las caídas este miércoles.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/03/peso-dolar-precio-hoy-3-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/UmUCIGFa69vXqW83TZCJlSrurgg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QVJJHE6AXBAMHAZQTBKZHK56ZI.jpg",
+      "PublishedAt": "2024-07-03T16:31:43Z",
+      "Content": "El peso mexicano extiende sus ganancias frente al dólar en el 3D julio gracias al efecto de los comentarios de Jerome Powell, presidente de la Reserva Federal, quien subrayó que el Banco Central de E… [+1510 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-sigue-aferrado-al-crawling-peg-al-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-25T21:13:09Z",
       "Content": "El Banco Central (BCRA) logró comprar hoy otros US$43 millones mediante intervenciones sobre el mercado, ingreso con el que sumó a sus reservas por esta vía US$90 millones en lo que va de la semana y… [+4570 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano se deprecia y regresa a niveles por encima de 18 por dólar",
-      "Description": "La moneda nacional cotizaba en 18.15 por dólar, con una depreciación del 1.19% frente a las 17.93 unidades del precio de referencia del lunes.",
-      "Url": "https://aristeguinoticias.com/2506/dinero-y-economia/peso-mexicano-se-deprecia-y-regresa-a-niveles-por-encima-de-18-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
-      "PublishedAt": "2024-06-25T19:29:00Z",
-      "Content": "Los mercados mexicanos retrocedían el martes ante un avance global del dólar mientras los inversionistas aguardan por un cúmulo de información tanto en México como en Estados Unidos en el transcurso … [+1642 chars]"
     }
   ]
 }
