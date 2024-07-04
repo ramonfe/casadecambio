@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "Qué es el \"dólar blue\" y por qué Argentina tiene muchas cotizaciones para la moneda estadounidense",
+      "Description": "Te contamos por qué los argentinos viven pendientes del \"blue\" y cuáles son los otros cinco tipos de dólares que existen en el país sudamericano.",
+      "Url": "https://www.bbc.com/mundo/articles/c2v0p7pvw8go",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9dc3/live/5ecc5880-3972-11ef-8149-0b698f2652fd.png",
+      "PublishedAt": "2024-07-03T19:35:05Z",
+      "Content": "Fuente de la imagen, Getty Images\r\nPie de foto, Los argentinos viven pendientes del \"dólar blue\".\r\nArticle information<ul><li>Author, Veronica Smink</li><li>Role, BBC News Mundo, Argentina</li><li></… [+7750 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2024-06-25T21:59:22Z",
       "Content": "El peso retrocedió este martes ante un fortalecimiento global del dólar mientras inversionistas en México aguardan el anuncio de política monetaria del banco central programada para el jueves.\r\nLa at… [+1753 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central compra poco y el mercado cree que se acerca el fin del actual esquema cambiario",
-      "Description": "Aunque se quedó hoy con otros US$43 millones, crece y se encarece la demanda de dólar futuro; en el Gobierno sostienen que no se moverán del actual modelo",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-compra-poco-y-el-mercado-cree-que-se-acerca-el-fin-del-actual-esquema-nid25062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-sigue-aferrado-al-crawling-peg-al-SDRGAJ3D25D5FK6PXYBODPNF6Q.JPG?auth=6655f849e66c93c27eca6fe357663e5a0079cc6e303e846a26d6a1abaa4f717d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-25T21:13:09Z",
-      "Content": "El Banco Central (BCRA) logró comprar hoy otros US$43 millones mediante intervenciones sobre el mercado, ingreso con el que sumó a sus reservas por esta vía US$90 millones en lo que va de la semana y… [+4570 chars]"
     }
   ]
 }
