@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 3 de julio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-3-de-julio-nid03072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/agenda-economica-asi-cotiza-el-dolar-en-mexico-WUEUXPC2WJE3DHCMKK7PCABNY4.JPG?auth=1037a90f786cc3a5549775f57fe7c95c2bac8daf278c1dad6e44e5af21dcd952&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-03T14:17:36Z",
+      "Content": "Este miércoles 3 de julio, el precio del dólar en México es de $18,2485, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2193 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
       "PublishedAt": "2024-06-25T19:29:00Z",
       "Content": "Los mercados mexicanos retrocedían el martes ante un avance global del dólar mientras los inversionistas aguardan por un cúmulo de información tanto en México como en Estados Unidos en el transcurso … [+1642 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Qué es el “Dólar Lafayette” y por qué esta moneda puede valer hasta US$ 8.000",
-      "Description": "Emitida en 1900 y diseñada para homenajear al Marqués de Lafayette, esta moneda de plata es altamente valorada en las subastas por su rareza y detalles únicos",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/que-es-el-dolar-lafayette-y-por-que-esta-moneda-puede-valer-hasta-us-8000-nid25062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dolar-lafayette-una-moneda-de-plata-emitida-en-el-LAZG4LBFQBH7LDNRV7JT4N6WIU.jpg?auth=1f2e758ad648e648d4df413c477a5888e85c432a3b5f274e74f95a11eaf4a58e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-25T18:06:10Z",
-      "Content": "En el coleccionismo de dinero, ciertas piezas no solo tienen un valor histórico, sino también un considerable valor económico. Tal es el caso del Dólar Lafayette, una moneda de plata emitida en el añ… [+2582 chars]"
     }
   ]
 }
