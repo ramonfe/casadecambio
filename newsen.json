@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "'Warren Buffett knows this': Michael Saylor warns that the US dollar is on track to lose 99.9% of its value — here's why and what he says is 'the strongest money in the world'",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_275d7421-aecd-4e87-b78d-5ae743fcfa55",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-04T10:22:00Z",
+      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
       "PublishedAt": "2024-06-12T15:48:12Z",
       "Content": "MOSCOW, June 12 (Reuters) -\r\nNew U.S. sanctions against Russia will shut down trading in\r\ndollars and euros on its leading financial marketplace, the\r\nMoscow Exchange, the bourse and the central bank… [+956 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Russia, hit by new US sanctions, halts dollar and euro trade on biggest exchange",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a12e2ea7-0c24-4801-a906-7b3f2fcbd1f7",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-12T15:36:50Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
