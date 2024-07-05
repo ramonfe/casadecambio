@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘arruina’ Día de la Independencia de EU: Se acerca a las 17 unidades ante el dólar",
+      "Description": "El peso se está aprovechando del debilitamiento que ha mostrado el dólar en la primera semana de junio.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/04/peso-dolar-precio-hoy-4-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/u0Wv9G6DUAs2IvNtBlrsC88u3gE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JSI5NNDKCVHGTGMSIWRIL4JQBI.jpg",
+      "PublishedAt": "2024-07-04T16:48:52Z",
+      "Content": "El peso mexicano le está arruinando al dólar el festejo por el Día de la Independencia de Estados Unidos durante una jornada de baja liquidez en los mercados. \r\nLa apreciación del peso mexicano ante … [+1404 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso se aprecia ante un debilitamiento del dólar",
+      "Description": "Forbes México.\n Peso se aprecia ante un debilitamiento del dólar\n\nEl mercado, con un menor volumen de operación por el feriado en EU, espera que la Fed inicie recortes a su tasa en septiembre.\nPeso se aprecia ante un debilitamiento del dólar\nForbes Staff",
+      "Url": "https://www.forbes.com.mx/peso-se-aprecia-ante-un-debilitamiento-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2024-07-04T16:23:25Z",
+      "Content": "El peso gana terreno este jueves ante un debilitamiento generalizado del dólar, que refleja las especulaciones del mercado de que la Reserva Federal inicie recortes a su tasa de interés en su anuncio… [+1761 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/YbFV525qMaVpt-pubpLaQ_FkR6I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7NVSSU2UHBG6ZDHJXCLTTEYV7Q.jpg",
       "PublishedAt": "2024-06-26T15:33:15Z",
       "Content": "Un indicador de la fortaleza del dólar alcanzó su nivel más alto desde noviembre, ya que el primer recorte de tasas de la Reserva Federal parece lejano.\r\nEl índice Bloomberg Dollar Spot subió 0.4 por… [+2055 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Cecilia Moya",
-      "Title": "El euro desciende a niveles de abril frente al dólar y ya pierde un 3% en el año",
-      "Description": "El euro sigue mostrando debilidades en su batalla contra el dólar, con una tibia caída de en torno el 0,3% en la jornada del miércoles que dejaba a la divisa continental en niveles no vistos desde abril, en la cota de los 1,068 dólares.",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12883893/06/24/el-euro-desciende-a-niveles-de-abril-frente-al-dolar-y-ya-pierde-un-3-en-el-ano.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/2/5/1/euro-simbolo-billetes-dinero-divisa-bandera-ue-bloomberg-1200x655.jpg",
-      "PublishedAt": "2024-06-26T15:33:01Z",
-      "Content": "El euro sigue mostrando debilidades en su batalla contra el dólar, con una tibia caída de en torno el 0,3% en la jornada del miércoles que dejaba a la divisa continental en niveles no vistos desde ab… [+1700 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia",
-      "Title": "Peso cede terreno y dólar rebota a $18.09",
-      "Description": "El dólar en el mercado internacional avanzó 14.34 centavos a 18.09 pesos después de tres jornadas con retrocesos.",
-      "Url": "https://www.reforma.com/peso-cede-terreno-y-dolar-rebota-a-18-09/ar2830867",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/733/5732918.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-06-25T22:37:11Z",
-      "Content": "01 MIN 30 SEG\r\nErnesto Sarabia\r\nCd. de México (25 junio 2024) .-16:34 hrs"
     }
   ]
 }
