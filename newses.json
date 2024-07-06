@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso, casi ‘tablas’ con el dólar rumbo al fin de semana: Se cotiza en las 18.10 unidades",
+      "Description": "En tanto, según cifras de Citibanamex, en ventanillas bancarias el precio del billete verde es de 18.52 pesos cada uno.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/05/peso-dolar-precio-hoy-5-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Xt2ud5WybiL5naBQsNHwfr2tcq0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/T4CBNDDQJFAZFBDF4DANOU5I3I.jpg",
+      "PublishedAt": "2024-07-05T16:37:43Z",
+      "Content": "El peso mexicano se encamina a cerrar la última jornada de la primera semana de julio con pérdidas, tras la publicación del reporte de empleo en Estados Unidos, que mostró la creación de 206 mil pues… [+1848 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-expansion.unidadeditorial.es/0aa5541afecd9d1cc73edebfc6f2d892/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/26/17194209412115.jpg",
       "PublishedAt": "2024-06-26T18:34:54Z",
       "Content": "Los analistas calculan la relación entre la prima de riesgo gala y el tipo de cambio de la moneda común europea.La prima de riesgo de Francia se ha disparado hasta niveles no vistos desde 2017, por l… [+358 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso se ‘hace bolita’ por dólar ‘machuchón’: Pierde y se cotiza en las 18.15 unidades",
-      "Description": "En ventanillas bancarias, quienes quieran comprar dólares tendrán que pagar 18.69 pesos por cada uno según datos de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/26/peso-dolar-precio-hoy-26-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RLSfBeqRV-D_cV9N8dHm2oJpGw4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UBRYGLI6KRG4NGGQ3KKSJ2RIT4.jpg",
-      "PublishedAt": "2024-06-26T16:26:48Z",
-      "Content": "El peso mexicano cae ante el dólar en la sesión de este miércoles 26 de junio frente a la cautela de operadores previo a que se dé a conocer la nueva decisión de política monetaria del Banco de Méxic… [+1798 chars]"
     }
   ]
 }
