@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El peso cerró en 18.08 unidades por dólar spot; suben precios del petróleo",
+      "Description": "Sin la referencia de los mercados estadunidenses, que estuvieron cerrados por la celebración del Día de la Independencia, el peso siguió aprovechando la debilidad internacional del dólar y se fortaleció hacia los 18.0873 unidades por dólar spot.",
+      "Url": "https://www.jornada.com.mx/2024/07/05/economia/027n3eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-07-05T08:52:44Z",
+      "Content": "Periódico La JornadaViernes 5 de julio de 2024, p. 27\r\nSin la referencia de los mercados estadunidenses, que estuvieron cerrados por la celebración del Día de la Independencia, el peso siguió aprovec… [+2415 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/RLSfBeqRV-D_cV9N8dHm2oJpGw4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UBRYGLI6KRG4NGGQ3KKSJ2RIT4.jpg",
       "PublishedAt": "2024-06-26T16:26:48Z",
       "Content": "El peso mexicano cae ante el dólar en la sesión de este miércoles 26 de junio frente a la cautela de operadores previo a que se dé a conocer la nueva decisión de política monetaria del Banco de Méxic… [+1798 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 26 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-26-de-junio-nid26062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-cotiza-a-la-alza-en-mexico-este-PA6OM4GJENBG3CMYLLFQP3KNNI.jpg?auth=ff0f24be5abbb98f8156a978fa7efb491bef1ee89485053c1319b4cabdd4a79d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-26T15:35:56Z",
-      "Content": "Este miércoles 26 de junio, el precio del dólar en México es de $18,1372, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+1849 chars]"
     }
   ]
 }
