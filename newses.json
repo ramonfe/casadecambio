@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "L. Broche",
+      "Title": "La libra esterlina sube frente al euro y el dólar tras la victoria del Partido Laborista en Reino Unido",
+      "Description": "La Unión Europea invita a Keir Starmer a colaborar en asuntos de \"interés común\".",
+      "Url": "https://www.elespanol.com/invertia/mercados/20240705/libra-esterlina-sube-frente-euro-dolar-victoria-partido-laborista-reino-unido/868163217_0.html",
+      "UrlToImage": "https://s1.elespanol.com/2024/07/05/mundo/europa/868173196_247537534_1706x960.jpg",
+      "PublishedAt": "2024-07-05T07:29:45Z",
+      "Content": "La libra esterlina ha avanzado este viernes frente al euro y el dólar tras asegurarse el Partido Laborista de Keir Starmer una rotunda victoriacon mayoría en las elecciones generales del Reino Unido.… [+2058 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-cotiza-a-la-alza-en-mexico-este-PA6OM4GJENBG3CMYLLFQP3KNNI.jpg?auth=ff0f24be5abbb98f8156a978fa7efb491bef1ee89485053c1319b4cabdd4a79d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-26T15:35:56Z",
       "Content": "Este miércoles 26 de junio, el precio del dólar en México es de $18,1372, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg / Anya Andrianova y Carter Johnson",
-      "Title": "Sorry, peso... Dólar toca nuevo máximo de 2024: ¿Cómo es que la Fed lo ayudó?",
-      "Description": "Analistas de JPMorgan estiman que si bien el dólar se ve beneficiado por el momento, el ‘apoyo’ de la Fed no será ‘eterno’ y se agotará en algún punto del año.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/26/dolar-toca-nuevo-maximo-de-2024-como-lo-ayudo-la-fed/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/YbFV525qMaVpt-pubpLaQ_FkR6I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7NVSSU2UHBG6ZDHJXCLTTEYV7Q.jpg",
-      "PublishedAt": "2024-06-26T15:33:15Z",
-      "Content": "Un indicador de la fortaleza del dólar alcanzó su nivel más alto desde noviembre, ya que el primer recorte de tasas de la Reserva Federal parece lejano.\r\nEl índice Bloomberg Dollar Spot subió 0.4 por… [+2055 chars]"
     }
   ]
 }
