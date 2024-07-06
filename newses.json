@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 5 de julio",
+      "Description": "La cotización del día de la fecha. El precio del dólar en los bancos y casas de cambio de México. ¿Qué esperan los mercados este viernes 5 de julio?",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-5-de-julio-nid05072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-5-de-MT7MFWFJJJGI3LWXVNP7IMQZTI.jpg?auth=4d639f7c7637e3224730347db8910c35c614733b700159ea59aaa8f0a9a9be2d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-05T18:40:02Z",
+      "Content": "Este viernes 5 de julio, el precio del dólar en México es de $18,04, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2004 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.df.cl/noticias/site/artic/20240626/imag/foto_0000001320240626164955/CS.jpg",
       "PublishedAt": "2024-06-26T21:05:00Z",
       "Content": "El Informe de Política Monetaria (IPoM) de junio ha sido más noticioso o más controversial que otros reportes, expresó este miércoles el consejero del Banco Central, Claudio Soto.\r\nEn el marco de la … [+2934 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Expansion.com"
-      },
-      "Author": "Roberto Casado",
-      "Title": "El temido escenario francés que acercaría la paridad del euro con el dólar",
-      "Description": "La prima de riesgo de Francia se ha disparado hasta niveles no vistos desde 2017, por la incertidumbre política en ese país, mientras que el euro, aunque ha sufrido al descender...",
-      "Url": "https://www.expansion.com/mercados/2024/06/26/667c484ee5fdea495e8b45a8.html",
-      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/0aa5541afecd9d1cc73edebfc6f2d892/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/26/17194209412115.jpg",
-      "PublishedAt": "2024-06-26T18:34:54Z",
-      "Content": "Los analistas calculan la relación entre la prima de riesgo gala y el tipo de cambio de la moneda común europea.La prima de riesgo de Francia se ha disparado hasta niveles no vistos desde 2017, por l… [+358 chars]"
     }
   ]
 }
