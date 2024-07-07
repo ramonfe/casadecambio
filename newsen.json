@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 39,
+  "TotalResults": 40,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "JPMorgan Chase, Bank of America and 7 Mega Banks Paying $46,000,000 Over Alleged Conspiracy To Rig Trillion-Dollar Derivatives Market",
+      "Description": "Nine of the largest banks in the world are settling a long-running lawsuit that accuses them of conspiring to rig a $465.9 trillion market. Lawyers representing investors have filed for preliminary approval of a $46 million cash settlement against JPMorgan Ch…",
+      "Url": "https://dailyhodl.com/2024/07/06/jpmorgan-chase-bank-of-america-and-7-mega-banks-paying-46000000-over-alleged-conspiracy-to-rig-trillion-dollar-derivatives-market/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bank-banks-jpmorgan.jpg",
+      "PublishedAt": "2024-07-06T19:04:57Z",
+      "Content": "Nine of the largest banks in the world are settling a long-running lawsuit that accuses them of conspiring to rig a $465.9 trillion market.\r\nLawyers representing investors have filed for preliminary … [+2496 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1118928496.jpg?10930872891718271989",
       "PublishedAt": "2024-06-12T16:10:00Z",
       "Content": "Get breaking stories and analysis on the global economy from Sputnik.\r\nhttps://sputnikglobe.com/20240612/bank-of-russia-to-use-banks-reports-to-determine-dollar-exchange-rate-1118928496.html\r\nBank of… [+2693 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Dollar and euro trade halted on Russia's biggest exchange due to new US sanctions",
-      "Description": "(marketscreener.com) \n \n MOSCOW, June 12 -\n New U.S. sanctions against Russia will shut down trading in\ndollars and euros on its leading financial marketplace, the\nMoscow Exchange, the bourse and the central bank said on\nWednesday.\n \"Due to the introduction o…",
-      "Url": "https://www.marketscreener.com/quote/stock/MOSCOW-EXCHANGE-MICEX-RTS-15458593/news/Dollar-and-euro-trade-halted-on-Russia-s-biggest-exchange-due-to-new-US-sanctions-46959506/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "PublishedAt": "2024-06-12T15:48:12Z",
-      "Content": "MOSCOW, June 12 (Reuters) -\r\nNew U.S. sanctions against Russia will shut down trading in\r\ndollars and euros on its leading financial marketplace, the\r\nMoscow Exchange, the bourse and the central bank… [+956 chars]"
     }
   ]
 }
