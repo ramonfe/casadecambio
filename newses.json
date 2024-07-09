@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso aplica un ‘dracarys’ al dólar y ‘vuela’ cerca de las 17 unidades",
+      "Description": "El peso quiere dejar atrás los episodios de inestabilidad provocados por las elecciones en México.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/08/peso-dolar-precio-hoy-8-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/9ebhd-v9pJvZNL7mxCMy5wxirU4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/XLFZ2372PFEWPMEZHBUTCEYILM.jpg",
+      "PublishedAt": "2024-07-08T16:24:03Z",
+      "Content": "El peso mexicano tomo inspiración de La Casa del Dragón inicia las operaciones de esta semana de manera ardiente cotizando muy cerca de las 18 unidades, ante la especulación de que la Fed podría real… [+1499 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Dólar hoy: el blue arranca la semana con una suba de $25 mientras el mercado observa las reservas del Banco Central",
+      "Description": "El tipo de cambio paralelo cotiza a $1445, un nuevo récord nominal; esta semana, el BCRA deberá desembolsar US$2500 millones por el pago a bonistas",
+      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-el-blue-arranca-la-semana-con-una-suba-de-25-mientras-el-mercado-observa-las-reservas-del-nid08072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-lunes-8-de-CYISRLMWXBCMBCEC4Z766GAOLU.jpg?auth=9dff9040bbf7d61ad0bc62ac229d598407a7b9db6da0ffb1929b7230212017ae&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-08T16:04:02Z",
+      "Content": "Este lunes, tanto el blue como los dólares financieros arrancan la semana corta al alza y consolidan su precio por encima de la barrera de los $1400. Para los analistas, el mercado todavía está a la … [+3587 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/super-peso-bueno-malo-regular-tipo-de-cambio-debate-economistas.jpeg",
       "PublishedAt": "2024-06-27T14:30:57Z",
       "Content": "El peso mexicano caía el jueves ante un dólar al alza en los mercados internacionales, mientras los inversores analizaban los datos económicos recién publicados en Estados Unidos y aguardaban el mens… [+1659 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Miriam Acuña",
-      "Title": "¿Por qué el dólar estadounidense es la moneda de reserva por excelencia?",
-      "Description": "El billete verde sigue siendo la moneda más utilizada en el mundo y su evidente influencia en el comercio mundial ha llevado a países como Ecuador o El Salvador a adoptarla.",
-      "Url": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2024/06/27/por-que-el-dolar-estadounidense-es-la-moneda-de-reserva-por-excelencia/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/i1ozqDuxU-F3r93Lm5cLYI1tR8w=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ETB3R3DA2NFOJHUX3FA2VP5ZRM.jpg",
-      "PublishedAt": "2024-06-27T07:30:00Z",
-      "Content": "Economista en Jefe GBM.\r\nEntender la importancia y el rol que han jugado los acontecimientos históricos, como las guerras mundiales o movimientos sociales, es necesario para poder procesar y estimar … [+4052 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante fortalecimiento global del dólar",
-      "Description": "Forbes México.\n Peso retrocede ante fortalecimiento global del dólar\n\nEl dólar se ubicó al cierre en 18.3648 pesos, una depreciación de 1.30% para la moneda nacional, de acuerdo con datos de Banxico. \nPeso retrocede ante fortalecimiento global del dólar\nForbe…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-fortalecimiento-global-del-dolar-2/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-06-26T22:27:28Z",
-      "Content": "El peso se depreció en línea con sus pares de la región, ante un fortalecimiento global del dólar, mientras inversores aguardan la publicación más adelante en la semana de datos de inflación en Estad… [+2140 chars]"
     }
   ]
 }
