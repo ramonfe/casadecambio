@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 8 de julo",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-8-de-julo-nid08072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lunes-8-de-julio-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-08T14:59:29Z",
+      "Content": "Este lunes 8 de julio, el precio del dólar en México es de $18,04, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un p… [+2007 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "Cecilia Moya",
+      "Title": "El euro marca su racha alcista más larga frente al dólar en lo que va de año",
+      "Description": "Aunque en el año la batalla la sigue ganando el dólar, en las últimas sesiones el euro ensancha músculo y el lunes marcaba su octava sesión consecutiva en positivo, la que sería la racha alcista más larga de lo que va de año. El verde no llegó desde el arranq…",
+      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12901006/07/24/el-euro-marca-su-racha-alcista-mas-larga-frente-al-dolar-en-lo-que-va-de-ano.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/2/5/1/euro-simbolo-billetes-dinero-divisa-bandera-ue-bloomberg-1200x655.jpg",
+      "PublishedAt": "2024-07-08T14:45:17Z",
+      "Content": "Aunque en el año la batalla la sigue ganando el dólar, en las últimas sesiones el euro ensancha músculo y el lunes marcaba su octava sesión consecutiva en positivo, la que sería la racha alcista más … [+2253 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-06-26T22:27:28Z",
       "Content": "El peso se depreció en línea con sus pares de la región, ante un fortalecimiento global del dólar, mientras inversores aguardan la publicación más adelante en la semana de datos de inflación en Estad… [+2140 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central volvió a vender reservas y podría cerrar junio con saldo negativo",
-      "Description": "Se desprendió hoy de otros US$76 millones, lo que confirma que se le complica sumar divisas por esta vía  y acrecienta las dudas del mercado",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-el-banco-central-volvio-a-vender-reservas-y-podria-cerrar-junio-con-saldo-negativo-nid26062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-vender-reservas-hoy-y-lleva-5VLKH7KES5HD7ESATNMQZK7TG4.JPG?auth=d068fdc92d943c2ae6b48fded79e5128a2f407c7ea5fc288b6a4cbe01cec9fbb&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-26T21:06:52Z",
-      "Content": "El objetivo explicitado a comienzos de año por el Banco Central (BCRA) de ir en busca de una recuperación de su nivel de reservas para aportar a la tranquilidad y estabilización de la economía volvió… [+4367 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.df.cl"
-      },
-      "Author": "Catalina Vergara",
-      "Title": "Consejero del Banco Central atribuye a la Fed y al cobre reciente alza del dólar y califica IPoM de junio como “más controversial” que anteriores",
-      "Description": "En el marco de una presentación del IPoM en la Universidad Católica, Claudio Soto se refirió también al efecto de las tarifas eléctricas y bases de comparación “más exigentes” en la inflación.",
-      "Url": "https://www.df.cl/economia-y-politica/macro/consejero-del-banco-central-atribuye-a-la-fed-y-el-cobre-la-reciente",
-      "UrlToImage": "https://www.df.cl/noticias/site/artic/20240626/imag/foto_0000001320240626164955/CS.jpg",
-      "PublishedAt": "2024-06-26T21:05:00Z",
-      "Content": "El Informe de Política Monetaria (IPoM) de junio ha sido más noticioso o más controversial que otros reportes, expresó este miércoles el consejero del Banco Central, Claudio Soto.\r\nEn el marco de la … [+2934 chars]"
     }
   ]
 }
