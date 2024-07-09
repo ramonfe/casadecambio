@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Saikat Das",
+      "Title": "Piramal Finance plans up to $500 million debut dollar-bond issue",
+      "Description": "Billionaire Ajay Piramal’s firm is in talks with a group of global investment banks to raise $300 million to $500 million via such notes with a tenor of three to five years, the people said, asking not to be identified as the discussion are private.",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/piramal-finance-plans-up-to-500-million-debut-dollar-bond-issue/articleshow/111568193.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-111568147,width-1200,height-630,imgsize-22750,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-07-08T05:18:00Z",
+      "Content": "Indias Piramal Capital and Housing Finance is planning its maiden dollar-bond sale as tighter regulations by the nations central bank stifle domestic funding sources for shadow lenders, according to … [+988 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-12T16:47:45Z",
       "Content": "New U.S. sanctions against Russia will shut down trading in dollars and euros on its leading financial marketplace, the Moscow Exchange, the bourse and the central bank said on Wednesday.\r\n\"Due to th… [+829 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sputnikglobe.com"
-      },
-      "Author": "Sputnik International",
-      "Title": "Bank of Russia to Use Banks’ Reports to Determine Dollar Exchange Rate",
-      "Description": "MOSCOW (Sputnik) - The Bank of Russia, the country’s central bank, will use reports of banks and over-the-counter or off-exchange trading information to determine official exchange rates of the US dollar and the euro against the ruble, the regulator said on W…",
-      "Url": "https://sputnikglobe.com/20240612/bank-of-russia-to-use-banks-reports-to-determine-dollar-exchange-rate-1118928496.html",
-      "UrlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1118928496.jpg?10930872891718271989",
-      "PublishedAt": "2024-06-12T16:10:00Z",
-      "Content": "Get breaking stories and analysis on the global economy from Sputnik.\r\nhttps://sputnikglobe.com/20240612/bank-of-russia-to-use-banks-reports-to-determine-dollar-exchange-rate-1118928496.html\r\nBank of… [+2693 chars]"
     }
   ]
 }
