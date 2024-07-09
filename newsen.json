@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Decider"
+      },
+      "Author": "mliss1578",
+      "Title": "Stream It Or Skip It: ‘Nelma Kodama: The Queen Of Dirty Money’ On Netflix, A Documentary About A Brazilian “Dollar Dealer” And Her Blinged Out Ankle Monitor",
+      "Description": "Get your true crime fix with a side of “I don’t give a fuck” in Netflix’s new doc Nelma Kodama: The Queen of Dirty Money.",
+      "Url": "https://decider.com/2024/07/08/nelma-kodama-the-queen-of-dirty-money-netflix-documentary-review/",
+      "UrlToImage": "https://decider.com/wp-content/uploads/2024/06/Nelma-Kodama.jpg?quality=75&strip=all&w=1200",
+      "PublishedAt": "2024-07-08T21:30:00Z",
+      "Content": "Nelma Kodama: The Queen of Dirty Money, now streaming on Netflix, is the true crime tale of an unapologetic criminal. In the 2000s, Nelma Mitsue Penasso Kodama became one of Brazils most prominent do… [+6894 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.livemint.com/img/2018/12/28/1600x900/Companies_-_News_1545993790355.jpg",
       "PublishedAt": "2024-06-12T17:33:13Z",
       "Content": "(Bloomberg) -- Russias main exchange said its halting trading in US dollars and the euro after President Joe Bidens administration unveiled a raft of measures designed to further impede the Kremlins … [+2298 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNBC"
-      },
-      "Author": "Cnbc",
-      "Title": "Moscow Exchange halts dollar and euro trade after U.S. sanctions",
-      "Description": "Moscow Exchange halts dollar and euro trade after U.S. sanctionscnbc.com",
-      "Url": "https://www.cnbc.com/2024/06/12/moscow-exchange-halts-dollar-and-euro-trade-after-us-sanctions.html",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-12T16:47:45Z",
-      "Content": "New U.S. sanctions against Russia will shut down trading in dollars and euros on its leading financial marketplace, the Moscow Exchange, the bourse and the central bank said on Wednesday.\r\n\"Due to th… [+829 chars]"
     }
   ]
 }
