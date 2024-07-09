@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Peso desafía barrera de 18 unidades por dólar",
+      "Description": "El peso se aprecia este lunes ante un debilitamiento global del dólar y desafía la barrera de las 18 unidades por divisa estadounidense.",
+      "Url": "https://www.reforma.com/peso-desafia-barrera-de-18-unidades-por-dolar/ar2837380",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/752/5751282.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-07-08T17:20:32Z",
+      "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (08 julio 2024) .-11:17 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-27T15:26:51Z",
       "Content": "Este jueves 27 de junio, el precio del dólar en México es de $18,1372, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+1916 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / LP",
-      "Title": "Peso mexicano vuelve a caer; llegó a debilitarse hasta los 18.45 pesos por dólar",
-      "Description": "La Bolsa Mexicana de Valores operaba con pérdidas el jueves, presionada por una aversión al riesgo global.",
-      "Url": "https://aristeguinoticias.com/2706/dinero-y-economia/peso-mexicano-vuelve-a-caer-llego-a-debilitarse-hasta-los-18-45-pesos-por-dolar/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/01/super-peso-bueno-malo-regular-tipo-de-cambio-debate-economistas.jpeg",
-      "PublishedAt": "2024-06-27T14:30:57Z",
-      "Content": "El peso mexicano caía el jueves ante un dólar al alza en los mercados internacionales, mientras los inversores analizaban los datos económicos recién publicados en Estados Unidos y aguardaban el mens… [+1659 chars]"
     }
   ]
 }
