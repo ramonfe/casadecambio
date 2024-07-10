@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso queda ‘inflado’ por alza de precios en México: Se cotiza en las 17.94 unidades ante el dólar",
+      "Description": "La posibilidad de que el Banxico no recorte su tasa y siga manteniendo un diferencial de 550 puntos con la tasa de la Fed aprecia al peso mexicano este martes.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/09/peso-dolar-precio-hoy-9-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/vfOqSWB0wkS-5r2j8eScXwrcFNo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C4NJ2PHZZZEYVFW2WRXOSGAEDQ.jpg",
+      "PublishedAt": "2024-07-09T16:26:04Z",
+      "Content": "El peso mexicano extendió su apreciación ante el dólar este martes después de que se dio a conocer que la inflación en México se aceleró a 4.98 por ciento en junio, lo que hace más difícil que el Ban… [+1824 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2024-06-27T16:58:24Z",
       "Content": "El peso cae este jueves ante un dólar al alza en los mercados internacionales, mientras inversionistas analizan datos económicos recién publicados en Estados Unidos y aguardan el mensaje de política … [+1290 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso está ‘tablas’ con el dólar previo a anuncios de Sheinbaum y Banxico",
-      "Description": "Este jueves, la virtual presidenta Claudia Sheinbaum presentará a cinco nuevos miembros de su gabinete.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/27/peso-dolar-precio-hoy-27-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/0NfmXBFPxdNoisSDthc4isj5AyM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YQUKTXOE2BCL7HIZSHCGFSFDGA.jpg",
-      "PublishedAt": "2024-06-27T16:57:56Z",
-      "Content": "El peso mexicano está tablas ante el dólar mientras está a la espera de la decisión de política monetaria por parte del Banco de México.\r\nHasta el momento, el tipo de cambio se ubica en las 18.36 uni… [+1770 chars]"
     }
   ]
 }
