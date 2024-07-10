@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cotiza peso por debajo de $18 por dólar en Forex",
+      "Description": "El dólar bajó a $17.91 en el mercado internacional, su menor nivel desde el 5 de junio, tras declaraciones de Fed de que podría bajar tasas.",
+      "Url": "https://www.reforma.com/cotiza-peso-por-debajo-de-18-por-dolar-en-forex/ar2837906",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/954/4953101.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-07-09T17:36:22Z",
+      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (09 julio 2024) .-11:25 (Actualización: 16:25 hrs)"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Cae peso por debajo de 18 por dólar y la BMV avanza",
+      "Description": "El peso retoma niveles por debajo de 18 unidades por dólar y BMV opera al alza tras declaraciones del jefe de Fed sobre tasas de interés.",
+      "Url": "https://www.reforma.com/peso-opera-por-debajo-de-18-por-dolar-y-bmv-avanza/ar2837906",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/954/4953101.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-07-09T17:36:22Z",
+      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (09 julio 2024) .-11:25 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/cotizacion-del-dolar-en-mexico-hoy-viernes-28-de-NZIN756KEJCULIWFBJJX2ATSLM.jpg?auth=6ee5b387ab88f23b3822653b540597d45407c28a21841af5623d96e1cd223fcb&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-28T14:52:25Z",
       "Content": "Este viernes 28 de junio, el precio del dólar en México es de $18,1372, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1973 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso hila tres sesiones con pérdidas frente al dólar",
-      "Description": "Forbes México.\n Peso hila tres sesiones con pérdidas frente al dólar\n\nEl dólar se ubicó en 18.4088 pesos, una depreciación de 0.24% frente a la sesión previa, de acuerdo con datos de Banxico. \nPeso hila tres sesiones con pérdidas frente al dólar\nForbes Staff",
-      "Url": "https://www.forbes.com.mx/peso-hila-tres-sesiones-con-perdidas-frente-al-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-06-27T21:19:00Z",
-      "Content": "El peso hiló este jueves tres sesiones con pérdidas frente al dólar, en una jornada marcada por datos económicos de EU, y en el ámbito local por el anuncio de política monetaria de Banxico.\r\nEl dólar… [+1924 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede ante un alza global del dólar",
-      "Description": "Forbes México.\n Peso retrocede ante un alza global del dólar\n\nEl mercado analiza datos económicos publicados en EU, y en el ámbito local pone atención a próximas designaciones de Sheinbaum y el anuncio de Banxico.\nPeso retrocede ante un alza global del dólar\n…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-un-alza-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2024-06-27T16:58:24Z",
-      "Content": "El peso cae este jueves ante un dólar al alza en los mercados internacionales, mientras inversionistas analizan datos económicos recién publicados en Estados Unidos y aguardan el mensaje de política … [+1290 chars]"
     }
   ]
 }
