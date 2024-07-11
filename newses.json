@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso ‘nubla’ al dólar: Se enfila a ligar 7 días con ganancias y cotiza en las 17.84 unidades",
+      "Description": "El peso mexicano recibió 'apoyo' de la inflación en México, que se aceleró más de lo esperado y puede provocar que el Banxico posponga sus recortes a la tasa.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/10/peso-dolar-precio-hoy-10-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/wjOl7JuMjYAXOUwX9ohjX6Wx6os=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L33B6HJMJNCYRLFUHZYD764EEE.jpg",
+      "PublishedAt": "2024-07-10T16:03:15Z",
+      "Content": "El peso mexicano se enfila a ligar una séptima jornada consecutiva de ganancias frente al dólar a medida que los operadores siguen recalibrando sus expectativas sobre los recortes de la tasa de inter… [+1715 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lines-lunes-1°-3YJXLYJ6OZDS7CUKFHURO5YU4M.jpg?auth=37c9b920fd6a03f5e6c71444968f3529ba9e424420101ad7681a668d07b81072&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-01T15:34:47Z",
       "Content": "Este lunes 1° de julio, el precio del dólar en México es de $18,2482, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+1919 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: luego de vender casi US$200 millones en los últimos tres días, el Banco Central cerró junio en rojo",
-      "Description": "Es el primer mes de la gestión de Javier Milei con saldo negativo",
-      "Url": "https://www.lanacion.com.ar/economia/tras-tener-que-vender-casi-us200-millones-en-los-ultimos-tres-dias-el-bcra-cerro-junio-en-rojo-nid28062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-cerro-junio-con-el-primer-saldo-vendedor-LCBMJTVMCRBJPOF5VY4CVIE54M.JPG?auth=69143d25ccda05d7ad468d14a89f636ca3bbd2d84d8620516535631d4353a514&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-28T19:58:27Z",
-      "Content": "El Banco Central (BCRA) cerró en junio el primer mes en tiempos de la gestión Milei perdiendo reservas por haber acumulado un saldo negativo en sus intervenciones sobre la plaza cambiaria local.\r\nSe … [+2785 chars]"
     }
   ]
 }
