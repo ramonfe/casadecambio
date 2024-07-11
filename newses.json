@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 10 de julio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-10-de-julio-nid10072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-cotiza-a-la-baja-en-mexico-este-MT7MFWFJJJGI3LWXVNP7IMQZTI.jpg?auth=4d639f7c7637e3224730347db8910c35c614733b700159ea59aaa8f0a9a9be2d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-10T15:27:55Z",
+      "Content": "Este miércoles 10 de julio, el precio del dólar en México es de $17,9428, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2012 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-cerro-junio-con-el-primer-saldo-vendedor-LCBMJTVMCRBJPOF5VY4CVIE54M.JPG?auth=69143d25ccda05d7ad468d14a89f636ca3bbd2d84d8620516535631d4353a514&width=768&quality=70&smart=false",
       "PublishedAt": "2024-06-28T19:58:27Z",
       "Content": "El Banco Central (BCRA) cerró en junio el primer mes en tiempos de la gestión Milei perdiendo reservas por haber acumulado un saldo negativo en sus intervenciones sobre la plaza cambiaria local.\r\nSe … [+2785 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘agarra carrera’ rumbo al ‘finde’: Se aprecia más de 1% ante el dólar",
-      "Description": "El peso mexicano se ve beneficiado por las apuestas del mercado sobre que la Fed recortará su tasa en el tercer trimestre del año.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/06/28/peso-dolar-precio-hoy-28-de-junio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/-zkTuK3gPxKKbUJnP-OTWN-NTwA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ELSCWMU4J5GEPNSTVPYFWAW6YI.jpg",
-      "PublishedAt": "2024-06-28T16:18:43Z",
-      "Content": "El peso mexicano corrige sus movimientos ante el dólar en el arranque de la última sesión de junio tras tres jornadas con caídas, esto después de que el Banco de México dejó ver que su política monet… [+1872 chars]"
     }
   ]
 }
