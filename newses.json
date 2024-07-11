@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza ante un retroceso global del dólar",
+      "Description": "Forbes México.\n Peso avanza ante un retroceso global del dólar\n\nEl peso cotizaba en 17.7973 por dólar, con una ganancia de 0.67% también impulsada por crecientes expectativas de que Banco de México mantendría la tasa clave sin cambios en su próxima reunión lu…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-ante-un-retroceso-global-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1937.jpg",
+      "PublishedAt": "2024-07-10T14:49:40Z",
+      "Content": "El peso se apreciaba este miércoles ante un retroceso global del dólar mientras los inversionistas aguardan la comparecencia del presidente de la Reserva Federal (Fed), Jerome Powell, ante el Comité … [+1053 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/-zkTuK3gPxKKbUJnP-OTWN-NTwA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ELSCWMU4J5GEPNSTVPYFWAW6YI.jpg",
       "PublishedAt": "2024-06-28T16:18:43Z",
       "Content": "El peso mexicano corrige sus movimientos ante el dólar en el arranque de la última sesión de junio tras tres jornadas con caídas, esto después de que el Banco de México dejó ver que su política monet… [+1872 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 28 de junio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-28-de-junio-nid28062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/cotizacion-del-dolar-en-mexico-hoy-viernes-28-de-NZIN756KEJCULIWFBJJX2ATSLM.jpg?auth=6ee5b387ab88f23b3822653b540597d45407c28a21841af5623d96e1cd223fcb&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-28T14:52:25Z",
-      "Content": "Este viernes 28 de junio, el precio del dólar en México es de $18,1372, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+1973 chars]"
     }
   ]
 }
