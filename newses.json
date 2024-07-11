@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso hila siete sesiones con ganancias ante debilitamiento del dólar",
+      "Description": "Forbes México.\n Peso hila siete sesiones con ganancias ante debilitamiento del dólar\n\nEl dólar se ubicó en 17.8078 pesos, una apreciación de 0.59% para la moneda nacional; la BMV tiene su mayor avance desde el 4 de junio.\nPeso hila siete sesiones con ganancia…",
+      "Url": "https://www.forbes.com.mx/peso-hila-siete-sesiones-con-ganancias-ante-debilitamiento-del-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
+      "PublishedAt": "2024-07-10T22:16:03Z",
+      "Content": "El peso hiló este lunes siete sesiones con ganancias frente al dólar, luego de que más temprano alcanzará niveles no vistos en más de cuatro semanas.\r\nEl dólar se ubicó al cierre en 17.8078 pesos, un… [+1940 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/pxQVbZ_ynHDh16jZIJ9K_UQTlRw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TB74EZBLVVAYFGKX5EHLHHRU5M.jpg",
       "PublishedAt": "2024-07-01T18:03:15Z",
       "Content": "El peso mexicano opera en terreno de pérdidas ante el dólar en el arranque de julio ante la continua aversión al riesgo dentro del mercado local y el reacomodo de expectativas sobre los recortes de l… [+1652 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 1° de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-1-de-julio-nid01072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lines-lunes-1°-3YJXLYJ6OZDS7CUKFHURO5YU4M.jpg?auth=37c9b920fd6a03f5e6c71444968f3529ba9e424420101ad7681a668d07b81072&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-01T15:34:47Z",
-      "Content": "Este lunes 1° de julio, el precio del dólar en México es de $18,2482, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+1919 chars]"
     }
   ]
 }
