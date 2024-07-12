@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ET Bureau",
+      "Title": "Greenko arm cancels dollar bond issue, to tap bank loans",
+      "Description": "Greenko Mauritius, a subsidiary of Greenko Energy Holdings focused on renewable energy, has decided against proceeding with its planned dollar bond issuance aimed at refinancing a $425-million bank loan. Fitch Ratings has withdrawn the 'BB' rating assigned to…",
+      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/greenko-arm-cancels-dollar-bond-issue-to-tap-bank-loans/articleshow/111669720.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-111669726,width-1200,height-630,imgsize-22164,overlay-economictimes/photo.jpg",
+      "PublishedAt": "2024-07-11T19:16:34Z",
+      "Content": "Greenko Mauritius, a subsidiary of Greenko Energy Holdings, has decided not to proceed with its planned dollar bond issuance that had sought to refinance a $425-million bank loan.The company, which i… [+1043 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-12T20:18:39Z",
       "Content": "Skip to comments.\r\nDollar and euro trade halted on Russia's biggest exchange due to new U.S. sanctionsCNBC ^\r\n | 6/12/2024\r\n | Reuters \r\nPosted on 06/12/2024 1:18:39 PM PDT by marcusmaximus\r\nNew U.S.… [+2682 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Russia, hit by new US sanctions, halts dollar and euro trade on biggest exchange - Reuters.com",
-      "Description": "Russia, hit by new US sanctions, halts dollar and euro trade on biggest exchangeReuters.com U.S. Expands Sanctions on Russia as G7 Leaders GatherThe New York Times US secondary sanctions widened to target more Russia-tied banksBusiness Insider Moscow Exchange…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174129257",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-12T17:55:36Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
