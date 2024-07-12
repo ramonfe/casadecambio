@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 40,
+  "TotalResults": 41,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Shilpy Sinha",
+      "Title": "Greenko Mauritius halts dollar bond issuance, seeks alternative bank borrowing",
+      "Description": "Initially, the proposed notes, rated BB by Fitch and Ba2 by Moody's, were expected to price a 3.5-year bond under 7%. However, Earlier this year, Greenko Mauritius deferred the bond due to interest rate volatility. The $425 million bridge loan remains outstan…",
+      "Url": "https://economictimes.indiatimes.com/markets/bonds/greenko-mauritius-halts-dollar-bond-issuance-seeks-alternative-bank-borrowing-greenko-mauritius-halts-dollar-bond-issuance-seeks-alternative-bank-borrowing/articleshow/111658145.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-111658254,width-1200,height-630,imgsize-70150,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-07-11T09:20:14Z",
+      "Content": "Greenko Mauritius, a subsidiary of Greenko Energy Holdings, has decided not to proceed with its planned dollar bond issuance, which was intended to refinance a $425 million bank loan. The company wil… [+690 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-12T17:55:36Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livemint"
-      },
-      "Author": "Bloomberg",
-      "Title": "Moscow Exchange Halts Dollar, Euro Trading on New US Sanctions",
-      "Description": "Russia’s main exchange said it’s halting trading in US dollars and the euro after President Joe Biden’s administration unveiled a raft of measures designed to further impede the Kremlin’s war in Ukraine.",
-      "Url": "https://www.livemint.com/companies/news/moscow-exchange-halts-dollar-euro-trading-on-new-us-sanctions-11718213594150.html",
-      "UrlToImage": "https://images.livemint.com/img/2018/12/28/1600x900/Companies_-_News_1545993790355.jpg",
-      "PublishedAt": "2024-06-12T17:33:13Z",
-      "Content": "(Bloomberg) -- Russias main exchange said its halting trading in US dollars and the euro after President Joe Bidens administration unveiled a raft of measures designed to further impede the Kremlins … [+2298 chars]"
     }
   ]
 }

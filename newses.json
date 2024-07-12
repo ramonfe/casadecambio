@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "En siete jornadas el peso ha ganado 3 por ciento; cierra en 17.80 por dólar",
+      "Description": "El peso se apreció este miércoles a su mejor nivel en un mes, extendiendo las ganancias de las últimas siete sesiones.",
+      "Url": "https://www.jornada.com.mx/2024/07/11/economia/022n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-07-11T10:31:31Z",
+      "Content": "Periódico La JornadaJueves 11 de julio de 2024, p. 22\r\nEl peso se apreció este miércoles a su mejor nivel en un mes, extendiendo las ganancias de las últimas siete sesiones.\r\nLa moneda mexicana regis… [+2293 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-freno-su-racha-vendedora-en-la-NLMFH6PJUZA3RGGXLU2Y6Y2C24.JPG?auth=5845c119b51c9d493abc5e936674c3b58e361247361901f8c8384fe5901f7865&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-01T20:01:50Z",
       "Content": "El Banco Central (BCRA) logró cortar hoy, en la primera rueda de julio, la racha vendedora con la que venía de cerrar junio y que le deparó el primer saldo de intervenciones sobre el mercado negativo… [+3298 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Julio ‘no pinta bien’ para el peso: Arranca mes con caída de 0.46% ante el dólar",
-      "Description": "El dato del sector manufacturero de EU, que tuvo un desempeño peor de lo esperado, puede representar problemas para las remesas enviadas a México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/01/peso-dolar-precio-hoy-1-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/pxQVbZ_ynHDh16jZIJ9K_UQTlRw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TB74EZBLVVAYFGKX5EHLHHRU5M.jpg",
-      "PublishedAt": "2024-07-01T18:03:15Z",
-      "Content": "El peso mexicano opera en terreno de pérdidas ante el dólar en el arranque de julio ante la continua aversión al riesgo dentro del mercado local y el reacomodo de expectativas sobre los recortes de l… [+1652 chars]"
     }
   ]
 }
