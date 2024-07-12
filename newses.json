@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 98,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Luis Caputo explicó por qué Milei acusó a un banco de “golpista” en medio de la suba del dólar",
+      "Description": "El ministro de Economía se refirió a las declaraciones del Presidente y dio detalles sobre las etapas que siguen al plan económico del Gobierno; “Una cosa de un solo banco generó el ruido que generó y fue un 10% de los famosos puts”, marcó",
+      "Url": "https://www.lanacion.com.ar/economia/luis-caputo-explico-por-que-milei-acuso-a-un-banco-de-golpista-en-medio-de-la-suba-del-dolar-nid11072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-ministro-de-economia-luis-caputo-se-refirio-a-IZCTCFX2GNFSJLYC5EFPHXDAQM.JPG?auth=d5e0c5dbb6a98f7a88123001cde16e7cfe84a7eeebe622fa068579be4a80273c&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-11T16:59:00Z",
+      "Content": "Luego de que el presidente Javier Milei hablara sobre los degenerados fiscales responsables de la suba del precio del dólar y del riesgo país en la Bolsa de Comercio, el ministro de Economía,Luis Cap… [+3018 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-2-de-B5G2LW23ABC45DOZJ66EIYEOOM.jpg?auth=c7f2d8cd54457ec67f08c2ccc707d3731310a3b24456d1b6043711faeb00249f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-02T15:00:02Z",
       "Content": "Este martes 2 de julio, el precio del dólar en México es de $18,2482, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2124 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso arranca julio presionado por el dólar",
-      "Description": "El peso mexicano inició julio con pérdidas frente al dólar. La moneda tuvo una depreciación diaria de 0.43 por ciento para cerrar en 18.3640 unidades por dólar spot. De acuerdo con el Banco de México (BdeM), el tipo de cambio operó entre un máximo de 18.4380 …",
-      "Url": "https://www.jornada.com.mx/2024/07/02/economia/016n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-07-02T08:52:19Z",
-      "Content": "Periódico La JornadaMartes 2 de julio de 2024, p. 16\r\nEl peso mexicano inició julio con pérdidas frente al dólar. La moneda tuvo una depreciación diaria de 0.43 por ciento para cerrar en 18.3640 unid… [+1768 chars]"
     }
   ]
 }
