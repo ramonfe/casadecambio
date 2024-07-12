@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso tiene su mejor nivel frente al dólar desde el 5 de junio",
+      "Description": "Forbes México.\n Peso tiene su mejor nivel frente al dólar desde el 5 de junio\n\nEl dólar se ubica en 17.7871 pesos y la moneda nacional suma ocho sesiones con ganancias, de acuerdo con datos de Banxico.\nPeso tiene su mejor nivel frente al dólar desde el 5 de j…",
+      "Url": "https://www.forbes.com.mx/peso-tiene-su-mejor-nivel-frente-al-dolar-desde-el-5-de-junio/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-07-11T22:43:45Z",
+      "Content": "El peso tuvo este jueves su mejor nivel frente al dólar desde el 5 de junio debido a un debilitamiento de la divisa estadounidense.\r\nEl dólar se ubicó en 17.7871 pesos, una apreciación para la moneda… [+1266 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/0g6SLIR3lAbAPcSSMfAyZ1O7F2Y=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OCBHCQBFFJEQJFRPQMYPIBPRZ4.jpg",
       "PublishedAt": "2024-07-02T17:09:31Z",
       "Content": "El peso mexicano toma ventaja sobre el dólar en el inicio de las operaciones de este martes, a la par que los precios del petróleo aumentan y el billete verde muestra grietas en su fortaleza. \r\nLa ap… [+1868 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 2 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-2-de-julio-nid02072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-2-de-B5G2LW23ABC45DOZJ66EIYEOOM.jpg?auth=c7f2d8cd54457ec67f08c2ccc707d3731310a3b24456d1b6043711faeb00249f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-02T15:00:02Z",
-      "Content": "Este martes 2 de julio, el precio del dólar en México es de $18,2482, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2124 chars]"
     }
   ]
 }
