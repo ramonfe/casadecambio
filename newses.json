@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 12 de julio",
+      "Description": "Consulta aquí el valor del dólar a peso mexicano hoy, viernes 12 de julio. Obtén un resumen completo de la situación económica en México y las últimas actualizaciones de la cotización de la divisa.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-12-de-julio-nid12072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-pierde-terreno-frente-al-peso-mexicano-4AKIH3WCX5EFNCNWMUZV76P4WA.jpg?auth=4b34c68a9679ddc3aeaf0ad7737560d23ea470ee0ee76296ecb517c3867024ae&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-12T15:08:51Z",
+      "Content": "Este viernes 12 de julio, el precio del dólar en México es de $17,8191, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2165 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/agenda-economica-asi-cotiza-el-dolar-en-mexico-WUEUXPC2WJE3DHCMKK7PCABNY4.JPG?auth=1037a90f786cc3a5549775f57fe7c95c2bac8daf278c1dad6e44e5af21dcd952&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-03T14:17:36Z",
       "Content": "Este miércoles 3 de julio, el precio del dólar en México es de $18,2485, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2193 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante retroceso global del dólar",
-      "Description": "Forbes México.\n Peso avanza ante retroceso global del dólar\n\nLa moneda estadounidense pierde terreno luego de que el presidente de la Fed dijera que se necesitan más datos de inflación antes de recortar tasas en EU.\nPeso avanza ante retroceso global del dólar…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-ante-retroceso-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2024-07-02T22:17:32Z",
-      "Content": "El peso se apreció este martes ante un retroceso global del dólar después de que el jefe de la Reserva Federal, Jerome Powell, afirmó que se necesitan conocer más datos de inflación antes de recortar… [+2211 chars]"
     }
   ]
 }
