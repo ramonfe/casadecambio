@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Ernesto Sarabia y Adriana Arcos",
+      "Title": "Tiene peso mayor plusvalía en 9 meses; cierra dólar a $17.61",
+      "Description": "El dólar descendió 48.72 centavos entre el 5 y el 12 de julio a 17.6189 unidades, y cosechó su mejor resultado desde noviembre de 2023.",
+      "Url": "https://www.reforma.com/tiene-peso-mayor-plusvalia-en-9-meses-cierra-dolar-a-17-61/ar2839849",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/733/5732917.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-07-12T22:39:27Z",
+      "Content": "03 MIN 00 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (12 julio 2024) .-16:29 hrs"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9dc3/live/5ecc5880-3972-11ef-8149-0b698f2652fd.png",
       "PublishedAt": "2024-07-03T19:35:05Z",
       "Content": "Fuente de la imagen, Getty Images\r\nPie de foto, Los argentinos viven pendientes del \"dólar blue\".\r\nArticle information<ul><li>Author, Veronica Smink</li><li>Role, BBC News Mundo, Argentina</li><li></… [+7750 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "El ‘3D julio’ empuja al peso: Gana al dólar y se cotiza en las 18.12 unidades",
-      "Description": "El peso mexicano va a contracorriente de la tendencia de las monedas latinoamericanas que lideran las caídas este miércoles.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/03/peso-dolar-precio-hoy-3-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/UmUCIGFa69vXqW83TZCJlSrurgg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QVJJHE6AXBAMHAZQTBKZHK56ZI.jpg",
-      "PublishedAt": "2024-07-03T16:31:43Z",
-      "Content": "El peso mexicano extiende sus ganancias frente al dólar en el 3D julio gracias al efecto de los comentarios de Jerome Powell, presidente de la Reserva Federal, quien subrayó que el Banco Central de E… [+1510 chars]"
     }
   ]
 }
