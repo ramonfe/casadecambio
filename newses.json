@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso avanza tras retroceso global del dólar y perfila ganancia semanal; BMV gana",
+      "Description": "Forbes México.\n Peso avanza tras retroceso global del dólar y perfila ganancia semanal; BMV gana\n\nEl peso cotizaba en 17.7360 por dólar, con un avance de 0.17% frente al precio de referencia de Reuters del jueves. En la semana acumulaba un rendimiento de un 2…",
+      "Url": "https://www.forbes.com.mx/peso-avanza-tras-retroceso-global-del-dolar-y-perfila-ganancia-semanal-bmv-gana/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-peso-dinero-_ACH0046.jpg",
+      "PublishedAt": "2024-07-12T14:39:26Z",
+      "Content": "El peso se apreciaba este viernes encaminándose a culminar una semana de ganancias, ante un retroceso global del dólar mientras los inversionistas asimilaban cifras que mostraron un aumento moderado … [+1158 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2024-07-02T22:17:32Z",
       "Content": "El peso se apreció este martes ante un retroceso global del dólar después de que el jefe de la Reserva Federal, Jerome Powell, afirmó que se necesitan conocer más datos de inflación antes de recortar… [+2211 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Dólar que se ‘duerme’, se lo lleva el peso: Esto pierde ante la moneda mexicana hoy",
-      "Description": "Los analistas prestaron atención al mensaje de Jerome Powell, quien dijo que la Fed aún no está decidida a recortar la tasa de interés.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/02/peso-dolar-precio-hoy-2-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/0g6SLIR3lAbAPcSSMfAyZ1O7F2Y=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OCBHCQBFFJEQJFRPQMYPIBPRZ4.jpg",
-      "PublishedAt": "2024-07-02T17:09:31Z",
-      "Content": "El peso mexicano toma ventaja sobre el dólar en el inicio de las operaciones de este martes, a la par que los precios del petróleo aumentan y el billete verde muestra grietas en su fortaleza. \r\nLa ap… [+1868 chars]"
     }
   ]
 }
