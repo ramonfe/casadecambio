@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 42,
+  "TotalResults": 43,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Sam Bradbrook",
+      "Title": "Million dollar price tag to save iconic 169yo obelisk before it falls into the sea",
+      "Description": "Saving South Australia's iconic Robe Obelisk from worsening coastal erosion could cost $1.5 million, but locals say it's worth the money and effort.",
+      "Url": "https://www.abc.net.au/news/2024-07-12/robe-obelisk-meeting-history-future-heritage-coastal-erosion/104090924",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/45ad0d80eaad3f0350d973fe851301a0?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "PublishedAt": "2024-07-12T05:43:42Z",
+      "Content": "A coastal South Australian community has pushed back against a local council decision to allow its 169-year-old town icon to fall into the sea.\r\nThe Robe Obelisk is located on SA's Limestone Coast an… [+3398 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/sYTVmk4WkNN.Gryj7U2xVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://media.zenfs.com/en/bloomberg_markets_842/21335db84619ea9a4076727d296a4f94",
       "PublishedAt": "2024-06-13T08:13:21Z",
       "Content": "(Bloomberg) -- Russias main exchange said its halting trading in US dollars and the euro after President Joe Bidens administration unveiled a raft of measures designed to further isolate Moscow from … [+4196 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "CNBC",
-      "Title": "Dollar and euro trade halted on Russia's biggest exchange due to new U.S. sanctions",
-      "Description": "New U.S. sanctions against Russia will shut down trading in dollars and euros on its leading financial marketplace, the Moscow Exchange, the bourse and the central bank said on Wednesday. \"Due to the introduction of restrictive measures by the United States a…",
-      "Url": "https://freerepublic.com/focus/f-chat/4243906/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-12T20:18:39Z",
-      "Content": "Skip to comments.\r\nDollar and euro trade halted on Russia's biggest exchange due to new U.S. sanctionsCNBC ^\r\n | 6/12/2024\r\n | Reuters \r\nPosted on 06/12/2024 1:18:39 PM PDT by marcusmaximus\r\nNew U.S.… [+2682 chars]"
     }
   ]
 }
