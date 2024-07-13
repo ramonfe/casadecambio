@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Sebastián Fest",
+      "Title": "Milei acusa de \"golpista\" a un banco y se pelea con un hombre clave del FMI mientras el dólar se dispara y crecen las dudas",
+      "Description": "Estará este fin de semana en una cumbre en un resort de Sun Valley, una conferencia anual organizada por Allen & Company a la que asisten millonarios y en la que se cierran grandes negocios Leer",
+      "Url": "https://www.elmundo.es/economia/2024/07/12/669164f021efa068268b45b4.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/54682db108687e0f6d9b6cf76f2a6c54/crop/0x0/2355x1570/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/12/17208045041842.jpg",
+      "PublishedAt": "2024-07-12T17:16:36Z",
+      "Content": "Javier Milei estará este fin de semana en una cumbre de millonarios en el resort estadounidense de Sun Valley, una conferencia anual organizada por Allen &amp; Company a la que asisten multimillonari… [+4051 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/UmUCIGFa69vXqW83TZCJlSrurgg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QVJJHE6AXBAMHAZQTBKZHK56ZI.jpg",
       "PublishedAt": "2024-07-03T16:31:43Z",
       "Content": "El peso mexicano extiende sus ganancias frente al dólar en el 3D julio gracias al efecto de los comentarios de Jerome Powell, presidente de la Reserva Federal, quien subrayó que el Banco Central de E… [+1510 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 3 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-3-de-julio-nid03072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/agenda-economica-asi-cotiza-el-dolar-en-mexico-WUEUXPC2WJE3DHCMKK7PCABNY4.JPG?auth=1037a90f786cc3a5549775f57fe7c95c2bac8daf278c1dad6e44e5af21dcd952&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-03T14:17:36Z",
-      "Content": "Este miércoles 3 de julio, el precio del dólar en México es de $18,2485, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2193 chars]"
     }
   ]
 }
