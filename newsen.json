@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 31,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,84 +314,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-14T08:50:37Z",
       "Content": "By RFE/RL June 13, 2024\r\nRussia's main stock exchange on June 13 halted dollar and euro trades after the United States hit Moscow with a new package of sanctions over its military offensive in Ukrain… [+3176 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT",
-      "Title": "Yuan to replace dollar as Russia’s main foreign currency – Central Bank",
-      "Description": "The renminbi has surpassed the US dollar to become the most traded currency with the ruble in Moscow, according to Russia’s central bank Read Full Article at RT.com",
-      "Url": "https://www.rt.com/business/599225-yuan-moscow-exchange-trading/",
-      "UrlToImage": "https://mf.b37mrtl.ru/files/2024.06/article/666b25d085f5407a6d0bbfca.jpg",
-      "PublishedAt": "2024-06-13T17:09:02Z",
-      "Content": "The yuan/ruble exchange rate will now set the trajectory for other currency pairs on the Moscow Exchange (MOEX), including for the euro and dollar, the Bank of Russia (CBR) announced on Thursday.\r\nTh… [+2112 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "fdemott@insider.com (Filip De Mott)",
-      "Title": "Broadcom is the next stock that could enter the trillion-dollar club, according to Bank of America",
-      "Description": "Broadcom surged on Thursday after posting estimate-beating revenue and announcing a stock split. Shares could reach $2,000, Bank of America said.",
-      "Url": "https://markets.businessinsider.com/news/stocks/broadcom-stock-earnings-record-price-trillion-market-cap-ai-revenue-2024-6",
-      "UrlToImage": "https://i.insider.com/666b02c3764df16112596ec3?width=1200&format=jpeg",
-      "PublishedAt": "2024-06-13T16:25:33Z",
-      "Content": "Chip maker Broadcom looks like a contender to be the next member of the stock market's trillion-dollar club, Bank of America said Thursday. \r\nInvestors cheered the semiconductor manufacturer in Thurs… [+2040 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "Bloomberg News",
-      "Title": "Russians See Little Fallout After US Sanctions Hit Dollar Exchange Trade",
-      "Description": "The latest round of US sanctions effectively ended three decades of daily exchange trading in the dollar for Russia’s ruble that first began in the twilight of the Soviet Union. Russians mostly took the news in stride.",
-      "Url": "https://financialpost.com/pmn/business-pmn/russians-see-little-fallout-after-us-sanctions-hit-dollar-exchange-trade",
-      "UrlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/ruble-rate-on-otc-market-reaches-year-high.jpg",
-      "PublishedAt": "2024-06-13T15:18:35Z",
-      "Content": "The latest round of US sanctions effectively ended three decades of daily exchange trading in the dollar for Russias ruble that first began in the twilight of the Soviet Union. Russians mostly took t… [+7491 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "Russia Suspends Dollar, Euro Trade on Flagship Stock Exchange After U.S. Expands Sanctions",
-      "Description": "(marketscreener.com) \n By Mauro Orru \n\n\n Russia halted trading in U.S. dollars, the euro and Hong Kong dollars on the country's flagship stock exchange Thursday after the U.S. set out fresh sanctions aimed at further tightening the screws on Moscow's war mach…",
-      "Url": "https://www.marketscreener.com/quote/currency/US-DOLLAR-RUSSIAN-ROUBLE--2370597/news/Russia-Suspends-Dollar-Euro-Trade-on-Flagship-Stock-Exchange-After-U-S-Expands-Sanctions-46966163/",
-      "UrlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "PublishedAt": "2024-06-13T11:29:31Z",
-      "Content": "By Mauro Orru \r\nRussia halted trading in U.S. dollars, the euro and Hong Kong dollars on the country's flagship stock exchange Thursday after the U.S. set out fresh sanctions aimed at further tighten… [+727 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": null,
-      "Title": "New US sanctions against Russia force end of dollar and euro trading on Moscow Exchange",
-      "Description": "New US sanctions against Russia have caused an immediate suspension of trading in dollars and euros on the country’s leading financial marketplace, the Moscow Exchange.",
-      "Url": "https://www.cnn.com/2024/06/13/investing/us-russia-sanctions-dollar-euro-trading/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1246478607.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2024-06-13T09:53:26Z",
-      "Content": "New US sanctions against Russia have causedan immediate suspension of trading in dollars and euros on the countrysleading financial marketplace, the Moscow Exchange.\r\nThe exchange, also known as MOEX… [+3316 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Bloomberg News",
-      "Title": "US Sanctions Force Moscow Exchange to Halt Dollar, Euro Trading",
-      "Description": "(Bloomberg) -- Russia’s main exchange said it’s halting trading in US dollars and the euro after President Joe Biden’s administration unveiled a raft of...",
-      "Url": "https://finance.yahoo.com/news/us-sanctions-force-moscow-exchange-081321590.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/sYTVmk4WkNN.Gryj7U2xVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://media.zenfs.com/en/bloomberg_markets_842/21335db84619ea9a4076727d296a4f94",
-      "PublishedAt": "2024-06-13T08:13:21Z",
-      "Content": "(Bloomberg) -- Russias main exchange said its halting trading in US dollars and the euro after President Joe Bidens administration unveiled a raft of measures designed to further isolate Moscow from … [+4196 chars]"
     }
   ]
 }
