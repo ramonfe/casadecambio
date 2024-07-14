@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Luis Enrique Brenes",
+      "Title": "Tipo de cambio del dólar se redujo ¢7,86 en última semana",
+      "Description": "Este viernes 12 de julio el precio del dólar fue de ¢525,63, por debajo de los ¢533,49 en los cuales cerró el mismo día de la semana anterior en Monex.",
+      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-se-redujo-786-en-ultima/N47DLQYCQ5EX7OC3K4AV5L5QKI/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/o-o7YMVwbaCpnu_esd5EVdwhKVw=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GWTLNU3ZPNEZLEXPB53MVHTWHQ.jpg",
+      "PublishedAt": "2024-07-12T23:57:05Z",
+      "Content": "El tipo de cambio del dólar respecto al colón se redujo en ¢7,86 en la última semana en el Mercado de Monedas Extranjeras (Monex). Este viernes 12 de julio, el precio de la divisa cerró con un valor … [+2970 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-este-jueves-4-de-B3RRBI45NFFHRFPS3Q6YABQZZE.jpg?auth=4026098456e24cb3ffd0dd3d2aafe2c95b89f617b17bb77b832220c313e82ee7&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-04T14:12:08Z",
       "Content": "Este jueves 4 de julio, el precio del dólar en México es de $18,1315, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2227 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BBC News"
-      },
-      "Author": "https://www.facebook.com/bbcnews",
-      "Title": "Qué es el \"dólar blue\" y por qué Argentina tiene muchas cotizaciones para la moneda estadounidense",
-      "Description": "Te contamos por qué los argentinos viven pendientes del \"blue\" y cuáles son los otros cinco tipos de dólares que existen en el país sudamericano.",
-      "Url": "https://www.bbc.com/mundo/articles/c2v0p7pvw8go",
-      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/9dc3/live/5ecc5880-3972-11ef-8149-0b698f2652fd.png",
-      "PublishedAt": "2024-07-03T19:35:05Z",
-      "Content": "Fuente de la imagen, Getty Images\r\nPie de foto, Los argentinos viven pendientes del \"dólar blue\".\r\nArticle information<ul><li>Author, Veronica Smink</li><li>Role, BBC News Mundo, Argentina</li><li></… [+7750 chars]"
     }
   ]
 }
