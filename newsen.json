@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 23,
   "Articles": [
     {
       "Source": {
@@ -301,58 +301,6 @@
       "UrlToImage": "https://www.marketscreener.com/images/reuters/2022-02/2022-02-16T145355Z_1_LYNXMPEI1F0QF_RTROPTP_3_MARKETS-CANADA-CURRENCY.JPG",
       "PublishedAt": "2024-06-18T19:30:20Z",
       "Content": "* Loonie trades in a range of 1.3710 to 1.3756\r\n* Price of U.S. oil settles 1.5% higher\r\n* Canadian bond yields ease across the curve\r\nTORONTO, June 18 (Reuters) - The Canadian dollar was\r\nlittle cha… [+1645 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Niamh Rowe",
-      "Title": "Bank of America says Broadcom could be the next trillion-dollar company—but rival Nvidia would still be 3 times larger",
-      "Description": "While Nvidia stands as the undisputed winner of the AI chip wars, it soon could have a rival.",
-      "Url": "https://fortune.com/2024/06/14/bank-of-america-broadcom-nvidia-chips-chipmakers-artificial-intelligence/",
-      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1232724006-e1718384747814.jpg?resize=1200,600",
-      "PublishedAt": "2024-06-14T19:41:16Z",
-      "Content": "The chipmakers powering the artificial intelligence revolution have become stock market darlings. And while Nvidia is, thus far, the undisputed winner of the chip wars, it soon could be facing a robu… [+2308 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Bank of America says Broadcom could be the next trillion-dollar company—but rival Nvidia would still be 3 times larger",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c27bea84-4445-4b86-9867-6733d7d25595",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-14T19:41:16Z",
-      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Globalsecurity.org"
-      },
-      "Author": "John Pike",
-      "Title": "Russia halts dollar, euro trade on Moscow Exchange",
-      "Description": "The Moscow Exchange (MOEX) has stopped trading in dollars and euros, a move prompted by a new round of US sanctions targeting Russia's financial institutions.",
-      "Url": "https://www.globalsecurity.org/wmd/library/news/russia/2024/06/russia-240613-irna01.htm",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-14T08:50:39Z",
-      "Content": "IRNA - Islamic Republic News Agency\r\nJun 13, 2024\r\nTehran, IRNA -- The Moscow Exchange (MOEX) has stopped trading in dollars and euros, a move prompted by a new round of US sanctions targeting Russia… [+1262 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Globalsecurity.org"
-      },
-      "Author": "John Pike",
-      "Title": "Moscow Exchange Stops Dollar, Euro Trades Over New Sanctions",
-      "Description": "Russia's main stock exchange on June 13 halted dollar and euro trades after the United States hit Moscow with a new package of sanctions over its military offensive in Ukraine.",
-      "Url": "https://www.globalsecurity.org/wmd/library/news/russia/2024/06/russia-240613-rferl02.htm",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-14T08:50:37Z",
-      "Content": "By RFE/RL June 13, 2024\r\nRussia's main stock exchange on June 13 halted dollar and euro trades after the United States hit Moscow with a new package of sanctions over its military offensive in Ukrain… [+3176 chars]"
     }
   ]
 }
