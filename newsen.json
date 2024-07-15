@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Billion-Dollar Bank To Pay $20,000,000 Fine After Hitting Customers With ‘Illegal, Worthless Fees’ and Illegally Triggering Asset Seizures: CFPB",
+      "Description": "The Consumer Financial Protection Bureau (CFPB) is penalizing a US bank for predatory loan practices and illegal repossession of people’s assets. The CFPB says that Fifth Third Bank harmed 35,000 customers, including roughly 1,000 people who had their cars re…",
+      "Url": "https://dailyhodl.com/2024/07/14/billion-dollar-bank-to-pay-20000000-fine-after-hitting-customers-with-illegal-worthless-fees-and-illegally-triggering-asset-seizures-cfpb/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bank-cfpb-fine.jpg",
+      "PublishedAt": "2024-07-14T16:48:58Z",
+      "Content": "The Consumer Financial Protection Bureau (CFPB) is penalizing a US bank for predatory loan practices and illegal repossession of people’s assets.\r\nThe CFPB says that Fifth Third Bank harmed 35,000 cu… [+1968 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news-au",
