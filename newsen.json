@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investing.com"
+      },
+      "Author": "Reuters",
+      "Title": "World Bank dollar lifeline for Pacific islands proceeds with US, Australia push",
+      "Description": "World Bank dollar lifeline for Pacific islands proceeds with US, Australia push",
+      "Url": "https://www.investing.com/news/economy-news/world-bank-dollar-lifeline-for-pacific-islands-proceeds-with-us-australia-push-3518266",
+      "UrlToImage": "https://i-invdn-com.investing.com/news/indicatornews_2_800x533_L_1412601599.jpg",
+      "PublishedAt": "2024-07-14T18:17:30Z",
+      "Content": "By Lucy Craymer and Lewis Jackson\r\nWELLINGTON/SYDNEY (Reuters) - The World Bank is preparing a financial lifeline for Pacific Island nations, backed by the U.S. and Australia, as an exodus of Western… [+4883 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Lucy Craymer and Lewis Jackson",
+      "Title": "World Bank dollar lifeline for Pacific islands proceeds with US, Australia push",
+      "Description": "The World Bank is preparing a financial lifeline for Pacific Island nations, backed by the U.S. and Australia, as an exodus of Western banks from the...",
+      "Url": "https://finance.yahoo.com/news/world-bank-dollar-lifeline-pacific-181132450.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters-finance.com/af94fa10c46aecb17917b04abc21cc9a",
+      "PublishedAt": "2024-07-14T18:11:32Z",
+      "Content": "By Lucy Craymer and Lewis Jackson\r\nWELLINGTON/SYDNEY (Reuters) - The World Bank is preparing a financial lifeline for Pacific Island nations, backed by the U.S. and Australia, as an exodus of Western… [+5026 chars]"
+    },
     {
       "Source": {
         "Id": null,
