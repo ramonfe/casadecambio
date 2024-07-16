@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, lunes 15 de julio",
+      "Description": "Descubre el tipo de cambio de dólar a peso mexicano hoy, lunes 15 de julio. Obtén un resumen detallado de la situación económica actual en México y el valor actualizado de la divisa para tomar decisiones informadas.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-lunes-15-de-julio-nid15072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-este-lunes-15-de-5KUUNA3FWFBBJINC4KIU2LA63Q.JPG?auth=782f2eea7b796adfc854a695119b9ff3fb9fac2f2abe8c5873b00682d2cfca0c&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-15T14:58:10Z",
+      "Content": "Este lunes 15 de julio, el precio del dólar en México es de $17,6502, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2251 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2024-07-04T16:23:25Z",
       "Content": "El peso gana terreno este jueves ante un debilitamiento generalizado del dólar, que refleja las especulaciones del mercado de que la Reserva Federal inicie recortes a su tasa de interés en su anuncio… [+1761 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 4 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-4-de-julio-nid04072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-este-jueves-4-de-B3RRBI45NFFHRFPS3Q6YABQZZE.jpg?auth=4026098456e24cb3ffd0dd3d2aafe2c95b89f617b17bb77b832220c313e82ee7&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-04T14:12:08Z",
-      "Content": "Este jueves 4 de julio, el precio del dólar en México es de $18,1315, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2227 chars]"
     }
   ]
 }
