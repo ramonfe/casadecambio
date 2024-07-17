@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 89,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Peso pierde ante dólar tras 9 días de ganancias",
+      "Description": "El peso mexicano rompió una racha de nueve jornadas consecutivas de ganancias frente al dólar por efecto del ataque contra el ex presidente y candidato republicano Donald Trump el fin de semana, que llevó a los inversionistas a buscar activos refugio como el …",
+      "Url": "https://www.jornada.com.mx/2024/07/16/economia/019n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-07-16T10:57:42Z",
+      "Content": "Periódico La JornadaMartes 16 de julio de 2024, p. 19\r\nEl peso mexicano rompió una racha de nueve jornadas consecutivas de ganancias frente al dólar por efecto del ataque contra el ex presidente y ca… [+1493 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/u0Wv9G6DUAs2IvNtBlrsC88u3gE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JSI5NNDKCVHGTGMSIWRIL4JQBI.jpg",
       "PublishedAt": "2024-07-04T16:48:52Z",
       "Content": "El peso mexicano le está arruinando al dólar el festejo por el Día de la Independencia de Estados Unidos durante una jornada de baja liquidez en los mercados. \r\nLa apreciación del peso mexicano ante … [+1404 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se aprecia ante un debilitamiento del dólar",
-      "Description": "Forbes México.\n Peso se aprecia ante un debilitamiento del dólar\n\nEl mercado, con un menor volumen de operación por el feriado en EU, espera que la Fed inicie recortes a su tasa en septiembre.\nPeso se aprecia ante un debilitamiento del dólar\nForbes Staff",
-      "Url": "https://www.forbes.com.mx/peso-se-aprecia-ante-un-debilitamiento-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2024-07-04T16:23:25Z",
-      "Content": "El peso gana terreno este jueves ante un debilitamiento generalizado del dólar, que refleja las especulaciones del mercado de que la Reserva Federal inicie recortes a su tasa de interés en su anuncio… [+1761 chars]"
     }
   ]
 }
