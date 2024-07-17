@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘se recupera’ frente al dólar: Se cotiza en las 17.70 unidades este martes",
+      "Description": "El peso mexicano se recuperó frente al dólar este 16 de julio después de que los inversionistas continúan evaluando la situación política en Estados Unidos.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/16/peso-dolar-precio-hoy-16-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/wjOl7JuMjYAXOUwX9ohjX6Wx6os=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L33B6HJMJNCYRLFUHZYD764EEE.jpg",
+      "PublishedAt": "2024-07-16T16:15:25Z",
+      "Content": "La moneda mexicana presenta correcciones este martes 16 de julio tras haber frenado su racha de ganancias en la sesión previa, a la par que los inversionistas continúan evaluando la situación polític… [+1703 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-07-05T08:52:44Z",
       "Content": "Periódico La JornadaViernes 5 de julio de 2024, p. 27\r\nSin la referencia de los mercados estadunidenses, que estuvieron cerrados por la celebración del Día de la Independencia, el peso siguió aprovec… [+2415 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "L. Broche",
-      "Title": "La libra esterlina sube frente al euro y el dólar tras la victoria del Partido Laborista en Reino Unido",
-      "Description": "La Unión Europea invita a Keir Starmer a colaborar en asuntos de \"interés común\".",
-      "Url": "https://www.elespanol.com/invertia/mercados/20240705/libra-esterlina-sube-frente-euro-dolar-victoria-partido-laborista-reino-unido/868163217_0.html",
-      "UrlToImage": "https://s1.elespanol.com/2024/07/05/mundo/europa/868173196_247537534_1706x960.jpg",
-      "PublishedAt": "2024-07-05T07:29:45Z",
-      "Content": "La libra esterlina ha avanzado este viernes frente al euro y el dólar tras asegurarse el Partido Laborista de Keir Starmer una rotunda victoriacon mayoría en las elecciones generales del Reino Unido.… [+2058 chars]"
     }
   ]
 }
