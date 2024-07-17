@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 16 de julio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-16-de-julio-nid16072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-16-de-F3QHP5NJGVEWRJGVMBGPY4O6SI.jpg?auth=aa56bff6d3ed9baa61d3ba4f43a7f0e42c9617c5c48cfa96c154921bfe752953&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-16T15:42:12Z",
+      "Content": "Este martes 16 de julio, el precio del dólar en México es de $17,7435, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2324 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.elespanol.com/2024/07/05/mundo/europa/868173196_247537534_1706x960.jpg",
       "PublishedAt": "2024-07-05T07:29:45Z",
       "Content": "La libra esterlina ha avanzado este viernes frente al euro y el dólar tras asegurarse el Partido Laborista de Keir Starmer una rotunda victoriacon mayoría en las elecciones generales del Reino Unido.… [+2058 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘arruina’ Día de la Independencia de EU: Se acerca a las 17 unidades ante el dólar",
-      "Description": "El peso se está aprovechando del debilitamiento que ha mostrado el dólar en la primera semana de junio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/04/peso-dolar-precio-hoy-4-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/u0Wv9G6DUAs2IvNtBlrsC88u3gE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JSI5NNDKCVHGTGMSIWRIL4JQBI.jpg",
-      "PublishedAt": "2024-07-04T16:48:52Z",
-      "Content": "El peso mexicano le está arruinando al dólar el festejo por el Día de la Independencia de Estados Unidos durante una jornada de baja liquidez en los mercados. \r\nLa apreciación del peso mexicano ante … [+1404 chars]"
     }
   ]
 }
