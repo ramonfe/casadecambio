@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: las reservas totales del Banco Central cayeron hoy al menor nivel desde fines de abril",
+      "Description": "Fue en una jornada en la que la entidad debió vender US$3 millones, haciendo un módico aporta al plan para acelerar el retiro de pesos del mercado",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-las-reservas-totales-del-banco-central-cayeron-hoy-al-menor-nivel-desde-fines-de-abril-nid16072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/tras-soltar-el-dolar-y-luego-freezarlo-el-bcra-Q3BWX4CF2ZFVJJUJ2EAZWDDEPU.jpg?auth=fc640b6cf05b8f4fb2989caf03cee156a2e5aeda1c8eb9ddc58265383c9d244b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-16T20:08:06Z",
+      "Content": "La reservas totales del Banco Central (BCRA) cayeron hoy otros US$559 millones (a US$27.613 millones según el dato preliminar), para quedar en su menor nivel desde fines de abril.\r\nLa cifra se conoci… [+2756 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/2/5/1/euro-simbolo-billetes-dinero-divisa-bandera-ue-bloomberg-1200x655.jpg",
       "PublishedAt": "2024-07-08T14:45:17Z",
       "Content": "Aunque en el año la batalla la sigue ganando el dólar, en las últimas sesiones el euro ensancha músculo y el lunes marcaba su octava sesión consecutiva en positivo, la que sería la racha alcista más … [+2253 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 5 de julio",
-      "Description": "La cotización del día de la fecha. El precio del dólar en los bancos y casas de cambio de México. ¿Qué esperan los mercados este viernes 5 de julio?",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-5-de-julio-nid05072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-5-de-MT7MFWFJJJGI3LWXVNP7IMQZTI.jpg?auth=4d639f7c7637e3224730347db8910c35c614733b700159ea59aaa8f0a9a9be2d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-05T18:40:02Z",
-      "Content": "Este viernes 5 de julio, el precio del dólar en México es de $18,04, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2004 chars]"
     }
   ]
 }
