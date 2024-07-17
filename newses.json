@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "La rara moneda de 25 centavos de dólar que puede valer hasta US$560 mil por un peculiar detalle",
+      "Description": "Fue acuñada para celebrar los 200 años de la independencia de EE.UU. sin embargo se encuentra en condiciones excepcionales ya que no circuló, además posee uno de los errores de impresión más valorados",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-rara-moneda-de-25-centavos-de-dolar-que-puede-valer-hasta-us560-mil-por-un-peculiar-detalle-nid16072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/por-el-estado-de-conservacion-y-la-doble-GLNTHETPHNBK7H6T657L6GMV3U.jpg?auth=36676d81504ba73dcebf4447fa05369c71dbb1cbfbe4470f4ba5a3f28ff54eea&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-16T18:31:04Z",
+      "Content": "El universo de la numismática siempre suele ofrecer novedades sorprendentes y, para quienes no están muy al tanto de sus reglas también un tanto extrañas. ¿Quién no ha roto su alcancía con la esperan… [+2192 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg",
+      "Title": "Peso enfrenta doble amenaza en 2024: ¿Qué factores ‘hundirían’ a la moneda frente al dólar?",
+      "Description": "El peso mexicano podría hundirse si Donald Trump se reelige en Estados Unidos y si Claudia Sheinbaum conserva mayoría en el Congreso.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/16/peso-enfrenta-doble-amenaza-en-2024-que-factores-hundirian-a-la-moneda-frente-al-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/I_qfdHSW76vcsQkieIG3xeZw4uA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CUNUQVTHCJHN3LORD6L7DB6PYI.jpg",
+      "PublishedAt": "2024-07-16T18:06:26Z",
+      "Content": "El peso mexicano es la moneda más afectada por las ventas en los mercados de divisas, a medida que los administradores de dinero aumentan las apuestas a que Donald Trump logrará un segundo mandato en… [+2436 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-viernes-5-de-MT7MFWFJJJGI3LWXVNP7IMQZTI.jpg?auth=4d639f7c7637e3224730347db8910c35c614733b700159ea59aaa8f0a9a9be2d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-05T18:40:02Z",
       "Content": "Este viernes 5 de julio, el precio del dólar en México es de $18,04, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2004 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso, casi ‘tablas’ con el dólar rumbo al fin de semana: Se cotiza en las 18.10 unidades",
-      "Description": "En tanto, según cifras de Citibanamex, en ventanillas bancarias el precio del billete verde es de 18.52 pesos cada uno.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/05/peso-dolar-precio-hoy-5-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Xt2ud5WybiL5naBQsNHwfr2tcq0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/T4CBNDDQJFAZFBDF4DANOU5I3I.jpg",
-      "PublishedAt": "2024-07-05T16:37:43Z",
-      "Content": "El peso mexicano se encamina a cerrar la última jornada de la primera semana de julio con pérdidas, tras la publicación del reporte de empleo en Estados Unidos, que mostró la creación de 206 mil pues… [+1848 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "El peso cerró en 18.08 unidades por dólar spot; suben precios del petróleo",
-      "Description": "Sin la referencia de los mercados estadunidenses, que estuvieron cerrados por la celebración del Día de la Independencia, el peso siguió aprovechando la debilidad internacional del dólar y se fortaleció hacia los 18.0873 unidades por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2024/07/05/economia/027n3eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-07-05T08:52:44Z",
-      "Content": "Periódico La JornadaViernes 5 de julio de 2024, p. 27\r\nSin la referencia de los mercados estadunidenses, que estuvieron cerrados por la celebración del Día de la Independencia, el peso siguió aprovec… [+2415 chars]"
     }
   ]
 }
