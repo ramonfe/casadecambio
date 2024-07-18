@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering convict expelled by Cambodia after deportation from Singapore",
+      "Description": "Chinese national Zhang Ruijin, one of the 10 people convicted in the S$3 billion money laundering case, was deported from Cambodia on Tuesday (Jul 16).",
+      "Url": "https://www.channelnewsasia.com/singapore/zhang-ruijin-convict-chinese-national-deported-cambodia-billion-dollar-money-laundering-case-4485901",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--ZxiVLK7J--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/07/17/451428808_872536854901650_1877617015942165200_n.jpg?itok=kCg2LkWd",
+      "PublishedAt": "2024-07-17T13:45:00Z",
+      "Content": "Zhang was the fifth of 10 accused persons to be dealt with by Singapore's courts in relation to the S$3 billion (US$2.2 billion) money laundering case. He forfeited around S$118 million in assets to … [+3033 chars]"
+    },
     {
       "Source": {
         "Id": null,
