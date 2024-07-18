@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, miércoles 17 de julio",
+      "Description": "Consulta el tipo de cambio del dólar a peso mexicano hoy, miércoles 17 de julio. Obtén un resumen detallado de la situación económica en México y el valor actual de la divisa en este día.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-miercoles-17-de-julio-nid17072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-17-de-J4SFBNT7MZF63NBW2TES2OG4S4.jpg?auth=f980da33901feeb10037553f8ea5a29d1d0725c8c244969c52c9e1713265b75f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-17T15:36:23Z",
+      "Content": "Este miércoles 17 de julio, el precio del dólar en México es de $17,6795, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2171 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-lunes-8-de-julio-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-08T14:59:29Z",
       "Content": "Este lunes 8 de julio, el precio del dólar en México es de $18,04, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un p… [+2007 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eleconomista.es"
-      },
-      "Author": "Cecilia Moya",
-      "Title": "El euro marca su racha alcista más larga frente al dólar en lo que va de año",
-      "Description": "Aunque en el año la batalla la sigue ganando el dólar, en las últimas sesiones el euro ensancha músculo y el lunes marcaba su octava sesión consecutiva en positivo, la que sería la racha alcista más larga de lo que va de año. El verde no llegó desde el arranq…",
-      "Url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/12901006/07/24/el-euro-marca-su-racha-alcista-mas-larga-frente-al-dolar-en-lo-que-va-de-ano.html",
-      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/2/5/1/euro-simbolo-billetes-dinero-divisa-bandera-ue-bloomberg-1200x655.jpg",
-      "PublishedAt": "2024-07-08T14:45:17Z",
-      "Content": "Aunque en el año la batalla la sigue ganando el dólar, en las últimas sesiones el euro ensancha músculo y el lunes marcaba su octava sesión consecutiva en positivo, la que sería la racha alcista más … [+2253 chars]"
     }
   ]
 }
