@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 18 de julio",
+      "Description": "Consulta el valor actual del dólar respecto al peso mexicano hoy, jueves 18 de julio. Obtén un resumen detallado de la situación económica en México y la cotización actualizada de la divisa para tomar decisiones informadas.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-18-de-julio-nid18072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-sube-su-precio-en-mexico-este-jueves-18-PA6OM4GJENBG3CMYLLFQP3KNNI.jpg?auth=ff0f24be5abbb98f8156a978fa7efb491bef1ee89485053c1319b4cabdd4a79d&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-18T14:51:18Z",
+      "Content": "Este jueves 18 de julio, el precio del dólar en México es de $17,7438, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2189 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/9ebhd-v9pJvZNL7mxCMy5wxirU4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/XLFZ2372PFEWPMEZHBUTCEYILM.jpg",
       "PublishedAt": "2024-07-08T16:24:03Z",
       "Content": "El peso mexicano tomo inspiración de La Casa del Dragón inicia las operaciones de esta semana de manera ardiente cotizando muy cerca de las 18 unidades, ante la especulación de que la Fed podría real… [+1499 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Melisa Reinhold",
-      "Title": "Dólar hoy: el blue arranca la semana con una suba de $25 mientras el mercado observa las reservas del Banco Central",
-      "Description": "El tipo de cambio paralelo cotiza a $1445, un nuevo récord nominal; esta semana, el BCRA deberá desembolsar US$2500 millones por el pago a bonistas",
-      "Url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-el-blue-arranca-la-semana-con-una-suba-de-25-mientras-el-mercado-observa-las-reservas-del-nid08072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-lunes-8-de-CYISRLMWXBCMBCEC4Z766GAOLU.jpg?auth=9dff9040bbf7d61ad0bc62ac229d598407a7b9db6da0ffb1929b7230212017ae&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-08T16:04:02Z",
-      "Content": "Este lunes, tanto el blue como los dólares financieros arrancan la semana corta al alza y consolidan su precio por encima de la barrera de los $1400. Para los analistas, el mercado todavía está a la … [+3587 chars]"
     }
   ]
 }
