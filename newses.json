@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "‘Soponcio’ para el peso ante el dólar: Se deprecia casi 1% y cotiza en las 17.86 unidades",
+      "Description": "En los bancos, el dólar se vende en un precio de 18.27 pesos por cada uno, según Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/18/peso-dolar-precio-hoy-18-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/A9glFf9B1fGGaen8mxtE1Ex6ziM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UIHOFY4FPNBGHCE4CSGBP2BZKA.jpg",
+      "PublishedAt": "2024-07-18T15:16:28Z",
+      "Content": "El peso mexicano está empantanado en el terreno de pérdidas ante el dólar este jueves, al tiempo que en los mercados financieros el sentimiento de aversión al riesgo asusta a los inversionistas.\r\nLa … [+1515 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/752/5751282.jpg&wm=1&ang=0",
       "PublishedAt": "2024-07-08T17:20:32Z",
       "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (08 julio 2024) .-11:17 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso aplica un ‘dracarys’ al dólar y ‘vuela’ cerca de las 17 unidades",
-      "Description": "El peso quiere dejar atrás los episodios de inestabilidad provocados por las elecciones en México.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/08/peso-dolar-precio-hoy-8-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/9ebhd-v9pJvZNL7mxCMy5wxirU4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/XLFZ2372PFEWPMEZHBUTCEYILM.jpg",
-      "PublishedAt": "2024-07-08T16:24:03Z",
-      "Content": "El peso mexicano tomo inspiración de La Casa del Dragón inicia las operaciones de esta semana de manera ardiente cotizando muy cerca de las 18 unidades, ante la especulación de que la Fed podría real… [+1499 chars]"
     }
   ]
 }
