@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "BS Reporter",
+      "Title": "LTIMindtree bags multimillion dollar contract extension with Absa Bank",
+      "Description": "This strengthened partnership solidifies LTIMindtree's leadership in the banking, financial services, and insurance (BFSI) sector",
+      "Url": "https://www.business-standard.com/companies/news/ltimindtree-bags-multimillion-dollar-contract-extension-with-absa-bank-124071800935_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/29/thumb/featurecrop/400X400/1711732208-4258.jpg",
+      "PublishedAt": "2024-07-18T12:04:50Z",
+      "Content": "This strengthened partnership solidifies LTIMindtree's leadership in the banking, financial services, and insurance (BFSI) sector\r\nBS Reporter\r\nLTIMindtree today announced a multi-million-dollar cont… [+1784 chars]"
+    },
     {
       "Source": {
         "Id": null,
