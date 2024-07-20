@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 96,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / ARF",
+      "Title": "Actividad económica crece en junio: Bolsa cae y peso desafía barrera de 18 por dólar",
+      "Description": "Los mercados temen un posible nuevo mandato del candidato republicano Donald Trump, cuyas políticas sobre comercio, seguridad y migración son vistas como un potencial riesgo.",
+      "Url": "https://aristeguinoticias.com/1907/dinero-y-economia/actividad-economica-crece-en-junio-bolsa-cae-y-peso-desafia-barrera-de-18-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/dolar-peso-tipo-cambio-unam-190624-1.jpg",
+      "PublishedAt": "2024-07-19T14:41:59Z",
+      "Content": "Según cifras preliminares emitidas este viernes por el Instituto Nacional de Estadística y Geografía, Inegi, la actividad económica de México creció un 0.9% en junio en relación a igual mes del año a… [+1887 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/954/4953101.jpg&wm=1&ang=0",
       "PublishedAt": "2024-07-09T17:36:22Z",
       "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (09 julio 2024) .-11:25 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso queda ‘inflado’ por alza de precios en México: Se cotiza en las 17.94 unidades ante el dólar",
-      "Description": "La posibilidad de que el Banxico no recorte su tasa y siga manteniendo un diferencial de 550 puntos con la tasa de la Fed aprecia al peso mexicano este martes.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/09/peso-dolar-precio-hoy-9-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/vfOqSWB0wkS-5r2j8eScXwrcFNo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C4NJ2PHZZZEYVFW2WRXOSGAEDQ.jpg",
-      "PublishedAt": "2024-07-09T16:26:04Z",
-      "Content": "El peso mexicano extendió su apreciación ante el dólar este martes después de que se dio a conocer que la inflación en México se aceleró a 4.98 por ciento en junio, lo que hace más difícil que el Ban… [+1824 chars]"
     }
   ]
 }
