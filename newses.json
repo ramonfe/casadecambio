@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘glitchea’ ante el dólar: Pierde y se cotiza de nuevo en el terreno de las 18 unidades",
+      "Description": "La posibilidad de tener a Donald Trump de regreso en la Casa Blanca afecta al peso mexicano.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/19/peso-dolar-precio-hoy-19-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/EjEVnrnszUE89a1XiUYiKeRqJ2g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7KRTZX66RNHGDHYFMIZ6HD3VVY.jpg",
+      "PublishedAt": "2024-07-19T16:50:48Z",
+      "Content": "La aversión al riesgo se mantiene en los mercados financieros, lo que lleva a peso mexicano de nuevo al terreno de las 18 unidades ante el dólar en la mañana de este viernes marcada por la caída mund… [+1609 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/954/4953101.jpg&wm=1&ang=0",
       "PublishedAt": "2024-07-09T17:36:22Z",
       "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (09 julio 2024) .-11:25 (Actualización: 16:25 hrs)"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Cae peso por debajo de 18 por dólar y la BMV avanza",
-      "Description": "El peso retoma niveles por debajo de 18 unidades por dólar y BMV opera al alza tras declaraciones del jefe de Fed sobre tasas de interés.",
-      "Url": "https://www.reforma.com/peso-opera-por-debajo-de-18-por-dolar-y-bmv-avanza/ar2837906",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/954/4953101.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-07-09T17:36:22Z",
-      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (09 julio 2024) .-11:25 hrs"
     }
   ]
 }
