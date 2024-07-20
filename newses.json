@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Luis Caputo: “La gente va a tener que vender dólares para pagar impuestos y el dólar va a ser la moneda fuerte”",
+      "Description": "Luis Caputo: “La gente va a tener que vender dólares para pagar impuestos y el dólar va a ser la moneda fuerte”",
+      "Url": "https://www.lanacion.com.ar/economia/luis-caputo-la-gente-va-a-tener-que-vender-dolares-para-pagar-impuestos-y-el-dolar-va-a-ser-la-nid19072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/conferencia-de-prensa-del-ministro-de-economia-W2NDWKQBBBA33JYHYXQEGF67RQ.JPG?auth=639b7e702919df0c1216fac3a0eef6c7f4114ca63aaf45fc669e9972a59f68f6&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-19T12:08:24Z",
+      "Content": "El Banco Central (BCRA) avanzó ayer en cerrar la principal fuente potencial de emisión monetaria al conseguir que los bancos le rescindan $13,17 billones en opciones de liquidez -los llamados puts- q… [+748 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-cotiza-la-divisa-estadounidense-en-mexico-hoy-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-09T13:42:32Z",
       "Content": "Este martes 9 de julio, el precio del dólar en México es de $18,04, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un … [+2284 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Peso desafía barrera de 18 unidades por dólar",
-      "Description": "El peso se aprecia este lunes ante un debilitamiento global del dólar y desafía la barrera de las 18 unidades por divisa estadounidense.",
-      "Url": "https://www.reforma.com/peso-desafia-barrera-de-18-unidades-por-dolar/ar2837380",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/752/5751282.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-07-08T17:20:32Z",
-      "Content": "02 MIN 00 SEG\r\nReuters\r\nCd. de México (08 julio 2024) .-11:17 hrs"
     }
   ]
 }
