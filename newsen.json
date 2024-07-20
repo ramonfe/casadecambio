@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,32 +340,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--Fjjpxnx9--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-06-20t091228z_1_lynxmpek5j09j_rtroptp_3_britain-eu.jpg?itok=y8WdhLeX",
       "PublishedAt": "2024-06-20T09:12:28Z",
       "Content": "LONDON : The dollar climbed on Thursday, while the Swiss franc dropped and the pound dipped as a busy day of central bank meetings kept currency traders alert.\r\nThe dollar index, which tracks the cur… [+3217 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Canandaigua National Bank & Trust Co. Cuts Stock Position in Dollar General Co. (NYSE:DG)",
-      "Description": "Canandaigua National Bank & Trust Co. lessened its holdings in shares of Dollar General Co. (NYSE:DG – Free Report) by 19.6% during the 1st quarter, according to its most recent disclosure with the SEC. The institutional investor owned 2,955 shares of the com…",
-      "Url": "https://www.etfdailynews.com/2024/06/19/canandaigua-national-bank-trust-co-cuts-stock-position-in-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-06-19T12:34:54Z",
-      "Content": "Canandaigua National Bank &amp; Trust Co. lessened its holdings in shares of Dollar General Co. (NYSE:DG – Free Report) by 19.6% during the 1st quarter, according to its most recent disclosure with t… [+6936 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "CANADA FX DEBT-Canadian dollar steadies ahead of Bank of Canada minutes",
-      "Description": "(marketscreener.com) The Canadian dollar was\nlittle changed against its U.S. counterpart on Tuesday as\ninvestors weighed softer-than-expected U.S. retail sales data\nand awaited potential clues on prospects of additional interest\nrate cuts from the Bank of Can…",
-      "Url": "https://www.marketscreener.com/quote/currency/AUSTRALIAN-DOLLAR-CANADIA-2358910/news/CANADA-FX-DEBT-Canadian-dollar-steadies-ahead-of-Bank-of-Canada-minutes-46996233/",
-      "UrlToImage": "https://www.marketscreener.com/images/reuters/2022-02/2022-02-16T145355Z_1_LYNXMPEI1F0QF_RTROPTP_3_MARKETS-CANADA-CURRENCY.JPG",
-      "PublishedAt": "2024-06-18T19:30:20Z",
-      "Content": "* Loonie trades in a range of 1.3710 to 1.3756\r\n* Price of U.S. oil settles 1.5% higher\r\n* Canadian bond yields ease across the curve\r\nTORONTO, June 18 (Reuters) - The Canadian dollar was\r\nlittle cha… [+1645 chars]"
     }
   ]
 }
