@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Japan Times"
+      },
+      "Author": "Maria Paula,Mijares Torres",
+      "Title": "Trump’s disdain for digital dollar risks ‘Cold War era’ in money",
+      "Description": "His vow to never allow the dollar to be digitized may turn money into a new front in Trump's trade war with China.",
+      "Url": "https://www.japantimes.co.jp/business/2024/07/20/tech/trump-digital-dollar-disdain/",
+      "UrlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/20/410306.jpg",
+      "PublishedAt": "2024-07-20T00:46:00Z",
+      "Content": "Central bank digital currencies were once looked upon as nothing short of the future of money around the world. Yet at least in the U.S., that sunny outlook for CBDCs is in serious doubt for one simp… [+843 chars]"
+    },
     {
       "Source": {
         "Id": null,
