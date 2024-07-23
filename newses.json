@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 89,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Pagan US$276 mil por esta moneda de un dólar y se convierte en una de las piezas más valiosas del año",
+      "Description": "En las diversas plataformas, esta pieza ha alcanzado valores sorprendentes debido a varios factores que la posicionan en lo más alto del mercado; con su composición de plata, fue acuñada en la Casa de la Moneda de Filadelfia",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-us276-mil-por-esta-moneda-de-un-dolar-y-se-convierte-en-una-de-las-piezas-mas-valiosas-del-ano-nid22072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-valiosa-moneda-de-plata-se-convirtio-en-la-6BTISRCZD5CWJALI5DQ3MH2PLU.jpg?auth=a7576c57762d6a65a4445cfd3e121cefb7f0ab3529d74efe96afd6dc01c1854f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-22T21:58:46Z",
+      "Content": "En el mundo de la numismática, la pasión por coleccionar monedas y billetes ha ganado un gran impulso. Este fascinante hobby atrae a numerosos expertos y entusiastas que buscan piezas únicas y releva… [+3305 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-cotiza-a-la-baja-en-mexico-este-MT7MFWFJJJGI3LWXVNP7IMQZTI.jpg?auth=4d639f7c7637e3224730347db8910c35c614733b700159ea59aaa8f0a9a9be2d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-10T15:27:55Z",
       "Content": "Este miércoles 10 de julio, el precio del dólar en México es de $17,9428, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2012 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza ante un retroceso global del dólar",
-      "Description": "Forbes México.\n Peso avanza ante un retroceso global del dólar\n\nEl peso cotizaba en 17.7973 por dólar, con una ganancia de 0.67% también impulsada por crecientes expectativas de que Banco de México mantendría la tasa clave sin cambios en su próxima reunión lu…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-ante-un-retroceso-global-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1937.jpg",
-      "PublishedAt": "2024-07-10T14:49:40Z",
-      "Content": "El peso se apreciaba este miércoles ante un retroceso global del dólar mientras los inversionistas aguardan la comparecencia del presidente de la Reserva Federal (Fed), Jerome Powell, ante el Comité … [+1053 chars]"
     }
   ]
 }
