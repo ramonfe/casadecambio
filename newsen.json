@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 23,
   "Articles": [
     {
       "Source": {
@@ -301,19 +301,6 @@
       "UrlToImage": "https://freebeacon.com/wp-content/uploads/2024/01/MixCollage-31-Jan-2024-12-42-PM-8223-e1706723075894.jpg",
       "PublishedAt": "2024-06-24T12:00:33Z",
       "Content": "Israeli victims of Hamas's Oct. 7 terror attack are suing the United Nations' leading aid organization in the Gaza Strip, alleging that the organization \"led a billion-dollar money laundering operati… [+4924 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Bank of America Corporation Announces Fallback Rate (CORRA) as Substitute Base Rate for Certain Outstanding Debt Securities Linked to the Canadian dollar Bankers' Acceptance Rate (CDOR) After June 28,",
-      "Description": "Bank of America Corporation Announces Fallback Rate (CORRA) as Substitute Base Rate for Certain Outstanding Debt Securities Linked to the Canadian dollar Bankers' Acceptance Rate (CDOR) After June 28,",
-      "Url": "https://www.investing.com/news/press-releases/bank-of-america-corporation-announces-fallback-rate-corra-as-substitute-base-rate-for-certain-outstanding-debt-securities-linked-to-the-canadian-dollar-bankers-acceptance-rate-cdor-after-june-28-93CH-3492511",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/bankofamerica_800x533_L_1412747844.jpg",
-      "PublishedAt": "2024-06-21T20:28:04Z",
-      "Content": "CHARLOTTE, N.C.\r\n, June 21, 2024\r\n /PRNewswire/ -- Bank of America Corporation (NYSE:BAC) (\"BAC\") (NYSE: BAC) has issued and outstanding certain floating or fixed-to-floating rate debt securities, li… [+21010 chars]"
     }
   ]
 }
