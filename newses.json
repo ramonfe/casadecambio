@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda el lunes 22 de julio",
+      "Description": "Descubre el tipo de cambio de dólar a peso mexicano hoy, lunes 22 de julio. Consulta el resumen actualizado de la situación económica en México y conoce el valor exacto de la divisa en esta jornada. ¡Información crucial para entender el panorama financiero de…",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-el-lunes-22-de-julio-nid22072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-la-IZI2WAP34FAEFOS23DLEP7W2FA.JPG?auth=7667b86ccd2bdae3081bca54a50a02f21e08dbc3884a734fcc53ae7f33fbcdbf&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-22T13:27:38Z",
+      "Content": "Este lunes 22 de julio, el precio del dólar en México es de $17,997, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2328 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1937.jpg",
       "PublishedAt": "2024-07-10T14:49:40Z",
       "Content": "El peso se apreciaba este miércoles ante un retroceso global del dólar mientras los inversionistas aguardan la comparecencia del presidente de la Reserva Federal (Fed), Jerome Powell, ante el Comité … [+1053 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Cotiza peso por debajo de $18 por dólar en Forex",
-      "Description": "El dólar bajó a $17.91 en el mercado internacional, su menor nivel desde el 5 de junio, tras declaraciones de Fed de que podría bajar tasas.",
-      "Url": "https://www.reforma.com/cotiza-peso-por-debajo-de-18-por-dolar-en-forex/ar2837906",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/954/4953101.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-07-09T17:36:22Z",
-      "Content": "02 MIN 30 SEG\r\nReuters\r\nCd. de México (09 julio 2024) .-11:25 (Actualización: 16:25 hrs)"
     }
   ]
 }
