@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso se deprecia y regresa a niveles por encima de 18 unidades por dólar; BMV también cae",
+      "Description": "Forbes México.\n Peso se deprecia y regresa a niveles por encima de 18 unidades por dólar; BMV también cae\n\nEl peso cotizaba en 18.0421 unidades, con una pérdida de 0.65% frente a las 17.9250 por dólar del precio de referencia de Reuters del lunes, cuando avan…",
+      "Url": "https://www.forbes.com.mx/peso-se-deprecia-y-regresa-a-niveles-por-encima-de-18-unidades-por-dolar-bmv-tambien-cae/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-23T14:44:53Z",
+      "Content": "El peso se depreciaba este martes cediendo las ganancias de la jornada anterior, ante un fortalecimiento global del dólar mientras los inversionistas aguardan la divulgación en la semana de cifras cl… [+2060 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
       "PublishedAt": "2024-07-10T22:16:03Z",
       "Content": "El peso hiló este lunes siete sesiones con ganancias frente al dólar, luego de que más temprano alcanzará niveles no vistos en más de cuatro semanas.\r\nEl dólar se ubicó al cierre en 17.8078 pesos, un… [+1940 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso ‘nubla’ al dólar: Se enfila a ligar 7 días con ganancias y cotiza en las 17.84 unidades",
-      "Description": "El peso mexicano recibió 'apoyo' de la inflación en México, que se aceleró más de lo esperado y puede provocar que el Banxico posponga sus recortes a la tasa.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/10/peso-dolar-precio-hoy-10-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/wjOl7JuMjYAXOUwX9ohjX6Wx6os=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L33B6HJMJNCYRLFUHZYD764EEE.jpg",
-      "PublishedAt": "2024-07-10T16:03:15Z",
-      "Content": "El peso mexicano se enfila a ligar una séptima jornada consecutiva de ganancias frente al dólar a medida que los operadores siguen recalibrando sus expectativas sobre los recortes de la tasa de inter… [+1715 chars]"
     }
   ]
 }
