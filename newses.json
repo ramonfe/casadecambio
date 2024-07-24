@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retrocede y cotiza arriba de 18 unidades por dólar; BMV también cae",
+      "Description": "Forbes México.\n Peso retrocede y cotiza arriba de 18 unidades por dólar; BMV también cae\n\nEl peso cotizaba en 18,1690 unidades por dólar al final de los negocios, una depreciación de un 1.36% respecto al precio de referencia de Reuters del lunes.\nPeso retroce…",
+      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-fortalecimiento-global-del-dolar-bmv-tambien-cae/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-mexicano.webp",
+      "PublishedAt": "2024-07-23T21:55:37Z",
+      "Content": "El peso retrocedía este martes ante un fortalecimiento global del dólar, en línea con las monedas de la región y en espera de datos clave de la inflación en México esta semana.\r\nEl peso cotizaba en 1… [+1489 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-07-11T10:31:31Z",
       "Content": "Periódico La JornadaJueves 11 de julio de 2024, p. 22\r\nEl peso se apreció este miércoles a su mejor nivel en un mes, extendiendo las ganancias de las últimas siete sesiones.\r\nLa moneda mexicana regis… [+2293 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso hila siete sesiones con ganancias ante debilitamiento del dólar",
-      "Description": "Forbes México.\n Peso hila siete sesiones con ganancias ante debilitamiento del dólar\n\nEl dólar se ubicó en 17.8078 pesos, una apreciación de 0.59% para la moneda nacional; la BMV tiene su mayor avance desde el 4 de junio.\nPeso hila siete sesiones con ganancia…",
-      "Url": "https://www.forbes.com.mx/peso-hila-siete-sesiones-con-ganancias-ante-debilitamiento-del-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9738.webp",
-      "PublishedAt": "2024-07-10T22:16:03Z",
-      "Content": "El peso hiló este lunes siete sesiones con ganancias frente al dólar, luego de que más temprano alcanzará niveles no vistos en más de cuatro semanas.\r\nEl dólar se ubicó al cierre en 17.8078 pesos, un… [+1940 chars]"
     }
   ]
 }
