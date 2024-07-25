@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 22,
   "Articles": [
     {
       "Source": {
@@ -288,19 +288,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-111245188,width-1200,height-630,imgsize-272886,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2024-06-25T02:28:32Z",
       "Content": "Real-time dollar settlement in Indias newest financial hub in Gujarat is likely to become operational later this year or by early 2025, according to a senior official, a step that could burnish the c… [+1748 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Washington Free Beacon"
-      },
-      "Author": "Adam Kredo",
-      "Title": "Israeli Terror Victims Sue UNRWA for Leading 'Billion-Dollar Money Laundering Operation That Funded Hamas'",
-      "Description": "Israeli victims of Hamas's Oct. 7 terror attack are suing the United Nations' leading aid organization in the Gaza Strip, alleging that the organization \"led a billion-dollar money laundering operation that funded Hamas\" and enabled the terror group to carry …",
-      "Url": "https://freebeacon.com/israel/israeli-terror-victims-sue-unrwa-for-leading-billion-dollar-money-laundering-operation-that-funded-hamas/",
-      "UrlToImage": "https://freebeacon.com/wp-content/uploads/2024/01/MixCollage-31-Jan-2024-12-42-PM-8223-e1706723075894.jpg",
-      "PublishedAt": "2024-06-24T12:00:33Z",
-      "Content": "Israeli victims of Hamas's Oct. 7 terror attack are suing the United Nations' leading aid organization in the Gaza Strip, alleging that the organization \"led a billion-dollar money laundering operati… [+4924 chars]"
     }
   ]
 }

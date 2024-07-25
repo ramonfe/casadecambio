@@ -5,6 +5,19 @@
   "Articles": [
     {
       "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda el miércoles 24 de julio",
+      "Description": "La cotización actual del precio del dólar en México este miércoles 24 de julio, de acuerdo con el Diario Oficial de la Federación (DOF)",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-el-miercoles-24-de-julio-nid24072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-24T14:25:07Z",
+      "Content": "Este miércoles 24 de julio, el precio del dólar en México es de $18,0987, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2493 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "Forbes.com.mx"
       },
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/adult-man-hands-count-money-7TZYYDJH7ZFXJKELIM54EEAQBY.jpg?auth=2c63a6781ba16071737ac6eec7f3b322535788a33ef6398401e9000140ed0467&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-11T15:14:49Z",
       "Content": "Este jueves 11 de julio, el precio del dólar en México es de $17,8288, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2174 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "En siete jornadas el peso ha ganado 3 por ciento; cierra en 17.80 por dólar",
-      "Description": "El peso se apreció este miércoles a su mejor nivel en un mes, extendiendo las ganancias de las últimas siete sesiones.",
-      "Url": "https://www.jornada.com.mx/2024/07/11/economia/022n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-07-11T10:31:31Z",
-      "Content": "Periódico La JornadaJueves 11 de julio de 2024, p. 22\r\nEl peso se apreció este miércoles a su mejor nivel en un mes, extendiendo las ganancias de las últimas siete sesiones.\r\nLa moneda mexicana regis… [+2293 chars]"
     }
   ]
 }
