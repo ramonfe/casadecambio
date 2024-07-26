@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 91,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "La Nación / Argentina / GDA, Damián Arroyo C.",
+      "Title": "Pagan $276 mil por moneda de un dólar y se convierte en una de las piezas más valiosas del año",
+      "Description": "El dólar Morgan de 1893, una joya de la numismática, alcanzó los $276.000 en una subasta, destacándose por su historia, rareza y estado de conservación.",
+      "Url": "https://www.nacion.com/revista-dominical/pagan-276-mil-moneda-de-un-dolar-y-se-convierte-en/SVA3JJ6MGZHSLCK4GU3KATX7OY/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/7CRRW7FJ5FEWBAPPT66IPQT4OU.png?smart=true&auth=cd8e3919285f334df3447e4da91b54ba7d3a4dcc750d221ee13467813ef7d785&width=1440",
+      "PublishedAt": "2024-07-25T02:30:00Z",
+      "Content": "En el mundo de la numismática, la pasión por coleccionar monedas y billetes gana gran impulso. Este hobby atrae a numerosos expertos y entusiastas que buscan piezas únicas en todo el mundo. En 2024, … [+3573 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/0yNa9DHmbZDt0P2KQpIWP22bEcM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DRER27LIHNF4PHAIT2XDCCFWFE.jpg",
       "PublishedAt": "2024-07-11T15:30:53Z",
       "Content": "El peso mexicano opera con pocas pérdidas ante el dólar después de que se dio a conocer que la inflación en Estados Unidos se enfrió' durante junio, lo que refuerza la posibilidad de que la Fed recor… [+1579 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 11 de julio",
-      "Description": "Consulta el tipo de cambio del dólar a peso mexicano hoy, jueves 11 de julio, y obtén un resumen completo de la situación económica en México y el valor de la divisa en esta jornada.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-11-de-julio-nid11072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/adult-man-hands-count-money-7TZYYDJH7ZFXJKELIM54EEAQBY.jpg?auth=2c63a6781ba16071737ac6eec7f3b322535788a33ef6398401e9000140ed0467&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-11T15:14:49Z",
-      "Content": "Este jueves 11 de julio, el precio del dólar en México es de $17,8288, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2174 chars]"
     }
   ]
 }
