@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 21,
   "Articles": [
     {
       "Source": {
@@ -275,32 +275,6 @@
       "UrlToImage": "https://images.thenightly.com.au/publication/C-15170586/acf1151cd7c8596978541d6730a14157532047ea-16x9-x0y0w1280h720.jpg?imwidth=1200",
       "PublishedAt": "2024-06-27T23:39:49Z",
       "Content": "ANZs hoped-for acquisition of insurer Suncorps banking arm is back on track after the federal treasurer signed off on the deal.\r\nANZs pursuit of the business under a deal worth up to $5 billion has b… [+1707 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Twistedsifter.com"
-      },
-      "Author": "Matthew Gilligan",
-      "Title": "Savvy Shopper Says Going To Family Dollar Saved Her A Ton of Money",
-      "Description": "Time to load up at Family Dollar!",
-      "Url": "http://twistedsifter.com/2024/06/this-savvy-shopper-says-going-to-family-dollar-saved-her-a-ton-of-money/",
-      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2024/06/redditfdollar.png",
-      "PublishedAt": "2024-06-25T19:33:07Z",
-      "Content": "Food prices seem to be slowly declining lately, but there’s no doubt that a lot of folks out there are still struggling to afford groceries.\r\nBut a TikTokker named Queen Tay thinks she’s found out ho… [+1742 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Saikat Das",
-      "Title": "India’s new finance hub in Gujarat eyes real-time dollar settlement by 2025",
-      "Description": "Real-time dollar settlement in India’s newest financial hub in Gujarat, GIFT City, is set to begin later this year. The service aims to attract foreign investors by streamlining transactions and reducing delays.",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/indias-new-finance-hub-in-gujarat-eyes-real-time-dollar-settlement-by-2025/articleshow/111245197.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-111245188,width-1200,height-630,imgsize-272886,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-06-25T02:28:32Z",
-      "Content": "Real-time dollar settlement in Indias newest financial hub in Gujarat is likely to become operational later this year or by early 2025, according to a senior official, a step that could burnish the c… [+1748 chars]"
     }
   ]
 }
