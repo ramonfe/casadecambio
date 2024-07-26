@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Prediction: These 2 \"Magnificent Seven\" Stocks Will (at Least Briefly) Lose Their Trillion-Dollar Market Caps by 2026 - Yahoo Finance",
+      "Description": "Prediction: These 2 \"Magnificent Seven\" Stocks Will (at Least Briefly) Lose Their Trillion-Dollar Market Caps by 2026Yahoo Finance View Full Coverage on Google News ...",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174590524",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-25T13:53:50Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,

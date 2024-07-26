@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 93,
+  "TotalResults": 94,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 25 de julio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-25-de-julio-nid25072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-25-de-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-25T13:36:37Z",
+      "Content": "Este jueves 25 de julio, el precio del dólar en México es de $18,3458 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2484 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
       "PublishedAt": "2024-07-11T22:43:45Z",
       "Content": "El peso tuvo este jueves su mejor nivel frente al dólar desde el 5 de junio debido a un debilitamiento de la divisa estadounidense.\r\nEl dólar se ubicó en 17.7871 pesos, una apreciación para la moneda… [+1266 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Luis Caputo explicó por qué Milei acusó a un banco de “golpista” en medio de la suba del dólar",
-      "Description": "El ministro de Economía se refirió a las declaraciones del Presidente y dio detalles sobre las etapas que siguen al plan económico del Gobierno; “Una cosa de un solo banco generó el ruido que generó y fue un 10% de los famosos puts”, marcó",
-      "Url": "https://www.lanacion.com.ar/economia/luis-caputo-explico-por-que-milei-acuso-a-un-banco-de-golpista-en-medio-de-la-suba-del-dolar-nid11072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-ministro-de-economia-luis-caputo-se-refirio-a-IZCTCFX2GNFSJLYC5EFPHXDAQM.JPG?auth=d5e0c5dbb6a98f7a88123001cde16e7cfe84a7eeebe622fa068579be4a80273c&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-11T16:59:00Z",
-      "Content": "Luego de que el presidente Javier Milei hablara sobre los degenerados fiscales responsables de la suba del precio del dólar y del riesgo país en la Bolsa de Comercio, el ministro de Economía,Luis Cap… [+3018 chars]"
     }
   ]
 }
