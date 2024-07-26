@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "En dos sesiones el peso perdió 2.4%; cierra en 18.37 unidades por dólar",
+      "Description": "El peso mexicano extendió por segunda jornada consecutiva su comportamiento negativo frente al dólar para cerrar en el mercado interbancario en 18.3705 unidades por dólar spot.",
+      "Url": "https://www.jornada.com.mx/2024/07/25/economia/024n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-07-25T09:35:31Z",
+      "Content": "Periódico La JornadaJueves 25 de julio de 2024, p. 24\r\nEl peso mexicano extendió por segunda jornada consecutiva su comportamiento negativo frente al dólar para cerrar en el mercado interbancario en … [+1741 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-ministro-de-economia-luis-caputo-se-refirio-a-IZCTCFX2GNFSJLYC5EFPHXDAQM.JPG?auth=d5e0c5dbb6a98f7a88123001cde16e7cfe84a7eeebe622fa068579be4a80273c&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-11T16:59:00Z",
       "Content": "Luego de que el presidente Javier Milei hablara sobre los degenerados fiscales responsables de la suba del precio del dólar y del riesgo país en la Bolsa de Comercio, el ministro de Economía,Luis Cap… [+3018 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "¿El peso regresa ‘a las andadas’? Pierde con el dólar y se cotiza en las 17.84 unidades",
-      "Description": "El precio del dólar en ventanillas bancarias se ubica en los 18.25 pesos por cada uno, informó Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/11/peso-dolar-precio-hoy-11-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/0yNa9DHmbZDt0P2KQpIWP22bEcM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DRER27LIHNF4PHAIT2XDCCFWFE.jpg",
-      "PublishedAt": "2024-07-11T15:30:53Z",
-      "Content": "El peso mexicano opera con pocas pérdidas ante el dólar después de que se dio a conocer que la inflación en Estados Unidos se enfrió' durante junio, lo que refuerza la posibilidad de que la Fed recor… [+1579 chars]"
     }
   ]
 }
