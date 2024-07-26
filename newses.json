@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 94,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso arranca ‘tablas’ con el dólar: Tipo de cambio se ‘estanca’ en las 18.37 unidades",
+      "Description": "¿Qué hará la Fed ahora? La economía de EU creció más de lo esperado en el segundo trimestre, por lo que los 'ojos' de los analistas se mueven a las tasas de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/25/peso-dolar-precio-hoy-25-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/i_s6toVpTBLsFysXI_V4IB7f_OI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/B2IGMNRXVJAGHOBQ2UEYDXUXNA.jpg",
+      "PublishedAt": "2024-07-25T15:02:48Z",
+      "Content": "El peso mexicano se perfila para perder de nueva cuenta contra el dólar esta semana debido a la aversión al riesgo en los mercados en medio de reportes trimestrales y la cifra de crecimiento de la ec… [+1303 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-peso-dinero-_ACH0046.jpg",
       "PublishedAt": "2024-07-12T14:39:26Z",
       "Content": "El peso se apreciaba este viernes encaminándose a culminar una semana de ganancias, ante un retroceso global del dólar mientras los inversionistas asimilaban cifras que mostraron un aumento moderado … [+1158 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso tiene su mejor nivel frente al dólar desde el 5 de junio",
-      "Description": "Forbes México.\n Peso tiene su mejor nivel frente al dólar desde el 5 de junio\n\nEl dólar se ubica en 17.7871 pesos y la moneda nacional suma ocho sesiones con ganancias, de acuerdo con datos de Banxico.\nPeso tiene su mejor nivel frente al dólar desde el 5 de j…",
-      "Url": "https://www.forbes.com.mx/peso-tiene-su-mejor-nivel-frente-al-dolar-desde-el-5-de-junio/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
-      "PublishedAt": "2024-07-11T22:43:45Z",
-      "Content": "El peso tuvo este jueves su mejor nivel frente al dólar desde el 5 de junio debido a un debilitamiento de la divisa estadounidense.\r\nEl dólar se ubicó en 17.7871 pesos, una apreciación para la moneda… [+1266 chars]"
     }
   ]
 }
