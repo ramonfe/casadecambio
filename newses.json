@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 95,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Pagan US$600 por esta moneda de un centavo de dólar: el detalle que la hace única",
+      "Description": "Descubre cómo identificar una moneda de un centavo de dólar que puede valer hasta US$600 en el mercado de la numismática. Aprende las características específicas que hacen que esta pieza sea tan valiosa, incluso siendo reciente",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-us600-dolares-por-esta-moneda-de-un-centavo-de-dolar-como-identificarla-nid25072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-un-centavo-de-dolar-se-acuno-en-LZ55LW5H2RFKPCODJFD2WEJW7U.png?auth=8e461d0480dabe2a143c244394e75bc6d18d60a134b4492a4de778b6c8018f3e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-25T17:01:20Z",
+      "Content": "Históricamente, las monedas han sido de gran interés para las personas por diferentes motivos, como entender mejor el pasado, tener un divertido hobby e incluso, para algunos, ganar dinero, aunque no… [+2446 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Melisa Reinhold",
+      "Title": "Dólar hoy: la brecha se estabiliza en 43%, tras la estrategia de intervenciones del Banco Central",
+      "Description": "El tipo de cambio paralelo cae $5 y cotiza a $1445; acciones y bonos vuelven a teñirse de rojo, en un contexto de internacional más tenso; el riesgo país se acerca a los 1600 puntos",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-la-brecha-se-estabiliza-en-43-tras-la-estrategia-de-intervenciones-del-banco-central-nid25072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/a-cuanto-cotiza-el-dolar-blue-este-jueves-25-de-4IKGBRR4RJB6XCIYGCWGIFOH3Y.JPG?auth=b8f59bb66a03a52e65ae27434e4e980b3d5a726fa6d8606209514a78442c12df&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-25T16:01:57Z",
+      "Content": "Luego de semanas de tensión cambiaria, la semana pasada el Banco Central (BCRA) empezó a intervenir en el mercado de los dólares financieros. Desde el oficialismo explicaron que esta estrategia busca… [+3436 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/54682db108687e0f6d9b6cf76f2a6c54/crop/0x0/2355x1570/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/12/17208045041842.jpg",
       "PublishedAt": "2024-07-12T17:16:36Z",
       "Content": "Javier Milei estará este fin de semana en una cumbre de millonarios en el resort estadounidense de Sun Valley, una conferencia anual organizada por Allen &amp; Company a la que asisten multimillonari… [+4051 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, viernes 12 de julio",
-      "Description": "Consulta aquí el valor del dólar a peso mexicano hoy, viernes 12 de julio. Obtén un resumen completo de la situación económica en México y las últimas actualizaciones de la cotización de la divisa.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-viernes-12-de-julio-nid12072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-pierde-terreno-frente-al-peso-mexicano-4AKIH3WCX5EFNCNWMUZV76P4WA.jpg?auth=4b34c68a9679ddc3aeaf0ad7737560d23ea470ee0ee76296ecb517c3867024ae&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-12T15:08:51Z",
-      "Content": "Este viernes 12 de julio, el precio del dólar en México es de $17,8191, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2165 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso avanza tras retroceso global del dólar y perfila ganancia semanal; BMV gana",
-      "Description": "Forbes México.\n Peso avanza tras retroceso global del dólar y perfila ganancia semanal; BMV gana\n\nEl peso cotizaba en 17.7360 por dólar, con un avance de 0.17% frente al precio de referencia de Reuters del jueves. En la semana acumulaba un rendimiento de un 2…",
-      "Url": "https://www.forbes.com.mx/peso-avanza-tras-retroceso-global-del-dolar-y-perfila-ganancia-semanal-bmv-gana/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/08/Dolar-peso-dinero-_ACH0046.jpg",
-      "PublishedAt": "2024-07-12T14:39:26Z",
-      "Content": "El peso se apreciaba este viernes encaminándose a culminar una semana de ganancias, ante un retroceso global del dólar mientras los inversionistas asimilaban cifras que mostraron un aumento moderado … [+1158 chars]"
     }
   ]
 }
