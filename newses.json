@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central volvió a vender reservas y a fin de mes enfrenta el primer pago de los Bopreales",
+      "Description": "Se desprendió de otros US$92 millones en la rueda de mayor actividad del mes, aunque por impulso de la demanda",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-volvio-a-vender-reservas-y-a-fin-de-mes-enfrenta-el-primer-pago-de-los-nid26072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-vender-reservas-por-tercera-BAEHBYGDPVFVND2B2GLJLY6NPQ?auth=355a48e39968cc073f689e9d48c90419b6a0b34d3a7fe169e0ab4b8d1455271b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-26T20:23:25Z",
+      "Content": "La progresiva tendencia al desbalance hacia el lado de la demanda que muestra la plaza cambiaria oficial, quedó nuevamente a la vista hoy: el Banco Central (BCRA) debió aportar otros US$92 millones d… [+4057 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-cotiza-el-dolar-en-mexico-este-lunes-15-de-5KUUNA3FWFBBJINC4KIU2LA63Q.JPG?auth=782f2eea7b796adfc854a695119b9ff3fb9fac2f2abe8c5873b00682d2cfca0c&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-15T14:58:10Z",
       "Content": "Este lunes 15 de julio, el precio del dólar en México es de $17,6502, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2251 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "Luis Enrique Brenes",
-      "Title": "Tipo de cambio del dólar se redujo ¢7,86 en última semana",
-      "Description": "Este viernes 12 de julio el precio del dólar fue de ¢525,63, por debajo de los ¢533,49 en los cuales cerró el mismo día de la semana anterior en Monex.",
-      "Url": "https://www.nacion.com/economia/indicadores/tipo-de-cambio-del-dolar-se-redujo-786-en-ultima/N47DLQYCQ5EX7OC3K4AV5L5QKI/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/o-o7YMVwbaCpnu_esd5EVdwhKVw=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GWTLNU3ZPNEZLEXPB53MVHTWHQ.jpg",
-      "PublishedAt": "2024-07-12T23:57:05Z",
-      "Content": "El tipo de cambio del dólar respecto al colón se redujo en ¢7,86 en la última semana en el Mercado de Monedas Extranjeras (Monex). Este viernes 12 de julio, el precio de la divisa cerró con un valor … [+2970 chars]"
     }
   ]
 }
