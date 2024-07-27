@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 87,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "El peso no anda en ‘mood olímpico’: Arranca ‘tablas’ con el dólar este viernes",
+      "Description": "En ventanillas bancarias, el dólar está ya muy cerca de venderse en las 19 unidades.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/26/peso-dolar-precio-hoy-26-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/jVCVt8I4OJBpDZibJsClywftHl4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PP5XJCXXJNGCZFFJ3JWAPEBPQY.jpeg",
+      "PublishedAt": "2024-07-26T15:49:12Z",
+      "Content": "El peso mexicano no está animado ni porque hoy se inauguran los Juegos Olímpicos de París 2024 y muestra un comportamiento lateral en el inicio de sus operaciones ante el dólar durante este viernes 2… [+1398 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/o-o7YMVwbaCpnu_esd5EVdwhKVw=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GWTLNU3ZPNEZLEXPB53MVHTWHQ.jpg",
       "PublishedAt": "2024-07-12T23:57:05Z",
       "Content": "El tipo de cambio del dólar respecto al colón se redujo en ¢7,86 en la última semana en el Mercado de Monedas Extranjeras (Monex). Este viernes 12 de julio, el precio de la divisa cerró con un valor … [+2970 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Ernesto Sarabia y Adriana Arcos",
-      "Title": "Tiene peso mayor plusvalía en 9 meses; cierra dólar a $17.61",
-      "Description": "El dólar descendió 48.72 centavos entre el 5 y el 12 de julio a 17.6189 unidades, y cosechó su mejor resultado desde noviembre de 2023.",
-      "Url": "https://www.reforma.com/tiene-peso-mayor-plusvalia-en-9-meses-cierra-dolar-a-17-61/ar2839849",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/733/5732917.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-07-12T22:39:27Z",
-      "Content": "03 MIN 00 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (12 julio 2024) .-16:29 hrs"
     }
   ]
 }
