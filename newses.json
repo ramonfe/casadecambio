@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 26 de julio",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 26 de julio de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-26-de-julio-nid26072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-26T13:59:04Z",
+      "Content": "Este viernes 26 de julio, el precio del dólar en México es de $18,385 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2260 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/733/5732917.jpg&wm=1&ang=0",
       "PublishedAt": "2024-07-12T22:39:27Z",
       "Content": "03 MIN 00 SEG\r\nErnesto Sarabia y Adriana Arcos\r\nCd. de México (12 julio 2024) .-16:29 hrs"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "Sebastián Fest",
-      "Title": "Milei acusa de \"golpista\" a un banco y se pelea con un hombre clave del FMI mientras el dólar se dispara y crecen las dudas",
-      "Description": "Estará este fin de semana en una cumbre en un resort de Sun Valley, una conferencia anual organizada por Allen & Company a la que asisten millonarios y en la que se cierran grandes negocios Leer",
-      "Url": "https://www.elmundo.es/economia/2024/07/12/669164f021efa068268b45b4.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/54682db108687e0f6d9b6cf76f2a6c54/crop/0x0/2355x1570/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/12/17208045041842.jpg",
-      "PublishedAt": "2024-07-12T17:16:36Z",
-      "Content": "Javier Milei estará este fin de semana en una cumbre de millonarios en el resort estadounidense de Sun Valley, una conferencia anual organizada por Allen &amp; Company a la que asisten multimillonari… [+4051 chars]"
     }
   ]
 }
