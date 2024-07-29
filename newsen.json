@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 21,
   "Articles": [
     {
       "Source": {
@@ -275,19 +275,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/06/bank-failures-dollar-likely.jpg",
       "PublishedAt": "2024-06-30T19:54:04Z",
       "Content": "A North Carolina-based bank is facing a proposed class-action lawsuit over a data breach that has allegedly placed customers at serious risk of fraud and identity theft.\r\nThe plaintiff of the lawsuit… [+1885 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thenightly.com.au"
-      },
-      "Author": "The Nightly",
-      "Title": "Chalmers approves ANZ's multi-billion dollar bid for Suncorp Bank",
-      "Description": "The federal treasurer has approved ANZ's plan to buy the banking arm of insurer Suncorp under a million-billion dollar deal, subject to conditions.",
-      "Url": "https://thenightly.com.au/business/treasurer-jim-chalmers-approves-anzs-multi-billion-dollar-bid-for-suncorp-bank-c-15170586",
-      "UrlToImage": "https://images.thenightly.com.au/publication/C-15170586/acf1151cd7c8596978541d6730a14157532047ea-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "PublishedAt": "2024-06-27T23:39:49Z",
-      "Content": "ANZs hoped-for acquisition of insurer Suncorps banking arm is back on track after the federal treasurer signed off on the deal.\r\nANZs pursuit of the business under a deal worth up to $5 billion has b… [+1707 chars]"
     }
   ]
 }
