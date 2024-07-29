@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 21,
+  "TotalResults": 22,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Billion-dollar money laundering case: Last of 10 offenders deported to Cambodia",
+      "Description": "About S$187 million worth of assets linked to Su Jianfeng or held under his wife’s name have been seized including cash, properties, vehicles, luxury goods, cryptocurrency and alcohol.",
+      "Url": "https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-su-jianfeng-deported-cambodia-last-convict-4509771",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--s1M-6EXP--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/06/17/su_jianfeng_sentenced_in_singapore_billion_dollar_money_laundering_case.jpg?itok=yiz7Oldr",
+      "PublishedAt": "2024-07-28T08:02:54Z",
+      "Content": "Su had pleaded guilty to one charge each of possessing S$550,903 in criminal benefits and fraudulently using a property sale contract to explain the source of about S$2 million deposited into his May… [+978 chars]"
+    },
     {
       "Source": {
         "Id": null,
