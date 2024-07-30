@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 23,
+  "TotalResults": 24,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Will Daniel",
+      "Title": "Trump says the dollar is too strong—but his policies may make it even stronger, bank strategist says",
+      "Description": "An immigration clamp down, aggressive tax cuts, and heavy tariffs could lift the U.S. dollar even as Trump tries to fight what he calls a \"currency problem.\"",
+      "Url": "https://fortune.com/2024/07/29/donald-trump-us-dollar-policies-immigration-tariffs-tax-cuts-inflation/",
+      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-2163362411-e1722262394218.jpg?resize=1200,600",
+      "PublishedAt": "2024-07-29T18:05:59Z",
+      "Content": "Former President Trump believes the U.S. dollar is now so strong that its interfering with American manufacturers attempts to sell goods abroad, but a Macquarie strategist said his policies will boos… [+4744 chars]"
+    },
     {
       "Source": {
         "Id": null,
