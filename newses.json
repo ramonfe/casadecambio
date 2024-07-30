@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg",
+      "Title": "Trump es ‘amigo’ del peso: Esta es la razón por la que quiere un dólar débil",
+      "Description": "Yellen ha advertido que \"un dólar muy fuerte puede desalentar las exportaciones y contribuir a las importaciones”.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/29/trump-es-amigo-del-peso-esta-es-la-razon-por-la-que-quiere-un-dolar-debil/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/27jsFE9K_-TW9G98CGxWkimx8rM=/1200x630/filters:format(jpg):quality(70):focal(628x266:638x276)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZBQGSIWWOVHXFBWPX6MFMHDVQE.jpg",
+      "PublishedAt": "2024-07-29T15:30:13Z",
+      "Content": "En opinión del expresidente Donald Trump, un dólar fuerte está golpeando a los fabricantes estadounidenses. Para la secretaria del Tesoro, Janet Yellen, la cosa no es tan sencilla.\r\nYellen, que siemp… [+4572 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso pierde por quinta sesión ante fortalecimiento del dólar; BMV sube tras cuatro jornadas",
+      "Description": "Forbes México.\n Peso pierde por quinta sesión ante fortalecimiento del dólar; BMV sube tras cuatro jornadas\n\nEl peso cotizaba en 18.5101 por dólar, con un retroceso de 0.33% frente al precio de referencia de Reuters del viernes. En las últimas cinco sesiones,…",
+      "Url": "https://www.forbes.com.mx/peso-pierde-por-quinta-sesion-ante-fortalecimiento-del-dolar-bmv-sube-tras-cuatro-jornadas/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-29T15:03:26Z",
+      "Content": "El peso se depreciaba este lunes por quinta jornada consecutiva, ante un fortalecimiento global del dólar en el inicio de una semana cargada de decisiones de política monetaria de distintos bancos ce… [+1754 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/wjOl7JuMjYAXOUwX9ohjX6Wx6os=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L33B6HJMJNCYRLFUHZYD764EEE.jpg",
       "PublishedAt": "2024-07-16T16:15:25Z",
       "Content": "La moneda mexicana presenta correcciones este martes 16 de julio tras haber frenado su racha de ganancias en la sesión previa, a la par que los inversionistas continúan evaluando la situación polític… [+1703 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, martes 16 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-martes-16-de-julio-nid16072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-martes-16-de-F3QHP5NJGVEWRJGVMBGPY4O6SI.jpg?auth=aa56bff6d3ed9baa61d3ba4f43a7f0e42c9617c5c48cfa96c154921bfe752953&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-16T15:42:12Z",
-      "Content": "Este martes 16 de julio, el precio del dólar en México es de $17,7435, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2324 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Peso pierde ante dólar tras 9 días de ganancias",
-      "Description": "El peso mexicano rompió una racha de nueve jornadas consecutivas de ganancias frente al dólar por efecto del ataque contra el ex presidente y candidato republicano Donald Trump el fin de semana, que llevó a los inversionistas a buscar activos refugio como el …",
-      "Url": "https://www.jornada.com.mx/2024/07/16/economia/019n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-07-16T10:57:42Z",
-      "Content": "Periódico La JornadaMartes 16 de julio de 2024, p. 19\r\nEl peso mexicano rompió una racha de nueve jornadas consecutivas de ganancias frente al dólar por efecto del ataque contra el ex presidente y ca… [+1493 chars]"
     }
   ]
 }
