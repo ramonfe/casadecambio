@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘patalea’ ante el dólar fuerte: Cotiza en 18.57 unidades",
+      "Description": "El peso pierde 13.63 centavos ante el dólar en las primeras operaciones de este lunes.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/29/peso-dolar-hoy-29-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/B6-FFKjOePp6pLQEku0iP6xeh1U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OCT6OGFZTJCZTCMFQJT32UOUEA.jpeg",
+      "PublishedAt": "2024-07-29T16:56:01Z",
+      "Content": "La cautela de los inversionistas sigue empujando al peso mexicano a terreno de pérdidas, en espera de cifras económicas y decisiones de política monetaria, lo que ha provocado el fortalecimiento del … [+1602 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/I_qfdHSW76vcsQkieIG3xeZw4uA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CUNUQVTHCJHN3LORD6L7DB6PYI.jpg",
       "PublishedAt": "2024-07-16T18:06:26Z",
       "Content": "El peso mexicano es la moneda más afectada por las ventas en los mercados de divisas, a medida que los administradores de dinero aumentan las apuestas a que Donald Trump logrará un segundo mandato en… [+2436 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘se recupera’ frente al dólar: Se cotiza en las 17.70 unidades este martes",
-      "Description": "El peso mexicano se recuperó frente al dólar este 16 de julio después de que los inversionistas continúan evaluando la situación política en Estados Unidos.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/16/peso-dolar-precio-hoy-16-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/wjOl7JuMjYAXOUwX9ohjX6Wx6os=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L33B6HJMJNCYRLFUHZYD764EEE.jpg",
-      "PublishedAt": "2024-07-16T16:15:25Z",
-      "Content": "La moneda mexicana presenta correcciones este martes 16 de julio tras haber frenado su racha de ganancias en la sesión previa, a la par que los inversionistas continúan evaluando la situación polític… [+1703 chars]"
     }
   ]
 }

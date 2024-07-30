@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 22,
+  "TotalResults": 23,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Econbrowser.com"
+      },
+      "Author": "Menzie Chinn",
+      "Title": "VoxEU: “The Russian sanctions and dollar foreign exchange reserves”",
+      "Description": "From a VoxEU article today, by Robert N. McCauley with Hiro Ito and Menzie Chinn: Will the freezing of the Bank of Russia’s foreign exchange reserves undermine the dollar’s predominant role in official foreign exchange reserves? This column examines the aggre…",
+      "Url": "https://econbrowser.com/archives/2024/07/voxeu-the-russian-sanctions-and-dollar-foreign-exchange-reserves",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-29T16:12:11Z",
+      "Content": "From a VoxEU article today, by Robert N. McCauley with Hiro Ito and Menzie Chinn:\r\nWill the freezing of the Bank of Russias foreign exchange reserves undermine the dollars predominant role in officia… [+800 chars]"
+    },
     {
       "Source": {
         "Id": null,
