@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Henry Kanapi",
+      "Title": "Billion-Dollar Bank Paying $44,000,000 Fine for Allegedly Freezing Customers’ Accounts, Charging Hidden Fees, Deceiving Customers",
+      "Description": "A Texas-based bank holding company is agreeing to pay $44 million to the Federal Reserve for a long list of alleged consumer protection violations. The Federal Reserve Board of Governors says it has taken enforcement action against Green Dot for engaging in n…",
+      "Url": "https://dailyhodl.com/2024/07/29/billion-dollar-bank-paying-44000000-fine-for-allegedly-freezing-customers-accounts-charging-hidden-fees-deceiving-customers/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bank-freeze-account-.jpg",
+      "PublishedAt": "2024-07-29T19:18:57Z",
+      "Content": "A Texas-based bank holding company is agreeing to pay a $44 million fine to the Federal Reserve for a long list of alleged consumer protection violations.\r\nThe Federal Reserve Board of Governors says… [+2100 chars]"
+    },
     {
       "Source": {
         "Id": "fortune",
