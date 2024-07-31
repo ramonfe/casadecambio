@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Presiones llevan el peso a 18.62 por dólar",
+      "Description": "La paridad peso-dólar extendió su escalada en el último lunes de julio. Con las miradas puestas en la política monetaria de la Reserva Federal (Fed), el tipo de cambio en México se mantuvo presionado ante la aversión de los inversionistas al riesgo.",
+      "Url": "https://www.jornada.com.mx/2024/07/30/economia/019n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-07-30T08:29:47Z",
+      "Content": "Periódico La JornadaMartes 30 de julio de 2024, p. 19\r\nLa paridad peso-dólar extendió su escalada en el último lunes de julio. Con las miradas puestas en la política monetaria de la Reserva Federal (… [+2721 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/por-el-estado-de-conservacion-y-la-doble-GLNTHETPHNBK7H6T657L6GMV3U.jpg?auth=36676d81504ba73dcebf4447fa05369c71dbb1cbfbe4470f4ba5a3f28ff54eea&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-16T18:31:04Z",
       "Content": "El universo de la numismática siempre suele ofrecer novedades sorprendentes y, para quienes no están muy al tanto de sus reglas también un tanto extrañas. ¿Quién no ha roto su alcancía con la esperan… [+2192 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "Peso enfrenta doble amenaza en 2024: ¿Qué factores ‘hundirían’ a la moneda frente al dólar?",
-      "Description": "El peso mexicano podría hundirse si Donald Trump se reelige en Estados Unidos y si Claudia Sheinbaum conserva mayoría en el Congreso.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/16/peso-enfrenta-doble-amenaza-en-2024-que-factores-hundirian-a-la-moneda-frente-al-dolar/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/I_qfdHSW76vcsQkieIG3xeZw4uA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CUNUQVTHCJHN3LORD6L7DB6PYI.jpg",
-      "PublishedAt": "2024-07-16T18:06:26Z",
-      "Content": "El peso mexicano es la moneda más afectada por las ventas en los mercados de divisas, a medida que los administradores de dinero aumentan las apuestas a que Donald Trump logrará un segundo mandato en… [+2436 chars]"
     }
   ]
 }
