@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "Reuters",
+      "Title": "Dollar trades sideways as markets wait for central bank, economic news",
+      "Description": "The dollar stayed stable with major central bank meetings and critical U.S. employment data on the horizon. The yen's rise was fueled by interest rate expectations, while the euro slipped. U.S. equities played a pivotal role amid uncertain market conditions. …",
+      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-trades-sideways-as-markets-wait-for-central-bank-economic-news/articleshow/112122562.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-112122582,width-1200,height-630,imgsize-110038,overlay-etmarkets/photo.jpg",
+      "PublishedAt": "2024-07-30T02:27:02Z",
+      "Content": "The dollar held steady on Monday as traders braced for an avalanche of market events featuring midweek policy decisions by the Federal Reserve, Bank of Japan and Bank of England, and what could be a … [+3860 chars]"
+    },
     {
       "Source": {
         "Id": null,
