@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Dólar aplica ‘una llave de judo’ al peso: Se cotiza en las 18.80 unidades",
+      "Description": "Al peso no lo ayudó el dato de crecimiento de la economía de México, que mostró que el avance del PIB se está desacelerando.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/30/peso-dolar-precio-hoy-30-de-julio-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/6r8z4KqNyyozdc849cfztzf9B_g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/H7N2JYKKORFFHLLBLD7OKNKIDY.jpg",
+      "PublishedAt": "2024-07-30T17:09:02Z",
+      "Content": "El peso mexicano continúa profundizando sus pérdidas a medida que el dólar se fortalece y después de que se reveló que la economía de México creció menos de lo esperado durante el segundo trimestre.\r… [+1637 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-hoy-miercoles-17-de-J4SFBNT7MZF63NBW2TES2OG4S4.jpg?auth=f980da33901feeb10037553f8ea5a29d1d0725c8c244969c52c9e1713265b75f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-17T15:36:23Z",
       "Content": "Este miércoles 17 de julio, el precio del dólar en México es de $17,6795, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2171 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: las reservas totales del Banco Central cayeron hoy al menor nivel desde fines de abril",
-      "Description": "Fue en una jornada en la que la entidad debió vender US$3 millones, haciendo un módico aporta al plan para acelerar el retiro de pesos del mercado",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-hoy-las-reservas-totales-del-banco-central-cayeron-hoy-al-menor-nivel-desde-fines-de-abril-nid16072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/tras-soltar-el-dolar-y-luego-freezarlo-el-bcra-Q3BWX4CF2ZFVJJUJ2EAZWDDEPU.jpg?auth=fc640b6cf05b8f4fb2989caf03cee156a2e5aeda1c8eb9ddc58265383c9d244b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-16T20:08:06Z",
-      "Content": "La reservas totales del Banco Central (BCRA) cayeron hoy otros US$559 millones (a US$27.613 millones según el dato preliminar), para quedar en su menor nivel desde fines de abril.\r\nLa cifra se conoci… [+2756 chars]"
     }
   ]
 }
