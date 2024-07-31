@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 30 de julio de 2024",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 30 de julio de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-30-de-julio-de-2024-nid30072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-30T14:01:36Z",
+      "Content": "Este martes 30 de julio, el precio del dólar en México es de $18,4475 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2213 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/tras-soltar-el-dolar-y-luego-freezarlo-el-bcra-Q3BWX4CF2ZFVJJUJ2EAZWDDEPU.jpg?auth=fc640b6cf05b8f4fb2989caf03cee156a2e5aeda1c8eb9ddc58265383c9d244b&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-16T20:08:06Z",
       "Content": "La reservas totales del Banco Central (BCRA) cayeron hoy otros US$559 millones (a US$27.613 millones según el dato preliminar), para quedar en su menor nivel desde fines de abril.\r\nLa cifra se conoci… [+2756 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "La rara moneda de 25 centavos de dólar que puede valer hasta US$560 mil por un peculiar detalle",
-      "Description": "Fue acuñada para celebrar los 200 años de la independencia de EE.UU. sin embargo se encuentra en condiciones excepcionales ya que no circuló, además posee uno de los errores de impresión más valorados",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/la-rara-moneda-de-25-centavos-de-dolar-que-puede-valer-hasta-us560-mil-por-un-peculiar-detalle-nid16072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/por-el-estado-de-conservacion-y-la-doble-GLNTHETPHNBK7H6T657L6GMV3U.jpg?auth=36676d81504ba73dcebf4447fa05369c71dbb1cbfbe4470f4ba5a3f28ff54eea&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-16T18:31:04Z",
-      "Content": "El universo de la numismática siempre suele ofrecer novedades sorprendentes y, para quienes no están muy al tanto de sus reglas también un tanto extrañas. ¿Quién no ha roto su alcancía con la esperan… [+2192 chars]"
     }
   ]
 }
