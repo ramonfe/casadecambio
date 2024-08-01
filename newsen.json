@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 33,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Japan Today"
+      },
+      "Author": null,
+      "Title": "Bank of Japan raises its key interest rate, aiming to curb yen's slide against the dollar",
+      "Description": "The Bank of Japan raised its key interest rate Wednesday to about .25% from zero to about 0.1%, acting to curb the yen’s slide against the U.S. dollar. The move was widely expected, and the yen gained sharply against the dollar ahead of Wednesday’s decision, …",
+      "Url": "https://japantoday.com/category/business/bank-of-japan-raises-its-key-interest-rate-aiming-to-curb-yen%27s-slide-against-the-dollar",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-31T04:32:33Z",
+      "Content": "The Bank of Japan raised its key interest rate Wednesday to about .25% from zero to about 0.1%, acting to curb the yens slide against the U.S. dollar.\r\nThe move was widely expected, and the yen gaine… [+1960 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
+      "Description": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
+      "Url": "https://abcnews.go.com/International/wireStory/japans-central-bank-raises-benchmark-rate-025-aiming-112427835",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2024-07-31T04:21:59Z",
+      "Content": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar\r\nTOKYO -- Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the y… [+34 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Bank of Japan raises its key interest rate, aiming to curb yen's slide against the dollar",
+      "Description": "The Bank of Japan has raised its key interest rate to",
+      "Url": "https://abcnews.go.com/Business/wireStory/bank-japan-raises-key-interest-rate-aiming-curb-112428182",
+      "UrlToImage": "https://i.abcnewsfe.com/a/0bc42b9d-dbd2-498c-8093-79c6e9b52399/wirestory_e00919b053412fabf7a800ed78a9ad7a_16x9.jpg?w=1600",
+      "PublishedAt": "2024-07-31T04:21:58Z",
+      "Content": "TOKYO -- The Bank of Japan raised its key interest rate Wednesday to about .25% from zero to about 0.1%, acting to curb the yens slide against the U.S. dollar. \r\nThe move was widely expected, and the… [+1836 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
+      "Description": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
+      "Url": "https://abcnews.go.com/US/wireStory/japans-central-bank-raises-benchmark-rate-025-aiming-112427813",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2024-07-31T04:13:47Z",
+      "Content": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar\r\nTOKYO -- Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the y… [+34 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Bank of Japan raises its key interest rate, aiming to curb yen's slide against the dollar",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56d94868-3eb7-4740-968f-c0add57383fb",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-31T04:06:32Z",
+      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
+      "Description": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
+      "Url": "https://abcnews.go.com/Business/wireStory/japans-central-bank-raises-benchmark-rate-025-aiming-112427872",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2024-07-31T04:06:05Z",
+      "Content": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar\r\nTOKYO -- Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the y… [+34 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -301,45 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-04T10:22:00Z",
       "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fark.com"
-      },
-      "Author": null,
-      "Title": "Lakers lock down James with a 2-year, 104 million dollar contract which is a lot of money for the 55th pick in the draft [Interesting]",
-      "Description": "Lakers lock down James with a 2-year, 104 million dollar contract which is a lot of money for the 55th pick in the draft",
-      "Url": "https://www.fark.com/comments/13309836/Lakers-lock-down-James-with-a-2-year-104-million-dollar-contract-which-is-a-lot-of-money-for-55th-pick-in-draft",
-      "UrlToImage": "https://usrimg-full.fark.net/0/0R/fark_0RwPKCFATVecYEfnz0YxAzqBHZA.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1720411200&Signature=iis2P47HdBbsn8GcZnRf2vpLTqo%3D",
-      "PublishedAt": "2024-07-04T01:35:39Z",
-      "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "Parliament to hear ministerial statements on oil spill, discuss billion-dollar money laundering case",
-      "Description": "Members of Parliament also filed questions on the fatal incident at PUB's Choa Chu Kang Waterworks and about Singapore's position on recognising Palestine as a state.",
-      "Url": "https://www.channelnewsasia.com/singapore/parliament-order-paper-oil-spill-billion-dollar-money-laundering-pub-toxic-gas-4448186",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--spjFzsYE--/c_crop,h_840,w_1494,x_5,y_139/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/03/sya_7027.jpg?itok=xHxSXxSq",
-      "PublishedAt": "2024-07-01T09:03:00Z",
-      "Content": "MONEY LAUNDERING CASE\r\nMPs also filed questions about the billion-dollar money laundering case, which concluded last month after all 10 offenders were sentenced. \r\nThe nine men and one woman involved… [+1818 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Billion-Dollar Bank Exposes Customers’ Full Names, Account Numbers, Dates of Birth and More in ‘Foreseeable and Preventable’ Data Breach: Class-Action Allegations",
-      "Description": "A North Carolina-based bank is facing a proposed class-action lawsuit over a data breach that has allegedly placed customers at serious risk of fraud and identity theft. The plaintiff of the lawsuit accuses Truist Bank of failing to secure and safeguard its c…",
-      "Url": "https://dailyhodl.com/2024/06/30/billion-dollar-bank-exposes-customers-full-names-account-numbers-dates-of-birth-and-more-in-foreseeable-and-preventable-data-breach-class-action-allegations/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/06/bank-failures-dollar-likely.jpg",
-      "PublishedAt": "2024-06-30T19:54:04Z",
-      "Content": "A North Carolina-based bank is facing a proposed class-action lawsuit over a data breach that has allegedly placed customers at serious risk of fraud and identity theft.\r\nThe plaintiff of the lawsuit… [+1885 chars]"
     }
   ]
 }
