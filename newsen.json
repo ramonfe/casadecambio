@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TMZ"
+      },
+      "Author": "TMZ Staff",
+      "Title": "Mark Curry Vouches For Tyler Perry's Comedy, Billion-Dollar Bank Account",
+      "Description": "Tyler Perry recently fended off critics of his low-rated new film -- but Mark Curry says he need not argue with these folks ... 'cause the man's legacy and earnings speak for themself. We caught up with the veteran comedian out in NYC this week --…",
+      "Url": "https://www.tmz.com/2024/07/31/mark-curry-supports-tyler-perry-divorce-movie/",
+      "UrlToImage": "https://imagez.tmz.com/image/25/16by9/2024/07/31/2539c9bda65d410693fc9e61ae53e044_xl.jpg",
+      "PublishedAt": "2024-07-31T21:23:24Z",
+      "Content": "Tyler Perry recently fended off critics of his low-rated new film -- but Mark Curry says he need not argue with these folks ... 'cause the man's legacy and earnings speak for themself.\r\nWe caught up … [+1336 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-111568147,width-1200,height-630,imgsize-22750,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2024-07-08T05:18:00Z",
       "Content": "Indias Piramal Capital and Housing Finance is planning its maiden dollar-bond sale as tighter regulations by the nations central bank stifle domestic funding sources for shadow lenders, according to … [+988 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Alex Richardson",
-      "Title": "JPMorgan Chase, Bank of America and 7 Mega Banks Paying $46,000,000 Over Alleged Conspiracy To Rig Trillion-Dollar Derivatives Market",
-      "Description": "Nine of the largest banks in the world are settling a long-running lawsuit that accuses them of conspiring to rig a $465.9 trillion market. Lawyers representing investors have filed for preliminary approval of a $46 million cash settlement against JPMorgan Ch…",
-      "Url": "https://dailyhodl.com/2024/07/06/jpmorgan-chase-bank-of-america-and-7-mega-banks-paying-46000000-over-alleged-conspiracy-to-rig-trillion-dollar-derivatives-market/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bank-banks-jpmorgan.jpg",
-      "PublishedAt": "2024-07-06T19:04:57Z",
-      "Content": "Nine of the largest banks in the world are settling a long-running lawsuit that accuses them of conspiring to rig a $465.9 trillion market.\r\nLawyers representing investors have filed for preliminary … [+2496 chars]"
     }
   ]
 }
