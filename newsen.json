@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 33,
+  "TotalResults": 34,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Finextra"
+      },
+      "Author": "Editorial Team",
+      "Title": "RBC embarks on multi-million dollar programme to reduce carbon emmissions at bank branches",
+      "Description": "While you may not see it, your local RBC bank branch is working towards being powered differently in the coming years.",
+      "Url": "https://www.finextra.com/pressarticle/101730/rbc-embarks-on-multi-million-dollar-programme-to-reduce-carbon-emmissions-at-bank-branches",
+      "UrlToImage": "https://www.finextra.com/about/finextra-logo.png",
+      "PublishedAt": "2024-07-31T10:37:30Z",
+      "Content": "While you may not see it, your local RBC bank branch is working towards being powered differently in the coming years.\r\nA multi-million-dollar plan to retrofit RBC's Canadian 1,200 branch network aim… [+4494 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bank-banks-jpmorgan.jpg",
       "PublishedAt": "2024-07-06T19:04:57Z",
       "Content": "Nine of the largest banks in the world are settling a long-running lawsuit that accuses them of conspiring to rig a $465.9 trillion market.\r\nLawyers representing investors have filed for preliminary … [+2496 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "'Warren Buffett knows this': Michael Saylor warns that the US dollar is on track to lose 99.9% of its value — here's why and what he says is 'the strongest money in the world'",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_275d7421-aecd-4e87-b78d-5ae743fcfa55",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-04T10:22:00Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
