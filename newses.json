@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 1° de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este jueves 1° de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-1-de-agosto-nid01082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-01T14:21:36Z",
+      "Content": "Este jueves 1° de agosto, el precio del dólar en México es de $18,5970 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2482 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-sube-su-precio-en-mexico-este-jueves-18-PA6OM4GJENBG3CMYLLFQP3KNNI.jpg?auth=ff0f24be5abbb98f8156a978fa7efb491bef1ee89485053c1319b4cabdd4a79d&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-18T14:51:18Z",
       "Content": "Este jueves 18 de julio, el precio del dólar en México es de $17,7438, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2189 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Mercado le ‘hace el fuchi’ al peso: Cae a las 17.75 unidades ante el dólar por aversión al riesgo",
-      "Description": "Especialistas esperan que el tipo de cambio opere entre las 17.65 y 17.88 unidades durante este miércoles 17 de julio.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/17/peso-dolar-precio-hoy-17-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/EkaASOQEfAQNAy86WZ7GFeexP5A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5LAENUGIINFFDGLSULYQOGW524.jpg",
-      "PublishedAt": "2024-07-17T16:55:22Z",
-      "Content": "El sentimiento de mayor aversión al riesgo dentro de los mercados financieros provoca un retroceso para las divisas emergentes, entre ellas, el peso mexicano.\r\nLa depreciación del peso mexicano ante … [+2146 chars]"
     }
   ]
 }
