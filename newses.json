@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso no arranca ‘a gosto’ con el dólar: Se deprecia casi 1% hasta las 18.79 unidades",
+      "Description": "Los inversionistas y el mercado 'digieren' la decisión de la Reserva Federal de no mover su tasa de interés, pero abrir la posibilidad a un recorte en septiembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/01/peso-dolar-precio-hoy-1-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/3i2P1xPlR3wXPxkRoRoE1KKsVxo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/64PGVVASVNHUNGJIZIP5MEMFLU.jpg",
+      "PublishedAt": "2024-08-01T17:05:54Z",
+      "Content": "El peso mexicano no sostiene sus ganancias previas en el inicio de la primera jornada de agosto, a medida que los operadores siguen asimilando una postura menos restrictiva por parte de algunos banco… [+1492 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/A9glFf9B1fGGaen8mxtE1Ex6ziM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UIHOFY4FPNBGHCE4CSGBP2BZKA.jpg",
       "PublishedAt": "2024-07-18T15:16:28Z",
       "Content": "El peso mexicano está empantanado en el terreno de pérdidas ante el dólar este jueves, al tiempo que en los mercados financieros el sentimiento de aversión al riesgo asusta a los inversionistas.\r\nLa … [+1515 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano: a cuánto cotiza la moneda hoy, jueves 18 de julio",
-      "Description": "Consulta el valor actual del dólar respecto al peso mexicano hoy, jueves 18 de julio. Obtén un resumen detallado de la situación económica en México y la cotización actualizada de la divisa para tomar decisiones informadas.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-moneda-hoy-jueves-18-de-julio-nid18072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-dolar-sube-su-precio-en-mexico-este-jueves-18-PA6OM4GJENBG3CMYLLFQP3KNNI.jpg?auth=ff0f24be5abbb98f8156a978fa7efb491bef1ee89485053c1319b4cabdd4a79d&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-18T14:51:18Z",
-      "Content": "Este jueves 18 de julio, el precio del dólar en México es de $17,7438, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2189 chars]"
     }
   ]
 }
