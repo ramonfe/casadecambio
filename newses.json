@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "La elevada volatilidad impulsa al peso hasta un máximo de 18.86 por dólar",
+      "Description": "En una sesión de elevada volatilidad y plena incertidumbre económica generalizada, el peso mexicano borró sus ganancias matutinas y rebotó hasta un máximo de 18.86 por dólar este jueves.",
+      "Url": "https://www.jornada.com.mx/2024/08/02/economia/020n1eco",
+      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "PublishedAt": "2024-08-02T09:06:40Z",
+      "Content": "Periódico La JornadaViernes 2 de agosto de 2024, p. 20\r\nEn una sesión de elevada volatilidad y plena incertidumbre económica generalizada, el peso mexicano borró sus ganancias matutinas y rebotó hast… [+2956 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/conferencia-de-prensa-del-ministro-de-economia-W2NDWKQBBBA33JYHYXQEGF67RQ.JPG?auth=639b7e702919df0c1216fac3a0eef6c7f4114ca63aaf45fc669e9972a59f68f6&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-19T12:08:24Z",
       "Content": "El Banco Central (BCRA) avanzó ayer en cerrar la principal fuente potencial de emisión monetaria al conseguir que los bancos le rescindan $13,17 billones en opciones de liquidez -los llamados puts- q… [+748 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "‘Soponcio’ para el peso ante el dólar: Se deprecia casi 1% y cotiza en las 17.86 unidades",
-      "Description": "En los bancos, el dólar se vende en un precio de 18.27 pesos por cada uno, según Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/18/peso-dolar-precio-hoy-18-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/A9glFf9B1fGGaen8mxtE1Ex6ziM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UIHOFY4FPNBGHCE4CSGBP2BZKA.jpg",
-      "PublishedAt": "2024-07-18T15:16:28Z",
-      "Content": "El peso mexicano está empantanado en el terreno de pérdidas ante el dólar este jueves, al tiempo que en los mercados financieros el sentimiento de aversión al riesgo asusta a los inversionistas.\r\nLa … [+1515 chars]"
     }
   ]
 }
