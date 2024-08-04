@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Tipo de cambio supera la barrera de 19 pesos por dólar",
+      "Description": "El peso y la Bolsa Mexicana de Valores (BMV) retrocedieron este viernes arrastrados por un clima adverso para los activos de riesgo, tras un débil reporte del mercado laboral en Estados Unidos que si bien apoyó la expectativa de un próximo recorte de tasas po…",
+      "Url": "https://www.jornada.com.mx/2024/08/03/economia/014n2eco",
+      "UrlToImage": "https://www.jornada.com.mx/2024/08/03/fotos/014n2eco-1.jpg",
+      "PublishedAt": "2024-08-03T10:17:14Z",
+      "Content": "Periódico La JornadaSábado 3 de agosto de 2024, p. 14\r\nEl peso y la Bolsa Mexicana de Valores (BMV) retrocedieron este viernes arrastrados por un clima adverso para los activos de riesgo, tras un déb… [+2723 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-la-IZI2WAP34FAEFOS23DLEP7W2FA.JPG?auth=7667b86ccd2bdae3081bca54a50a02f21e08dbc3884a734fcc53ae7f33fbcdbf&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-22T13:27:38Z",
       "Content": "Este lunes 22 de julio, el precio del dólar en México es de $17,997, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2328 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘glitchea’ ante el dólar: Pierde y se cotiza de nuevo en el terreno de las 18 unidades",
-      "Description": "La posibilidad de tener a Donald Trump de regreso en la Casa Blanca afecta al peso mexicano.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/19/peso-dolar-precio-hoy-19-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/EjEVnrnszUE89a1XiUYiKeRqJ2g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7KRTZX66RNHGDHYFMIZ6HD3VVY.jpg",
-      "PublishedAt": "2024-07-19T16:50:48Z",
-      "Content": "La aversión al riesgo se mantiene en los mercados financieros, lo que lleva a peso mexicano de nuevo al terreno de las 18 unidades ante el dólar en la mañana de este viernes marcada por la caída mund… [+1609 chars]"
     }
   ]
 }
