@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Peso roza los 19.50 por dólar en operaciones internacionales",
+      "Description": "El peso se depreciaba con fuerza a niveles no vistos desde finales de 2022, ante crecientes preocupaciones sobre la salud económica de EU.",
+      "Url": "https://www.reforma.com/peso-roza-los-19-50-por-dolar-en-operaciones-internacionales/ar2851803",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714904.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-08-05T04:14:18Z",
+      "Content": "La divisa mexicana llegó a debilitarse hasta 19.5580 unidades, un nivel no visto desde diciembre de 2022. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-23T14:44:53Z",
       "Content": "El peso se depreciaba este martes cediendo las ganancias de la jornada anterior, ante un fortalecimiento global del dólar mientras los inversionistas aguardan la divulgación en la semana de cifras cl… [+2060 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda el martes 23 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-el-martes-23-de-julio-nid23072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-este-martes-23-de-CZ34OZJHKFCADBXOUS5OBRA6B4.jpg?auth=5729625537e20df34613e208a9e4e7febe9f8a2359d923be86a79685765d1371&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-23T13:33:06Z",
-      "Content": "Este martes 23 de julio, el precio del dólar en México es de $17,9107, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2133 chars]"
     }
   ]
 }
