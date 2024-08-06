@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN/ SBH",
+      "Title": "Peso mexicano se deprecia: desafía los 19.50 por dólar",
+      "Description": "La moneda mexicana suma su tercera jornada consecutiva de pérdidas.",
+      "Url": "https://aristeguinoticias.com/0408/dinero-y-economia/peso-mexicano-se-deprecia-desafia-los-19-50-por-dolar/?utm_source=Indigitall&amp;utm_medium=push&amp;utm_campaign=web",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/07/dolares-impuesto-riqueza-millonarios-pexels-24072024.jpg",
+      "PublishedAt": "2024-08-05T01:20:48Z",
+      "Content": "El peso mexicano se depreciaba con fuerza la tarde del domingo alcanzando niveles no vistos desde finales de 2022, debido a un clima adverso para los activos de riesgo ante crecientes preocupaciones … [+1336 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Peso cae este domingo y está cerca de las 20 unidades por dólar: ¿A qué se debe su depreciación?",
+      "Description": "El peso mexicano reporta pérdidas importantes este domingo frente al dólar mientras crecen las tensiones a nivel mundial y las bolsas de Asia caen",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/04/peso-mexicano-se-deprecia-cotiza-en-19-5-unidades-por-dolar-tras-caida-de-la-bolsa-de-tokio-domingo-4-agosto/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xeFfZmfKeJnJqHpIm-05bOyRQZs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KGSGNFJK2VCB3MYCK4EFICW63E.jpg",
+      "PublishedAt": "2024-08-05T01:08:43Z",
+      "Content": "El peso mexicano se depreció la tarde de este domingo 4 de agosto debido a los movimientos de los mercados en Asia, alcanzando un tipo de cambio de 19.4537 unidades por dólar.\r\nGabriela Siller, direc… [+3278 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/como-esta-el-dolar-en-mexico-este-martes-23-de-CZ34OZJHKFCADBXOUS5OBRA6B4.jpg?auth=5729625537e20df34613e208a9e4e7febe9f8a2359d923be86a79685765d1371&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-23T13:33:06Z",
       "Content": "Este martes 23 de julio, el precio del dólar en México es de $17,9107, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2133 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Pagan US$276 mil por esta moneda de un dólar y se convierte en una de las piezas más valiosas del año",
-      "Description": "En las diversas plataformas, esta pieza ha alcanzado valores sorprendentes debido a varios factores que la posicionan en lo más alto del mercado; con su composición de plata, fue acuñada en la Casa de la Moneda de Filadelfia",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-us276-mil-por-esta-moneda-de-un-dolar-y-se-convierte-en-una-de-las-piezas-mas-valiosas-del-ano-nid22072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-valiosa-moneda-de-plata-se-convirtio-en-la-6BTISRCZD5CWJALI5DQ3MH2PLU.jpg?auth=a7576c57762d6a65a4445cfd3e121cefb7f0ab3529d74efe96afd6dc01c1854f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-22T21:58:46Z",
-      "Content": "En el mundo de la numismática, la pasión por coleccionar monedas y billetes ha ganado un gran impulso. Este fascinante hobby atrae a numerosos expertos y entusiastas que buscan piezas únicas y releva… [+3305 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda el lunes 22 de julio",
-      "Description": "Descubre el tipo de cambio de dólar a peso mexicano hoy, lunes 22 de julio. Consulta el resumen actualizado de la situación económica en México y conoce el valor exacto de la divisa en esta jornada. ¡Información crucial para entender el panorama financiero de…",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-el-lunes-22-de-julio-nid22072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-la-IZI2WAP34FAEFOS23DLEP7W2FA.JPG?auth=7667b86ccd2bdae3081bca54a50a02f21e08dbc3884a734fcc53ae7f33fbcdbf&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-22T13:27:38Z",
-      "Content": "Este lunes 22 de julio, el precio del dólar en México es de $17,997, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2328 chars]"
     }
   ]
 }
