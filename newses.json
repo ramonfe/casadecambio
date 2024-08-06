@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Bloomberg",
+      "Title": "Caída del peso EN VIVO: Dólar se dirige a las 20 unidades este lunes",
+      "Description": "Cerca de las 7:00 horas de este lunes, el tipo de cambio se ubicaba en los 19:51 pesos por dólar, de acuerdo con datos de Bloomberg.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/05/peso-dolar-precio-en-vivo-hoy-5-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/wgZ1ICqpiUYZBuQCsnXXtDXKGXo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3YTRI5AQ45EXTOBR6Y3NLG65XU.jpg",
+      "PublishedAt": "2024-08-05T14:44:21Z",
+      "Content": "El yen y el yuan subieron este lunes 5 de agosto; sin embargo, el peso mexicano extendió su caída a medida que los operadores seguían desmantelando la popular estrategia comercial carry trade. A las … [+4230 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 5 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 5 de agosto de 2024; Índice de miedo en niveles récord y probabilidad de recesión en EE.UU.; Qué esperan los mercados este lunes 5 de agosto",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-5-de-agosto-nid05082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-de-dolar-a-peso-mexicano-el-valor-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-05T14:30:33Z",
+      "Content": "Este lunes 5 de agosto, el precio del dólar en México es de $19,0442 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2493 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso se repliega tras perforar barrera de 20 unidades por dólar pero pierde más de 2%; BMV cae 1.8%",
+      "Description": "Forbes México.\n Peso se repliega tras perforar barrera de 20 unidades por dólar pero pierde más de 2%; BMV cae 1.8%\n\nEl peso cotizaba en 19.5645 por dólar, con un retroceso de un 2.10% frente al precio de referencia de Reuters del viernes. \nPeso se repliega t…",
+      "Url": "https://www.forbes.com.mx/peso-se-repliega-tras-perforar-barrera-de-20-unidades-por-dolar-pero-pierde-mas-de-2-bmv-cae-1-8/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2021/04/peso.jpg",
+      "PublishedAt": "2024-08-05T14:13:45Z",
+      "Content": "El peso se depreciaba este lunes por tercera jornada consecutiva, aunque moderaba el fuerte derrumbe observado la noche del domingo en sus operaciones en el exterior, en medio de crecientes preocupac… [+1923 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-25-de-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-25T13:36:37Z",
       "Content": "Este jueves 25 de julio, el precio del dólar en México es de $18,3458 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2484 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "En dos sesiones el peso perdió 2.4%; cierra en 18.37 unidades por dólar",
-      "Description": "El peso mexicano extendió por segunda jornada consecutiva su comportamiento negativo frente al dólar para cerrar en el mercado interbancario en 18.3705 unidades por dólar spot.",
-      "Url": "https://www.jornada.com.mx/2024/07/25/economia/024n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-07-25T09:35:31Z",
-      "Content": "Periódico La JornadaJueves 25 de julio de 2024, p. 24\r\nEl peso mexicano extendió por segunda jornada consecutiva su comportamiento negativo frente al dólar para cerrar en el mercado interbancario en … [+1741 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "La Nación / Argentina / GDA, Damián Arroyo C.",
-      "Title": "Pagan $276 mil por moneda de un dólar y se convierte en una de las piezas más valiosas del año",
-      "Description": "El dólar Morgan de 1893, una joya de la numismática, alcanzó los $276.000 en una subasta, destacándose por su historia, rareza y estado de conservación.",
-      "Url": "https://www.nacion.com/revista-dominical/pagan-276-mil-moneda-de-un-dolar-y-se-convierte-en/SVA3JJ6MGZHSLCK4GU3KATX7OY/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/v2/7CRRW7FJ5FEWBAPPT66IPQT4OU.png?smart=true&auth=cd8e3919285f334df3447e4da91b54ba7d3a4dcc750d221ee13467813ef7d785&width=1440",
-      "PublishedAt": "2024-07-25T02:30:00Z",
-      "Content": "En el mundo de la numismática, la pasión por coleccionar monedas y billetes gana gran impulso. Este hobby atrae a numerosos expertos y entusiastas que buscan piezas únicas en todo el mundo. En 2024, … [+3573 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda el miércoles 24 de julio",
-      "Description": "La cotización actual del precio del dólar en México este miércoles 24 de julio, de acuerdo con el Diario Oficial de la Federación (DOF)",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-el-miercoles-24-de-julio-nid24072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-24T14:25:07Z",
-      "Content": "Este miércoles 24 de julio, el precio del dólar en México es de $18,0987, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2493 chars]"
     }
   ]
 }
