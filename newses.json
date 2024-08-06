@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sopitas.com"
+      },
+      "Author": "Lucy Sanabria",
+      "Title": "¿Qué es una recesión y qué tiene que ver con el peso mexicano y el dólar?",
+      "Description": "Además de ser tendencia por los Juegos Olímpicos de París, el 5 de agosto Japón fue protagonista de las redes por el llamado ‘lunes negro’ o...\nThe post ¿Qué es una recesión y qué tiene que ver con el peso mexicano y el dólar? appeared first on Sopitas.com.",
+      "Url": "https://www.sopitas.com/noticias/recesion-que-es-peso-dolar-japon/",
+      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/06/los-simpson-homero-bart-pensando.jpg",
+      "PublishedAt": "2024-08-05T13:54:56Z",
+      "Content": "Una recesión se traduce en el estancamiento económico de un país con el aumento del desempleo y la caída de producción. Situación temida para Estados Unidos y que ha impactado en la Bolsa de Japón y,… [+4492 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Reuters",
+      "Title": "Temor a recesión lastra al peso; supera los 19.50 por dólar",
+      "Description": "El peso supera las 19.50 unidades por dólar este lunes arrastrado por los temores a una recesión en EU y por declive de mercados asiáticos.",
+      "Url": "https://www.reforma.com/temor-a-recesion-lastra-al-peso-supera-los-19-60-por-dolar/ar2851935",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/752/5751280.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-08-05T13:26:49Z",
+      "Content": "En las últimas horas del domingo, el peso superó el umbral de 20 unidades por dólar. Crédito: AFP"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-24T14:25:07Z",
       "Content": "Este miércoles 24 de julio, el precio del dólar en México es de $18,0987, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2493 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso retrocede y cotiza arriba de 18 unidades por dólar; BMV también cae",
-      "Description": "Forbes México.\n Peso retrocede y cotiza arriba de 18 unidades por dólar; BMV también cae\n\nEl peso cotizaba en 18,1690 unidades por dólar al final de los negocios, una depreciación de un 1.36% respecto al precio de referencia de Reuters del lunes.\nPeso retroce…",
-      "Url": "https://www.forbes.com.mx/peso-retrocede-ante-fortalecimiento-global-del-dolar-bmv-tambien-cae/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2024/03/peso-mexicano.webp",
-      "PublishedAt": "2024-07-23T21:55:37Z",
-      "Content": "El peso retrocedía este martes ante un fortalecimiento global del dólar, en línea con las monedas de la región y en espera de datos clave de la inflación en México esta semana.\r\nEl peso cotizaba en 1… [+1489 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se deprecia y regresa a niveles por encima de 18 unidades por dólar; BMV también cae",
-      "Description": "Forbes México.\n Peso se deprecia y regresa a niveles por encima de 18 unidades por dólar; BMV también cae\n\nEl peso cotizaba en 18.0421 unidades, con una pérdida de 0.65% frente a las 17.9250 por dólar del precio de referencia de Reuters del lunes, cuando avan…",
-      "Url": "https://www.forbes.com.mx/peso-se-deprecia-y-regresa-a-niveles-por-encima-de-18-unidades-por-dolar-bmv-tambien-cae/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-23T14:44:53Z",
-      "Content": "El peso se depreciaba este martes cediendo las ganancias de la jornada anterior, ante un fortalecimiento global del dólar mientras los inversionistas aguardan la divulgación en la semana de cifras cl… [+2060 chars]"
     }
   ]
 }
