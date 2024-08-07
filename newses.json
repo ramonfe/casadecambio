@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 80,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Dólar registra su mayor nivel frente al peso desde finales de 2022",
+      "Description": "Forbes México.\n Dólar registra su mayor nivel frente al peso desde finales de 2022\n\nEl tipo de cambio termina la sesión en 19.5257 pesos por divisa estadounidense; el peso suma cuatro sesiones con pérdidas.\nDólar registra su mayor nivel frente al peso desde f…",
+      "Url": "https://www.forbes.com.mx/dolar-registra-su-mayor-nivel-frente-al-peso-desde-finales-de-2022/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0132-1.jpg",
+      "PublishedAt": "2024-08-06T23:00:54Z",
+      "Content": "El dólar registró este martes su mayor nivel desde finales de 2022, con lo que el peso sumó cuatro sesiones de pérdidas y un retroceso acumulado de 4.72%, luego del nerviosismo por la salud de la eco… [+1776 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/jVCVt8I4OJBpDZibJsClywftHl4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PP5XJCXXJNGCZFFJ3JWAPEBPQY.jpeg",
       "PublishedAt": "2024-07-26T15:49:12Z",
       "Content": "El peso mexicano no está animado ni porque hoy se inauguran los Juegos Olímpicos de París 2024 y muestra un comportamiento lateral en el inicio de sus operaciones ante el dólar durante este viernes 2… [+1398 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 26 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 26 de julio de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-26-de-julio-nid26072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-26T13:59:04Z",
-      "Content": "Este viernes 26 de julio, el precio del dólar en México es de $18,385 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2260 chars]"
     }
   ]
 }
