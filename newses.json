@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Noticiaslatam.lat"
+      },
+      "Author": "Sputnik Mundo",
+      "Title": "Luis Arce anuncia cumbre económica para evaluar tipo de cambio del dólar",
+      "Description": "SANTA CRUZ (Sputnik) — El presidente de Bolivia, Luis Arce, anunció una cumbre económica para evaluar el tipo de cambio del dólar frente a la moneda local (peso boliviano), debido a la escasez de divisas en el país.",
+      "Url": "https://noticiaslatam.lat/20240806/luis-arce-anuncia-cumbre-economica-para-evaluar-tipo-de-cambio-del-dolar-1156667482.html",
+      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1156667482.jpg?11278293501722965583",
+      "PublishedAt": "2024-08-06T17:33:00Z",
+      "Content": "Desde el Río Bravo hasta Tierra del Fuego, noticias, reportajes y análisis sobre la realidad latinoamericana\r\nhttps://noticiaslatam.lat/20240806/luis-arce-anuncia-cumbre-economica-para-evaluar-tipo-d… [+1711 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-26T13:59:04Z",
       "Content": "Este viernes 26 de julio, el precio del dólar en México es de $18,385 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2260 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Pagan US$600 por esta moneda de un centavo de dólar: el detalle que la hace única",
-      "Description": "Descubre cómo identificar una moneda de un centavo de dólar que puede valer hasta US$600 en el mercado de la numismática. Aprende las características específicas que hacen que esta pieza sea tan valiosa, incluso siendo reciente",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-us600-dolares-por-esta-moneda-de-un-centavo-de-dolar-como-identificarla-nid25072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-un-centavo-de-dolar-se-acuno-en-LZ55LW5H2RFKPCODJFD2WEJW7U.png?auth=8e461d0480dabe2a143c244394e75bc6d18d60a134b4492a4de778b6c8018f3e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-25T17:01:20Z",
-      "Content": "Históricamente, las monedas han sido de gran interés para las personas por diferentes motivos, como entender mejor el pasado, tener un divertido hobby e incluso, para algunos, ganar dinero, aunque no… [+2446 chars]"
     }
   ]
 }
