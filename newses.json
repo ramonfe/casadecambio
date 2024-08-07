@@ -8,6 +8,19 @@
         "Id": null,
         "Name": "El Financiero"
       },
+      "Author": "Redacción",
+      "Title": "Bolsa de Japón ‘rebota’ y sube 7 por ciento: Peso mexicano se recupera a 19.24 unidades por dólar",
+      "Description": "Con la apertura de los mercados en Asia, el peso mexicano muestra mejoras tras la caída del domingo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/05/peso-mexicano-se-recupera-cotiza-en-19-24-unidades-por-dolar-tras-apertura-de-la-bolsa-de-japon-6-de-agosto/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZE5W7uTbS198l_Mw4amAI0UgFIo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/D2QJVYCUABB7TEEYWMW5W6BSXM.jpeg",
+      "PublishedAt": "2024-08-06T02:20:25Z",
+      "Content": "Los mercados en Japón amanecieron con ganancias este martes 6 de agosto (tiempo local), lo que ha provocado que el peso mexicano no registre pérdidas similares a las del domingo 4 de agosto, cuando a… [+3028 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
       "Author": "Bloomberg",
       "Title": "Caída del peso EN VIVO: Dólar se dirige a las 20 unidades este lunes",
       "Description": "Cerca de las 7:00 horas de este lunes, el tipo de cambio se ubicaba en los 19:51 pesos por dólar, de acuerdo con datos de Bloomberg.",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/i_s6toVpTBLsFysXI_V4IB7f_OI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/B2IGMNRXVJAGHOBQ2UEYDXUXNA.jpg",
       "PublishedAt": "2024-07-25T15:02:48Z",
       "Content": "El peso mexicano se perfila para perder de nueva cuenta contra el dólar esta semana debido a la aversión al riesgo en los mercados en medio de reportes trimestrales y la cifra de crecimiento de la ec… [+1303 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 25 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en esta jornada",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-25-de-julio-nid25072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-25-de-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-25T13:36:37Z",
-      "Content": "Este jueves 25 de julio, el precio del dólar en México es de $18,3458 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2484 chars]"
     }
   ]
 }
