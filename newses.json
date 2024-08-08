@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "¿Adiós, ‘súper peso’? La volatilidad podría presionar el tipo de cambio hacia 21 unidades por dólar",
+      "Description": "Forbes México.\n ¿Adiós, ‘súper peso’? La volatilidad podría presionar el tipo de cambio hacia 21 unidades por dólar\n\nLuego de haber llegado a máximos en casi una década en abril de 16.25 unidades el 'super peso' se ha desinflado y cotiza ahora en 19.15.\n¿Adió…",
+      "Url": "https://www.forbes.com.mx/adios-super-peso-la-volatilidad-podria-presionar-el-tipo-de-cambio-hacia-21-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
+      "PublishedAt": "2024-08-07T17:10:47Z",
+      "Content": "El recientemente golpeado peso, sujeto de fuertes embates internos y externos, podría seguir debilitándose frente al dólar ante una esperada volatilidad asociada a los temores de recesión en su vecin… [+3935 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-29T15:03:26Z",
       "Content": "El peso se depreciaba este lunes por quinta jornada consecutiva, ante un fortalecimiento global del dólar en el inicio de una semana cargada de decisiones de política monetaria de distintos bancos ce… [+1754 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 29 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 29 de julio de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-29-de-julio-nid29072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-29T14:10:45Z",
-      "Content": "Este lunes 29 de julio, el precio del dólar en México es de $18,4475 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2299 chars]"
     }
   ]
 }
