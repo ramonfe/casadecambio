@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Peso recupera terreno; dólar cede a menos de $20",
+      "Description": "Tras cuatro jornadas de fuertes pérdidas, el peso recupera terreno y el dólar opera en menos de $20 en ventanillas bancarias.",
+      "Url": "https://www.reforma.com/peso-recupera-terreno-tras-dias-de-fuertes-perdidas/ar2853139",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/985/4984887.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-08-07T14:49:51Z",
+      "Content": "02 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (07 agosto 2024) .-08:31 hrs"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-vender-reservas-por-tercera-BAEHBYGDPVFVND2B2GLJLY6NPQ?auth=355a48e39968cc073f689e9d48c90419b6a0b34d3a7fe169e0ab4b8d1455271b&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-26T20:23:25Z",
       "Content": "La progresiva tendencia al desbalance hacia el lado de la demanda que muestra la plaza cambiaria oficial, quedó nuevamente a la vista hoy: el Banco Central (BCRA) debió aportar otros US$92 millones d… [+4057 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "El peso no anda en ‘mood olímpico’: Arranca ‘tablas’ con el dólar este viernes",
-      "Description": "En ventanillas bancarias, el dólar está ya muy cerca de venderse en las 19 unidades.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/26/peso-dolar-precio-hoy-26-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/jVCVt8I4OJBpDZibJsClywftHl4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PP5XJCXXJNGCZFFJ3JWAPEBPQY.jpeg",
-      "PublishedAt": "2024-07-26T15:49:12Z",
-      "Content": "El peso mexicano no está animado ni porque hoy se inauguran los Juegos Olímpicos de París 2024 y muestra un comportamiento lateral en el inicio de sus operaciones ante el dólar durante este viernes 2… [+1398 chars]"
     }
   ]
 }
