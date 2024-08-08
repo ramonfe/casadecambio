@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Alejandro Moscosa",
+      "Title": "‘Rebototote’ para el peso mexicano: Se aprecia casi 2% y gana más de 30 centavos al dólar",
+      "Description": "La divisa mexicana se vio favorecida por un alivio del nerviosismo de los mercados, explicaron analistas de Monex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/07/peso-dolar-precio-hoy-7-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/oS3qlPypVXyLAJZ-Xov_mYvJMho=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/62AZCNBGABBVJDQ5GQ5PBNINSQ.jpg",
+      "PublishedAt": "2024-08-07T16:50:15Z",
+      "Content": "El peso mexicano registra un notable rebote ante el dólar durante la sesión de este miércoles, con lo que podría acabar su racha de cuatro caídas ante el billete verde. \r\nLa apreciación del peso mexi… [+1830 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-29T14:10:45Z",
       "Content": "Este lunes 29 de julio, el precio del dólar en México es de $18,4475 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2299 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar: el Banco Central volvió a vender reservas y a fin de mes enfrenta el primer pago de los Bopreales",
-      "Description": "Se desprendió de otros US$92 millones en la rueda de mayor actividad del mes, aunque por impulso de la demanda",
-      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-volvio-a-vender-reservas-y-a-fin-de-mes-enfrenta-el-primer-pago-de-los-nid26072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-bcra-volvio-a-vender-reservas-por-tercera-BAEHBYGDPVFVND2B2GLJLY6NPQ?auth=355a48e39968cc073f689e9d48c90419b6a0b34d3a7fe169e0ab4b8d1455271b&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-26T20:23:25Z",
-      "Content": "La progresiva tendencia al desbalance hacia el lado de la demanda que muestra la plaza cambiaria oficial, quedó nuevamente a la vista hoy: el Banco Central (BCRA) debió aportar otros US$92 millones d… [+4057 chars]"
     }
   ]
 }
