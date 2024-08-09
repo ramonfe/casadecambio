@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso rompe racha de pérdidas frente al dólar",
+      "Description": "Forbes México.\n Peso rompe racha de pérdidas frente al dólar\n\nTras cuatro sesiones con depreciaciones, la moneda gana 1.52% y tiene el mejor desempeño de entre una cesta de divisas.\nPeso rompe racha de pérdidas frente al dólar\nForbes Staff",
+      "Url": "https://www.forbes.com.mx/peso-rompe-racha-de-perdidas-frente-al-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
+      "PublishedAt": "2024-08-07T23:53:14Z",
+      "Content": "El peso se apreció este miércoles luego de cuatro jornadas de fuertes pérdidas, después de que un funcionario del banco central de Japón minimizó las posibilidades de nuevas alzas de tipos de interés… [+1998 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/27jsFE9K_-TW9G98CGxWkimx8rM=/1200x630/filters:format(jpg):quality(70):focal(628x266:638x276)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZBQGSIWWOVHXFBWPX6MFMHDVQE.jpg",
       "PublishedAt": "2024-07-29T15:30:13Z",
       "Content": "En opinión del expresidente Donald Trump, un dólar fuerte está golpeando a los fabricantes estadounidenses. Para la secretaria del Tesoro, Janet Yellen, la cosa no es tan sencilla.\r\nYellen, que siemp… [+4572 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso pierde por quinta sesión ante fortalecimiento del dólar; BMV sube tras cuatro jornadas",
-      "Description": "Forbes México.\n Peso pierde por quinta sesión ante fortalecimiento del dólar; BMV sube tras cuatro jornadas\n\nEl peso cotizaba en 18.5101 por dólar, con un retroceso de 0.33% frente al precio de referencia de Reuters del viernes. En las últimas cinco sesiones,…",
-      "Url": "https://www.forbes.com.mx/peso-pierde-por-quinta-sesion-ante-fortalecimiento-del-dolar-bmv-sube-tras-cuatro-jornadas/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-29T15:03:26Z",
-      "Content": "El peso se depreciaba este lunes por quinta jornada consecutiva, ante un fortalecimiento global del dólar en el inicio de una semana cargada de decisiones de política monetaria de distintos bancos ce… [+1754 chars]"
     }
   ]
 }

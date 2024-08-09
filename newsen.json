@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 30,
+  "TotalResults": 29,
   "Articles": [
     {
       "Source": {
@@ -379,19 +379,6 @@
       "UrlToImage": "https://decider.com/wp-content/uploads/2024/06/Nelma-Kodama.jpg?quality=75&strip=all&w=1200",
       "PublishedAt": "2024-07-08T21:30:00Z",
       "Content": "Nelma Kodama: The Queen of Dirty Money, now streaming on Netflix, is the true crime tale of an unapologetic criminal. In the 2000s, Nelma Mitsue Penasso Kodama became one of Brazils most prominent do… [+6894 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Saikat Das",
-      "Title": "Piramal Finance plans up to $500 million debut dollar-bond issue",
-      "Description": "Billionaire Ajay Piramal’s firm is in talks with a group of global investment banks to raise $300 million to $500 million via such notes with a tenor of three to five years, the people said, asking not to be identified as the discussion are private.",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/piramal-finance-plans-up-to-500-million-debut-dollar-bond-issue/articleshow/111568193.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-111568147,width-1200,height-630,imgsize-22750,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-07-08T05:18:00Z",
-      "Content": "Indias Piramal Capital and Housing Finance is planning its maiden dollar-bond sale as tighter regulations by the nations central bank stifle domestic funding sources for shadow lenders, according to … [+988 chars]"
     }
   ]
 }
