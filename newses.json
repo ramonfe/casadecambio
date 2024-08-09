@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 86,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 8 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este jueves 8 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-8-de-agosto-nid08082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-08T14:38:22Z",
+      "Content": "Este jueves 8 de agosto, el precio del dólar en México es de $19,1890 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2504 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/B6-FFKjOePp6pLQEku0iP6xeh1U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OCT6OGFZTJCZTCMFQJT32UOUEA.jpeg",
       "PublishedAt": "2024-07-29T16:56:01Z",
       "Content": "La cautela de los inversionistas sigue empujando al peso mexicano a terreno de pérdidas, en espera de cifras económicas y decisiones de política monetaria, lo que ha provocado el fortalecimiento del … [+1602 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "Trump es ‘amigo’ del peso: Esta es la razón por la que quiere un dólar débil",
-      "Description": "Yellen ha advertido que \"un dólar muy fuerte puede desalentar las exportaciones y contribuir a las importaciones”.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/29/trump-es-amigo-del-peso-esta-es-la-razon-por-la-que-quiere-un-dolar-debil/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/27jsFE9K_-TW9G98CGxWkimx8rM=/1200x630/filters:format(jpg):quality(70):focal(628x266:638x276)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZBQGSIWWOVHXFBWPX6MFMHDVQE.jpg",
-      "PublishedAt": "2024-07-29T15:30:13Z",
-      "Content": "En opinión del expresidente Donald Trump, un dólar fuerte está golpeando a los fabricantes estadounidenses. Para la secretaria del Tesoro, Janet Yellen, la cosa no es tan sencilla.\r\nYellen, que siemp… [+4572 chars]"
     }
   ]
 }
