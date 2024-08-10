@@ -6,6 +6,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "TMZ"
       },
       "Author": "TMZ Staff",
@@ -366,19 +379,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-111658254,width-1200,height-630,imgsize-70150,overlay-etmarkets/photo.jpg",
       "PublishedAt": "2024-07-11T09:20:14Z",
       "Content": "Greenko Mauritius, a subsidiary of Greenko Energy Holdings, has decided not to proceed with its planned dollar bond issuance, which was intended to refinance a $425 million bank loan. The company wil… [+690 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decider"
-      },
-      "Author": "mliss1578",
-      "Title": "Stream It Or Skip It: ‘Nelma Kodama: The Queen Of Dirty Money’ On Netflix, A Documentary About A Brazilian “Dollar Dealer” And Her Blinged Out Ankle Monitor",
-      "Description": "Get your true crime fix with a side of “I don’t give a fuck” in Netflix’s new doc Nelma Kodama: The Queen of Dirty Money.",
-      "Url": "https://decider.com/2024/07/08/nelma-kodama-the-queen-of-dirty-money-netflix-documentary-review/",
-      "UrlToImage": "https://decider.com/wp-content/uploads/2024/06/Nelma-Kodama.jpg?quality=75&strip=all&w=1200",
-      "PublishedAt": "2024-07-08T21:30:00Z",
-      "Content": "Nelma Kodama: The Queen of Dirty Money, now streaming on Netflix, is the true crime tale of an unapologetic criminal. In the 2000s, Nelma Mitsue Penasso Kodama became one of Brazils most prominent do… [+6894 chars]"
     }
   ]
 }

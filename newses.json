@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar hoy: el Banco Central cerró una semana “compradora” y flexibilizó un poco más el cepo",
+      "Description": "Se alzó hoy con US$3 millones y sumó por esta vía US$86 millones, tras dos semanas con saldos negativos;",
+      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-cerro-una-semana-compradora-flexibilizando-un-poco-mas-el-cepo-nid09082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-materia-reservas-el-bcra-tuvo-una-buena-semana-H266UIAOZVHSFJGY7V5GLOR5OA.jpg?auth=fa82cfcc8ab1335117db4af04b3eb600330b213954e7e2ca5f4eb1b376c04d08&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-09T20:17:17Z",
+      "Content": "El Banco Central (BCRA) cerró hoy sus intervenciones sobre el mercado cambiario oficial con un saldo favorable de US$3 millones, al encadenar la cuarta compra consecutiva y sumar por esta vía US$86 m… [+2813 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso se pone la ‘supercapa’: Gana y se cotiza en las 18.79 unidades ante el dólar",
+      "Description": "El recorte a la tasa de interés del Banxico terminó por fortalecer al dólar, aunque el movimiento fue criticado por analistas.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/09/peso-dolar-precio-hoy-9-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/cr67knQMy97D_5gIhbjrg1VJF6Y=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6EWEVJRYFFESJKJZGISRR6DG6E.jpg",
+      "PublishedAt": "2024-08-09T15:16:59Z",
+      "Content": "El peso mexicano extiende sus ganancias ante el dólar en el cierre de la semana, mientras los operadores asimilan la sorpresiva decisión del Banco de México de recortar la tasa de interés a pesar del… [+1738 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 9 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 9 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-9-de-agosto-nid09082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-09T14:26:43Z",
+      "Content": "Este viernes 9 de agosto, el precio del dólar en México es de $19,0900 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2572 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-01T14:21:36Z",
       "Content": "Este jueves 1° de agosto, el precio del dólar en México es de $18,5970 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2482 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 31 de julio",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este miércoles 31 de julio de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-31-de-julio-nid31072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-31T15:00:40Z",
-      "Content": "Este miércoles 31 de julio, el precio del dólar en México es de $18,7900 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2218 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Dólar aplica ‘una llave de judo’ al peso: Se cotiza en las 18.80 unidades",
-      "Description": "Al peso no lo ayudó el dato de crecimiento de la economía de México, que mostró que el avance del PIB se está desacelerando.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/30/peso-dolar-precio-hoy-30-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/6r8z4KqNyyozdc849cfztzf9B_g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/H7N2JYKKORFFHLLBLD7OKNKIDY.jpg",
-      "PublishedAt": "2024-07-30T17:09:02Z",
-      "Content": "El peso mexicano continúa profundizando sus pérdidas a medida que el dólar se fortalece y después de que se reveló que la economía de México creció menos de lo esperado durante el segundo trimestre.\r… [+1637 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 30 de julio de 2024",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 30 de julio de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-30-de-julio-de-2024-nid30072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-30T14:01:36Z",
-      "Content": "Este martes 30 de julio, el precio del dólar en México es de $18,4475 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2213 chars]"
     }
   ]
 }
