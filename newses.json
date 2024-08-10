@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 86,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso cierra debajo de las 19 unidades por dólar tras sesión volátil",
+      "Description": "Forbes México.\n Peso cierra debajo de las 19 unidades por dólar tras sesión volátil\n\nSe aprecia 1.65%, su mejor ganancia desde el cinco de junio, según Banxico; datos laborales en EU y recorte de tasa en México influyen.\nPeso cierra debajo de las 19 unidades …",
+      "Url": "https://www.forbes.com.mx/peso-cierra-debajo-de-las-19-unidades-por-dolar-tras-sesion-volatil/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
+      "PublishedAt": "2024-08-08T22:19:43Z",
+      "Content": "El peso y la Bolsa Mexicana de Valores recuperaron terreno este jueves impulsados por un mejor ambiente para los activos de riesgo, después de un informe mejor a lo esperado del empleo de Estados Uni… [+2055 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Peso ‘se agarra fuerte’ antes de la decisión del Banxico: Se aprecia 1% ante el dólar",
+      "Description": "Janneth Quiroz, directora de análisis económico y cambiario de Monex, explicó que el miedo a una recesión en EU se está disipando.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/08/peso-dolar-precio-hoy-8-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bHDvmd50fNUoRyIGcRk_boKal4U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JUFBN43LSJFHFEBGZLLOEMNGZE.jpg",
+      "PublishedAt": "2024-08-08T16:56:27Z",
+      "Content": "El peso mexicano toma un envión antes de que el Banco de México anuncie su nueva decisión de política monetaria de este 8 de agosto, y registra un importante avance contra el dólar.\r\nLa apreciación d… [+1646 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-ASKG44RXABGSLCXEFNOSOBLSWI.jpg?auth=0f09f28c1b05dda6fd77a33606d87fc4cfe611d360d101d2cb2ad89b8109240e&width=768&quality=70&smart=false",
       "PublishedAt": "2024-07-30T14:01:36Z",
       "Content": "Este martes 30 de julio, el precio del dólar en México es de $18,4475 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2213 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Presiones llevan el peso a 18.62 por dólar",
-      "Description": "La paridad peso-dólar extendió su escalada en el último lunes de julio. Con las miradas puestas en la política monetaria de la Reserva Federal (Fed), el tipo de cambio en México se mantuvo presionado ante la aversión de los inversionistas al riesgo.",
-      "Url": "https://www.jornada.com.mx/2024/07/30/economia/019n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-07-30T08:29:47Z",
-      "Content": "Periódico La JornadaMartes 30 de julio de 2024, p. 19\r\nLa paridad peso-dólar extendió su escalada en el último lunes de julio. Con las miradas puestas en la política monetaria de la Reserva Federal (… [+2721 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘patalea’ ante el dólar fuerte: Cotiza en 18.57 unidades",
-      "Description": "El peso pierde 13.63 centavos ante el dólar en las primeras operaciones de este lunes.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/07/29/peso-dolar-hoy-29-de-julio-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/B6-FFKjOePp6pLQEku0iP6xeh1U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OCT6OGFZTJCZTCMFQJT32UOUEA.jpeg",
-      "PublishedAt": "2024-07-29T16:56:01Z",
-      "Content": "La cautela de los inversionistas sigue empujando al peso mexicano a terreno de pérdidas, en espera de cifras económicas y decisiones de política monetaria, lo que ha provocado el fortalecimiento del … [+1602 chars]"
     }
   ]
 }
