@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Noticiaslatam.lat"
+      },
+      "Author": "Angélica Ferrer",
+      "Title": "Respiro para el peso mexicano: cierra la semana con ligera apreciación frente al dólar",
+      "Description": "El peso mexicano cerró la semana con una apreciación cercana al 3%, esto después de variaciones negativas en los mercados internacionales y el recorte de la tasa de interés por parte del Banco de México (Banxico).",
+      "Url": "https://noticiaslatam.lat/20240809/respiro-para-el-peso-mexicano-cierra-la-semana-con-ligera-apreciacion-frente-al-dolar-1156748110.html",
+      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1156748110.jpg?11553884001723246191",
+      "PublishedAt": "2024-08-09T23:29:50Z",
+      "Content": "\"Requiere mostrar señales de que su autonomía está intacta; es muy importante para que haya [seguridad] para invertir en México. Igualmente, necesita ser muy cuidadoso en su política monetaria. Ante … [+109 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/3i2P1xPlR3wXPxkRoRoE1KKsVxo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/64PGVVASVNHUNGJIZIP5MEMFLU.jpg",
       "PublishedAt": "2024-08-01T17:05:54Z",
       "Content": "El peso mexicano no sostiene sus ganancias previas en el inicio de la primera jornada de agosto, a medida que los operadores siguen asimilando una postura menos restrictiva por parte de algunos banco… [+1492 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 1° de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este jueves 1° de agosto de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-1-de-agosto-nid01082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-3RU5LBARYFFQLJMSNCBSGRI2KY.jpg?auth=7e7ae6f7485c558e8232d556e8f2775ef3516b10696bb940b5f513bad46cb297&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-01T14:21:36Z",
-      "Content": "Este jueves 1° de agosto, el precio del dólar en México es de $18,5970 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2482 chars]"
     }
   ]
 }
