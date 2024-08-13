@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Carla Gloria Colomé",
+      "Title": "Celia Cruz, en la moneda de 25 centavos de dólar: “EE.UU. le dio el reconocimiento que Cuba le negó”",
+      "Description": "La artista es primera afrolatina en plasmar su rostro alegre y la icónica palabra “Azúcar” en un ejemplar de un cuarto de dólar",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/celia-cruz-en-la-moneda-de-25-centavos-de-dolar-eeuu-le-dio-el-reconocimiento-que-cuba-le-nego-nid11082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/celia-cruz-en-su-casa-en-una-imagen-de-3CPEZFRLA5AVNEKOAFQCAIJGOE.jpg?auth=d7f3aa9d6c2a01c82eddb9f0f6cb7224b737594566005c2a5bd7c971713e9a34&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-11T12:16:00Z",
+      "Content": "Omer Pardillo-Cid, el albacea de Celia Cruz, conserva una foto donde la cantante permanece de pie, con los brazos abiertos, la peluca rojiza y la sonrisa extravagante frente a una pared llena de trof… [+9344 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
       "PublishedAt": "2024-08-02T09:06:40Z",
       "Content": "Periódico La JornadaViernes 2 de agosto de 2024, p. 20\r\nEn una sesión de elevada volatilidad y plena incertidumbre económica generalizada, el peso mexicano borró sus ganancias matutinas y rebotó hast… [+2956 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso no arranca ‘a gosto’ con el dólar: Se deprecia casi 1% hasta las 18.79 unidades",
-      "Description": "Los inversionistas y el mercado 'digieren' la decisión de la Reserva Federal de no mover su tasa de interés, pero abrir la posibilidad a un recorte en septiembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/01/peso-dolar-precio-hoy-1-de-agosto-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/3i2P1xPlR3wXPxkRoRoE1KKsVxo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/64PGVVASVNHUNGJIZIP5MEMFLU.jpg",
-      "PublishedAt": "2024-08-01T17:05:54Z",
-      "Content": "El peso mexicano no sostiene sus ganancias previas en el inicio de la primera jornada de agosto, a medida que los operadores siguen asimilando una postura menos restrictiva por parte de algunos banco… [+1492 chars]"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 29,
+  "TotalResults": 27,
   "Articles": [
     {
       "Source": {
@@ -353,32 +353,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/45ad0d80eaad3f0350d973fe851301a0?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "PublishedAt": "2024-07-12T05:43:42Z",
       "Content": "A coastal South Australian community has pushed back against a local council decision to allow its 169-year-old town icon to fall into the sea.\r\nThe Robe Obelisk is located on SA's Limestone Coast an… [+3398 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Bureau",
-      "Title": "Greenko arm cancels dollar bond issue, to tap bank loans",
-      "Description": "Greenko Mauritius, a subsidiary of Greenko Energy Holdings focused on renewable energy, has decided against proceeding with its planned dollar bond issuance aimed at refinancing a $425-million bank loan. Fitch Ratings has withdrawn the 'BB' rating assigned to…",
-      "Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/greenko-arm-cancels-dollar-bond-issue-to-tap-bank-loans/articleshow/111669720.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-111669726,width-1200,height-630,imgsize-22164,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2024-07-11T19:16:34Z",
-      "Content": "Greenko Mauritius, a subsidiary of Greenko Energy Holdings, has decided not to proceed with its planned dollar bond issuance that had sought to refinance a $425-million bank loan.The company, which i… [+1043 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Shilpy Sinha",
-      "Title": "Greenko Mauritius halts dollar bond issuance, seeks alternative bank borrowing",
-      "Description": "Initially, the proposed notes, rated BB by Fitch and Ba2 by Moody's, were expected to price a 3.5-year bond under 7%. However, Earlier this year, Greenko Mauritius deferred the bond due to interest rate volatility. The $425 million bridge loan remains outstan…",
-      "Url": "https://economictimes.indiatimes.com/markets/bonds/greenko-mauritius-halts-dollar-bond-issuance-seeks-alternative-bank-borrowing-greenko-mauritius-halts-dollar-bond-issuance-seeks-alternative-bank-borrowing/articleshow/111658145.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-111658254,width-1200,height-630,imgsize-70150,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-07-11T09:20:14Z",
-      "Content": "Greenko Mauritius, a subsidiary of Greenko Energy Holdings, has decided not to proceed with its planned dollar bond issuance, which was intended to refinance a $425 million bank loan. The company wil… [+690 chars]"
     }
   ]
 }
