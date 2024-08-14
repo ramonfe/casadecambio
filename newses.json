@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 12 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 12 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-12-de-agosto-nid12082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-12T13:57:02Z",
+      "Content": "Este lunes 12 de agosto, el precio del dólar en México es de $18,8368 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2583 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/82/5081152.jpg&wm=1&ang=0",
       "PublishedAt": "2024-08-02T13:14:21Z",
       "Content": "En la sesión overnight el tipo de cambio alcanzó un mínimo de $18.9054 y un máximo de $19.2146. En la apertura, el pesose deprecia 1.1%, cotiza en el mercado spot en alrededor de $19.0359. Es la divi… [+147 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "La elevada volatilidad impulsa al peso hasta un máximo de 18.86 por dólar",
-      "Description": "En una sesión de elevada volatilidad y plena incertidumbre económica generalizada, el peso mexicano borró sus ganancias matutinas y rebotó hasta un máximo de 18.86 por dólar este jueves.",
-      "Url": "https://www.jornada.com.mx/2024/08/02/economia/020n1eco",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-08-02T09:06:40Z",
-      "Content": "Periódico La JornadaViernes 2 de agosto de 2024, p. 20\r\nEn una sesión de elevada volatilidad y plena incertidumbre económica generalizada, el peso mexicano borró sus ganancias matutinas y rebotó hast… [+2956 chars]"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,19 +340,6 @@
       "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bank-cfpb-fine.jpg",
       "PublishedAt": "2024-07-14T16:48:58Z",
       "Content": "The Consumer Financial Protection Bureau (CFPB) is penalizing a US bank for predatory loan practices and illegal repossession of people’s assets.\r\nThe CFPB says that Fifth Third Bank harmed 35,000 cu… [+1968 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "Sam Bradbrook",
-      "Title": "Million dollar price tag to save iconic 169yo obelisk before it falls into the sea",
-      "Description": "Saving South Australia's iconic Robe Obelisk from worsening coastal erosion could cost $1.5 million, but locals say it's worth the money and effort.",
-      "Url": "https://www.abc.net.au/news/2024-07-12/robe-obelisk-meeting-history-future-heritage-coastal-erosion/104090924",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/45ad0d80eaad3f0350d973fe851301a0?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "PublishedAt": "2024-07-12T05:43:42Z",
-      "Content": "A coastal South Australian community has pushed back against a local council decision to allow its 169-year-old town icon to fall into the sea.\r\nThe Robe Obelisk is located on SA's Limestone Coast an… [+3398 chars]"
     }
   ]
 }
