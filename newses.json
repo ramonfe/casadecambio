@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 13 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 13 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-13-de-agosto-nid13082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-13T13:42:40Z",
+      "Content": "Este martes 13 de agosto, el precio del dólar en México es de $19,032 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2375 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2024-08-02T13:39:50Z",
       "Content": "El peso se depreciaba este viernes tras la divulgación de cifras que mostraron que el crecimiento del empleo en Estados Unidos se ralentizó más de lo esperado en julio.\r\nEl peso cotizaba en 19.0942 p… [+1675 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Peso supera los 19 por dólar tras datos de empleo en EU",
-      "Description": "El peso se deprecia con fuerza y perfora la barrera de 19 unidades por dólar en mercado global tras malos datos del mercado laboral en EU.",
-      "Url": "https://www.reforma.com/peso-supera-los-19-por-dolar-tras-datos-de-empleo-en-eu/ar2850462",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/82/5081152.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-08-02T13:14:21Z",
-      "Content": "En la sesión overnight el tipo de cambio alcanzó un mínimo de $18.9054 y un máximo de $19.2146. En la apertura, el pesose deprecia 1.1%, cotiza en el mercado spot en alrededor de $19.0359. Es la divi… [+147 chars]"
     }
   ]
 }
