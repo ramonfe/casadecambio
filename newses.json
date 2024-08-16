@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 14 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este miércoles 14 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-14-de-agosto-nid14082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-en-esta-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-14T13:46:48Z",
+      "Content": "Este miércoles 14 de agosto, el precio del dólar en México es de $19,0387 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2372 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-02T15:02:32Z",
       "Content": "Este viernes 2 de agosto, el precio del dólar en México es de $18,7060 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2307 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Viernes negro para el peso que acelera pérdidas y cotiza en más de 19 unidades por dólar",
-      "Description": "Forbes México.\n Viernes negro para el peso que acelera pérdidas y cotiza en más de 19 unidades por dólar\n\nEl peso cotizaba en 19.0942 por dólar, con una pérdida de 1.32%, aunque momentos antes llegó a debilitarse hasta 19.2070 unidades, un nivel no visto desd…",
-      "Url": "https://www.forbes.com.mx/viernes-negro-para-el-peso-que-acelera-perdidas-y-cotiza-en-mas-de-19-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-08-02T13:39:50Z",
-      "Content": "El peso se depreciaba este viernes tras la divulgación de cifras que mostraron que el crecimiento del empleo en Estados Unidos se ralentizó más de lo esperado en julio.\r\nEl peso cotizaba en 19.0942 p… [+1675 chars]"
     }
   ]
 }
