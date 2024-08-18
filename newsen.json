@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 28,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sostav.ru"
+      },
+      "Author": null,
+      "Title": "Konstantin Tserazov: The euro to dollar exchange rate on external markets has grown over the week",
+      "Description": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last October. At the same time, trading was of a range and low-v…",
+      "Url": "https://www.sostav.ru/blogs/269934/49617",
+      "UrlToImage": "https://www.sostav.ru/appi/blogs/feedSocialImage/get?feedId=49617",
+      "PublishedAt": "2024-08-16T06:13:42Z",
+      "Content": "In the period from August 5 to 9, the Moscow Exchange Index fell by 1.75%, and the RTS Index by 2.72%. The first benchmark closed the week at its lowest level since last July, the second - since last… [+4019 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -340,32 +353,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--ZxiVLK7J--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/07/17/451428808_872536854901650_1877617015942165200_n.jpg?itok=kCg2LkWd",
       "PublishedAt": "2024-07-17T13:45:00Z",
       "Content": "Zhang was the fifth of 10 accused persons to be dealt with by Singapore's courts in relation to the S$3 billion (US$2.2 billion) money laundering case. He forfeited around S$118 million in assets to … [+3033 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Nigerian Central Bank Dollar Sales Fail to Stem Naira Fall",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_38294362-4d3e-4e9b-bafe-8a978869b75a",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-15T18:06:30Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETF Daily News"
-      },
-      "Author": "MarketBeat News",
-      "Title": "Swiss National Bank Sells 28,900 Shares of Dollar General Co. (NYSE:DG)",
-      "Description": "Swiss National Bank lowered its stake in Dollar General Co. (NYSE:DG – Free Report) by 4.2% in the 1st quarter, according to its most recent 13F filing with the Securities & Exchange Commission. The institutional investor owned 657,400 shares of the company’s…",
-      "Url": "https://www.etfdailynews.com/2024/07/15/swiss-national-bank-sells-28900-shares-of-dollar-general-co-nysedg/",
-      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-general-co-logo-1200x675.png?v=20210920082021&w=240&h=240&zc=2",
-      "PublishedAt": "2024-07-15T14:30:58Z",
-      "Content": "Swiss National Bank lowered its stake in Dollar General Co. (NYSE:DG – Free Report) by 4.2% in the 1st quarter, according to its most recent 13F filing with the Securities &amp; Exchange Commission. … [+5392 chars]"
     }
   ]
 }

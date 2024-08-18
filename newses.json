@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Pagan más de US$190 mil por esta moneda de un dólar de Hawái: cómo identificarla",
+      "Description": "La pieza de plata fue acuñada en 1883 durante el reinado del rey Kalākaua I, el penúltimo monarca del archipiélago volcánico; son idénticas en tamaño y peso a las monedas de EE.UU. hechas del mismo metal",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-mas-de-us190-mil-por-esta-moneda-de-un-dolar-de-hawai-como-identificarla-nid16082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-1883-se-ha-convertido-en-un-objeto-YSAXBFMTGJCABOMKM5RAKVX35U.jpg?auth=535827b3c2246879f6becb5ec2655a9fcba1b8c4c4498b860f446482a3229019&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-16T18:37:58Z",
+      "Content": "Las monedas y billetes cambian a lo largo de los años. Sin embargo, es gracias a sus características que ciertos ejemplares se convierten en verdaderas joyas para los coleccionistas. De esta manera, … [+3483 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 16 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 16 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-16-de-agosto-nid16082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-16T15:50:16Z",
+      "Content": "Este viernes 16 de agosto, el precio del dólar en México es de $18,6513, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2250 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso apunta a darle un ‘ten para que aprendas’ al dólar en la semana: Se cotiza en 18.68 unidades",
+      "Description": "¿Vas a comprar dólares? El precio del billete verde en los banco es de 19.16 pesos, de acuerdo con datos reportados de Citibanamex.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/16/peso-dolar-precio-hoy-16-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/cgWc_h7cI8ddqgez-pPS23iDP84=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ATYLOJWTBJEJVMVY7GHNEGIZ5Q.jpg",
+      "PublishedAt": "2024-08-16T15:41:09Z",
+      "Content": "El peso mexicano se perfila para ganar la semana al dólar después de que se vio beneficiado en los últimos días por datos que mostraron la fortaleza de la economía de Estados Unidos, aunque cae en la… [+1684 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘anda de fiesta’ ante el dólar: Se cotiza en las 18.65 unidades",
+      "Description": "Datos económicos de EU publicados en esta semana han disipado los temores a una recesión en la economía más grande del mundo.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/15/peso-dolar-precio-hoy-15-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/6kQ3X4HiiSiXP4rbVwq0fN-nzJE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GK22W4IZLJCYBA6PHRC56ALGJY.jpg",
+      "PublishedAt": "2024-08-15T15:36:13Z",
+      "Content": "El peso mexicano se perfila para hilar su tercer día de ganancias ante el dólar, luego de que el miedo a una recesión en Estados Unidos se disipó tras la publicación de datos económicos positivos. \r\n… [+1874 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 15 de agosto",
+      "Description": "Consulta el tipo de cambio del dólar a peso mexicano para hoy, jueves 15 de agosto de 2024. Obtén un resumen completo de la situación económica en México y el valor de la divisa en el mercado.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-15-de-agosto-nid15082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-15T14:32:24Z",
+      "Content": "Este jueves 15 de agosto, el precio del dólar en México es de $18,8478 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2475 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -327,71 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/752/5751280.jpg&wm=1&ang=0",
       "PublishedAt": "2024-08-05T13:26:49Z",
       "Content": "En las últimas horas del domingo, el peso superó el umbral de 20 unidades por dólar. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Peso roza los 19.50 por dólar en operaciones internacionales",
-      "Description": "El peso se depreciaba con fuerza a niveles no vistos desde finales de 2022, ante crecientes preocupaciones sobre la salud económica de EU.",
-      "Url": "https://www.reforma.com/peso-roza-los-19-50-por-dolar-en-operaciones-internacionales/ar2851803",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/715/5714904.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-08-05T04:14:18Z",
-      "Content": "La divisa mexicana llegó a debilitarse hasta 19.5580 unidades, un nivel no visto desde diciembre de 2022. Crédito: AFP"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN/ SBH",
-      "Title": "Peso mexicano se deprecia: desafía los 19.50 por dólar",
-      "Description": "La moneda mexicana suma su tercera jornada consecutiva de pérdidas.",
-      "Url": "https://aristeguinoticias.com/0408/dinero-y-economia/peso-mexicano-se-deprecia-desafia-los-19-50-por-dolar/?utm_source=Indigitall&amp;utm_medium=push&amp;utm_campaign=web",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/07/dolares-impuesto-riqueza-millonarios-pexels-24072024.jpg",
-      "PublishedAt": "2024-08-05T01:20:48Z",
-      "Content": "El peso mexicano se depreciaba con fuerza la tarde del domingo alcanzando niveles no vistos desde finales de 2022, debido a un clima adverso para los activos de riesgo ante crecientes preocupaciones … [+1336 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Peso cae este domingo y está cerca de las 20 unidades por dólar: ¿A qué se debe su depreciación?",
-      "Description": "El peso mexicano reporta pérdidas importantes este domingo frente al dólar mientras crecen las tensiones a nivel mundial y las bolsas de Asia caen",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/04/peso-mexicano-se-deprecia-cotiza-en-19-5-unidades-por-dolar-tras-caida-de-la-bolsa-de-tokio-domingo-4-agosto/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/xeFfZmfKeJnJqHpIm-05bOyRQZs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KGSGNFJK2VCB3MYCK4EFICW63E.jpg",
-      "PublishedAt": "2024-08-05T01:08:43Z",
-      "Content": "El peso mexicano se depreció la tarde de este domingo 4 de agosto debido a los movimientos de los mercados en Asia, alcanzando un tipo de cambio de 19.4537 unidades por dólar.\r\nGabriela Siller, direc… [+3278 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Tipo de cambio supera la barrera de 19 pesos por dólar",
-      "Description": "El peso y la Bolsa Mexicana de Valores (BMV) retrocedieron este viernes arrastrados por un clima adverso para los activos de riesgo, tras un débil reporte del mercado laboral en Estados Unidos que si bien apoyó la expectativa de un próximo recorte de tasas po…",
-      "Url": "https://www.jornada.com.mx/2024/08/03/economia/014n2eco",
-      "UrlToImage": "https://www.jornada.com.mx/2024/08/03/fotos/014n2eco-1.jpg",
-      "PublishedAt": "2024-08-03T10:17:14Z",
-      "Content": "Periódico La JornadaSábado 3 de agosto de 2024, p. 14\r\nEl peso y la Bolsa Mexicana de Valores (BMV) retrocedieron este viernes arrastrados por un clima adverso para los activos de riesgo, tras un déb… [+2723 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 2 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 2 de agosto de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-2-de-agosto-nid02082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-02T15:02:32Z",
-      "Content": "Este viernes 2 de agosto, el precio del dólar en México es de $18,7060 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2307 chars]"
     }
   ]
 }
