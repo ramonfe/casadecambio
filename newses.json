@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
     {
       "Source": {
@@ -67,6 +67,19 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-15T14:32:24Z",
       "Content": "Este jueves 15 de agosto, el precio del dólar en México es de $18,8478 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2475 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Montevideo.com.uy"
+      },
+      "Author": "Montevideo Portal",
+      "Title": "La creación del peso uruguayo, que fue tan sólido como el dólar durante más de medio siglo",
+      "Description": "En 1863 no había un banco oficial por lo que los billetes podían ser emitidos por instituciones habilitadas, que debían convertirlos en oro.",
+      "Url": "https://www.montevideo.com.uy/El-nacimiento-del-Uruguay-moderno/La-creacion-del-peso-uruguayo-que-fue-tan-solido-como-el-dolar-durante-mas-de-medio-siglo-uc897224",
+      "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891619.jpg",
+      "PublishedAt": "2024-08-15T14:30:00Z",
+      "Content": "Por Miguel Arreguimiguelarregui@yahoo.com \r\nUna ley del 23 de junio de 1862, aprobada bajo la presidencia de Bernardo Prudencio\r\nBerro, fijó como monedas el peso de plata y el doblón de oro: la prime… [+14453 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/06/los-simpson-homero-bart-pensando.jpg",
       "PublishedAt": "2024-08-05T13:54:56Z",
       "Content": "Una recesión se traduce en el estancamiento económico de un país con el aumento del desempleo y la caída de producción. Situación temida para Estados Unidos y que ha impactado en la Bolsa de Japón y,… [+4492 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Reuters",
-      "Title": "Temor a recesión lastra al peso; supera los 19.50 por dólar",
-      "Description": "El peso supera las 19.50 unidades por dólar este lunes arrastrado por los temores a una recesión en EU y por declive de mercados asiáticos.",
-      "Url": "https://www.reforma.com/temor-a-recesion-lastra-al-peso-supera-los-19-60-por-dolar/ar2851935",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/752/5751280.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-08-05T13:26:49Z",
-      "Content": "En las últimas horas del domingo, el peso superó el umbral de 20 unidades por dólar. Crédito: AFP"
     }
   ]
 }
