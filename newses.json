@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "lectordigital",
+      "Title": "El \"real de ocho\" la moneda que fue modelo para el dólar estadounidense",
+      "Description": "Fue la primera divisa en globalizarse en la historia moderna y logró mantener su vigencia en países como China hasta finales de 1800.etiquetas: dolar, moneda mundial, real» noticia original (www.bbc.com)",
+      "Url": "https://www.meneame.net/m/cultura/real-ocho-moneda-fue-modelo-dolar-estadounidense",
+      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
+      "PublishedAt": "2024-08-17T13:32:17Z",
+      "Content": "Que triste que tenga que ser la BBC quién venga a instruirnos."
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2021/04/peso.jpg",
       "PublishedAt": "2024-08-05T14:13:45Z",
       "Content": "El peso se depreciaba este lunes por tercera jornada consecutiva, aunque moderaba el fuerte derrumbe observado la noche del domingo en sus operaciones en el exterior, en medio de crecientes preocupac… [+1923 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sopitas.com"
-      },
-      "Author": "Lucy Sanabria",
-      "Title": "¿Qué es una recesión y qué tiene que ver con el peso mexicano y el dólar?",
-      "Description": "Además de ser tendencia por los Juegos Olímpicos de París, el 5 de agosto Japón fue protagonista de las redes por el llamado ‘lunes negro’ o...\nThe post ¿Qué es una recesión y qué tiene que ver con el peso mexicano y el dólar? appeared first on Sopitas.com.",
-      "Url": "https://www.sopitas.com/noticias/recesion-que-es-peso-dolar-japon/",
-      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2024/06/los-simpson-homero-bart-pensando.jpg",
-      "PublishedAt": "2024-08-05T13:54:56Z",
-      "Content": "Una recesión se traduce en el estancamiento económico de un país con el aumento del desempleo y la caída de producción. Situación temida para Estados Unidos y que ha impactado en la Bolsa de Japón y,… [+4492 chars]"
     }
   ]
 }
