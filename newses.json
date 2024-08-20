@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 19 de agosto",
+      "Description": "Consulta la cotización del dólar frente al peso mexicano hoy, lunes 19 de agosto de 2024, y obtén un resumen completo de la situación económica en México. Mantente informado sobre las fluctuaciones del tipo de cambio.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-19-de-agosto-nid19082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-19T14:27:21Z",
+      "Content": "Este lunes 19 de agosto, el precio del dólar en México es de $18,6228, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2474 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-de-dolar-a-peso-mexicano-el-valor-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-05T14:30:33Z",
       "Content": "Este lunes 5 de agosto, el precio del dólar en México es de $19,0442 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2493 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso se repliega tras perforar barrera de 20 unidades por dólar pero pierde más de 2%; BMV cae 1.8%",
-      "Description": "Forbes México.\n Peso se repliega tras perforar barrera de 20 unidades por dólar pero pierde más de 2%; BMV cae 1.8%\n\nEl peso cotizaba en 19.5645 por dólar, con un retroceso de un 2.10% frente al precio de referencia de Reuters del viernes. \nPeso se repliega t…",
-      "Url": "https://www.forbes.com.mx/peso-se-repliega-tras-perforar-barrera-de-20-unidades-por-dolar-pero-pierde-mas-de-2-bmv-cae-1-8/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2021/04/peso.jpg",
-      "PublishedAt": "2024-08-05T14:13:45Z",
-      "Content": "El peso se depreciaba este lunes por tercera jornada consecutiva, aunque moderaba el fuerte derrumbe observado la noche del domingo en sus operaciones en el exterior, en medio de crecientes preocupac… [+1923 chars]"
     }
   ]
 }
