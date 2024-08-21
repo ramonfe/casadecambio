@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso sigue dormido, se deprecia frente al dólar y abre en 18.90 unidades este martes",
+      "Description": "El peso mexicano continúa con una jornada de retrocesos frente al dólar previo a la decisión de la Fed sobre el posible recorte a su tasa de interés.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/20/peso-dolar-precio-hoy-20-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/vfOqSWB0wkS-5r2j8eScXwrcFNo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C4NJ2PHZZZEYVFW2WRXOSGAEDQ.jpg",
+      "PublishedAt": "2024-08-20T16:29:19Z",
+      "Content": "El peso mexicano se encamina a registrar una segunda jornada de retrocesos frente al dólar como parte de la cautela del mercado, antes de que se den a conocer factores que confirmen que la Fed estarí… [+1736 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/09/MG_0132-1.jpg",
       "PublishedAt": "2024-08-06T23:00:54Z",
       "Content": "El dólar registró este martes su mayor nivel desde finales de 2022, con lo que el peso sumó cuatro sesiones de pérdidas y un retroceso acumulado de 4.72%, luego del nerviosismo por la salud de la eco… [+1776 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Noticiaslatam.lat"
-      },
-      "Author": "Sputnik Mundo",
-      "Title": "Luis Arce anuncia cumbre económica para evaluar tipo de cambio del dólar",
-      "Description": "SANTA CRUZ (Sputnik) — El presidente de Bolivia, Luis Arce, anunció una cumbre económica para evaluar el tipo de cambio del dólar frente a la moneda local (peso boliviano), debido a la escasez de divisas en el país.",
-      "Url": "https://noticiaslatam.lat/20240806/luis-arce-anuncia-cumbre-economica-para-evaluar-tipo-de-cambio-del-dolar-1156667482.html",
-      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1156667482.jpg?11278293501722965583",
-      "PublishedAt": "2024-08-06T17:33:00Z",
-      "Content": "Desde el Río Bravo hasta Tierra del Fuego, noticias, reportajes y análisis sobre la realidad latinoamericana\r\nhttps://noticiaslatam.lat/20240806/luis-arce-anuncia-cumbre-economica-para-evaluar-tipo-d… [+1711 chars]"
     }
   ]
 }
