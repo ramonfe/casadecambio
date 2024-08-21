@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Pagan hasta US$20.000 por esta moneda de un centavo de dólar",
+      "Description": "Descubre por qué algunas monedas de un centavo de dólar se venden por hasta US$20.000 en subastas, y qué características las hacen tan valiosas para los coleccionistas.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-hasta-us20000-por-esta-moneda-de-un-centavo-de-dolar-nid19082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-un-centavo-es-del-estado-de-I54VGLP3GRFAXNMPOQXGA5BUPI.jpg?auth=4b91a43922b8d9270792435f88efcc0ac17cb448c6a98bc90ca55ce715ed6541&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-19T21:52:34Z",
+      "Content": "El mercado informal de monedas y billetes aparece a diario en el centro de la escena debido a las exorbitantes ofertas que hacen los coleccionistas por algunas piezas que cumplen con determinadas car… [+2830 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: el Banco Central extendió hoy su racha compradora de reservas",
+      "Description": "Se quedó con US$88 millones, el segundo mayor monto en lo que va del mes, en una jornada en la que se notó otra vez una retracción en la demanda que algunos vinculan con expectativa de rebaja del impuesto PAIS al dólar importador",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-el-banco-central-extendio-hoy-su-racha-compradora-de-reservas-nid19082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-volvio-a-comprar-dolares-y-lleva-VFWM6JF45NC5JIXXYEKVX6ZYFI.JPG?auth=32dfae73bd8296792a7f5761ac875a002bb0155858b381ffca536c5b908acd90&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-19T21:35:09Z",
+      "Content": "El Banco Central (BCRA) logró extender y dar nuevo impulso hoy a la racha compradora de reservas que lleva adelante desde hace nueve ruedas, al adquirir mediante intervenciones sobre el mercado cambi… [+2724 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Lunes de ‘alerta sísmica’ para el peso: Abre semana con pérdida de 12 centavos ante el dólar",
+      "Description": "La atención de los mercados se traslada a Jackson Hole, donde los inversionistas esperan que la Fed aclare si recortará la tasa en septiembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/19/peso-dolar-precio-hoy-19-de-agosto-de-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mRvqKzZhl37Io7NbCXjG8qGD6WQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SHXWXWWAGZFRRICXSIYFVQVOIA.jpg",
+      "PublishedAt": "2024-08-19T16:38:23Z",
+      "Content": "El peso mexicano inicia la semana bursátil con una caída ante el dólar como parte de una corrección después de haber ligado dos semanas consecutivas de avances.\r\nLa depreciación del peso mexicano ant… [+1635 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -353,45 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-en-este-martes-6-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-06T14:07:07Z",
       "Content": "Este martes 6 de agosto, el precio del dólar en México es de $19,3905 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2196 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Bolsa de Japón ‘rebota’ y sube 7 por ciento: Peso mexicano se recupera a 19.24 unidades por dólar",
-      "Description": "Con la apertura de los mercados en Asia, el peso mexicano muestra mejoras tras la caída del domingo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/05/peso-mexicano-se-recupera-cotiza-en-19-24-unidades-por-dolar-tras-apertura-de-la-bolsa-de-japon-6-de-agosto/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/ZE5W7uTbS198l_Mw4amAI0UgFIo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/D2QJVYCUABB7TEEYWMW5W6BSXM.jpeg",
-      "PublishedAt": "2024-08-06T02:20:25Z",
-      "Content": "Los mercados en Japón amanecieron con ganancias este martes 6 de agosto (tiempo local), lo que ha provocado que el peso mexicano no registre pérdidas similares a las del domingo 4 de agosto, cuando a… [+3028 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Bloomberg",
-      "Title": "Caída del peso EN VIVO: Dólar se dirige a las 20 unidades este lunes",
-      "Description": "Cerca de las 7:00 horas de este lunes, el tipo de cambio se ubicaba en los 19:51 pesos por dólar, de acuerdo con datos de Bloomberg.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/05/peso-dolar-precio-en-vivo-hoy-5-de-agosto-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/wgZ1ICqpiUYZBuQCsnXXtDXKGXo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3YTRI5AQ45EXTOBR6Y3NLG65XU.jpg",
-      "PublishedAt": "2024-08-05T14:44:21Z",
-      "Content": "El yen y el yuan subieron este lunes 5 de agosto; sin embargo, el peso mexicano extendió su caída a medida que los operadores seguían desmantelando la popular estrategia comercial carry trade. A las … [+4230 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 5 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 5 de agosto de 2024; Índice de miedo en niveles récord y probabilidad de recesión en EE.UU.; Qué esperan los mercados este lunes 5 de agosto",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-5-de-agosto-nid05082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-cotizacion-de-dolar-a-peso-mexicano-el-valor-7XWDGZUDVZAMLNTLXWQAFYWAGE.jpg?auth=26c41d414f556c52f44cd72cff20884033477612bad2a57dd79d504c2b2b3cba&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-05T14:30:33Z",
-      "Content": "Este lunes 5 de agosto, el precio del dólar en México es de $19,0442 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de un… [+2493 chars]"
     }
   ]
 }
