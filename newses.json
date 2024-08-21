@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 20 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 20 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-20-de-agosto-nid20082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-20T13:30:14Z",
+      "Content": "Este martes 20 de agosto, el precio del dólar en México es de $18,7357, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2520 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Record.com.mx"
+      },
+      "Author": "Record.com.mx",
+      "Title": "¿Cuál es el precio del dólar hoy, martes 20 de agosto de 2024? El peso se debilita",
+      "Description": "Te informamos diariamente el valor de la moneda de los Estados Unidos",
+      "Url": "https://www.record.com.mx/contra/cual-es-el-precio-del-dolar-hoy-martes-20-de-agosto-de-2024-el-peso-se-debilita",
+      "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/08/20/proyecto_nuevo_-_2024-08-20t071509.222.jpg",
+      "PublishedAt": "2024-08-20T13:29:30Z",
+      "Content": "El peso mexicano experimentó una depreciación al inicio de la semana, interrumpiendo una racha de cuatro días de ganancias. Este movimiento se atribuye al fortalecimiento del yen y a inquietudes rela… [+1239 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1156667482.jpg?11278293501722965583",
       "PublishedAt": "2024-08-06T17:33:00Z",
       "Content": "Desde el Río Bravo hasta Tierra del Fuego, noticias, reportajes y análisis sobre la realidad latinoamericana\r\nhttps://noticiaslatam.lat/20240806/luis-arce-anuncia-cumbre-economica-para-evaluar-tipo-d… [+1711 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "Peso detiene las ‘fugas’ ante el dólar: Se recupera y cotiza en las 19.36 unidades",
-      "Description": "",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/06/peso-dolar-precio-hoy-6-de-agosto-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/D_mHU05jlL5D8bAM-Td_xjYIqUY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WQ57XDAOVFEOTAA6O7NVH7J7XY.jpg",
-      "PublishedAt": "2024-08-06T15:25:22Z",
-      "Content": "El peso mexicano se sabe la de rebotar... o algo así: La moneda local se recupera modestamente ante el dólar después del lunes negro que arrastró a los mercados. \r\nLa apreciación del peso mexicano an… [+1377 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 6 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 6 de agosto de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-6-de-agosto-nid06082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-en-este-martes-6-de-LJRAKQJQLNCZTLVK3OUOHVGQ5Y.jpg?auth=84406aab44928d951ff77ffeca0f992d7671d05d73d3c1b8bda4b0c48ed3245f&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-06T14:07:07Z",
-      "Content": "Este martes 6 de agosto, el precio del dólar en México es de $19,3905 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2196 chars]"
     }
   ]
 }
