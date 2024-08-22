@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Pagan hasta US$4000 por esta moneda de cinco centavos de dólar: cómo identificarla",
+      "Description": "Descubre cómo identificar la valiosa moneda de cinco centavos de 1867, que puede alcanzar precios de hasta US$4000. Aprende sobre su historia y el error de acuñación que la convirtió en un tesoro para coleccionistas.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-hasta-us4000-por-esta-moneda-de-cinco-centavos-de-dolar-como-identificarla-nid21082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-moneda-de-cinco-centavos-de-dolar-que-atrapa-TKLAMF5JJ5EHFAOF6UUVW5YWZY.jpg?auth=e484a6e6ecc43b83a652ba9915deee4395271edbb030d9f103e168ed57791acb&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-21T22:00:58Z",
+      "Content": "Una moneda de cinco centavos de dólar estadounidense, acuñada en 1867, captó la atención de los coleccionistas por tener un inusual y valioso detalle. Este objeto, que originalmente tenía un valor no… [+2604 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/oS3qlPypVXyLAJZ-Xov_mYvJMho=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/62AZCNBGABBVJDQ5GQ5PBNINSQ.jpg",
       "PublishedAt": "2024-08-07T16:50:15Z",
       "Content": "El peso mexicano registra un notable rebote ante el dólar durante la sesión de este miércoles, con lo que podría acabar su racha de cuatro caídas ante el billete verde. \r\nLa apreciación del peso mexi… [+1830 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Peso recupera terreno; dólar cede a menos de $20",
-      "Description": "Tras cuatro jornadas de fuertes pérdidas, el peso recupera terreno y el dólar opera en menos de $20 en ventanillas bancarias.",
-      "Url": "https://www.reforma.com/peso-recupera-terreno-tras-dias-de-fuertes-perdidas/ar2853139",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/985/4984887.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-08-07T14:49:51Z",
-      "Content": "02 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (07 agosto 2024) .-08:31 hrs"
     }
   ]
 }
