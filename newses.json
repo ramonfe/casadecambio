@@ -9,6 +9,19 @@
         "Name": "La Nacion"
       },
       "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 22 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este jueves 22 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-22-de-agosto-nid22082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/precio-del-dolar-a-peso-mexicano-la-cotizacion-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-22T13:53:58Z",
+      "Content": "Este jueves 22 de agosto, el precio del dólar en México es de $18,7357, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de… [+2636 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
       "Title": "Pagan hasta US$4000 por esta moneda de cinco centavos de dólar: cómo identificarla",
       "Description": "Descubre cómo identificar la valiosa moneda de cinco centavos de 1867, que puede alcanzar precios de hasta US$4000. Aprende sobre su historia y el error de acuñación que la convirtió en un tesoro para coleccionistas.",
       "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-hasta-us4000-por-esta-moneda-de-cinco-centavos-de-dolar-como-identificarla-nid21082024/",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
       "PublishedAt": "2024-08-07T17:10:47Z",
       "Content": "El recientemente golpeado peso, sujeto de fuertes embates internos y externos, podría seguir debilitándose frente al dólar ante una esperada volatilidad asociada a los temores de recesión en su vecin… [+3935 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Alejandro Moscosa",
-      "Title": "‘Rebototote’ para el peso mexicano: Se aprecia casi 2% y gana más de 30 centavos al dólar",
-      "Description": "La divisa mexicana se vio favorecida por un alivio del nerviosismo de los mercados, explicaron analistas de Monex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/07/peso-dolar-precio-hoy-7-de-agosto-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/oS3qlPypVXyLAJZ-Xov_mYvJMho=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/62AZCNBGABBVJDQ5GQ5PBNINSQ.jpg",
-      "PublishedAt": "2024-08-07T16:50:15Z",
-      "Content": "El peso mexicano registra un notable rebote ante el dólar durante la sesión de este miércoles, con lo que podría acabar su racha de cuatro caídas ante el billete verde. \r\nLa apreciación del peso mexi… [+1830 chars]"
     }
   ]
 }
