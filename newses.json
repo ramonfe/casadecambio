@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN/ SBH",
+      "Title": "Peso mexicano supera los 19.50 por dólar",
+      "Description": "Hay expectativa por el avance de la reforma judicial y el reparto de plurinominales.",
+      "Url": "https://aristeguinoticias.com/2208/dinero-y-economia/peso-mexicano-supera-los-19-50-por-dolar/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/12/dolar-economia-euro-fed-tasas-interes-15122023.jpg",
+      "PublishedAt": "2024-08-23T01:16:02Z",
+      "Content": "El peso mexicano se depreció con fuerza el jueves por cuarta jornada consecutiva, golpeado por crecientes preocupaciones sobre el potencial impacto de la reforma judicial.\r\nAl nerviosismo de los inve… [+1989 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/06/FER_9762.webp",
       "PublishedAt": "2024-08-07T23:53:14Z",
       "Content": "El peso se apreció este miércoles luego de cuatro jornadas de fuertes pérdidas, después de que un funcionario del banco central de Japón minimizó las posibilidades de nuevas alzas de tipos de interés… [+1998 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "¿Adiós, ‘súper peso’? La volatilidad podría presionar el tipo de cambio hacia 21 unidades por dólar",
-      "Description": "Forbes México.\n ¿Adiós, ‘súper peso’? La volatilidad podría presionar el tipo de cambio hacia 21 unidades por dólar\n\nLuego de haber llegado a máximos en casi una década en abril de 16.25 unidades el 'super peso' se ha desinflado y cotiza ahora en 19.15.\n¿Adió…",
-      "Url": "https://www.forbes.com.mx/adios-super-peso-la-volatilidad-podria-presionar-el-tipo-de-cambio-hacia-21-unidades-por-dolar/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2022/10/FER_1948.jpg",
-      "PublishedAt": "2024-08-07T17:10:47Z",
-      "Content": "El recientemente golpeado peso, sujeto de fuertes embates internos y externos, podría seguir debilitándose frente al dólar ante una esperada volatilidad asociada a los temores de recesión en su vecin… [+3935 chars]"
     }
   ]
 }
