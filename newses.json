@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Pagan más de US$100 mil por esta moneda de diez centavos de dólar: el detalle que la hace increíblemente rara",
+      "Description": "Una moneda de diez centavos de dólar de 1874 se vendió por más de US$100 mil. Acuñada en 90% de plata, esta rara pieza muestra a Lady Liberty en el anverso y dos pequeñas flechas junto a la fecha, lo que la hace increíblemente única.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-mas-de-us100-mil-por-esta-moneda-de-diez-centavos-de-dolar-el-detalle-que-la-hace-nid24082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-detalle-por-el-cual-una-moneda-de-diez-YZLJ7LT6DJAWHOSG2Y67DLRG6M.jpg?auth=973efb6acd111b7bcdfedd8455eb8c6b263fdd59ca2384ec458c803fce5f4a3f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-24T14:01:18Z",
+      "Content": "Una moneda de diez centavos de dólar acuñada en 1874 se convirtió en uno de los objetos más codiciados por los coleccionistas en la actualidad. El pasado miércoles 14 de agosto, este ejemplar fue ven… [+2820 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eleconomista.es"
+      },
+      "Author": "elEconomista.es",
+      "Title": "El euro se sitúa en su nivel más alto ante el dólar desde julio de 2023",
+      "Description": "El euro alcanzó este viernes su nivel más alto desde julio de 2023 y hacia las 16:46 GMT se cambiaba a 1,117 dólares al final de una semana en la que ha tendido al alza y ha logrado mantenerse permanentemente por encima de la barrera psicológica de los 1,1 dó…",
+      "Url": "https://www.eleconomista.es/economia/noticias/12959010/08/24/el-euro-se-situa-en-su-nivel-mas-alto-ante-el-dolar-desde-julio-de-2023.html",
+      "UrlToImage": "https://s03.s3c.es/imag/_v0/1200x655/c/7/c/euros.jpg",
+      "PublishedAt": "2024-08-24T11:32:19Z",
+      "Content": "El euro alcanzó este viernes su nivel más alto desde julio de 2023 y hacia las 16:46 GMT se cambiaba a 1,117 dólares al final de una semana en la que ha tendido al alza y ha logrado mantenerse perman… [+599 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
       "PublishedAt": "2024-08-08T22:19:43Z",
       "Content": "El peso y la Bolsa Mexicana de Valores recuperaron terreno este jueves impulsados por un mejor ambiente para los activos de riesgo, después de un informe mejor a lo esperado del empleo de Estados Uni… [+2055 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": null,
-      "Title": "Peso ‘se agarra fuerte’ antes de la decisión del Banxico: Se aprecia 1% ante el dólar",
-      "Description": "Janneth Quiroz, directora de análisis económico y cambiario de Monex, explicó que el miedo a una recesión en EU se está disipando.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/08/peso-dolar-precio-hoy-8-de-agosto-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/bHDvmd50fNUoRyIGcRk_boKal4U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JUFBN43LSJFHFEBGZLLOEMNGZE.jpg",
-      "PublishedAt": "2024-08-08T16:56:27Z",
-      "Content": "El peso mexicano toma un envión antes de que el Banco de México anuncie su nueva decisión de política monetaria de este 8 de agosto, y registra un importante avance contra el dólar.\r\nLa apreciación d… [+1646 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 8 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este jueves 8 de agosto de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-8-de-agosto-nid08082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-jueves-V5YOB3AXCRABTCIZZXNK5P4ZS4.jpg?auth=ab721a4b4d6d5b4c93e0b2e719ec7bcbdfb2da2fed332fb6b5e101f52fb28b28&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-08T14:38:22Z",
-      "Content": "Este jueves 8 de agosto, el precio del dólar en México es de $19,1890 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2504 chars]"
     }
   ]
 }
