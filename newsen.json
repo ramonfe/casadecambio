@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Hodl"
+      },
+      "Author": "Alex Richardson",
+      "Title": "Billion-Dollar Bank Apologizes After Accusing Client of Scam in ‘Kafkaesque’ Money Freeze: Report",
+      "Description": "British banking giant Starling Bank has apologized to a client after reportedly blocking his money transfer and forcing him to jump through a series of “absurd” hoops. Academic and professor John MacInnes says Starling froze a transfer of about $16,789 that h…",
+      "Url": "https://dailyhodl.com/2024/08/25/billion-dollar-bank-apologizes-after-accusing-client-of-scam-in-kafkaesque-money-freeze-report/",
+      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2023/05/freeze-us-dollar.jpg",
+      "PublishedAt": "2024-08-25T19:58:29Z",
+      "Content": "British banking giant Starling Bank has apologized to a client after reportedly blocking his money transfer and forcing him to jump through a series of “absurd” hoops.\r\nAcademic and professor John Ma… [+2381 chars]"
+    },
     {
       "Source": {
         "Id": null,
