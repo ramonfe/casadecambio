@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 26,
   "Articles": [
     {
       "Source": {
@@ -340,19 +340,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-27T16:00:53Z",
       "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Prediction: These 2 \"Magnificent Seven\" Stocks Will (at Least Briefly) Lose Their Trillion-Dollar Market Caps by 2026 - Yahoo Finance",
-      "Description": "Prediction: These 2 \"Magnificent Seven\" Stocks Will (at Least Briefly) Lose Their Trillion-Dollar Market Caps by 2026Yahoo Finance View Full Coverage on Google News ...",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174590524",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-25T13:53:50Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     }
   ]
 }
