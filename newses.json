@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso retoma racha negativa ante avance global del dólar; sigue preocupación por reformas de AMLO",
+      "Description": "Forbes México.\n Peso retoma racha negativa ante avance global del dólar; sigue preocupación por reformas de AMLO\n\nEl peso cotizaba en 19.2300 unidades, con un retroceso de 0.71% frente al precio de referencia de Reuters del viernes, cuando repuntó un 2.2% des…",
+      "Url": "https://www.forbes.com.mx/peso-retoma-racha-negativa-ante-avance-global-del-dolar-sigue-preocupacion-por-reformas-de-amlo/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-08-26T14:09:19Z",
+      "Content": "El peso se depreciaba este lunes ante un avance global del dólar, retomando una racha negativa que dominó en el mercado la semana pasada en medio de crecientes preocupaciones sobre el potencial impac… [+1149 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-asi-cotiza-la-divisa-JLZWMGP52NF3TMFXKT3UJP245M.jpg?auth=9578cd083129c79bb6d173841dbb3fc1ca03bcb6cc6654c9022aa0d735d0b06a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-09T14:26:43Z",
       "Content": "Este viernes 9 de agosto, el precio del dólar en México es de $19,0900 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2572 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes.com.mx"
-      },
-      "Author": "Forbes Staff",
-      "Title": "Peso cierra debajo de las 19 unidades por dólar tras sesión volátil",
-      "Description": "Forbes México.\n Peso cierra debajo de las 19 unidades por dólar tras sesión volátil\n\nSe aprecia 1.65%, su mejor ganancia desde el cinco de junio, según Banxico; datos laborales en EU y recorte de tasa en México influyen.\nPeso cierra debajo de las 19 unidades …",
-      "Url": "https://www.forbes.com.mx/peso-cierra-debajo-de-las-19-unidades-por-dolar-tras-sesion-volatil/",
-      "UrlToImage": "https://cdn.forbes.com.mx/2023/08/Dinero_01.webp",
-      "PublishedAt": "2024-08-08T22:19:43Z",
-      "Content": "El peso y la Bolsa Mexicana de Valores recuperaron terreno este jueves impulsados por un mejor ambiente para los activos de riesgo, después de un informe mejor a lo esperado del empleo de Estados Uni… [+2055 chars]"
     }
   ]
 }
