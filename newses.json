@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Javier Blanco",
+      "Title": "Dólar: se cortó la racha compradora y el Banco Central tuvo que vender US$75 millones",
+      "Description": "La entidad, que mantiene un saldo de intervenciones positivo en lo que va del mes, llevaba 14 ruedas adquiriendo y una con saldo neutro",
+      "Url": "https://www.lanacion.com.ar/economia/dolar-se-corto-la-racha-compradora-y-el-banco-central-tuvo-que-vender-us75-millones-nid27082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-debio-vender-reservas-IIWTPFNGIJGMTJBBVHRFDER4ZQ.JPG?auth=5495d4f1740324982c8fef813d088207a1cc563d27a5bc0f0804f75bb1619c78&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-27T20:12:36Z",
+      "Content": "La racha compradora de reservas que llevó adelante el Banco Central (BCRA) durante 14 ruedas consecutivas, y que ya había quedado en pausa ayer al cerrar sus intervenciones sobre el mercado con saldo… [+3356 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-13T13:42:40Z",
       "Content": "Este martes 13 de agosto, el precio del dólar en México es de $19,032 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2375 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 12 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este lunes 12 de agosto de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-12-de-agosto-nid12082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-12T13:57:02Z",
-      "Content": "Este lunes 12 de agosto, el precio del dólar en México es de $18,8368 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2583 chars]"
     }
   ]
 }
