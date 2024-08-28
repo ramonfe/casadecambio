@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 27 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 27 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/horoscopo-y-astrologia/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-27-de-agosto-nid27082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-27T15:27:55Z",
+      "Content": "Este martes 27 de agosto, el precio del dólar en México es de $19,382, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2426 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1156748110.jpg?11553884001723246191",
       "PublishedAt": "2024-08-09T23:29:50Z",
       "Content": "\"Requiere mostrar señales de que su autonomía está intacta; es muy importante para que haya [seguridad] para invertir en México. Igualmente, necesita ser muy cuidadoso en su política monetaria. Ante … [+109 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Javier Blanco",
-      "Title": "Dólar hoy: el Banco Central cerró una semana “compradora” y flexibilizó un poco más el cepo",
-      "Description": "Se alzó hoy con US$3 millones y sumó por esta vía US$86 millones, tras dos semanas con saldos negativos;",
-      "Url": "https://www.lanacion.com.ar/economia/el-banco-central-cerro-una-semana-compradora-flexibilizando-un-poco-mas-el-cepo-nid09082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-materia-reservas-el-bcra-tuvo-una-buena-semana-H266UIAOZVHSFJGY7V5GLOR5OA.jpg?auth=fa82cfcc8ab1335117db4af04b3eb600330b213954e7e2ca5f4eb1b376c04d08&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-09T20:17:17Z",
-      "Content": "El Banco Central (BCRA) cerró hoy sus intervenciones sobre el mercado cambiario oficial con un saldo favorable de US$3 millones, al encadenar la cuarta compra consecutiva y sumar por esta vía US$86 m… [+2813 chars]"
     }
   ]
 }
