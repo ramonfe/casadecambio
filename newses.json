@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Montevideo.com.uy"
+      },
+      "Author": "Montevideo Portal",
+      "Title": "Asumió el nuevo vice del Banco Central: ¿qué dijo sobre el nivel del dólar?",
+      "Description": "Martín Inthamoussu afirmó que la principal meta es controlar la inflación y que la institución “no tiene un objetivo de tipo de cambio”.",
+      "Url": "https://www.montevideo.com.uy/Noticias/Asumio-el-nuevo-vice-del-Banco-Central--que-dijo-sobre-el-nivel-del-dolar--uc898399",
+      "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/892851.jpg",
+      "PublishedAt": "2024-08-27T21:03:00Z",
+      "Content": "Montevideo Portal\r\nEl licenciado en Dirección y Administración de Empresas Martín Inthamoussu fue presentado este martes como vicepresidente del directorio del Banco Central del Uruguay (BCU), en un … [+1431 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-en-esta-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-14T13:46:48Z",
       "Content": "Este miércoles 14 de agosto, el precio del dólar en México es de $19,0387 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2372 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este martes 13 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este martes 13 de agosto de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-martes-13-de-agosto-nid13082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-13T13:42:40Z",
-      "Content": "Este martes 13 de agosto, el precio del dólar en México es de $19,032 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2375 chars]"
     }
   ]
 }
