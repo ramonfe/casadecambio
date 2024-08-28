@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "Peso supera 20 unidades por dólar en bancos ante avance de reforma judicial de AMLO",
+      "Description": "Forbes México.\n Peso supera 20 unidades por dólar en bancos ante avance de reforma judicial de AMLO\n\nEl tipo de cambio cotizaba en 20.14 pesos por dólar a la venta en ventanillas de Citibanamex.\nPeso supera 20 unidades por dólar en bancos ante avance de refor…",
+      "Url": "https://www.forbes.com.mx/peso-supera-20-unidades-por-dolar-en-bancos-ante-avance-de-reforma-judicial-de-amlo/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-08-27T16:40:10Z",
+      "Content": "El peso se depreciaba este martes rompiendo la barrera de las 20 unidades por dólar al menudeo luego de que la reforma al Poder Judicial propuesta por el presidente Andrés Manuel López Obrador avanza… [+2345 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Reforma al Poder Judicial ‘sentencia’ al peso: Pierde 32 centavos ante el dólar",
+      "Description": "El peso mexicano ha perdido alrededor de 60 centavos en apenas dos días por la incertidumbre creada por la reforma judicial.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/27/reforma-al-poder-judicial-sentencia-al-peso-pierde-32-centavos-ante-el-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/-h-6i6h3BUHUTPJ76U70XidYKvA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/O2ZMMB5E2ZGETNX4AEUJAP3IBM.jpg",
+      "PublishedAt": "2024-08-27T16:02:33Z",
+      "Content": "El peso mexicano está en caída libre este martes ante el dólar debido a la mayor aversión al riesgo entre los inversionistas por el avance de la reforma al Poder Judicial en México. \r\nLa depreciación… [+2479 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-de-este-52A5623Z3RF3ZPWUP5AB5HPWYM.jpg?auth=147f7946108f881a811ea4e1c82d56ecf2db15407c05f38df71020aad20da019&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-12T13:57:02Z",
       "Content": "Este lunes 12 de agosto, el precio del dólar en México es de $18,8368 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de u… [+2583 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Carla Gloria Colomé",
-      "Title": "Celia Cruz, en la moneda de 25 centavos de dólar: “EE.UU. le dio el reconocimiento que Cuba le negó”",
-      "Description": "La artista es primera afrolatina en plasmar su rostro alegre y la icónica palabra “Azúcar” en un ejemplar de un cuarto de dólar",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/celia-cruz-en-la-moneda-de-25-centavos-de-dolar-eeuu-le-dio-el-reconocimiento-que-cuba-le-nego-nid11082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/celia-cruz-en-su-casa-en-una-imagen-de-3CPEZFRLA5AVNEKOAFQCAIJGOE.jpg?auth=d7f3aa9d6c2a01c82eddb9f0f6cb7224b737594566005c2a5bd7c971713e9a34&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-11T12:16:00Z",
-      "Content": "Omer Pardillo-Cid, el albacea de Celia Cruz, conserva una foto donde la cantante permanece de pie, con los brazos abiertos, la peluca rojiza y la sonrisa extravagante frente a una pared llena de trof… [+9344 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Noticiaslatam.lat"
-      },
-      "Author": "Angélica Ferrer",
-      "Title": "Respiro para el peso mexicano: cierra la semana con ligera apreciación frente al dólar",
-      "Description": "El peso mexicano cerró la semana con una apreciación cercana al 3%, esto después de variaciones negativas en los mercados internacionales y el recorte de la tasa de interés por parte del Banco de México (Banxico).",
-      "Url": "https://noticiaslatam.lat/20240809/respiro-para-el-peso-mexicano-cierra-la-semana-con-ligera-apreciacion-frente-al-dolar-1156748110.html",
-      "UrlToImage": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1156748110.jpg?11553884001723246191",
-      "PublishedAt": "2024-08-09T23:29:50Z",
-      "Content": "\"Requiere mostrar señales de que su autonomía está intacta; es muy importante para que haya [seguridad] para invertir en México. Igualmente, necesita ser muy cuidadoso en su política monetaria. Ante … [+109 chars]"
     }
   ]
 }
