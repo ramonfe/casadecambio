@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Bank of New York Mellon Corp Has $159.36 Million Position in Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "Bank of New York Mellon Corp reduced its position in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.8% during the 2nd quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The firm owned 1,492…",
+      "Url": "https://www.etfdailynews.com/2024/08/28/bank-of-new-york-mellon-corp-has-159-36-million-position-in-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
+      "PublishedAt": "2024-08-28T22:53:50Z",
+      "Content": "Bank of New York Mellon Corp reduced its position in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 1.8% during the 2nd quarter, according to the company in its most recent 13F filing wit… [+5367 chars]"
+    },
     {
       "Source": {
         "Id": null,

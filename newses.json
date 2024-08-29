@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes.com.mx"
+      },
+      "Author": "Forbes Staff",
+      "Title": "El peso ‘asoma la cabeza’ y se aleja de las 20 unidades por dólar",
+      "Description": "Forbes México.\n El peso ‘asoma la cabeza’ y se aleja de las 20 unidades por dólar\n\nLa moneda gana 0.36% este miércoles debido a una corrección en el mercado tras las fuertes pérdidas de las dos jornadas previas.\nEl peso ‘asoma la cabeza’ y se aleja de las 20 …",
+      "Url": "https://www.forbes.com.mx/el-peso-asoma-la-cabeza-y-se-aleja-de-las-20-unidades-por-dolar/",
+      "UrlToImage": "https://cdn.forbes.com.mx/2023/07/Peso-Dolar-FER_0424.webp",
+      "PublishedAt": "2024-08-28T22:14:46Z",
+      "Content": "El peso se apreció después de dos jornadas consecutivas de importantes pérdidas, en un mercado errático y sumamente sensible a noticias sobre el futuro de la controvertida reforma judicial impulsada … [+3225 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/cgWc_h7cI8ddqgez-pPS23iDP84=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ATYLOJWTBJEJVMVY7GHNEGIZ5Q.jpg",
       "PublishedAt": "2024-08-16T15:41:09Z",
       "Content": "El peso mexicano se perfila para ganar la semana al dólar después de que se vio beneficiado en los últimos días por datos que mostraron la fortaleza de la economía de Estados Unidos, aunque cae en la… [+1684 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso ‘anda de fiesta’ ante el dólar: Se cotiza en las 18.65 unidades",
-      "Description": "Datos económicos de EU publicados en esta semana han disipado los temores a una recesión en la economía más grande del mundo.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/15/peso-dolar-precio-hoy-15-de-agosto-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/6kQ3X4HiiSiXP4rbVwq0fN-nzJE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GK22W4IZLJCYBA6PHRC56ALGJY.jpg",
-      "PublishedAt": "2024-08-15T15:36:13Z",
-      "Content": "El peso mexicano se perfila para hilar su tercer día de ganancias ante el dólar, luego de que el miedo a una recesión en Estados Unidos se disipó tras la publicación de datos económicos positivos. \r\n… [+1874 chars]"
     }
   ]
 }
