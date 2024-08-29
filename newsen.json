@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 26,
+  "TotalResults": 27,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "Independence Bank of Kentucky Boosts Stock Position in Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "Independence Bank of Kentucky grew its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 406.7% during the 2nd quarter, HoldingsChannel reports. The fund owned 3,719 shares of the company’s stock after buying an additional 2,985 shares durin…",
+      "Url": "https://www.etfdailynews.com/2024/08/28/independence-bank-of-kentucky-boosts-stock-position-in-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
+      "PublishedAt": "2024-08-28T04:41:03Z",
+      "Content": "Independence Bank of Kentucky grew its stake in shares of Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 406.7% during the 2nd quarter, HoldingsChannel reports. The fund owned 3,719 shares of the c… [+5190 chars]"
+    },
     {
       "Source": {
         "Id": null,
