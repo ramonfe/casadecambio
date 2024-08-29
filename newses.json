@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "¿Mercados en Asia madrugan al peso mexicano? Tipo de cambio sigue cerca de las 20 unidades por dólar",
+      "Description": "El peso llegó a uno de sus peores niveles en lo que va de los últimos dos años derivado de las tensiones por la reforma al Poder Judicial.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/27/mercados-en-asia-como-operan-este-28-de-agosto-mexicano-peso-tipo-de-cambio-frente-al-dolar/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/sMA43ffcxejkajP9fgewphJquC8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HKONBJP65VD2BBMNJR33HSLJ3U.jpeg",
+      "PublishedAt": "2024-08-28T02:14:20Z",
+      "Content": "Los mercados financieros en Asia abrieron con cautela este miércoles 28 de agosto (hora local), mientras el peso mexicano experimentó una jornada de pérdidas frente al dólar, lo que le dejó cerca de … [+4326 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891619.jpg",
       "PublishedAt": "2024-08-15T14:30:00Z",
       "Content": "Por Miguel Arreguimiguelarregui@yahoo.com \r\nUna ley del 23 de junio de 1862, aprobada bajo la presidencia de Bernardo Prudencio\r\nBerro, fijó como monedas el peso de plata y el doblón de oro: la prime… [+14453 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 14 de agosto",
-      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este miércoles 14 de agosto de 2024",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-14-de-agosto-nid14082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-en-esta-ZE5BUZZ5MVFSVPDQNEM2A4AFNQ.jpg?auth=3f33824aaf235c97045fd5d4f8fa57c04ac48b1850c859ace35ec974f7dc39b5&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-14T13:46:48Z",
-      "Content": "Este miércoles 14 de agosto, el precio del dólar en México es de $19,0387 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es … [+2372 chars]"
     }
   ]
 }
