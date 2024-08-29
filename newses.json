@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este miércoles 28 de agosto",
+      "Description": "Consulta el tipo de cambio del dólar a peso mexicano para este miércoles 28 de agosto de 2024. Accede a un resumen completo de la situación económica en México y el valor de la divisa hoy.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-miercoles-28-de-agosto-nid28082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-ADHS7E7YWZCEFITPYDULXYAEOI.jpg?auth=a362e877c1aac843f47db646511c32cb521c0b149ec652cc7d0dfb38bcd3ec9f&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-28T15:51:34Z",
+      "Content": "Este miércoles 28 de agosto, el precio del dólar en México es de $19,6692, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es… [+2591 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": null,
+      "Title": "Dólar le ‘da un break’ al peso: Se cotiza en las 19.47 unidades tras desplome por reforma judicial",
+      "Description": "El peso mexicano acumuló una pérdida de casi 60 centavos ante el dólar en apenas dos días por la incertidumbre provocada por la reforma al Poder Judicial.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/28/peso-dolar-precio-hoy-28-agosto-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/aAiNxu4TWrKT5EjPJqbbdlvHZPM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/M2FKVN5VSFBTPPGUKWZ56TG2AE.jpg",
+      "PublishedAt": "2024-08-28T15:13:36Z",
+      "Content": "El peso mexicano se aprecia fuertemente ante el dólar en la sesión de este miércoles, esto después de dos días con caídas y ubicarse en su peor nivel desde diciembre de 2022 debido al avance de la re… [+2249 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/6kQ3X4HiiSiXP4rbVwq0fN-nzJE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GK22W4IZLJCYBA6PHRC56ALGJY.jpg",
       "PublishedAt": "2024-08-15T15:36:13Z",
       "Content": "El peso mexicano se perfila para hilar su tercer día de ganancias ante el dólar, luego de que el miedo a una recesión en Estados Unidos se disipó tras la publicación de datos económicos positivos. \r\n… [+1874 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este jueves 15 de agosto",
-      "Description": "Consulta el tipo de cambio del dólar a peso mexicano para hoy, jueves 15 de agosto de 2024. Obtén un resumen completo de la situación económica en México y el valor de la divisa en el mercado.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-jueves-15-de-agosto-nid15082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-15T14:32:24Z",
-      "Content": "Este jueves 15 de agosto, el precio del dólar en México es de $18,8478 de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2475 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Montevideo.com.uy"
-      },
-      "Author": "Montevideo Portal",
-      "Title": "La creación del peso uruguayo, que fue tan sólido como el dólar durante más de medio siglo",
-      "Description": "En 1863 no había un banco oficial por lo que los billetes podían ser emitidos por instituciones habilitadas, que debían convertirlos en oro.",
-      "Url": "https://www.montevideo.com.uy/El-nacimiento-del-Uruguay-moderno/La-creacion-del-peso-uruguayo-que-fue-tan-solido-como-el-dolar-durante-mas-de-medio-siglo-uc897224",
-      "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891619.jpg",
-      "PublishedAt": "2024-08-15T14:30:00Z",
-      "Content": "Por Miguel Arreguimiguelarregui@yahoo.com \r\nUna ley del 23 de junio de 1862, aprobada bajo la presidencia de Bernardo Prudencio\r\nBerro, fijó como monedas el peso de plata y el doblón de oro: la prime… [+14453 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 26,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sostav.ru"
+      },
+      "Author": null,
+      "Title": "Konstantin Tserazov: dollar and euro exchange rates against the ruble rose by 3.03% and 3.86%, respectively, over the week",
+      "Description": "From August 19 to 23, the Moscow Exchange Index fell by 5.86%, and the RTS Index by 8.63%. The first benchmark closed the week at its lowest level since May 2023, the second - since February 2023, and the difference in their percentage dynamics was due to the…",
+      "Url": "https://www.sostav.ru/blogs/269934/50499",
+      "UrlToImage": "https://www.sostav.ru/appi/blogs/feedSocialImage/get?feedId=50499",
+      "PublishedAt": "2024-08-28T15:17:41Z",
+      "Content": "From August 19 to 23, the Moscow Exchange Index fell by 5.86%, and the RTS Index by 8.63%. The first benchmark closed the week at its lowest level since May 2023, the second - since February 2023, an… [+3582 chars]"
+    },
     {
       "Source": {
         "Id": null,
