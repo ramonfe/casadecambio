@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
     {
       "Source": {
@@ -119,6 +119,19 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-EEYD5OU5DJGLRKVD2ALBQMLCTU.jpg?auth=48813ab961b14b85099f353a997f6e648b9dd19a607801d8962da67ee4c81d9a&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-27T15:27:55Z",
       "Content": "Este martes 27 de agosto, el precio del dólar en México es de $19,382, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2426 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "cecilia.estrada",
+      "Title": "¡Peso retoma racha negativa! Este es el precio del dólar hoy 26 de agosto de 2024",
+      "Description": "Por S. García\r\nEl peso mexicano se depreciaba el lunes ante un avance global del dólar, retomando una racha negativa que dominó en el mercado la semana pasada, con lo que el precio del dólar hoy 26 de agosto de 2024 inicia en 19.23 unidades por cada billete v…",
+      "Url": "https://www.excelsior.com.mx/nacional/precio-dolar-hoy-26-agosto-2024-tipo-cambio-bancos-mexico/1670337",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/08/26/3168961.jpg",
+      "PublishedAt": "2024-08-26T15:45:42Z",
+      "Content": "El peso mexicano se depreció el lunes ante un avance global del dólar, debido a las preocupaciones sobre el potencial impacto de una serie de polémicas reformas impulsadas por el gobierno, con lo que… [+1893 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-16T15:50:16Z",
       "Content": "Este viernes 16 de agosto, el precio del dólar en México es de $18,6513, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Peso apunta a darle un ‘ten para que aprendas’ al dólar en la semana: Se cotiza en 18.68 unidades",
-      "Description": "¿Vas a comprar dólares? El precio del billete verde en los banco es de 19.16 pesos, de acuerdo con datos reportados de Citibanamex.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/16/peso-dolar-precio-hoy-16-de-agosto-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/cgWc_h7cI8ddqgez-pPS23iDP84=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ATYLOJWTBJEJVMVY7GHNEGIZ5Q.jpg",
-      "PublishedAt": "2024-08-16T15:41:09Z",
-      "Content": "El peso mexicano se perfila para ganar la semana al dólar después de que se vio beneficiado en los últimos días por datos que mostraron la fortaleza de la economía de Estados Unidos, aunque cae en la… [+1684 chars]"
     }
   ]
 }
