@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 28,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Pat McAfee announces the return of an NFL star to his program despite its million-dollar price tag",
+      "Description": "There&apos;s been speculation about whether Aaron Rodgers might make another appearance on &quot;The Pat McAfee Show&quot; during the 2024 NFL season, and it seems the door is open",
+      "Url": "https://www.marca.com/en/nfl/2024/08/29/66d04581e2704ea9408b458d.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/7c223463de78c4bf6d7592e2e80589e7/crop/0x0/2037x1358/resize/1200/f/webp/assets/multimedia/imagenes/2024/03/07/17098220367908.jpg",
+      "PublishedAt": "2024-08-29T09:58:42Z",
+      "Content": "There's been speculation about whether Aaron Rodgers might make another appearance on \"The Pat McAfee Show\" during the 2024 NFL season, and it seems the door is open for that possibility. Pat McAfee … [+1523 chars]"
+    },
     {
       "Source": {
         "Id": null,
