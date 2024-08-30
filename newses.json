@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Peso ‘roza’ las 20 unidades ante el dólar: ¿Cómo está el tipo de cambio hoy?",
+      "Description": "La reforma judicial en México sigue haciendo 'estragos' al peso mexicano, que acumula una pérdida de más de 80 centavos en lo que va de la semana.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/29/peso-dolar-precio-hoy-29-agosto-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/G8i2QIRe2bDaqW58r_cOy_UJDa4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/K4DGWWSLT5HMXLSLDNQU6BOC3I.jpg",
+      "PublishedAt": "2024-08-29T15:24:31Z",
+      "Content": "Se prenden las alarmas para el peso mexicano pues el tipo de cambio está cerca de cruzar hacia las 20 unidades ante el dólar este jueves.\r\nLa depreciación del peso mexicano ante el dólar es de 1.36 p… [+2972 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame.png",
       "PublishedAt": "2024-08-17T13:32:17Z",
       "Content": "Que triste que tenga que ser la BBC quién venga a instruirnos."
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Pagan más de US$190 mil por esta moneda de un dólar de Hawái: cómo identificarla",
-      "Description": "La pieza de plata fue acuñada en 1883 durante el reinado del rey Kalākaua I, el penúltimo monarca del archipiélago volcánico; son idénticas en tamaño y peso a las monedas de EE.UU. hechas del mismo metal",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-mas-de-us190-mil-por-esta-moneda-de-un-dolar-de-hawai-como-identificarla-nid16082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/esta-moneda-de-1883-se-ha-convertido-en-un-objeto-YSAXBFMTGJCABOMKM5RAKVX35U.jpg?auth=535827b3c2246879f6becb5ec2655a9fcba1b8c4c4498b860f446482a3229019&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-16T18:37:58Z",
-      "Content": "Las monedas y billetes cambian a lo largo de los años. Sin embargo, es gracias a sus características que ciertos ejemplares se convierten en verdaderas joyas para los coleccionistas. De esta manera, … [+3483 chars]"
     }
   ]
 }
