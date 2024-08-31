@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 76,
+  "TotalResults": 77,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Valeria López",
+      "Title": "Es viernes de quincena y el peso lo sabe: Se aprecia más de 1% ante el dólar",
+      "Description": "El dato de inflación en EU publicado este viernes parece 'sentenciar' que la Fed recortará la tasa de interés en septiembre.",
+      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/30/peso-dolar-precio-hoy-30-agosto-2024/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/8qRSEV6r2mPM91AIpJH3B8iuZm4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QPEAM6JDMFE2VABUYX5FPMQE4U.jpg",
+      "PublishedAt": "2024-08-30T16:09:14Z",
+      "Content": "El peso mexicano registra una buena apreciación en este viernes de quincena y anticipa una jornada de ganancias ante el dólar después de que la cifra de inflación en Estados Unidos fue mejor a la esp… [+2262 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mRvqKzZhl37Io7NbCXjG8qGD6WQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SHXWXWWAGZFRRICXSIYFVQVOIA.jpg",
       "PublishedAt": "2024-08-19T16:38:23Z",
       "Content": "El peso mexicano inicia la semana bursátil con una caída ante el dólar como parte de una corrección después de haber ligado dos semanas consecutivas de avances.\r\nLa depreciación del peso mexicano ant… [+1635 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este lunes 19 de agosto",
-      "Description": "Consulta la cotización del dólar frente al peso mexicano hoy, lunes 19 de agosto de 2024, y obtén un resumen completo de la situación económica en México. Mantente informado sobre las fluctuaciones del tipo de cambio.",
-      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-lunes-19-de-agosto-nid19082024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-08-19T14:27:21Z",
-      "Content": "Este lunes 19 de agosto, el precio del dólar en México es de $18,6228, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2474 chars]"
     }
   ]
 }
