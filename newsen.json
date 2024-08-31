@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 27,
+  "TotalResults": 24,
   "Articles": [
     {
       "Source": {
@@ -314,45 +314,6 @@
       "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
       "PublishedAt": "2024-07-31T04:06:05Z",
       "Content": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar\r\nTOKYO -- Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the y… [+34 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Reuters",
-      "Title": "Dollar trades sideways as markets wait for central bank, economic news",
-      "Description": "The dollar stayed stable with major central bank meetings and critical U.S. employment data on the horizon. The yen's rise was fueled by interest rate expectations, while the euro slipped. U.S. equities played a pivotal role amid uncertain market conditions. …",
-      "Url": "https://economictimes.indiatimes.com/markets/forex/dollar-trades-sideways-as-markets-wait-for-central-bank-economic-news/articleshow/112122562.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-112122582,width-1200,height-630,imgsize-110038,overlay-etmarkets/photo.jpg",
-      "PublishedAt": "2024-07-30T02:27:02Z",
-      "Content": "The dollar held steady on Monday as traders braced for an avalanche of market events featuring midweek policy decisions by the Federal Reserve, Bank of Japan and Bank of England, and what could be a … [+3860 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Hodl"
-      },
-      "Author": "Henry Kanapi",
-      "Title": "Billion-Dollar Bank Paying $44,000,000 Fine for Allegedly Freezing Customers’ Accounts, Charging Hidden Fees, Deceiving Customers",
-      "Description": "A Texas-based bank holding company is agreeing to pay $44 million to the Federal Reserve for a long list of alleged consumer protection violations. The Federal Reserve Board of Governors says it has taken enforcement action against Green Dot for engaging in n…",
-      "Url": "https://dailyhodl.com/2024/07/29/billion-dollar-bank-paying-44000000-fine-for-allegedly-freezing-customers-accounts-charging-hidden-fees-deceiving-customers/",
-      "UrlToImage": "https://dailyhodl.com/wp-content/uploads/2024/07/bank-freeze-account-.jpg",
-      "PublishedAt": "2024-07-29T19:18:57Z",
-      "Content": "A Texas-based bank holding company is agreeing to pay a $44 million fine to the Federal Reserve for a long list of alleged consumer protection violations.\r\nThe Federal Reserve Board of Governors says… [+2100 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Will Daniel",
-      "Title": "Trump says the dollar is too strong—but his policies may make it even stronger, bank strategist says",
-      "Description": "An immigration clamp down, aggressive tax cuts, and heavy tariffs could lift the U.S. dollar even as Trump tries to fight what he calls a \"currency problem.\"",
-      "Url": "https://fortune.com/2024/07/29/donald-trump-us-dollar-policies-immigration-tariffs-tax-cuts-inflation/",
-      "UrlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-2163362411-e1722262394218.jpg?resize=1200,600",
-      "PublishedAt": "2024-07-29T18:05:59Z",
-      "Content": "Former President Trump believes the U.S. dollar is now so strong that its interfering with American manufacturers attempts to sell goods abroad, but a Macquarie strategist said his policies will boos… [+4744 chars]"
     }
   ]
 }
