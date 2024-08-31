@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De dólar a peso mexicano hoy: a cuánto cotiza la moneda este viernes 30 de agosto",
+      "Description": "Aquí se puede consultar un resumen completo de la situación económica en México y el valor de la divisa en este viernes 30 de agosto de 2024",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-a-cuanto-cotiza-la-moneda-este-viernes-30-de-agosto-nid30082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-la-cotizacion-del-XPRRYMVQFVF7FJH7Z7XGPYQHMY.jpg?auth=23314b9637afb08c99381bcb16b2d4fc0b019532cfdc5db3b1988cad154feca5&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-30T14:24:01Z",
+      "Content": "Este viernes 30 de agosto, el precio del dólar en México es de $19,8168, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es d… [+2297 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/de-dolar-a-peso-mexicano-a-cuanto-cotiza-la-SRTAMUFC3ZHYHMKJZPNVGMRJEI.jpg?auth=18874366bf218e919386b53c0090e4b01bae32af3b432ddae7dc1f1ddf801305&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-19T14:27:21Z",
       "Content": "Este lunes 19 de agosto, el precio del dólar en México es de $18,6228, de acuerdo con el Diario Oficial de la Federación (DOF), mientras que el que se vende por las ventanillas del Citibanamex es de … [+2474 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "lectordigital",
-      "Title": "El \"real de ocho\" la moneda que fue modelo para el dólar estadounidense",
-      "Description": "Fue la primera divisa en globalizarse en la historia moderna y logró mantener su vigencia en países como China hasta finales de 1800.etiquetas: dolar, moneda mundial, real» noticia original (www.bbc.com)",
-      "Url": "https://www.meneame.net/m/cultura/real-ocho-moneda-fue-modelo-dolar-estadounidense",
-      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
-      "PublishedAt": "2024-08-17T13:32:17Z",
-      "Content": "Que triste que tenga que ser la BBC quién venga a instruirnos."
     }
   ]
 }
