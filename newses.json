@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Pagan más de US$278 mil por esta moneda de 10 centavos de dólar: así luce un Mercury Dime",
+      "Description": "Un Mercury Dime de 10 centavos se vendió por más de $278.000 debido a un raro detalle en su diseño. Descubre cómo luce esta moneda y aprende a identificar posibles estafas según el Servicio de Clasificación Profesional de Monedas.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/pagan-mas-de-us278-mil-por-esta-moneda-de-10-centavos-de-dolar-asi-luce-un-mercury-dime-nid30082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/asi-se-ve-la-moneda-1919-d-de-diez-centavos-de-CXJIC6FIQFCVXD3PFUWK6JMMUQ.jpg?auth=7cdfc658b72af74dfa38e8a8ecb6b3dd335edb8ccfd6616966a6d9996dfeb92b&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-30T17:21:00Z",
+      "Content": "Entre los expertos y aficionados del apasionante universo de la numismática, la búsqueda de monedas raras y valiosas es una práctica recurrente. Algunas piezas, por contener un simple error de diseño… [+3012 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-banco-central-volvio-a-comprar-dolares-y-lleva-VFWM6JF45NC5JIXXYEKVX6ZYFI.JPG?auth=32dfae73bd8296792a7f5761ac875a002bb0155858b381ffca536c5b908acd90&width=768&quality=70&smart=false",
       "PublishedAt": "2024-08-19T21:35:09Z",
       "Content": "El Banco Central (BCRA) logró extender y dar nuevo impulso hoy a la racha compradora de reservas que lleva adelante desde hace nueve ruedas, al adquirir mediante intervenciones sobre el mercado cambi… [+2724 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Valeria López",
-      "Title": "Lunes de ‘alerta sísmica’ para el peso: Abre semana con pérdida de 12 centavos ante el dólar",
-      "Description": "La atención de los mercados se traslada a Jackson Hole, donde los inversionistas esperan que la Fed aclare si recortará la tasa en septiembre.",
-      "Url": "https://www.elfinanciero.com.mx/mercados/2024/08/19/peso-dolar-precio-hoy-19-de-agosto-de-2024/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mRvqKzZhl37Io7NbCXjG8qGD6WQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SHXWXWWAGZFRRICXSIYFVQVOIA.jpg",
-      "PublishedAt": "2024-08-19T16:38:23Z",
-      "Content": "El peso mexicano inicia la semana bursátil con una caída ante el dólar como parte de una corrección después de haber ligado dos semanas consecutivas de avances.\r\nLa depreciación del peso mexicano ant… [+1635 chars]"
     }
   ]
 }
