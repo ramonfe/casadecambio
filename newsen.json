@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 24,
+  "TotalResults": 25,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETF Daily News"
+      },
+      "Author": "MarketBeat News",
+      "Title": "UMB Bank n.a. Increases Stake in Dollar Tree, Inc. (NASDAQ:DLTR)",
+      "Description": "UMB Bank n.a. boosted its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 52.0% during the second quarter, Holdings Channel.com reports. The firm owned 535 shares of the company’s stock after buying an additional 183 shares during the period. UMB Ba…",
+      "Url": "https://www.etfdailynews.com/2024/08/31/umb-bank-n-a-increases-stake-in-dollar-tree-inc-nasdaqdltr/",
+      "UrlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/dollar-tree-inc-logo-1200x675.jpg?v=20240202151255&w=240&h=240&zc=2",
+      "PublishedAt": "2024-08-31T12:35:29Z",
+      "Content": "UMB Bank n.a. boosted its stake in Dollar Tree, Inc. (NASDAQ:DLTR – Free Report) by 52.0% during the second quarter, Holdings Channel.com reports. The firm owned 535 shares of the company’s stock aft… [+5279 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
