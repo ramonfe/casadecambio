@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 25,
+  "TotalResults": 16,
   "Articles": [
     {
       "Source": {
@@ -210,123 +210,6 @@
       "UrlToImage": null,
       "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TMZ"
-      },
-      "Author": "TMZ Staff",
-      "Title": "Mark Curry Vouches For Tyler Perry's Comedy, Billion-Dollar Bank Account",
-      "Description": "Tyler Perry recently fended off critics of his low-rated new film -- but Mark Curry says he need not argue with these folks ... 'cause the man's legacy and earnings speak for themself. We caught up with the veteran comedian out in NYC this week --…",
-      "Url": "https://www.tmz.com/2024/07/31/mark-curry-supports-tyler-perry-divorce-movie/",
-      "UrlToImage": "https://imagez.tmz.com/image/25/16by9/2024/07/31/2539c9bda65d410693fc9e61ae53e044_xl.jpg",
-      "PublishedAt": "2024-07-31T21:23:24Z",
-      "Content": "Tyler Perry recently fended off critics of his low-rated new film -- but Mark Curry says he need not argue with these folks ... 'cause the man's legacy and earnings speak for themself.\r\nWe caught up … [+1336 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Finextra"
-      },
-      "Author": "Editorial Team",
-      "Title": "RBC embarks on multi-million dollar programme to reduce carbon emmissions at bank branches",
-      "Description": "While you may not see it, your local RBC bank branch is working towards being powered differently in the coming years.",
-      "Url": "https://www.finextra.com/pressarticle/101730/rbc-embarks-on-multi-million-dollar-programme-to-reduce-carbon-emmissions-at-bank-branches",
-      "UrlToImage": "https://www.finextra.com/about/finextra-logo.png",
-      "PublishedAt": "2024-07-31T10:37:30Z",
-      "Content": "While you may not see it, your local RBC bank branch is working towards being powered differently in the coming years.\r\nA multi-million-dollar plan to retrofit RBC's Canadian 1,200 branch network aim… [+4494 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Japan Today"
-      },
-      "Author": null,
-      "Title": "Bank of Japan raises its key interest rate, aiming to curb yen's slide against the dollar",
-      "Description": "The Bank of Japan raised its key interest rate Wednesday to about .25% from zero to about 0.1%, acting to curb the yen’s slide against the U.S. dollar. The move was widely expected, and the yen gained sharply against the dollar ahead of Wednesday’s decision, …",
-      "Url": "https://japantoday.com/category/business/bank-of-japan-raises-its-key-interest-rate-aiming-to-curb-yen%27s-slide-against-the-dollar",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-31T04:32:33Z",
-      "Content": "The Bank of Japan raised its key interest rate Wednesday to about .25% from zero to about 0.1%, acting to curb the yens slide against the U.S. dollar.\r\nThe move was widely expected, and the yen gaine… [+1960 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "The Associated Press",
-      "Title": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
-      "Description": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
-      "Url": "https://abcnews.go.com/International/wireStory/japans-central-bank-raises-benchmark-rate-025-aiming-112427835",
-      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "PublishedAt": "2024-07-31T04:21:59Z",
-      "Content": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar\r\nTOKYO -- Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the y… [+34 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "The Associated Press",
-      "Title": "Bank of Japan raises its key interest rate, aiming to curb yen's slide against the dollar",
-      "Description": "The Bank of Japan has raised its key interest rate to",
-      "Url": "https://abcnews.go.com/Business/wireStory/bank-japan-raises-key-interest-rate-aiming-curb-112428182",
-      "UrlToImage": "https://i.abcnewsfe.com/a/0bc42b9d-dbd2-498c-8093-79c6e9b52399/wirestory_e00919b053412fabf7a800ed78a9ad7a_16x9.jpg?w=1600",
-      "PublishedAt": "2024-07-31T04:21:58Z",
-      "Content": "TOKYO -- The Bank of Japan raised its key interest rate Wednesday to about .25% from zero to about 0.1%, acting to curb the yens slide against the U.S. dollar. \r\nThe move was widely expected, and the… [+1836 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "The Associated Press",
-      "Title": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
-      "Description": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
-      "Url": "https://abcnews.go.com/US/wireStory/japans-central-bank-raises-benchmark-rate-025-aiming-112427813",
-      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "PublishedAt": "2024-07-31T04:13:47Z",
-      "Content": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar\r\nTOKYO -- Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the y… [+34 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": null,
-      "Title": "Bank of Japan raises its key interest rate, aiming to curb yen's slide against the dollar",
-      "Description": null,
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56d94868-3eb7-4740-968f-c0add57383fb",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-31T04:06:32Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "The Associated Press",
-      "Title": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
-      "Description": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar",
-      "Url": "https://abcnews.go.com/Business/wireStory/japans-central-bank-raises-benchmark-rate-025-aiming-112427872",
-      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "PublishedAt": "2024-07-31T04:06:05Z",
-      "Content": "Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the yen's slide against the U.S. dollar\r\nTOKYO -- Japan's central bank raises its benchmark rate to 0.25%, aiming to halt the y… [+34 chars]"
     }
   ]
 }
